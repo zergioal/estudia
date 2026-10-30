@@ -1,4 +1,8 @@
+import os from 'node:os';
+import path from 'node:path';
 import { defineConfig } from 'vitest/config';
+
+const dirTemporal = path.join(os.tmpdir(), 'estudia-tests');
 
 const urlTest = process.env.DATABASE_URL_TEST;
 if (!urlTest) throw new Error('Define DATABASE_URL_TEST en .env para correr los tests');
@@ -15,6 +19,9 @@ export default defineConfig({
     env: {
       DATABASE_URL: urlTest,
       JWT_SECRET: 'secreto-de-tests',
+      COLA_MODO: 'inline',
+      STORAGE_DIR: path.join(dirTemporal, 'storage'),
+      FUENTES_DIR: path.join(dirTemporal, 'fuentes'),
     },
     testTimeout: 20_000,
     hookTimeout: 60_000,

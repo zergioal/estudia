@@ -45,6 +45,9 @@ export const manejadorErrores: ErrorRequestHandler = (err, _req, res, _next) => 
       status = 409;
       cuerpo = { error: { codigo: 'CONFLICTO', mensaje: 'Ya existe un registro con ese valor', detalles: err.meta } };
     }
+  } else if (err?.name === 'MulterError') {
+    status = err.code === 'LIMIT_FILE_SIZE' ? 413 : 400;
+    cuerpo = { error: { codigo: 'ARCHIVO_INVALIDO', mensaje: err.code === 'LIMIT_FILE_SIZE' ? 'El archivo es demasiado grande' : err.message } };
   } else if (err?.type === 'entity.parse.failed') {
     status = 400;
     cuerpo = { error: { codigo: 'JSON_INVALIDO', mensaje: 'El cuerpo no es JSON válido' } };

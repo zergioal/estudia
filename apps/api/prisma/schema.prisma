@@ -77,6 +77,7 @@ model Contenido {
   coleccionId String
   coleccion   Coleccion   @relation(fields: [coleccionId], references: [id])
   titulo      String      @unique
+  clave       String?     @unique // prefijo de Fragmento.ref y carpeta en fuentes/, ej. "ley070"
   tipoFuente  String // LEY, DECRETO, RM, LIBRO, GUIA
   publicado   Boolean     @default(false)
   temas       Tema[]
@@ -102,15 +103,36 @@ model Tema {
 }
 
 model Documento {
-  id          String      @id @default(cuid())
-  contenidoId String
-  contenido   Contenido   @relation(fields: [contenidoId], references: [id])
-  archivoUrl  String
-  hash        String      @unique // evita subir el mismo PDF dos veces
-  estado      String // SUBIDO, EXTRAIDO, FRAGMENTADO, ERROR
-  paginas     Int?
-  fragmentos  Fragmento[]
-  creadoEn    DateTime    @default(now())
+  id            String      @id @default(cuid())
+  contenidoId   String
+  contenido     Contenido   @relation(fields: [contenidoId], references: [id])
+  nombreArchivo String
+  archivoUrl    String // ruta relativa dentro de STORAGE_DIR
+  hash          String      @unique // evita subir el mismo PDF dos veces
+  estado        String // SUBIDO, PROCESANDO, EXTRAIDO, FRAGMENTADO, ERROR
+  error         String?
+  paginas       Int?
+  paginasOcr    Int         @default(0)
+  modo          String? // NORMATIVA (por artículos) o LIBRO (por bloques)
+  fragmentos    Fragmento[]
+  textos        Pagina[]
+  creadoEn      DateTime    @default(now())
+  procesadoEn   DateTime?
+
+  @@index([contenidoId])
+}
+
+/// Texto extraído de cada página; permite re-fragmentar sin repetir el OCR.
+model Pagina {
+  id          String    @id @default(cuid())
+  documentoId String
+  documento   Documento @relation(fields: [documentoId], references: [id], onDelete: Cascade)
+  numero      Int
+  texto       String
+  ocr         Boolean   @default(false)
+  confianza   Float?
+
+  @@unique([documentoId, numero])
 }
 
 model Fragmento {
@@ -121,11 +143,16 @@ model Fragmento {
   temaId      String?
   tema        Tema?                        @relation(fields: [temaId], references: [id])
   etiqueta    String // "Art. 5", "Cap. III"
+  orden       Int                          @default(0)
   texto       String
+  palabras    Int                          @default(0)
   paginaDesde Int
   paginaHasta Int
   embedding   Unsupported("vector(1024)")?
   preguntas   Pregunta[]
+
+  @@index([documentoId, orden])
+  @@index([temaId])
 }
 
 model Pregunta {

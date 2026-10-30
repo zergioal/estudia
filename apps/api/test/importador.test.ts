@@ -124,7 +124,7 @@ describe('POST /api/v1/admin/preguntas/importar', () => {
       data: { titulo: 'Ley 070', tipoFuente: 'LEY', coleccion: { create: { nombre: 'Ascenso 2027' } } },
     });
     const documento = await prisma.documento.create({
-      data: { contenidoId: contenido.id, archivoUrl: 'ley070.pdf', hash: 'abc', estado: 'FRAGMENTADO' },
+      data: { contenidoId: contenido.id, nombreArchivo: 'ley070.pdf', archivoUrl: 'ley070.pdf', hash: 'abc', estado: 'FRAGMENTADO' },
     });
     await prisma.fragmento.create({
       data: {
