@@ -1,0 +1,84 @@
+{
+  "contenido": "Ley 070",
+  "tema": "Título I - Capítulo I",
+  "fragmentoRef": "ley070-art01",
+  "preguntas": [
+    {
+      "tipo": "OPCION_MULTIPLE",
+      "dificultad": "FACIL",
+      "nivelBloom": "RECORDAR",
+      "enunciado": "Según la Ley 070, ¿hasta qué nivel es obligatoria la educación?",
+      "opciones": [
+        { "texto": "Hasta el bachillerato", "correcta": true, "porQue": "El Art. 1 establece que la educación es obligatoria hasta el bachillerato." },
+        { "texto": "Hasta concluir la educación primaria", "correcta": false, "porQue": "La obligatoriedad no se limita a primaria; llega hasta el bachillerato." },
+        { "texto": "Hasta la educación superior", "correcta": false, "porQue": "Confunde obligatoriedad con gratuidad: lo que llega hasta el nivel superior es la gratuidad de la educación fiscal." },
+        { "texto": "Hasta los 14 años de edad", "correcta": false, "porQue": "La ley no fija la obligatoriedad por edad, sino por nivel (bachillerato)." }
+      ],
+      "explicacion": "El Art. 1 de la Ley 070, que recoge los mandatos constitucionales de la educación, señala que la educación es obligatoria hasta el bachillerato.",
+      "citaTextual": "La educación es obligatoria hasta el bachillerato.",
+      "referencia": "Ley 070, Art. 1, num. 8",
+      "etiquetas": ["mandatos constitucionales", "obligatoriedad"]
+    },
+    {
+      "tipo": "VERDADERO_FALSO",
+      "dificultad": "MEDIA",
+      "nivelBloom": "RECORDAR",
+      "enunciado": "Según la Ley 070, la educación fiscal es gratuita únicamente hasta el bachillerato.",
+      "opciones": [
+        { "texto": "Verdadero", "correcta": false, "porQue": "Confunde la gratuidad con la obligatoriedad, que sí llega hasta el bachillerato." },
+        { "texto": "Falso", "correcta": true, "porQue": "La educación fiscal es gratuita en todos sus niveles hasta el superior." }
+      ],
+      "explicacion": "La obligatoriedad llega hasta el bachillerato, pero la gratuidad de la educación fiscal abarca todos los niveles hasta el superior.",
+      "citaTextual": "La educación fiscal es gratuita en todos sus niveles hasta el superior.",
+      "referencia": "Ley 070, Art. 1, num. 9",
+      "etiquetas": ["mandatos constitucionales", "gratuidad"]
+    },
+    {
+      "tipo": "OPCION_MULTIPLE",
+      "dificultad": "MEDIA",
+      "nivelBloom": "COMPRENDER",
+      "enunciado": "¿Qué lugar le asigna la Ley 070 a la educación dentro de las responsabilidades del Estado?",
+      "opciones": [
+        { "texto": "Es una función suprema y primera responsabilidad financiera del Estado", "correcta": true, "porQue": "Así lo establece textualmente el Art. 1." },
+        { "texto": "Es una función subsidiaria del Estado frente a la iniciativa privada", "correcta": false, "porQue": "La ley asigna al Estado la obligación indeclinable de sostenerla, no un rol subsidiario." },
+        { "texto": "Es una responsabilidad compartida en partes iguales entre el Estado y las familias", "correcta": false, "porQue": "La ley la define como primera responsabilidad financiera del Estado, no como un costo compartido." },
+        { "texto": "Es una competencia exclusiva de las entidades territoriales autónomas", "correcta": false, "porQue": "El Art. 1 atribuye la responsabilidad al Estado, que debe sostenerla, garantizarla y gestionarla." }
+      ],
+      "explicacion": "El Art. 1 dice que la educación es función suprema y primera responsabilidad financiera del Estado, que tiene la obligación indeclinable de sostenerla, garantizarla y gestionarla.",
+      "citaTextual": "La educación constituye una función suprema y primera responsabilidad financiera del Estado, que tiene la obligación indeclinable de sostenerla, garantizarla y gestionarla.",
+      "referencia": "Ley 070, Art. 1, num. 2",
+      "etiquetas": ["mandatos constitucionales", "rol del Estado"]
+    },
+    {
+      "tipo": "SELECCION_MULTIPLE",
+      "dificultad": "MEDIA",
+      "nivelBloom": "RECORDAR",
+      "enunciado": "Según el Art. 1 de la Ley 070, ¿cuáles de las siguientes características tiene el derecho de toda persona a recibir educación? (Marca todas las correctas)",
+      "opciones": [
+        { "texto": "Universal", "correcta": true, "porQue": "El Art. 1 la menciona expresamente." },
+        { "texto": "Gratuita", "correcta": true, "porQue": "El Art. 1 la menciona expresamente." },
+        { "texto": "Intercultural", "correcta": true, "porQue": "El Art. 1 la menciona expresamente." },
+        { "texto": "Selectiva", "correcta": false, "porQue": "Contradice el carácter universal y sin discriminación del derecho." },
+        { "texto": "Confesional", "correcta": false, "porQue": "No figura en el Art. 1; la ley no define la educación como confesional." }
+      ],
+      "explicacion": "El Art. 1 establece que toda persona tiene derecho a recibir educación en todos los niveles de manera universal, productiva, gratuita, integral e intercultural, sin discriminación.",
+      "citaTextual": "Toda persona tiene derecho a recibir educación en todos los niveles de manera universal, productiva, gratuita, integral e intercultural, sin discriminación.",
+      "referencia": "Ley 070, Art. 1, num. 1",
+      "etiquetas": ["mandatos constitucionales", "derecho a la educación"]
+    },
+    {
+      "tipo": "COMPLETAR",
+      "dificultad": "FACIL",
+      "nivelBloom": "RECORDAR",
+      "enunciado": "Completa: Según la Ley 070, la educación es intracultural, intercultural y ________ en todo el sistema educativo.",
+      "opciones": [
+        { "texto": "plurilingüe", "correcta": true, "porQue": "Es el término que usa el Art. 1." },
+        { "texto": "plurilingue", "correcta": true, "porQue": "Se acepta sin diéresis." }
+      ],
+      "explicacion": "El Art. 1 define la educación como intracultural, intercultural y plurilingüe en todo el sistema educativo.",
+      "citaTextual": "La educación es intracultural, intercultural y plurilingüe en todo el sistema educativo.",
+      "referencia": "Ley 070, Art. 1, num. 6",
+      "etiquetas": ["mandatos constitucionales", "plurilingüismo"]
+    }
+  ]
+}
