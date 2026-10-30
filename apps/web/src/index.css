@@ -1,0 +1,28 @@
+@import 'tailwindcss';
+
+@layer components {
+  .btn-primario,
+  .btn-secundario,
+  .btn-peligro,
+  .btn-exito {
+    @apply inline-flex cursor-pointer items-center justify-center gap-1 rounded-lg px-3 py-2 text-sm font-medium transition disabled:cursor-not-allowed disabled:opacity-50;
+  }
+  .btn-primario {
+    @apply bg-indigo-600 text-white hover:bg-indigo-700;
+  }
+  .btn-secundario {
+    @apply border border-slate-300 bg-white text-slate-700 hover:bg-slate-100;
+  }
+  .btn-peligro {
+    @apply border border-red-200 bg-white text-red-700 hover:bg-red-50;
+  }
+  .btn-exito {
+    @apply bg-emerald-600 text-white hover:bg-emerald-700;
+  }
+  .campo {
+    @apply w-full rounded-lg border border-slate-300 bg-white px-3 py-2 text-sm outline-none focus:border-indigo-500 focus:ring-2 focus:ring-indigo-200;
+  }
+  .etiqueta {
+    @apply mb-1 block text-sm font-medium text-slate-700;
+  }
+}
