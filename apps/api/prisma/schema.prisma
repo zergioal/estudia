@@ -1,0 +1,226 @@
+generator client {
+  provider        = "prisma-client-js"
+  previewFeatures = ["postgresqlExtensions"]
+}
+
+datasource db {
+  provider   = "postgresql"
+  url        = env("DATABASE_URL")
+  extensions = [vector]
+}
+
+enum Rol {
+  ADMIN
+  REVISOR
+  ESTUDIANTE
+}
+
+enum Dificultad {
+  FACIL
+  MEDIA
+  DIFICIL
+}
+
+enum TipoPregunta {
+  OPCION_MULTIPLE
+  VERDADERO_FALSO
+  SELECCION_MULTIPLE
+  COMPLETAR
+  ORDENAR
+  CASO
+}
+
+enum EstadoPregunta {
+  BORRADOR
+  VALIDADA
+  APROBADA
+  DESCARTADA
+  DUPLICADA
+  EN_REVISION
+}
+
+enum ModoQuiz {
+  PRACTICA
+  EXAMEN
+  REPASO_ERRORES
+  SIMULACRO
+  REPASO_DIARIO
+}
+
+model Usuario {
+  id            String          @id @default(cuid())
+  usuario       String          @unique
+  nombre        String
+  passwordHash  String
+  rol           Rol             @default(ESTUDIANTE)
+  xpTotal       Int             @default(0)
+  rachaDias     Int             @default(0)
+  ultimoEstudio DateTime?
+  activo        Boolean         @default(true)
+  intentos      Intento[]
+  estados       EstadoEstudio[]
+  asignaciones  Asignacion[]
+  creadoEn      DateTime        @default(now())
+}
+
+model Coleccion {
+  id           String       @id @default(cuid())
+  nombre       String       @unique
+  descripcion  String?
+  contenidos   Contenido[]
+  asignaciones Asignacion[]
+  creadoEn     DateTime     @default(now())
+}
+
+model Contenido {
+  id          String      @id @default(cuid())
+  coleccionId String
+  coleccion   Coleccion   @relation(fields: [coleccionId], references: [id])
+  titulo      String      @unique
+  tipoFuente  String // LEY, DECRETO, RM, LIBRO, GUIA
+  publicado   Boolean     @default(false)
+  temas       Tema[]
+  documentos  Documento[]
+  creadoEn    DateTime    @default(now())
+
+  @@index([coleccionId])
+}
+
+model Tema {
+  id          String      @id @default(cuid())
+  contenidoId String
+  contenido   Contenido   @relation(fields: [contenidoId], references: [id])
+  padreId     String?
+  padre       Tema?       @relation("Jerarquia", fields: [padreId], references: [id])
+  hijos       Tema[]      @relation("Jerarquia")
+  nombre      String
+  orden       Int         @default(0)
+  fragmentos  Fragmento[]
+  preguntas   Pregunta[]
+
+  @@index([contenidoId, padreId])
+}
+
+model Documento {
+  id          String      @id @default(cuid())
+  contenidoId String
+  contenido   Contenido   @relation(fields: [contenidoId], references: [id])
+  archivoUrl  String
+  hash        String      @unique // evita subir el mismo PDF dos veces
+  estado      String // SUBIDO, EXTRAIDO, FRAGMENTADO, ERROR
+  paginas     Int?
+  fragmentos  Fragmento[]
+  creadoEn    DateTime    @default(now())
+}
+
+model Fragmento {
+  id          String                       @id @default(cuid())
+  ref         String?                      @unique // ej. "ley070-art05": coincide con fragmentoRef del JSON y con fuentes/<contenido>/<ref>.md
+  documentoId String
+  documento   Documento                    @relation(fields: [documentoId], references: [id])
+  temaId      String?
+  tema        Tema?                        @relation(fields: [temaId], references: [id])
+  etiqueta    String // "Art. 5", "Cap. III"
+  texto       String
+  paginaDesde Int
+  paginaHasta Int
+  embedding   Unsupported("vector(1024)")?
+  preguntas   Pregunta[]
+}
+
+model Pregunta {
+  id              String                       @id @default(cuid())
+  temaId          String
+  tema            Tema                         @relation(fields: [temaId], references: [id])
+  fragmentoId     String?
+  fragmento       Fragmento?                   @relation(fields: [fragmentoId], references: [id])
+  fragmentoRef    String? // referencia del JSON aunque el fragmento aún no exista en la BD
+  tipo            TipoPregunta
+  dificultad      Dificultad
+  nivelBloom      String
+  enunciado       String
+  explicacion     String
+  citaTextual     String
+  referencia      String
+  etiquetas       String[]
+  estado          EstadoPregunta               @default(BORRADOR)
+  origen          String // CLAUDE_CODE, MCP, API, MANUAL
+  trabajoId       String?
+  vecesRespondida Int                          @default(0)
+  vecesAcertada   Int                          @default(0)
+  embedding       Unsupported("vector(1024)")?
+  opciones        Opcion[]
+  respuestas      Respuesta[]
+  estados         EstadoEstudio[]
+  creadoEn        DateTime                     @default(now())
+  actualizadoEn   DateTime                     @updatedAt
+
+  @@index([temaId, estado, dificultad])
+  @@index([estado])
+}
+
+model Opcion {
+  id         String   @id @default(cuid())
+  preguntaId String
+  pregunta   Pregunta @relation(fields: [preguntaId], references: [id], onDelete: Cascade)
+  texto      String
+  correcta   Boolean
+  porQue     String?
+  orden      Int
+
+  @@index([preguntaId])
+}
+
+model Intento {
+  id           String      @id @default(cuid())
+  usuarioId    String
+  usuario      Usuario     @relation(fields: [usuarioId], references: [id])
+  modo         ModoQuiz
+  filtros      Json // contenidos, temas, dificultad
+  cantidad     Int
+  puntaje      Int         @default(0)
+  aciertos     Int         @default(0)
+  iniciadoEn   DateTime    @default(now())
+  finalizadoEn DateTime?
+  respuestas   Respuesta[]
+}
+
+model Respuesta {
+  id               String   @id @default(cuid())
+  intentoId        String
+  intento          Intento  @relation(fields: [intentoId], references: [id])
+  preguntaId       String
+  pregunta         Pregunta @relation(fields: [preguntaId], references: [id])
+  orden            Int
+  opcionesElegidas String[]
+  correcta         Boolean?
+  segundos         Int?
+  confianza        Int? // 1 = adiviné, 2 = dudé, 3 = seguro
+
+  @@unique([intentoId, preguntaId])
+}
+
+model EstadoEstudio {
+  usuarioId       String
+  preguntaId      String
+  usuario         Usuario   @relation(fields: [usuarioId], references: [id])
+  pregunta        Pregunta  @relation(fields: [preguntaId], references: [id])
+  aciertos        Int       @default(0)
+  fallos          Int       @default(0)
+  facilidad       Float     @default(2.5)
+  intervaloDias   Int       @default(0)
+  proximaRevision DateTime  @default(now())
+  ultimaRespuesta DateTime?
+
+  @@id([usuarioId, preguntaId])
+  @@index([usuarioId, proximaRevision])
+}
+
+model Asignacion {
+  id          String    @id @default(cuid())
+  usuarioId   String
+  usuario     Usuario   @relation(fields: [usuarioId], references: [id])
+  coleccionId String
+  coleccion   Coleccion @relation(fields: [coleccionId], references: [id])
+  venceEn     DateTime?
+}

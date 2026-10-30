@@ -1,0 +1,40 @@
+{
+  "name": "@estudia/api",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "dotenv -e ../../.env -- tsx watch src/server.ts",
+    "start": "dotenv -e ../../.env -- tsx src/server.ts",
+    "test": "dotenv -e ../../.env -- vitest run",
+    "test:watch": "dotenv -e ../../.env -- vitest",
+    "typecheck": "tsc --noEmit",
+    "db:migrate": "dotenv -e ../../.env -- prisma migrate dev",
+    "db:deploy": "dotenv -e ../../.env -- prisma migrate deploy",
+    "db:seed": "dotenv -e ../../.env -- tsx prisma/seed.ts",
+    "db:studio": "dotenv -e ../../.env -- prisma studio",
+    "importar": "dotenv -e ../../.env -- tsx scripts/importar.ts",
+    "postinstall": "prisma generate"
+  },
+  "dependencies": {
+    "@estudia/shared": "*",
+    "@prisma/client": "6.19.3",
+    "bcryptjs": "^3.0.2",
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "zod": "^4.1.0"
+  },
+  "devDependencies": {
+    "@types/cors": "^2.8.17",
+    "@types/express": "^5.0.0",
+    "@types/jsonwebtoken": "^9.0.7",
+    "@types/node": "^22.10.0",
+    "@types/supertest": "^6.0.2",
+    "dotenv-cli": "^8.0.0",
+    "prisma": "6.19.3",
+    "supertest": "^7.1.0",
+    "tsx": "^4.19.0",
+    "vitest": "^5.0.5"
+  }
+}
