@@ -46,6 +46,7 @@ y ejecuta `wsl --shutdown` una vez.
 | `npm run db:migrate` | `prisma migrate dev` (crea/aplica migraciones) |
 | `npm run db:seed` | Crea o actualiza el usuario ADMIN de `.env` |
 | `npm run importar -- <archivo.json>` | Importa un lote de preguntas en estado BORRADOR |
+| `npm run ingestar -- <carpeta\|archivo.pdf>` | Extrae (con OCR), fragmenta y exporta PDFs a `fuentes/<clave>/` |
 
 ## Estructura
 
@@ -54,10 +55,11 @@ apps/api        Express + Prisma (src/modulos/<modulo>/{rutas,servicio,esquemas}
 apps/web        React + Vite + Tailwind + TanStack Query
 packages/shared Enums y esquemas Zod compartidos (contrato JSON de preguntas)
 importar/       Lotes JSON para importar (ejemplo.json)
-fuentes/        Fragmentos .md para generar preguntas (Hito 3)
+fuentes/        PDFs originales (no versionados) + manifiesto.json, y fragmentos exportados en fuentes/<clave>/*.md
+storage/        PDFs subidos y caché del OCR (no versionado)
 ```
 
-## API (Hitos 0–1)
+## API
 
 Todas bajo `/api/v1`. Errores: `{ error: { codigo, mensaje, detalles? } }`.
 
@@ -71,3 +73,14 @@ Todas bajo `/api/v1`. Errores: `{ error: { codigo, mensaje, detalles? } }`.
 | GET | `/admin/revision?estado=&contenidoId=&temaId=&pagina=&porPagina=` | ADMIN, REVISOR |
 | GET · PATCH | `/admin/preguntas/:id` | ADMIN, REVISOR |
 | POST | `/admin/preguntas/aprobar-lote` | ADMIN |
+| POST | `/admin/documentos` (multipart: `archivo`, `contenidoId`, `ocr`) | ADMIN |
+| GET | `/admin/documentos[?contenidoId=]`, `/admin/documentos/:id` | ADMIN |
+| POST | `/admin/documentos/:id/procesar` (re-extraer), `/admin/documentos/:id/fragmentar` (rehacer cortes) | ADMIN |
+| DELETE | `/admin/documentos/:id` | ADMIN |
+| POST | `/admin/contenidos/:id/exportar` | ADMIN |
+
+## Ingesta de PDF
+
+El procesamiento corre en una cola `pg-boss` dentro de la API. El OCR (tesseract.js, español) descarga sus
+datos de idioma la primera vez a `storage/tessdata/` (requiere internet). Variables opcionales en `.env`:
+`STORAGE_DIR`, `FUENTES_DIR`, `MAX_MB_PDF` (100 por defecto), `COLA_MODO=inline` (procesa sin cola).

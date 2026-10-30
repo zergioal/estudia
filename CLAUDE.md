@@ -67,18 +67,30 @@ Reglas: exactamente 1 correcta en OPCION_MULTIPLE (4 opciones), al menos 1 en SE
 VERDADERO_FALSO 2 opciones con 1 correcta, CASO 1 correcta, COMPLETAR ≥1 respuesta aceptada, ORDENAR en orden correcto;
 `citaTextual` debe aparecer literalmente en el fragmento fuente cuando el fragmento exista.
 
+## Fuentes (ingesta de PDF)
+- PDFs originales en `fuentes/<carpeta>/...` (ignorados por git) con `manifiesto.json` (título, tipoFuente, clave).
+  `npm run ingestar -- fuentes/<carpeta>` registra, extrae (OCR `spa` si la página no tiene texto), fragmenta y exporta.
+  Opciones: `--solo <texto>`, `--reprocesar`, `--sin-ocr`. También se puede subir desde la pantalla Documentos.
+- Exportación: `fuentes/<clave>/<ref>.md` + `fuentes/<clave>/_indice.md`. Refs: `<clave>-art05`, `-dt01` (disp.
+  transitoria), `-df01`, `-pre` (preámbulo/considerandos), `-reg-art01` (reglamento anexo de una RM), `-b001` (bloque de
+  libro), `-art05-2` (parte de un artículo largo). Páginas = número de página del PDF.
+- Normativa → un fragmento por artículo con temas Parte/Reglamento › Título › Capítulo › Sección › Subsección.
+  Libros/guías → bloques de ~900 palabras con temas por rango de 20 páginas.
+
 ## Generar preguntas (cuando el usuario lo pida en esta sesión)
-1. Leer el fragmento en `fuentes/<contenido>/<fragmento>.md`.
+1. Leer `fuentes/<clave>/_indice.md` para ubicar los fragmentos y luego `fuentes/<clave>/<ref>.md`.
 2. Generar las preguntas pedidas siguiendo el contrato; distractores plausibles basados en confusiones
    reales (artículos vecinos, plazos o cifras cambiadas, normas parecidas). Nada inventado fuera del fragmento.
-3. Guardar en `importar/<contenido>-<fragmento>-<fecha>.json`.
+   Usar EXACTAMENTE `contenido`, `tema` y `fragmentoRef` del encabezado del .md (así cae en el tema correcto y se
+   verifica la cita). `citaTextual` copiada literal del texto; `referencia` con artículo y página del encabezado.
+3. Guardar en `importar/<clave>-<ref>-<fecha>.json`.
 4. Ejecutar `npm run importar -- <archivo>` (desde la raíz) y reportar cuántas se importaron, rechazaron o quedaron como duplicadas.
 
 ## Hoja de ruta (marcar al completar)
 - [x] Hito 0 — Base: monorepo, Docker (pgvector), Prisma con esquema núcleo, seed de admin, login
 - [x] Hito 1 — Banco e importador: CRUD Colección/Contenido/Tema, importador JSON con Zod, bandeja de revisión
 - [ ] Hito 2 — Quiz mínimo: crear quiz por filtros y cantidad (10/20/50/100), modo Práctica, resumen, XP
-- [ ] Hito 3 — Ingesta PDF: extracción por página, OCR, fragmentación por artículos, exportar a `fuentes/`
+- [x] Hito 3 — Ingesta PDF: extracción por página, OCR, fragmentación por artículos, exportar a `fuentes/`
 - [ ] Hito 4 — Repetición espaciada con confianza, repaso del día, cuaderno de errores, dominio por tema
 - [ ] Hito 5 — Embeddings, deduplicación, validador automático, estadísticas de preguntas
 - [ ] Hito 6 — Servidor MCP (listar_fragmentos, guardar_preguntas, ver_estadisticas)
