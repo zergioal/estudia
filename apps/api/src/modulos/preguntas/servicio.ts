@@ -1,7 +1,7 @@
 import type { Prisma } from '@prisma/client';
 import { prisma } from '../../db';
 import { ErrorApp, conflicto, issuesZod, noEncontrado } from '../../errores';
-import { siguienteOrden } from '../contenidos/servicio';
+import { SEPARADOR_TEMA, asegurarRutaTema } from '../contenidos/servicio';
 import {
   loteImportacionSchema,
   opcionesSchemaPara,
@@ -143,26 +143,9 @@ async function obtenerOCrearContenido(tx: Prisma.TransactionClient, titulo: stri
 
 /** "Título I - Capítulo II" → Título I › Capítulo II, creando los niveles que falten. */
 async function obtenerOCrearRutaTema(tx: Prisma.TransactionClient, contenidoId: string, ruta: string) {
-  const niveles = ruta.split(' - ').map((n) => n.trim()).filter(Boolean);
-  let padreId: string | null = null;
-  for (const nombre of niveles) {
-    const existente: { id: string } | null = await tx.tema.findFirst({
-      where: { contenidoId, padreId, nombre },
-      select: { id: true },
-    });
-    if (existente) {
-      padreId = existente.id;
-    } else {
-      const orden = await siguienteOrden(tx, contenidoId, padreId);
-      const creado: { id: string } = await tx.tema.create({
-        data: { contenidoId, padreId, nombre, orden },
-        select: { id: true },
-      });
-      padreId = creado.id;
-    }
-  }
-  if (!padreId) throw new ErrorApp(400, 'LOTE_INVALIDO', 'El campo "tema" está vacío');
-  return padreId;
+  const temaId = await asegurarRutaTema(tx, contenidoId, ruta.split(SEPARADOR_TEMA));
+  if (!temaId) throw new ErrorApp(400, 'LOTE_INVALIDO', 'El campo "tema" está vacío');
+  return temaId;
 }
 
 // ---------- Revisión ----------

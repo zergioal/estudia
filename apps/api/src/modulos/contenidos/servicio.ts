@@ -186,3 +186,28 @@ export async function siguienteOrden(db: Cliente, contenidoId: string, padreId: 
   const max = await db.tema.aggregate({ where: { contenidoId, padreId }, _max: { orden: true } });
   return (max._max.orden ?? -1) + 1;
 }
+
+/** Separador de niveles de tema en el contrato JSON y en fuentes/*.md: "Título I - Capítulo II". */
+export const SEPARADOR_TEMA = ' - ';
+
+/** Devuelve el id del último nivel de la ruta, creando los temas que falten (o null si la ruta está vacía). */
+export async function asegurarRutaTema(db: Cliente, contenidoId: string, niveles: string[]) {
+  let padreId: string | null = null;
+  for (const nombre of niveles.map((n) => n.trim()).filter(Boolean)) {
+    const existente: { id: string } | null = await db.tema.findFirst({
+      where: { contenidoId, padreId, nombre },
+      select: { id: true },
+    });
+    if (existente) {
+      padreId = existente.id;
+    } else {
+      const orden = await siguienteOrden(db, contenidoId, padreId);
+      const creado: { id: string } = await db.tema.create({
+        data: { contenidoId, padreId, nombre, orden },
+        select: { id: true },
+      });
+      padreId = creado.id;
+    }
+  }
+  return padreId;
+}
