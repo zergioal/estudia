@@ -1,11 +1,13 @@
 import { useEffect, useState } from 'react';
 import { useSesion } from './auth/sesion';
 import { Contenidos } from './paginas/Contenidos';
+import { Documentos } from './paginas/Documentos';
 import { Login } from './paginas/Login';
 import { Revision } from './paginas/Revision';
 
 const PAGINAS = {
   contenidos: { titulo: 'Contenidos', componente: Contenidos },
+  documentos: { titulo: 'Documentos', componente: Documentos },
   revision: { titulo: 'Revisión', componente: Revision },
 } as const;
 type Pagina = keyof typeof PAGINAS;

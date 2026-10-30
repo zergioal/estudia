@@ -27,13 +27,19 @@ export const configurarAlNoAutenticado = (fn: () => void) => {
 
 export async function api<T>(ruta: string, opciones: { metodo?: string; cuerpo?: unknown } = {}): Promise<T> {
   const token = almacenToken.leer();
+  const esFormulario = opciones.cuerpo instanceof FormData;
   const res = await fetch(`/api/v1${ruta}`, {
     method: opciones.metodo ?? 'GET',
     headers: {
-      ...(opciones.cuerpo !== undefined && { 'Content-Type': 'application/json' }),
+      // Con FormData el navegador pone el Content-Type multipart con su boundary.
+      ...(opciones.cuerpo !== undefined && !esFormulario && { 'Content-Type': 'application/json' }),
       ...(token && { Authorization: `Bearer ${token}` }),
     },
-    body: opciones.cuerpo !== undefined ? JSON.stringify(opciones.cuerpo) : undefined,
+    body: esFormulario
+      ? (opciones.cuerpo as FormData)
+      : opciones.cuerpo !== undefined
+        ? JSON.stringify(opciones.cuerpo)
+        : undefined,
   });
 
   if (res.status === 204) return undefined as T;
