@@ -4,3 +4,6 @@ dist/
 *.log
 coverage/
 storage/
+
+# Fuentes originales (pesadas / con derechos): solo se versionan los .md fragmentados
+fuentes/**/*.pdf
