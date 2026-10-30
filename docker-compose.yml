@@ -1,0 +1,22 @@
+services:
+  db:
+    image: pgvector/pgvector:pg16
+    container_name: estudia-db
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: estudia
+      POSTGRES_PASSWORD: estudia
+      POSTGRES_DB: estudia
+    ports:
+      - "5432:5432"
+    volumes:
+      - estudia_pgdata:/var/lib/postgresql/data
+      - ./docker/initdb:/docker-entrypoint-initdb.d:ro
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U estudia -d estudia"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+
+volumes:
+  estudia_pgdata:
