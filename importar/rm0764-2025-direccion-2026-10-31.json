@@ -1,0 +1,254 @@
+[
+  { "fragmentoRef": "rm0764-2025-reg-art23", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según la RM 0764/2025, ¿cuál es la carga horaria mensual de los maestros/facilitadores para la formación técnica, tecnológica y productiva de poblaciones diversas y vulnerables?",
+      "opciones": [
+        { "texto": "100 horas mensuales, en modalidad presencial", "correcta": true, "porQue": "Es la carga del Art. 23, par. II." },
+        { "texto": "80 horas mensuales", "correcta": false, "porQue": "Las 80 horas corresponden a la formación humanística (par. III)." },
+        { "texto": "120 horas mensuales", "correcta": false, "porQue": "La carga técnica es de 100 horas." },
+        { "texto": "60 horas mensuales", "correcta": false, "porQue": "No corresponde." }
+      ],
+      "explicacion": "Poblaciones diversas: técnica, 100 h mensuales presenciales; humanística, 80 h mensuales, presencial o semipresencial.",
+      "citaTextual": "100 horas mensuales para la formación",
+      "referencia": "RM 0764/2025, Reglamento, Art. 23, págs. 13-15", "etiquetas": ["carga horaria", "poblaciones diversas"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según la RM 0764/2025, ¿qué diferencia hay entre la carga horaria de la formación humanística y la técnica de los facilitadores que atienden poblaciones diversas?",
+      "opciones": [
+        { "texto": "La humanística es de 80 horas mensuales (presencial o semipresencial) y la técnica de 100 horas mensuales (presencial)", "correcta": true, "porQue": "Son los pars. II y III del Art. 23." },
+        { "texto": "Ambas son de 80 horas mensuales", "correcta": false, "porQue": "La técnica es de 100 horas." },
+        { "texto": "La humanística es de 100 horas y la técnica de 80", "correcta": false, "porQue": "Invierte los valores." },
+        { "texto": "Ambas son de 100 horas, solo presenciales", "correcta": false, "porQue": "La humanística es de 80 y admite semipresencialidad." }
+      ],
+      "explicacion": "La misma carga humanística de 80 horas rige para los maestros itinerantes (RM 0718).",
+      "citaTextual": "será de 80 horas mensuales para la formación humanística, tanto en modalidad presencial y semipresencial",
+      "referencia": "RM 0764/2025, Reglamento, Art. 23, págs. 13-15", "etiquetas": ["carga horaria"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Un CEA atiende a soldados en un cuartel. Según la RM 0764/2025, ¿quién define los horarios de atención formativa?",
+      "opciones": [
+        { "texto": "La o el director del CEA, en coordinación con la unidad militar, asegurando la compatibilidad con las actividades del sector", "correcta": true, "porQue": "Es lo que dispone el Art. 23, par. I." },
+        { "texto": "La unidad militar, por sí sola", "correcta": false, "porQue": "Los horarios los define el director, en coordinación con ella." },
+        { "texto": "La Dirección Distrital, con un horario único", "correcta": false, "porQue": "Los horarios se coordinan con cada sector." },
+        { "texto": "Los facilitadores, según su disponibilidad", "correcta": false, "porQue": "La definición corresponde al director." }
+      ],
+      "explicacion": "El director coordina los horarios con las unidades militares, los centros penitenciarios y las organizaciones de cada población.",
+      "citaTextual": "Los horarios de atención formativa — serán definidos por la o el director de los centros de educación alternativa, en coordinación con las",
+      "referencia": "RM 0764/2025, Reglamento, Art. 23, par. I, págs. 13-15", "etiquetas": ["horarios", "caso"] }
+  ]},
+  { "fragmentoRef": "rm0764-2025-reg-art21", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según la RM 0764/2025, ¿qué vigencia tiene la autorización para atender a poblaciones diversas y vulnerables, y con cuánta anticipación debe gestionarse su renovación?",
+      "opciones": [
+        { "texto": "Tres años desde su emisión; la renovación debe gestionarse con al menos un semestre de anticipación", "correcta": true, "porQue": "Son los pars. I y III del Art. 21." },
+        { "texto": "Diez años; renovación con un mes de anticipación", "correcta": false, "porQue": "La vigencia es de 3 años, y la anticipación, de un semestre." },
+        { "texto": "Un año; renovación automática", "correcta": false, "porQue": "Son 3 años y la renovación exige una evaluación." },
+        { "texto": "Tres años; renovación al día siguiente del vencimiento", "correcta": false, "porQue": "Debe gestionarse un semestre antes." }
+      ],
+      "explicacion": "La renovación depende de una evaluación integral: metas cumplidas, demanda vigente y condiciones institucionales.",
+      "citaTextual": "tendrá una vigencia de tres (3) años, contados a partir de la fecha de su emisión",
+      "referencia": "RM 0764/2025, Reglamento, Art. 21, pág. 13", "etiquetas": ["vigencia", "autorización"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Durante la vigencia de su autorización, un programa para trabajadoras del hogar se queda casi sin participantes. Según la RM 0764/2025, ¿qué puede ocurrir?",
+      "opciones": [
+        { "texto": "La autorización puede revocarse de manera preventiva por insuficiencia de demanda, previa evaluación y notificación formal a la dirección del CEA", "correcta": true, "porQue": "Es lo que dispone el Art. 21, par. II." },
+        { "texto": "Nada, porque la autorización dura tres años sin excepción", "correcta": false, "porQue": "Puede revocarse antes por insuficiencia de demanda." },
+        { "texto": "Se revoca automáticamente, sin notificación", "correcta": false, "porQue": "Se exigen evaluación y notificación formal." },
+        { "texto": "El CEA debe cerrarse definitivamente", "correcta": false, "porQue": "Se revoca la autorización del programa, no se cierra el centro." }
+      ],
+      "explicacion": "La revocación preventiva por falta de demanda requiere evaluación previa y notificación formal.",
+      "citaTextual": "La autorización será revocada de manera preventiva si, durante su vigencia, se constata insuficiencia de demanda educativa",
+      "referencia": "RM 0764/2025, Reglamento, Art. 21, par. II, pág. 13", "etiquetas": ["revocatoria", "caso"] }
+  ]},
+  { "fragmentoRef": "rm0764-2025-reg-art22", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según la RM 0764/2025, ¿con qué ministerio coordina el Ministerio de Educación la atención educativa de los adolescentes con responsabilidad penal?",
+      "opciones": [
+        { "texto": "Con el Ministerio de Justicia y Transparencia Institucional", "correcta": true, "porQue": "Lo establece el Art. 22, inc. c)." },
+        { "texto": "Con el Ministerio de Gobierno", "correcta": false, "porQue": "Con el Ministerio de Gobierno se coordina la atención de las personas privadas de libertad." },
+        { "texto": "Con el Ministerio de Defensa", "correcta": false, "porQue": "Con Defensa se coordina la atención de soldados y marineros." },
+        { "texto": "Con el Ministerio de Trabajo", "correcta": false, "porQue": "No figura para esta población." }
+      ],
+      "explicacion": "Defensa: soldados y marineros. Gobierno: personas privadas de libertad. Justicia: adolescentes con responsabilidad penal.",
+      "citaTextual": "Con el Ministerio de Justicia y Transparencia Institucional, para la atención educativa de adolescentes con responsabilidad penal.",
+      "referencia": "RM 0764/2025, Reglamento, Art. 22, pág. 13", "etiquetas": ["coordinación interinstitucional"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según la RM 0764/2025, la atención educativa de las personas privadas de libertad se coordina con:",
+      "opciones": [
+        { "texto": "El Ministerio de Gobierno", "correcta": true, "porQue": "Lo establece el Art. 22, inc. b)." },
+        { "texto": "El Ministerio de Justicia y Transparencia Institucional", "correcta": false, "porQue": "Con Justicia se coordina la atención de los adolescentes con responsabilidad penal." },
+        { "texto": "El Ministerio de Defensa", "correcta": false, "porQue": "Con Defensa se coordina la atención de soldados y marineros." },
+        { "texto": "El Ministerio de Salud", "correcta": false, "porQue": "No figura en el Art. 22." }
+      ],
+      "explicacion": "La Dirección de Régimen Penitenciario (Art. 33) garantiza el acceso equitativo de las personas privadas de libertad y coordina la planificación con el CEA.",
+      "citaTextual": "Con el Ministerio de Gobierno, para la atención educativa de personas privadas de libertad.",
+      "referencia": "RM 0764/2025, Reglamento, Art. 22, pág. 13", "etiquetas": ["contextos de encierro"] }
+  ]},
+  { "fragmentoRef": "rm0764-2025-reg-art32", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Una persona privada de libertad quiere inscribirse en el CEA que funciona en el penal. Según la RM 0764/2025, además de estar recluida y presentar la documentación de la RM 0001, ¿qué debe tener?",
+      "opciones": [
+        { "texto": "La autorización expresa de la dirección del centro penitenciario", "correcta": true, "porQue": "Es el requisito del Art. 32, inc. b)." },
+        { "texto": "Una sentencia ejecutoriada", "correcta": false, "porQue": "La norma no la exige." },
+        { "texto": "El aval de su organización comunitaria", "correcta": false, "porQue": "Ese requisito es para las Naciones y Pueblos IOC (Art. 47)." },
+        { "texto": "La autorización de un juez de ejecución penal", "correcta": false, "porQue": "La autorización es de la dirección del centro penitenciario." }
+      ],
+      "explicacion": "Cada población tiene un requisito específico: privados de libertad, autorización del penal; jóvenes con responsabilidad penal, autorización de la entidad de atención; trabajadoras del hogar, acreditar su condición laboral; IOC, aval comunitario.",
+      "citaTextual": "Contar con la autorización expresa de la dirección del centro penitenciario correspondiente.",
+      "referencia": "RM 0764/2025, Reglamento, Art. 32, pág. 17", "etiquetas": ["requisitos", "contextos de encierro", "caso"] }
+  ]},
+  { "fragmentoRef": "rm0764-2025-reg-art38", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según la RM 0764/2025, para acceder a la atención educativa destinada a jóvenes con responsabilidad penal, el postulante debe:",
+      "opciones": [
+        { "texto": "Estar bajo medida socioeducativa en un centro de reintegración social y contar con la autorización expresa de la entidad de atención", "correcta": true, "porQue": "Son los requisitos a) y b) del Art. 38." },
+        { "texto": "Estar recluido en un centro penitenciario de adultos", "correcta": false, "porQue": "Ese requisito es para las personas privadas de libertad." },
+        { "texto": "Acreditar su condición laboral con una declaración jurada", "correcta": false, "porQue": "Es requisito de las trabajadoras y trabajadores del hogar." },
+        { "texto": "Pertenecer a una Nación o Pueblo IOC", "correcta": false, "porQue": "Es requisito de la atención a pueblos IOC." }
+      ],
+      "explicacion": "Para los jóvenes con responsabilidad penal, el currículo incorpora además un enfoque psicoeducativo y restaurativo.",
+      "citaTextual": "Estar bajo medida socioeducativa en un centro de reintegración social.",
+      "referencia": "RM 0764/2025, Reglamento, Art. 38, pág. 18", "etiquetas": ["responsabilidad penal juvenil"] }
+  ]},
+  { "fragmentoRef": "rm0764-2025-reg-art39", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según la RM 0764/2025, ¿qué enfoque incorpora el currículo para los jóvenes con responsabilidad penal?",
+      "opciones": [
+        { "texto": "Un enfoque psicoeducativo y restaurativo, que prioriza la recuperación emocional, la autoestima, las habilidades sociales, la resolución pacífica de conflictos y el proyecto de vida", "correcta": true, "porQue": "Es lo que establece el Art. 39, par. I." },
+        { "texto": "Un enfoque disciplinario y punitivo, centrado en la corrección de conductas", "correcta": false, "porQue": "El enfoque es restaurativo." },
+        { "texto": "Exclusivamente la formación técnica para el empleo inmediato", "correcta": false, "porQue": "El enfoque es integral y psicoeducativo." },
+        { "texto": "Un enfoque castrense de formación ciudadana", "correcta": false, "porQue": "Ese elemento corresponde al currículo de soldados y marineros (Art. 28)." }
+      ],
+      "explicacion": "Hay que diferenciar los currículos: soldados (cosmovisión, experiencia castrense, ciudadanía); contextos de encierro (psicoeducativo y restaurativo, pensamiento crítico, resiliencia); jóvenes con responsabilidad penal (psicoeducativo y restaurativo, recuperación emocional, proyecto de vida).",
+      "citaTextual": "incorporando un enfoque psicoeducativo y restaurativo que priorice la recuperación emocional, el fortalecimiento de la autoestima",
+      "referencia": "RM 0764/2025, Reglamento, Art. 39, pág. 18", "etiquetas": ["currículo contextualizado"] }
+  ]},
+  { "fragmentoRef": "rm0764-2025-reg-art28", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según la RM 0764/2025, ¿qué temas articulan los módulos integrados emergentes del currículo para soldados y marineros?",
+      "opciones": [
+        { "texto": "La cosmovisión, la experiencia castrense y la formación ciudadana", "correcta": true, "porQue": "Es lo que establece el Art. 28, par. I, inc. b)." },
+        { "texto": "El enfoque psicoeducativo y restaurativo", "correcta": false, "porQue": "Ese enfoque es propio de los contextos de encierro y de la responsabilidad penal." },
+        { "texto": "Los ciclos agrícolas y ceremoniales", "correcta": false, "porQue": "Corresponde a la atención de pueblos IOC (Art. 51)." },
+        { "texto": "La compatibilidad con la jornada laboral del hogar", "correcta": false, "porQue": "Corresponde a las trabajadoras y trabajadores del hogar." }
+      ],
+      "explicacion": "Cada población tiene un currículo contextualizado sobre la base de los Lineamientos Curriculares de la EPJA.",
+      "citaTextual": "temas relacionados con la cosmovisión, experiencia castrense y formación ciudadana",
+      "referencia": "RM 0764/2025, Reglamento, Art. 28, pág. 16", "etiquetas": ["soldados y marineros", "currículo"] }
+  ]},
+  { "fragmentoRef": "rm0764-2025-reg-art16", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según la RM 0764/2025, ¿quién realiza la inscripción de las poblaciones diversas y vulnerables, y según qué fechas?",
+      "opciones": [
+        { "texto": "La o el director del CEA, en coordinación con las organizaciones correspondientes, en las fechas de la RM 0001 de normas generales de cada gestión", "correcta": true, "porQue": "Es lo que dispone el Art. 16." },
+        { "texto": "La unidad militar o penitenciaria, en fechas propias", "correcta": false, "porQue": "La inscripción la realiza el director del CEA." },
+        { "texto": "La Dirección Distrital, en enero", "correcta": false, "porQue": "No corresponde." },
+        { "texto": "Los facilitadores, en cualquier momento del semestre", "correcta": false, "porQue": "Rigen las fechas de la RM 0001." }
+      ],
+      "explicacion": "La RM 0001/2026 prevé inscripciones especiales para soldados, marineros y personas en contextos de encierro (del 2 al 27 de marzo en I/2026).",
+      "citaTextual": "La inscripción será realizada por la o el director del Centro de Educación Alternativa en coordinación con las organizaciones correspondientes",
+      "referencia": "RM 0764/2025, Reglamento, Art. 16, pág. 12", "etiquetas": ["inscripciones"] }
+  ]},
+  { "fragmentoRef": "rm0764-2025-reg-art18", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según la RM 0764/2025, ¿a quiénes deben presentar los CEA los informes semestrales de la atención a poblaciones diversas?",
+      "opciones": [
+        { "texto": "A las Direcciones Distritales y Departamentales de Educación, al concluir cada semestre", "correcta": true, "porQue": "Es lo que dispone el Art. 18." },
+        { "texto": "Solo a la Dirección General de Educación Alternativa, cada año", "correcta": false, "porQue": "Los informes son semestrales, a la Distrital y la Departamental." },
+        { "texto": "A las unidades militares y penitenciarias", "correcta": false, "porQue": "No son los destinatarios." },
+        { "texto": "Al Consejo Educativo Social Comunitario", "correcta": false, "porQue": "No es el destinatario." }
+      ],
+      "explicacion": "Los informes semestrales detallan avances, logros y resultados; la evaluación periódica la coordinan las DDE, mediante las Subdirecciones de EAyE, con las Distritales.",
+      "citaTextual": "deberán presentar informes semestrales a las Direcciones Distritales y Departamentales de Educación al concluir cada semestre académico",
+      "referencia": "RM 0764/2025, Reglamento, Art. 18, pág. 12", "etiquetas": ["informes semestrales"] }
+  ]},
+  { "fragmentoRef": "rm0764-2025-reg-art20", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Una organización de trabajadoras del hogar pide a un CEA un programa específico. Según la RM 0764/2025, ¿qué debe hacer el director?",
+      "opciones": [
+        { "texto": "Elaborar un informe técnico con una solicitud formal dirigida a la Dirección Distrital, para gestionar la atención educativa", "correcta": true, "porQue": "Es lo que dispone el Art. 20, par. I." },
+        { "texto": "Iniciar el programa de inmediato, sin autorización", "correcta": false, "porQue": "La atención debe gestionarse ante la Distrital." },
+        { "texto": "Pedirle a la organización que tramite directamente ante el Ministerio", "correcta": false, "porQue": "La gestión la hace el director del CEA." },
+        { "texto": "Derivar el pedido al Ministerio de Trabajo", "correcta": false, "porQue": "La gestión es educativa, ante la Distrital." }
+      ],
+      "explicacion": "El director coordina con los representantes de la población, identifica necesidades y gestiona ante la Distrital con un informe técnico y una solicitud formal.",
+      "citaTextual": "deberá elaborar un informe técnico acompañado de una solicitud formal dirigida a la Dirección Distrital de Educación",
+      "referencia": "RM 0764/2025, Reglamento, Art. 20, págs. 12-13", "etiquetas": ["gestión", "caso"] }
+  ]},
+  { "fragmentoRef": "rm0764-2025-reg-art07", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según el Art. 7 de la RM 0764/2025, ¿quiénes tienen el derecho irrenunciable a una educación integral, intracultural, intercultural y plurilingüe en el marco de este reglamento?",
+      "opciones": [
+        { "texto": "Las personas de poblaciones diversas y vulnerables, incluidos los adolescentes con responsabilidad penal", "correcta": true, "porQue": "El Art. 7 los menciona expresamente." },
+        { "texto": "Solo las personas mayores de 18 años", "correcta": false, "porQue": "Incluye a los adolescentes con responsabilidad penal." },
+        { "texto": "Solo quienes no tengan antecedentes penales", "correcta": false, "porQue": "Incluye a los adolescentes con responsabilidad penal." },
+        { "texto": "Solo las personas de pueblos indígenas", "correcta": false, "porQue": "Comprende a todas las poblaciones diversas y vulnerables." }
+      ],
+      "explicacion": "El derecho a la educación es irrenunciable para todas estas poblaciones, en igualdad de condiciones y sin discriminación.",
+      "citaTextual": "incluyendo a los adolescentes con responsabilidad penal, tienen el derecho irrenunciable a recibir una educación integral",
+      "referencia": "RM 0764/2025, Reglamento, Art. 7, pág. 10", "etiquetas": ["derecho a la educación"] }
+  ]},
+  { "fragmentoRef": "rm0764-2025-reg-art08", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según la RM 0764/2025, ¿quiénes deben garantizar los espacios adecuados para los procesos educativos de las poblaciones diversas y vulnerables?",
+      "opciones": [
+        { "texto": "Los responsables de las unidades militares, las autoridades penitenciarias y de los centros de rehabilitación, y los representantes de cada población", "correcta": true, "porQue": "Es lo que dispone el Art. 8." },
+        { "texto": "Exclusivamente el Gobierno Municipal", "correcta": false, "porQue": "El Art. 8 atribuye la responsabilidad a las instituciones y representantes de cada población." },
+        { "texto": "El CEA, con sus propios recursos", "correcta": false, "porQue": "No es lo que establece el Art. 8." },
+        { "texto": "La Dirección Departamental", "correcta": false, "porQue": "No figura en el Art. 8." }
+      ],
+      "explicacion": "Los espacios deben cumplir estándares mínimos de infraestructura y equipamiento, y los garantiza la institución o población atendida.",
+      "citaTextual": "deberán garantizar espacios adecuados para el desarrollo de los procesos educativos",
+      "referencia": "RM 0764/2025, Reglamento, Art. 8, págs. 10-11", "etiquetas": ["infraestructura"] }
+  ]},
+  { "fragmentoRef": "rm0764-2025-reg-art45", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Un CEA atiende a una comunidad indígena en época de cosecha y de festividades. Según la RM 0764/2025, ¿cómo se establecen los horarios?",
+      "opciones": [
+        { "texto": "De forma flexible y consensuada con las autoridades y organizaciones comunitarias, respetando los ciclos productivos, las prácticas culturales y las actividades ceremoniales", "correcta": true, "porQue": "Es lo que dispone el Art. 45." },
+        { "texto": "Con el mismo horario fijo que el resto de los participantes", "correcta": false, "porQue": "Deben ser flexibles y consensuados." },
+        { "texto": "Los fija la Dirección Distrital, sin consulta", "correcta": false, "porQue": "Se consensúan con las autoridades comunitarias." },
+        { "texto": "Se suspenden las clases durante toda la cosecha", "correcta": false, "porQue": "La norma pide adecuar los horarios, no suspender las clases." }
+      ],
+      "explicacion": "La atención a las Naciones y Pueblos IOC integra los ciclos agrícolas, festivos y ceremoniales en la planificación (Art. 51).",
+      "citaTextual": "respetando los ciclos productivos, las prácticas culturales y las actividades ceremoniales de cada pueblo y nación",
+      "referencia": "RM 0764/2025, Reglamento, Art. 45, pág. 19", "etiquetas": ["pueblos IOC", "horarios", "caso"] }
+  ]},
+  { "fragmentoRef": "rm0764-2025-reg-art47", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según la RM 0764/2025, ¿qué requisito específico deben cumplir los postulantes de las Naciones y Pueblos IOC y Afrobolivianos?",
+      "opciones": [
+        { "texto": "Pertenecer a una Nación o Pueblo IOC o al pueblo afroboliviano y contar con el aval de su organización comunitaria o autoridad originaria", "correcta": true, "porQue": "Son los requisitos a) y b) del Art. 47." },
+        { "texto": "Presentar un certificado de dominio de la lengua originaria", "correcta": false, "porQue": "No es un requisito." },
+        { "texto": "Contar con la autorización del Ministerio de Culturas", "correcta": false, "porQue": "No es un requisito." },
+        { "texto": "Acreditar su condición laboral", "correcta": false, "porQue": "Es requisito de las trabajadoras y trabajadores del hogar." }
+      ],
+      "explicacion": "Además se presenta la documentación de la RM 0001, y el VEAE coordina con las organizaciones matrices y las autonomías IOC (Art. 46).",
+      "citaTextual": "Contar con el aval de su organización comunitaria o autoridad originaria.",
+      "referencia": "RM 0764/2025, Reglamento, Art. 47, págs. 19-20", "etiquetas": ["pueblos IOC", "requisitos"] }
+  ]},
+  { "fragmentoRef": "rm0764-2025-reg-art49", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según la RM 0764/2025, para fortalecer las lenguas originarias, el proceso educativo de las Naciones y Pueblos IOC promoverá:",
+      "opciones": [
+        { "texto": "Procesos educativos en lengua originaria como primera lengua, y estrategias de fortalecimiento lingüístico en contextos de desplazamiento o pérdida de la lengua", "correcta": true, "porQue": "Es lo que establece el Art. 49." },
+        { "texto": "Solo la enseñanza del castellano como lengua de instrucción", "correcta": false, "porQue": "Contradice el fortalecimiento de las lenguas originarias." },
+        { "texto": "La lengua originaria solo como asignatura optativa", "correcta": false, "porQue": "Se plantea como primera lengua." },
+        { "texto": "La sustitución de la lengua originaria por una lengua extranjera", "correcta": false, "porQue": "No tiene relación con la norma." }
+      ],
+      "explicacion": "La educación de estas poblaciones es intracultural, intercultural y plurilingüe, y revitaliza las lenguas originarias.",
+      "citaTextual": "La implementación de procesos educativos en lengua originaria como primera lengua.",
+      "referencia": "RM 0764/2025, Reglamento, Art. 49, pág. 20", "etiquetas": ["lenguas originarias"] }
+  ]},
+  { "fragmentoRef": "rm0764-2025-reg-dt02", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según la RM 0764/2025, ¿en qué plazo se evaluará la posibilidad de ampliar la cobertura educativa a otras poblaciones vulnerables, y quién lo hará?",
+      "opciones": [
+        { "texto": "En un máximo de un año desde la vigencia del reglamento; lo evaluará el VEAE con las Direcciones Departamentales y Distritales", "correcta": true, "porQue": "Es lo que dispone la Disposición Transitoria Segunda." },
+        { "texto": "En tres años, la DGEA", "correcta": false, "porQue": "El plazo es de un año, a cargo del VEAE." },
+        { "texto": "En seis meses, cada CEA", "correcta": false, "porQue": "No corresponde." },
+        { "texto": "Sin plazo, a pedido de las organizaciones", "correcta": false, "porQue": "Hay un plazo de un año." }
+      ],
+      "explicacion": "Disposiciones transitorias: socialización del reglamento con talleres y materiales, y evaluación de la ampliación de cobertura en un año.",
+      "citaTextual": "En el plazo máximo de un (1) año a partir de la entrada en vigencia del presente Reglamento, se evaluará la posibilidad de ampliar la cobertura educativa",
+      "referencia": "RM 0764/2025, Reglamento, Disposición Transitoria Segunda, pág. 21", "etiquetas": ["cobertura"] }
+  ]}
+]
