@@ -210,6 +210,8 @@ model Intento {
   iniciadoEn   DateTime    @default(now())
   finalizadoEn DateTime?
   respuestas   Respuesta[]
+
+  @@index([usuarioId, iniciadoEn])
 }
 
 model Respuesta {
@@ -219,10 +221,13 @@ model Respuesta {
   preguntaId       String
   pregunta         Pregunta @relation(fields: [preguntaId], references: [id])
   orden            Int
+  ordenOpciones    String[] // ids de Opcion en el orden barajado que vio el estudiante
   opcionesElegidas String[]
   correcta         Boolean?
+  xp               Int      @default(0)
   segundos         Int?
   confianza        Int? // 1 = adiviné, 2 = dudé, 3 = seguro
+  respondidaEn     DateTime?
 
   @@unique([intentoId, preguntaId])
 }

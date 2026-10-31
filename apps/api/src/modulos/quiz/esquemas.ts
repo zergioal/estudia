@@ -1,0 +1,17 @@
+export {
+  BONUS_RECUPERADA,
+  XP_POR_DIFICULTAD,
+  quizCrearSchema,
+  respuestaEnviarSchema,
+  type ColeccionEstudio,
+  type ContenidoEstudio,
+  type Feedback,
+  type IntentoResumido,
+  type Panel,
+  type PreguntaQuiz,
+  type QuizCrear,
+  type QuizEstado,
+  type RespuestaEnviar,
+  type ResumenQuiz,
+  type TemaEstudio,
+} from '@estudia/shared';

@@ -25,7 +25,8 @@ export function firmarToken(u: UsuarioToken): string {
   });
 }
 
-export const requiereAuth: RequestHandler = (req, _res, next) => {
+// Params `any`, igual que requiereRol, para no imponer su tipo de params a la ruta.
+export const requiereAuth: RequestHandler<any> = (req, _res, next) => {
   const cabecera = req.headers.authorization;
   if (!cabecera?.startsWith('Bearer ')) {
     return next(new ErrorApp(401, 'NO_AUTENTICADO', 'Falta el token de acceso'));
