@@ -1,0 +1,141 @@
+[
+  { "fragmentoRef": "cpe-art236", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Un director quiere nombrar como secretaria del centro a su prima hermana (cuarto grado de consanguinidad). Según el Art. 236 de la CPE:",
+      "opciones": [
+        { "texto": "Está prohibido: no se puede nombrar en la función pública a parientes hasta el cuarto grado de consanguinidad y segundo de afinidad", "correcta": true, "porQue": "La prima hermana está en cuarto grado de consanguinidad, dentro de la prohibición del par. III." },
+        { "texto": "Está permitido, porque la prohibición llega solo hasta el tercer grado", "correcta": false, "porQue": "El tercer grado es el límite para la comisión evaluadora de la RM 0872; en la CPE la prohibición llega al cuarto grado." },
+        { "texto": "Está permitido si ella aprueba un examen", "correcta": false, "porQue": "La prohibición de nepotismo no se levanta con un examen." },
+        { "texto": "Está prohibido solo si es pariente por afinidad", "correcta": false, "porQue": "Alcanza a la consanguinidad hasta el cuarto grado y a la afinidad hasta el segundo." }
+      ],
+      "explicacion": "Prohibiciones de la función pública: desempeñar más de un cargo remunerado a tiempo completo, actuar con conflicto de intereses o contratar con el Estado, y nombrar a parientes (4.º de consanguinidad, 2.º de afinidad).",
+      "citaTextual": "Nombrar en la función pública a personas con las cuales tengan parentesco hasta el cuarto grado de consanguinidad y segundo de afinidad.",
+      "referencia": "CPE, Art. 236, par. III, pág. 59", "etiquetas": ["nepotismo", "prohibiciones", "caso"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "¿Cuál de las siguientes es una prohibición para el ejercicio de la función pública según el Art. 236 de la CPE?",
+      "opciones": [
+        { "texto": "Desempeñar simultáneamente más de un cargo público remunerado a tiempo completo", "correcta": true, "porQue": "Es la prohibición del par. I." },
+        { "texto": "Desempeñar un cargo público a tiempo completo y ejercer la docencia universitaria a tiempo horario", "correcta": false, "porQue": "La prohibición se refiere a más de un cargo remunerado a tiempo completo." },
+        { "texto": "Afiliarse a un partido político", "correcta": false, "porQue": "No figura en el Art. 236." },
+        { "texto": "Presentar la declaración jurada de bienes", "correcta": false, "porQue": "Es una obligación (Art. 235), no una prohibición." }
+      ],
+      "explicacion": "La prohibición es de cargos simultáneos remunerados a tiempo completo.",
+      "citaTextual": "Desempeñar simultáneamente más de un cargo público remunerado a tiempo completo.",
+      "referencia": "CPE, Art. 236, par. I, pág. 59", "etiquetas": ["prohibiciones"] }
+  ]},
+  { "fragmentoRef": "cpe-art235", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según la CPE, ¿cuándo deben prestar los servidores públicos su declaración jurada de bienes y rentas?",
+      "opciones": [
+        { "texto": "Antes, durante y después del ejercicio del cargo", "correcta": true, "porQue": "Es la obligación del Art. 235, num. 3." },
+        { "texto": "Solo al posesionarse", "correcta": false, "porQue": "Debe presentarse antes, durante y después." },
+        { "texto": "Solo al dejar el cargo", "correcta": false, "porQue": "Debe presentarse antes, durante y después." },
+        { "texto": "Solo si lo solicita la Contraloría", "correcta": false, "porQue": "Es una obligación constitucional." }
+      ],
+      "explicacion": "Además: cumplir la CPE y las leyes, cumplir sus responsabilidades, rendir cuentas, y respetar y proteger los bienes del Estado.",
+      "citaTextual": "Prestar declaración jurada de bienes y rentas antes, durante y después del ejercicio del cargo.",
+      "referencia": "CPE, Art. 235, num. 3, pág. 59", "etiquetas": ["obligaciones", "declaración jurada"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "En época electoral, un director presta la camioneta del CEA para la campaña de un candidato. Según el Art. 235 de la CPE, incumple la obligación de:",
+      "opciones": [
+        { "texto": "Respetar y proteger los bienes del Estado, y abstenerse de utilizarlos para fines electorales u otros ajenos a la función pública", "correcta": true, "porQue": "Es la obligación del num. 5." },
+        { "texto": "Prestar declaración jurada de bienes", "correcta": false, "porQue": "Es otra obligación." },
+        { "texto": "Rendir cuentas sobre las responsabilidades técnicas", "correcta": false, "porQue": "No es la obligación vulnerada en este caso." },
+        { "texto": "Ninguna, si la camioneta vuelve en buen estado", "correcta": false, "porQue": "El uso con fines electorales está prohibido igual." }
+      ],
+      "explicacion": "Este uso puede configurar además el delito de uso indebido de bienes y servicios públicos (Ley 004, Art. 26).",
+      "citaTextual": "Respetar y proteger los bienes del Estado, y abstenerse de utilizarlos para fines electorales u otros ajenos a la función pública.",
+      "referencia": "CPE, Art. 235, num. 5, pág. 59", "etiquetas": ["bienes del Estado", "caso"] }
+  ]},
+  { "fragmentoRef": "cpe-art17", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según el Art. 17 de la CPE, toda persona tiene derecho a recibir educación en todos los niveles de manera:",
+      "opciones": [
+        { "texto": "Universal, productiva, gratuita, integral e intercultural, sin discriminación", "correcta": true, "porQue": "Es el texto del Art. 17." },
+        { "texto": "Unitaria, pública, universal, democrática y descolonizadora", "correcta": false, "porQue": "Esas son características del sistema educativo del Art. 78, par. I." },
+        { "texto": "Intracultural, intercultural y plurilingüe", "correcta": false, "porQue": "Eso corresponde al Art. 78, par. II." },
+        { "texto": "Obligatoria hasta el bachillerato y gratuita hasta el nivel superior", "correcta": false, "porQue": "Eso corresponde al Art. 81." }
+      ],
+      "explicacion": "Hay que distinguir: Art. 17 (derecho: universal, productiva, gratuita, integral, intercultural); Art. 78 (características del sistema); Art. 81 (obligatoriedad y gratuidad).",
+      "citaTextual": "Toda persona tiene derecho a recibir educación en todos los niveles de manera universal, productiva, gratuita, integral e intercultural, sin discriminación.",
+      "referencia": "CPE, Art. 17, pág. 6", "etiquetas": ["derecho a la educación"] }
+  ]},
+  { "fragmentoRef": "cpe-art60", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según el Art. 60 de la CPE, ¿qué comprende el interés superior de la niña, niño y adolescente?",
+      "opciones": [
+        { "texto": "La preeminencia de sus derechos, la primacía en recibir protección y socorro, la prioridad en la atención de los servicios y el acceso a una justicia pronta con personal especializado", "correcta": true, "porQue": "Es el contenido del Art. 60." },
+        { "texto": "Solo el derecho a una familia sustituta", "correcta": false, "porQue": "Ese derecho está en el Art. 59, y el interés superior es más amplio." },
+        { "texto": "La prohibición del trabajo infantil", "correcta": false, "porQue": "Está en el Art. 61." },
+        { "texto": "La gratuidad de la educación", "correcta": false, "porQue": "No es el contenido del Art. 60." }
+      ],
+      "explicacion": "El interés superior es un deber del Estado, la sociedad y la familia.",
+      "citaTextual": "que comprende la preeminencia de sus derechos, la primacía en recibir protección y socorro en cualquier circunstancia",
+      "referencia": "CPE, Art. 60, pág. 16", "etiquetas": ["interés superior del niño"] }
+  ]},
+  { "fragmentoRef": "cpe-art61", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según el Art. 61 de la CPE, las actividades que realizan niñas, niños y adolescentes en el marco familiar y social:",
+      "opciones": [
+        { "texto": "Estarán orientadas a su formación integral como ciudadanos y tendrán una función formativa", "correcta": true, "porQue": "Es lo que dispone el par. II." },
+        { "texto": "Están prohibidas en todos los casos", "correcta": false, "porQue": "Lo prohibido es el trabajo forzado y la explotación infantil." },
+        { "texto": "Se rigen por la Ley General del Trabajo como empleo formal", "correcta": false, "porQue": "Tienen función formativa." },
+        { "texto": "Deben ser remuneradas con el salario mínimo", "correcta": false, "porQue": "No es lo que dispone el Art. 61." }
+      ],
+      "explicacion": "Se prohíben la violencia contra niños, niñas y adolescentes, el trabajo forzado y la explotación; las actividades familiares y sociales tienen función formativa.",
+      "citaTextual": "estarán orientadas a su formación integral como ciudadanas y ciudadanos, y tendrán una función formativa",
+      "referencia": "CPE, Art. 61, par. II, pág. 16", "etiquetas": ["trabajo infantil"] }
+  ]},
+  { "fragmentoRef": "cpe-art112", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según el Art. 112 de la CPE, los delitos cometidos por servidores públicos que atenten contra el patrimonio del Estado y causen grave daño económico:",
+      "opciones": [
+        { "texto": "Son imprescriptibles y no admiten régimen de inmunidad", "correcta": true, "porQue": "Es el texto del Art. 112." },
+        { "texto": "Prescriben en diez años", "correcta": false, "porQue": "Diez años es la prescripción de la responsabilidad civil de la Ley 1178." },
+        { "texto": "Admiten inmunidad para autoridades electas", "correcta": false, "porQue": "No admiten régimen de inmunidad." },
+        { "texto": "Solo se sancionan por vía administrativa", "correcta": false, "porQue": "Son delitos." }
+      ],
+      "explicacion": "La Ley 004 desarrolla este mandato en el Art. 29 bis del CPP.",
+      "citaTextual": "son imprescriptibles y no admiten régimen de inmunidad",
+      "referencia": "CPE, Art. 112, pág. 27", "etiquetas": ["imprescriptibilidad"] }
+  ]},
+  { "fragmentoRef": "cpe-art113", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "El Estado es condenado a reparar daños causados por la decisión ilegal de un director departamental. Según el Art. 113 de la CPE, ¿qué debe hacer el Estado?",
+      "opciones": [
+        { "texto": "Interponer la acción de repetición contra la autoridad o servidor público responsable", "correcta": true, "porQue": "Lo dispone el par. II." },
+        { "texto": "Asumir el pago sin acción posterior", "correcta": false, "porQue": "La CPE obliga a repetir contra el responsable." },
+        { "texto": "Solicitar la condonación a la víctima", "correcta": false, "porQue": "No corresponde." },
+        { "texto": "Trasladar el pago al Gobierno Municipal", "correcta": false, "porQue": "No corresponde." }
+      ],
+      "explicacion": "La víctima tiene derecho a indemnización, reparación y resarcimiento; el Estado repite contra el responsable (coherente con el Art. 32 de la Ley 1178).",
+      "citaTextual": "deberá interponer la acción de repetición contra la autoridad o servidor público responsable de la acción u omisión que provocó el daño",
+      "referencia": "CPE, Art. 113, par. II, pág. 27", "etiquetas": ["acción de repetición", "caso"] }
+  ]},
+  { "fragmentoRef": "cpe-art15", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según el Art. 15 de la CPE, ¿qué violencia debe prevenir, eliminar y sancionar el Estado, en el ámbito público y privado?",
+      "opciones": [
+        { "texto": "La violencia de género y generacional, y toda acción u omisión que degrade la condición humana o cause muerte, dolor o sufrimiento", "correcta": true, "porQue": "Es el contenido del par. III." },
+        { "texto": "Solo la violencia física en el ámbito familiar", "correcta": false, "porQue": "Incluye la violencia sexual y psicológica, en ámbitos públicos y privados." },
+        { "texto": "Solo la violencia cometida por servidores públicos", "correcta": false, "porQue": "El mandato es general." },
+        { "texto": "Solo la tortura en contextos de detención", "correcta": false, "porQue": "Es más amplio." }
+      ],
+      "explicacion": "El Art. 15 consagra la integridad física, psicológica y sexual, prohíbe la tortura y los tratos degradantes, y ordena combatir la violencia de género y generacional.",
+      "citaTextual": "El Estado adoptará las medidas necesarias para prevenir, eliminar y sancionar la violencia de género y generacional",
+      "referencia": "CPE, Art. 15, par. III, págs. 5-6", "etiquetas": ["violencia", "integridad"] }
+  ]},
+  { "fragmentoRef": "cpe-art30", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según el Art. 30 de la CPE, ¿qué define a una nación y pueblo indígena originario campesino?",
+      "opciones": [
+        { "texto": "Ser una colectividad humana que comparte identidad cultural, idioma, tradición histórica, instituciones, territorialidad y cosmovisión, cuya existencia es anterior a la invasión colonial española", "correcta": true, "porQue": "Es la definición del par. I." },
+        { "texto": "Habitar en el área rural y dedicarse a la agricultura", "correcta": false, "porQue": "La definición no se basa en la residencia ni en la ocupación." },
+        { "texto": "Estar inscrita en un registro estatal de comunidades", "correcta": false, "porQue": "No es el criterio constitucional." },
+        { "texto": "Hablar exclusivamente una lengua originaria", "correcta": false, "porQue": "El idioma es uno de varios elementos compartidos." }
+      ],
+      "explicacion": "La preexistencia colonial y los elementos compartidos definen a los pueblos IOC, que gozan de derechos como la identidad cultural y la educación intracultural, intercultural y plurilingüe.",
+      "citaTextual": "cuya existencia es anterior a la invasión colonial española",
+      "referencia": "CPE, Art. 30, par. I, págs. 9-10", "etiquetas": ["pueblos IOC"] }
+  ]}
+]

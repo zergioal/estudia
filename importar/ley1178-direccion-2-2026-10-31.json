@@ -1,0 +1,132 @@
+[
+  { "fragmentoRef": "ley1178-art14", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según la Ley 1178, ¿quiénes tienen PROHIBIDO ejercer controles previos sobre las operaciones de una entidad?",
+      "opciones": [
+        { "texto": "Los responsables de la auditoría interna y las personas, unidades o entidades diferentes o externas a la unidad ejecutora", "correcta": true, "porQue": "Es la prohibición del Art. 14." },
+        { "texto": "Las unidades que ejecutan las operaciones", "correcta": false, "porQue": "Son ellas las que deben aplicar el control previo." },
+        { "texto": "La máxima autoridad ejecutiva", "correcta": false, "porQue": "La ley no le prohíbe ese control dentro de sus operaciones." },
+        { "texto": "Ninguna: cualquier unidad puede ejercer control previo", "correcta": false, "porQue": "Existe una prohibición expresa." }
+      ],
+      "explicacion": "El control previo lo aplica cada unidad antes de ejecutar sus operaciones; la auditoría interna no puede hacerlo, y tampoco puede crearse una unidad especial que centralice los controles previos.",
+      "citaTextual": "Se prohíbe el ejercicio de controles previos por los responsables de la auditoria interna y por parte de personas, de unidades o de entidades diferentes o externas a la unidad ejecutora de las operaciones.",
+      "referencia": "Ley 1178, Art. 14, págs. 7-8", "etiquetas": ["control interno previo"] }
+  ]},
+  { "fragmentoRef": "ley1178-art15", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según la Ley 1178, ¿de quién depende la unidad de auditoría interna de una entidad y qué limitación tiene?",
+      "opciones": [
+        { "texto": "Depende de la máxima autoridad ejecutiva y no participa en ninguna otra operación ni actividad administrativa, formulando su programa con total independencia", "correcta": true, "porQue": "Es lo que dispone el Art. 15." },
+        { "texto": "Depende de la Contraloría y participa en los controles previos", "correcta": false, "porQue": "Depende de la MAE y tiene prohibido el control previo." },
+        { "texto": "Depende de la unidad financiera de la entidad", "correcta": false, "porQue": "Depende de la MAE, para garantizar su independencia." },
+        { "texto": "Depende del ente tutor y ejecuta las operaciones administrativas", "correcta": false, "porQue": "No participa en ninguna operación administrativa." }
+      ],
+      "explicacion": "La auditoría interna evalúa los sistemas, la confiabilidad de los registros y la eficiencia, con independencia; sus informes van a la MAE, al ente tutor y a la Contraloría.",
+      "citaTextual": "La Unidad de auditoría interna no participará en ninguna otra operación ni actividad administrativa y dependerá de la máxima autoridad ejecutiva de la entidad",
+      "referencia": "Ley 1178, Art. 15, pág. 8", "etiquetas": ["auditoría interna"] }
+  ]},
+  { "fragmentoRef": "ley1178-art13", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según el Art. 13 de la Ley 1178, ¿qué comprende el Sistema de Control Interno?",
+      "opciones": [
+        { "texto": "Los instrumentos de control previo y posterior incorporados en el plan de organización, los reglamentos y los manuales de cada entidad, y la auditoría interna", "correcta": true, "porQue": "Es la composición del inc. a)." },
+        { "texto": "Solo la auditoría interna", "correcta": false, "porQue": "Incluye también los instrumentos de control previo y posterior." },
+        { "texto": "La auditoría externa de la Contraloría", "correcta": false, "porQue": "La auditoría externa forma parte del Control Externo Posterior (inc. b))." },
+        { "texto": "El control social de las organizaciones", "correcta": false, "porQue": "No forma parte de la definición del Art. 13." }
+      ],
+      "explicacion": "Control Gubernamental = Control Interno (previo, posterior y auditoría interna) + Control Externo Posterior.",
+      "citaTextual": "El Sistema de Control Interno que comprenderá los instrumentos de control previo y posterior incorporados en el plan de organización y en los reglamentos y manuales de procedimientos de cada entidad, y la auditoria interna",
+      "referencia": "Ley 1178, Art. 13, pág. 7", "etiquetas": ["control interno"] }
+  ]},
+  { "fragmentoRef": "ley1178-art16", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según la Ley 1178, las recomendaciones de la auditoría externa:",
+      "opciones": [
+        { "texto": "Una vez discutidas y aceptadas por la entidad auditada, son de obligatorio cumplimiento", "correcta": true, "porQue": "Lo dispone el Art. 16." },
+        { "texto": "Son solo referenciales y la entidad decide si aplicarlas", "correcta": false, "porQue": "Las recomendaciones aceptadas son obligatorias." },
+        { "texto": "Solo son obligatorias si las ratifica un juez", "correcta": false, "porQue": "No requieren intervención judicial." },
+        { "texto": "Deben aplicarse antes de ser discutidas con la entidad", "correcta": false, "porQue": "Primero se discuten y aceptan." }
+      ],
+      "explicacion": "La auditoría externa es independiente e imparcial y puede examinar en cualquier momento las operaciones ya realizadas.",
+      "citaTextual": "sus recomendaciones, discutidas y aceptadas por la entidad auditada, son de obligatorio cumplimiento",
+      "referencia": "Ley 1178, Art. 16, pág. 8", "etiquetas": ["auditoría externa"] }
+  ]},
+  { "fragmentoRef": "ley1178-art23", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según la Ley 1178, ¿cuál es el órgano rector del sistema de Control Gubernamental?",
+      "opciones": [
+        { "texto": "La Contraloría General", "correcta": true, "porQue": "Lo establece el Art. 23." },
+        { "texto": "El Ministerio de Economía y Finanzas", "correcta": false, "porQue": "Es rector de otros sistemas, no del Control Gubernamental." },
+        { "texto": "La Contaduría General del Estado", "correcta": false, "porQue": "La Contaduría está a cargo de los sistemas contables, bajo la supervigilancia normativa de la Contraloría." },
+        { "texto": "La unidad de auditoría interna de cada entidad", "correcta": false, "porQue": "Es parte del control interno, no el órgano rector." }
+      ],
+      "explicacion": "La Contraloría emite las normas básicas de control, evalúa el control interno, realiza el control externo y capacita a los servidores.",
+      "citaTextual": "es el órgano rector del sistema de Control Gubernamental, el cual se implantará bajo su dirección y supervisión",
+      "referencia": "Ley 1178, Art. 23, pág. 10", "etiquetas": ["Contraloría", "órgano rector"] }
+  ]},
+  { "fragmentoRef": "ley1178-art27", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Según la Ley 1178, ¿quién elabora los reglamentos específicos de los sistemas de administración y control de una entidad, y a quién corresponde su implantación?",
+      "opciones": [
+        { "texto": "Los elabora cada entidad, en el marco de las normas básicas de los órganos rectores; su implantación es responsabilidad de la máxima autoridad de la entidad", "correcta": true, "porQue": "Es lo que dispone el Art. 27." },
+        { "texto": "Los elabora la Contraloría; la implanta la auditoría interna", "correcta": false, "porQue": "Los reglamentos específicos los elabora cada entidad." },
+        { "texto": "Los elabora el ente tutor; la implanta la unidad financiera", "correcta": false, "porQue": "El ente tutor promueve y vigila; la responsabilidad de implantar es de la MAE." },
+        { "texto": "Los elabora el Ministerio de Economía; la implantan los jefes de área", "correcta": false, "porQue": "No corresponde." }
+      ],
+      "explicacion": "Normas básicas: órganos rectores. Reglamentos específicos: cada entidad. Implantación: la MAE. Promoción y vigilancia: el ente tutor.",
+      "citaTextual": "Corresponde a la máxima autoridad de la entidad la responsabilidad de su implantación.",
+      "referencia": "Ley 1178, Art. 27, pág. 11", "etiquetas": ["reglamentos específicos", "MAE"] }
+  ]},
+  { "fragmentoRef": "ley1178-art35", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Un auditor encuentra indicios de responsabilidad penal al examinar las operaciones de una entidad. Según la Ley 1178, ¿qué debe hacer?",
+      "opciones": [
+        { "texto": "Trasladarlos a conocimiento de la unidad legal pertinente, que solicitará medidas al juez o denunciará los hechos ante el Ministerio Público", "correcta": true, "porQue": "Es el procedimiento del Art. 35." },
+        { "texto": "Sancionar directamente al servidor con destitución", "correcta": false, "porQue": "El auditor no sanciona; traslada a la unidad legal." },
+        { "texto": "Archivar el caso si el monto es menor", "correcta": false, "porQue": "La ley no prevé el archivo." },
+        { "texto": "Informar solo a la MAE, sin otras acciones", "correcta": false, "porQue": "Debe trasladar el caso a la unidad legal para las acciones judiciales." }
+      ],
+      "explicacion": "Ante indicios de responsabilidad civil o penal, la unidad legal pide medidas precautorias al juez o denuncia ante el Ministerio Público.",
+      "citaTextual": "el servidor público o auditor los trasladará a conocimiento de la unidad legal pertinente",
+      "referencia": "Ley 1178, Art. 35, pág. 13", "etiquetas": ["indicios de responsabilidad", "caso"] }
+  ]},
+  { "fragmentoRef": "ley1178-art40", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según la Ley 1178, ¿en qué plazo prescriben las acciones judiciales y obligaciones emergentes de la responsabilidad civil?",
+      "opciones": [
+        { "texto": "En diez años, desde el día del hecho o desde la última actuación procesal", "correcta": true, "porQue": "Es el plazo del Art. 40." },
+        { "texto": "En cinco años desde el hecho", "correcta": false, "porQue": "El plazo es de diez años." },
+        { "texto": "En dos años desde la auditoría", "correcta": false, "porQue": "No corresponde." },
+        { "texto": "Son imprescriptibles", "correcta": false, "porQue": "La imprescriptibilidad rige para ciertos delitos de corrupción (Ley 004); la responsabilidad civil de la Ley 1178 prescribe en diez años." }
+      ],
+      "explicacion": "La prescripción civil de la Ley 1178 es de 10 años, y se suspende o interrumpe según el Código Civil.",
+      "citaTextual": "prescribirán en diez años computables a partir del día del hecho que da lugar a la acción o desde la última actuación procesal",
+      "referencia": "Ley 1178, Art. 40, pág. 13", "etiquetas": ["prescripción", "responsabilidad civil"] }
+  ]},
+  { "fragmentoRef": "ley1178-art36", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Una exdirectora es requerida por la auditoría para presentar la documentación de su gestión. Según la Ley 1178:",
+      "opciones": [
+        { "texto": "Está obligada a exhibir la documentación e información necesarias, y las autoridades actuales deben asegurarle el acceso a esa documentación", "correcta": true, "porQue": "Es lo que dispone el Art. 36." },
+        { "texto": "No está obligada, porque ya no es servidora pública", "correcta": false, "porQue": "La obligación alcanza también a los ex servidores públicos." },
+        { "texto": "Solo debe hacerlo si lo ordena un juez", "correcta": false, "porQue": "La obligación es legal y directa." },
+        { "texto": "Debe pagar por las copias que le entreguen", "correcta": false, "porQue": "La ley no lo dispone." }
+      ],
+      "explicacion": "Los servidores, ex servidores y contratistas sujetos a control deben exhibir la documentación; incumplir esta obligación tiene sanción penal.",
+      "citaTextual": "Las autoridades de las entidades del Sector Público asegurarán el acceso de los ex - servidores públicos a la documentación pertinente que les fuera exigida por el control posterior.",
+      "referencia": "Ley 1178, Art. 36, pág. 13", "etiquetas": ["obligación de exhibir", "caso"] }
+  ]},
+  { "fragmentoRef": "ley1178-art03", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según el Art. 3 de la Ley 1178, ¿en qué entidades se aplican los sistemas de Administración y de Control?",
+      "opciones": [
+        { "texto": "En todas las entidades del Sector Público, sin excepción, incluidas las universidades, las municipalidades y toda persona jurídica donde el Estado tenga la mayoría del patrimonio", "correcta": true, "porQue": "Es el ámbito del Art. 3." },
+        { "texto": "Solo en los ministerios del nivel central", "correcta": false, "porQue": "Se aplican a todas las entidades, sin excepción." },
+        { "texto": "En todas, salvo las Fuerzas Armadas y la Policía", "correcta": false, "porQue": "Las incluye expresamente." },
+        { "texto": "Solo en las entidades que reciben fondos del TGN", "correcta": false, "porQue": "El criterio es la pertenencia al Sector Público o la mayoría del patrimonio estatal." }
+      ],
+      "explicacion": "La Ley 1178 tiene un ámbito universal en el Sector Público, que incluye las unidades educativas fiscales como parte del Estado.",
+      "citaTextual": "Los sistemas de Administración y de Control se aplicarán en todas las entidades del Sector Público, sin excepción",
+      "referencia": "Ley 1178, Art. 3, págs. 4-5", "etiquetas": ["ámbito de aplicación"] }
+  ]}
+]
