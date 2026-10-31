@@ -1,0 +1,141 @@
+[
+  { "fragmentoRef": "rm0872-2024-reg-art14", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según el Reglamento de la RM 0872/2024, ¿cuál es la calificación mínima para aprobar el Reconocimiento de Saberes en Educación Primaria de Personas Jóvenes y Adultas, y con qué etapa se alinea?",
+      "opciones": [
+        { "texto": "51 puntos o más, alineado con la etapa de Aprendizajes Elementales", "correcta": true, "porQue": "Art. 14, par. I, incs. b) y f)." },
+        { "texto": "51 puntos, alineado con la etapa de Aprendizajes Aplicados", "correcta": false, "porQue": "Capciosa: Aprendizajes Aplicados corresponde a Secundaria (Art. 15)." },
+        { "texto": "61 puntos, alineado con Aprendizajes Elementales", "correcta": false, "porQue": "El mínimo es 51." },
+        { "texto": "71 puntos, alineado con Aprendizajes Especializados", "correcta": false, "porQue": "No coincide." }
+      ],
+      "explicacion": "En Primaria la evaluación es cuantitativa y cualitativa.",
+      "citaTextual": "La calificación cuantitativa de aprobación mínima para aprobar será de 51 puntos o más",
+      "referencia": "RM 0872/2024, Reglamento, Art. 14, págs. 10-11", "etiquetas": ["reconocimiento de saberes", "memorística", "capciosa"] }
+  ]},
+  { "fragmentoRef": "rm0872-2024-reg-art15", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "En el Reconocimiento de Saberes para Educación SECUNDARIA de Personas Jóvenes y Adultas (RM 0872/2024), ¿cómo es la evaluación?",
+      "opciones": [
+        { "texto": "Cuantitativa, con un mínimo de 51 puntos en todas las áreas de saberes y conocimientos; se puede aprobar de manera independiente un área", "correcta": true, "porQue": "Art. 15, incs. e) y f)." },
+        { "texto": "Cuantitativa y cualitativa, como en Primaria", "correcta": false, "porQue": "Capciosa: en Secundaria la evaluación es solo cuantitativa." },
+        { "texto": "Solo cualitativa", "correcta": false, "porQue": "Es cuantitativa." },
+        { "texto": "Cuantitativa, con un promedio general de 51 aunque se repruebe un área", "correcta": false, "porQue": "Se exigen 51 puntos en todas las áreas." }
+      ],
+      "explicacion": "En Secundaria se toma en cuenta la Etapa de Aprendizajes Aplicados.",
+      "citaTextual": "La evaluación será cuantitativa, y la calificación mínima de aprobación deberá ser igual o mayor a 51 puntos (cincuenta y uno) en todas las áreas",
+      "referencia": "RM 0872/2024, Reglamento, Art. 15, pág. 11", "etiquetas": ["reconocimiento de saberes", "capciosa"] }
+  ]},
+  { "fragmentoRef": "rm0872-2024-reg-art12", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "La Comisión Evaluadora terminó de evaluar a los postulantes al Reconocimiento de Saberes. Según el Reglamento de la RM 0872/2024, ¿cuándo puede registrar las calificaciones en el SIE?",
+      "opciones": [
+        { "texto": "Tras la aprobación de la Directora o Director del CEA", "correcta": true, "porQue": "Art. 12, inc. f)." },
+        { "texto": "De inmediato, sin aprobación", "correcta": false, "porQue": "Requiere la aprobación del director." },
+        { "texto": "Tras la aprobación de la Dirección Departamental", "correcta": false, "porQue": "Confusión de instancia: aprueba el director del CEA." },
+        { "texto": "Al final de la gestión", "correcta": false, "porQue": "No es lo que dispone el reglamento." }
+      ],
+      "explicacion": "La comisión también valida los instrumentos de evaluación ante el director del CEA.",
+      "citaTextual": "Tras la aprobación de la Directora o Director del Centro de Educación Alternativa, la Comisión Evaluadora procederá al registro de las calificaciones en el Sistema de Información Educativa (SIE).",
+      "referencia": "RM 0872/2024, Reglamento, Art. 12, pág. 10", "etiquetas": ["comisión evaluadora", "caso"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "¿Cuál de las siguientes NO es una función de la Comisión Evaluadora según el Art. 12 del Reglamento de la RM 0872/2024?",
+      "opciones": [
+        { "texto": "Emitir el certificado final de homologación con su firma exclusiva", "correcta": true, "porQue": "No figura entre sus funciones." },
+        { "texto": "Verificar la documentación de requisitos del Art. 17", "correcta": false, "porQue": "Es el inciso a)." },
+        { "texto": "Elaborar y aplicar los instrumentos de evaluación", "correcta": false, "porQue": "Son los incisos b) y c)." },
+        { "texto": "Registrar los resultados con las firmas de la Comisión y entregarlos al director del CEA", "correcta": false, "porQue": "Es el inciso e)." }
+      ],
+      "explicacion": "La Comisión prepara, aplica y valida; el director del CEA aprueba.",
+      "citaTextual": "Verificar la documentación establecida en el Art. 17 (Requisitos) del presente reglamento.",
+      "referencia": "RM 0872/2024, Reglamento, Art. 12, pág. 10", "etiquetas": ["comisión evaluadora", "EXCEPTO"] }
+  ]},
+  { "fragmentoRef": "rm0872-2024-reg-art17-b", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Un postulante al Reconocimiento de Saberes para Secundaria ya tiene calificaciones registradas en el SIE en esa misma etapa. Según el Reglamento de la RM 0872/2024:",
+      "opciones": [
+        { "texto": "No cumple un requisito: no tener registro de calificaciones en la etapa correspondiente en el SIE", "correcta": true, "porQue": "Art. 17, inc. b), num. 4." },
+        { "texto": "Cumple, porque el registro previo facilita la homologación", "correcta": false, "porQue": "Es un impedimento." },
+        { "texto": "Cumple si presenta su certificado de nacimiento original", "correcta": false, "porQue": "Basta una fotocopia simple, y el impedimento persiste." },
+        { "texto": "Cumple si lo autoriza la Distrital", "correcta": false, "porQue": "No es lo que dispone el reglamento." }
+      ],
+      "explicacion": "Requisitos: formulario de postulación en el SIE, fotocopia simple del CI vigente y fotocopia simple del certificado de nacimiento.",
+      "citaTextual": "No tener registro de calificaciones en la etapa correspondiente en el Sistema de Información Educativa.",
+      "referencia": "RM 0872/2024, Reglamento, Art. 17, pág. 12", "etiquetas": ["requisitos", "caso"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según el Art. 17 del Reglamento de la RM 0872/2024, ¿en qué forma se presentan la cédula de identidad y el certificado de nacimiento para la postulación?",
+      "opciones": [
+        { "texto": "En fotocopia simple", "correcta": true, "porQue": "Art. 17." },
+        { "texto": "En original", "correcta": false, "porQue": "Se piden fotocopias simples." },
+        { "texto": "En fotocopia legalizada", "correcta": false, "porQue": "Capciosa: no se exige legalización." },
+        { "texto": "Solo de forma digital en el SIE", "correcta": false, "porQue": "En el SIE se registra el formulario; los documentos van en fotocopia simple." }
+      ],
+      "explicacion": "La cédula de identidad debe estar vigente.",
+      "citaTextual": "Fotocopia simple de la cédula de identidad vigente. 3. Certificado de Nacimiento (fotocopia simple).",
+      "referencia": "RM 0872/2024, Reglamento, Art. 17, pág. 12", "etiquetas": ["requisitos", "capciosa"] }
+  ]},
+  { "fragmentoRef": "rm0872-2024-reg-art21", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Concluida la postulación al Reconocimiento de Saberes, ¿qué debe hacer el director del CEA según el Art. 21 del Reglamento de la RM 0872/2024?",
+      "opciones": [
+        { "texto": "Publicar la lista de habilitados con fecha, hora, lugar, malla curricular y cronograma de evaluación, y remitirla a la Dirección Distrital para su conocimiento", "correcta": true, "porQue": "Art. 21." },
+        { "texto": "Enviar la lista al Ministerio para su aprobación", "correcta": false, "porQue": "Se remite a la Distrital solo para su conocimiento." },
+        { "texto": "Comunicar los resultados de forma privada a cada postulante", "correcta": false, "porQue": "Se publica una lista de habilitados." },
+        { "texto": "Esperar la autorización de la Departamental para publicar", "correcta": false, "porQue": "No es lo que dispone el reglamento." }
+      ],
+      "explicacion": "Capciosa: la Distrital la recibe para su conocimiento, no para aprobarla.",
+      "citaTextual": "publicará la lista de postulantes habilitados, incluyendo la fecha. hora, lugar, malla curricular de la etapa o carrera y el cronograma de evaluación",
+      "referencia": "RM 0872/2024, Reglamento, Art. 21, pág. 13", "etiquetas": ["habilitados", "caso"] }
+  ]},
+  { "fragmentoRef": "rm0872-2024-reg-art09", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según el Art. 9 del Reglamento de la RM 0872/2024, ¿de qué es responsable la Comisión Evaluadora?",
+      "opciones": [
+        { "texto": "De preparar y aplicar los instrumentos de evaluación, validar los resultados y verificar los documentos de los postulantes", "correcta": true, "porQue": "Art. 9." },
+        { "texto": "De certificar los títulos de bachiller", "correcta": false, "porQue": "No es su responsabilidad." },
+        { "texto": "De administrar el presupuesto del CEA", "correcta": false, "porQue": "No es su responsabilidad." },
+        { "texto": "De inscribir a los participantes en la Distrital", "correcta": false, "porQue": "No es su responsabilidad." }
+      ],
+      "explicacion": "Sus integrantes no pueden tener parentesco con los postulantes.",
+      "citaTextual": "será responsable de la preparación y aplicación de los instrumentos de evaluación, la validación de los resultados y la verificación de los documentos presentados por los postulantes",
+      "referencia": "RM 0872/2024, Reglamento, Art. 9, pág. 9", "etiquetas": ["comisión evaluadora"] }
+  ]},
+  { "fragmentoRef": "rm0872-2024-reg-art06", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según el Art. 6 del Reglamento de la RM 0872/2024, ¿en qué pilar se fundamenta la incorporación del Reconocimiento de Saberes adquiridos en los ámbitos social, comunitario, laboral y cultural?",
+      "opciones": [
+        { "texto": "En la Descolonización de la Educación", "correcta": true, "porQue": "Art. 6, inc. b)." },
+        { "texto": "En la Diversidad y Pluralidad", "correcta": false, "porQue": "Ese pilar reconoce y valora la diversidad del país (inc. a)." },
+        { "texto": "En el Modelo Educativo Sociocomunitario Productivo", "correcta": false, "porQue": "Ese pilar alinea el reglamento con el MESCP (inc. c)." },
+        { "texto": "En la Equidad de Género", "correcta": false, "porQue": "No es un pilar del Art. 6." }
+      ],
+      "explicacion": "Capciosa: pilares vecinos del mismo artículo.",
+      "citaTextual": "En alineación con el proceso de descolonización, este reglamento incorpora el Reconocimiento de Saberes",
+      "referencia": "RM 0872/2024, Reglamento, Art. 6, pág. 8", "etiquetas": ["fundamentación", "capciosa"] }
+  ]},
+  { "fragmentoRef": "rm0872-2024-reg-art05", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "En el marco normativo del Reglamento de la RM 0872/2024, ¿qué RM aprobó el Reglamento de Reconocimiento de Saberes, Conocimientos y Experiencias Técnicas, Tecnológicas y Productivas?",
+      "opciones": [
+        { "texto": "La RM 0182/2022", "correcta": true, "porQue": "Art. 5, inc. f)." },
+        { "texto": "La RM 517/2014", "correcta": false, "porQue": "Aprobó el Reglamento de Reconocimiento de Saberes general (inc. e)." },
+        { "texto": "La RM 183/2024", "correcta": false, "porQue": "Es el Reglamento de Evaluación de la EPJA." },
+        { "texto": "La RM 1040/2022", "correcta": false, "porQue": "Aprobó los Lineamientos Curriculares de la EPJA." }
+      ],
+      "explicacion": "Memorística, con resoluciones del mismo marco normativo como distractores.",
+      "citaTextual": "Resolución Ministerial N° 0182/2022, Reglamento de Reconocimiento de Saberes, Conocimientos y Experiencia Técnicas, Tecnológicas y Productivas",
+      "referencia": "RM 0872/2024, Reglamento, Art. 5, pág. 8", "etiquetas": ["marco normativo", "memorística"] }
+  ]},
+  { "fragmentoRef": "rm0872-2024-reg-dt01", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según la Disposición Transitoria Primera del Reglamento de la RM 0872/2024, ¿con base en qué se realiza el proceso de Reconocimiento de Saberes?",
+      "opciones": [
+        { "texto": "Con base en los planes y programas aprobados mediante la Resolución Ministerial vigente del ámbito de la Educación Alternativa", "correcta": true, "porQue": "Disposición Transitoria Primera." },
+        { "texto": "Con base en los planes de la Educación Regular", "correcta": false, "porQue": "Corresponden al ámbito de la Educación Alternativa." },
+        { "texto": "Con base en los criterios libres de cada CEA", "correcta": false, "porQue": "No es lo que dispone el reglamento." },
+        { "texto": "Con base en estándares internacionales", "correcta": false, "porQue": "No es lo que dispone el reglamento." }
+      ],
+      "explicacion": "El reglamento entra en vigencia con su promulgación mediante RM.",
+      "citaTextual": "se realizará con base en los planes y programas aprobados mediante Resolución Ministerial vigente, correspondiente al ámbito de la Educación Alternativa",
+      "referencia": "RM 0872/2024, Disposición Transitoria Primera, pág. 14", "etiquetas": ["transitorias"] }
+  ]}
+]

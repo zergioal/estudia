@@ -1,0 +1,128 @@
+[
+  { "fragmentoRef": "rm0764-2025-reg-art10", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según el Reglamento de la RM 0764/2025, ¿qué carga horaria mensual deben cumplir los maestros/facilitadores de los CEA que atienden a poblaciones diversas y vulnerables?",
+      "opciones": [
+        { "texto": "80 horas mensuales en educación humanística y 100 horas mensuales en Educación Técnica Tecnológica y Productiva", "correcta": true, "porQue": "Art. 10, inc. e) del Reglamento." },
+        { "texto": "100 horas en humanística y 80 en técnica", "correcta": false, "porQue": "Capciosa: las cifras están invertidas." },
+        { "texto": "120 horas en ambas", "correcta": false, "porQue": "No coincide." },
+        { "texto": "80 horas en ambas", "correcta": false, "porQue": "En técnica son 100." }
+      ],
+      "explicacion": "El facilitador acompaña el desarrollo de las cuatro dimensiones: Ser, Saber, Hacer y Decidir.",
+      "citaTextual": "Cumplir con una carga horaria de 80 horas mensuales en educación humanística y de 100 horas mensuales en Educación Técnica Tecnológica y Productiva",
+      "referencia": "RM 0764/2025, Reglamento, Art. 10, pág. 11", "etiquetas": ["carga horaria", "memorística", "capciosa"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según el Art. 10 del Reglamento de la RM 0764/2025, ¿qué tipos de evaluación debe aplicar el maestro/facilitador en la evaluación integral y holística?",
+      "opciones": [
+        { "texto": "Autoevaluación, heteroevaluación y evaluación comunitaria", "correcta": true, "porQue": "Art. 10, inc. d)." },
+        { "texto": "Evaluación diagnóstica, formativa y sumativa", "correcta": false, "porQue": "No es la clasificación del reglamento." },
+        { "texto": "Solo exámenes escritos", "correcta": false, "porQue": "No es lo que dispone el reglamento." },
+        { "texto": "Coevaluación y evaluación externa", "correcta": false, "porQue": "No coincide." }
+      ],
+      "explicacion": "Las cuatro dimensiones son Ser, Saber, Hacer y Decidir.",
+      "citaTextual": "aplicando la autoevaluación, la heteroevaluación y la evaluación comunitaria",
+      "referencia": "RM 0764/2025, Reglamento, Art. 10, pág. 11", "etiquetas": ["evaluación"] }
+  ]},
+  { "fragmentoRef": "rm0764-2025-reg-art03", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según el Reglamento de la RM 0764/2025, el principio de «flexibilidad curricular» consiste en:",
+      "opciones": [
+        { "texto": "Adaptar contenidos, metodologías y estrategias pedagógicas/andragógicas a las características, contextos y realidades de las poblaciones destinatarias", "correcta": true, "porQue": "Art. 3, inc. b)." },
+        { "texto": "Garantizar condiciones justas para superar las barreras de acceso", "correcta": false, "porQue": "Eso es la equidad educativa (inc. a)." },
+        { "texto": "Articular la formación con el ámbito laboral", "correcta": false, "porQue": "Eso es la vinculación educación-trabajo (inc. d)." },
+        { "texto": "Adecuarse a la identidad, la cultura y las lenguas", "correcta": false, "porQue": "Eso es la pertinencia cultural y lingüística (inc. c)." }
+      ],
+      "explicacion": "Capciosa: principios vecinos del mismo artículo.",
+      "citaTextual": "Adaptar contenidos, metodologías y estrategias pedagógicas/andragógicas a las características, contextos y realidades de las poblaciones destinatarias.",
+      "referencia": "RM 0764/2025, Reglamento, Art. 3, págs. 8-9", "etiquetas": ["principios", "capciosa"] }
+  ]},
+  { "fragmentoRef": "rm0764-2025-reg-art05", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "En el marco normativo del Reglamento de la RM 0764/2025, ¿qué Decreto Supremo regula los Programas Educativos de Continuidad de Estudios para soldados y marineros en el Servicio Militar Obligatorio?",
+      "opciones": [
+        { "texto": "El DS 1875, de 23 de enero de 2014", "correcta": true, "porQue": "Art. 5, inc. h)." },
+        { "texto": "El DS 26715", "correcta": false, "porQue": "El DS 26715 es el Reglamento de Ejecución de Penas Privativas de Libertad." },
+        { "texto": "El DS 0813", "correcta": false, "porQue": "El DS 0813 es el reglamento de las Direcciones Departamentales de Educación." },
+        { "texto": "El DS 29894", "correcta": false, "porQue": "No figura en el marco normativo del reglamento." }
+      ],
+      "explicacion": "Memorística, con decretos del mismo artículo como distractores.",
+      "citaTextual": "Decreto Supremo N* 1875, de 23 de enero de 2014, sobre Programas Educativos de Continuidad de Estudios para soldados y marineros",
+      "referencia": "RM 0764/2025, Reglamento, Art. 5, pág. 9", "etiquetas": ["marco normativo", "memorística"] }
+  ]},
+  { "fragmentoRef": "rm0764-2025-reg-art06", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según el Reglamento de la RM 0764/2025, ¿qué se entiende por «población diversa y vulnerable»?",
+      "opciones": [
+        { "texto": "Personas o grupos que, por factores sociales, económicos, culturales, de género, migración, discapacidad o exclusión, enfrentan limitaciones para ejercer su derecho a la educación", "correcta": true, "porQue": "Art. 6, inc. b)." },
+        { "texto": "Solo las personas en situación de pobreza extrema", "correcta": false, "porQue": "Es más amplia." },
+        { "texto": "Solo las personas privadas de libertad", "correcta": false, "porQue": "Son solo uno de los grupos." },
+        { "texto": "Toda persona mayor de 15 años", "correcta": false, "porQue": "Ese es el criterio de la EPJA, no la definición de población vulnerable." }
+      ],
+      "explicacion": "El reglamento atiende, entre otros, a soldados y marineros, personas privadas de libertad y trabajadoras del hogar.",
+      "citaTextual": "enfrentan limitaciones para Cara, ejercer su derecho a la educación",
+      "referencia": "RM 0764/2025, Reglamento, Art. 6, págs. 9-10", "etiquetas": ["definiciones"] }
+  ]},
+  { "fragmentoRef": "rm0764-2025-reg-art29", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Un CEA atiende a personas privadas de libertad en un recinto penitenciario. Según el Reglamento de la RM 0764/2025, ¿cómo se definen los horarios de atención?",
+      "opciones": [
+        { "texto": "De manera flexible entre el CEA y la Dirección del Recinto Penitenciario, compatibles con las actividades institucionales", "correcta": true, "porQue": "Art. 30 del Reglamento." },
+        { "texto": "Los fija unilateralmente el director del CEA", "correcta": false, "porQue": "Se definen en coordinación con el recinto." },
+        { "texto": "Los fija la Policía", "correcta": false, "porQue": "No es lo que dispone el reglamento." },
+        { "texto": "Se usa el mismo horario que en el CEA externo", "correcta": false, "porQue": "Son flexibles y coordinados." }
+      ],
+      "explicacion": "Las modalidades de atención son presencial y semipresencial (Art. 29).",
+      "citaTextual": "serán definidos de manera Evo NN flexible entre los Centros de Educación Alternativa y la Dirección del Recinto Penitenciario",
+      "referencia": "RM 0764/2025, Reglamento, Arts. 29-30, págs. 16-17", "etiquetas": ["privados de libertad", "caso"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según el Art. 29 del Reglamento de la RM 0764/2025, ¿en qué modalidades se imparte la atención educativa a personas privadas de libertad?",
+      "opciones": [
+        { "texto": "Presencial y semipresencial", "correcta": true, "porQue": "Art. 29." },
+        { "texto": "Solo a distancia", "correcta": false, "porQue": "No coincide." },
+        { "texto": "Presencial, semipresencial y a distancia", "correcta": false, "porQue": "Capciosa: la modalidad a distancia no figura para este grupo." },
+        { "texto": "Solo presencial", "correcta": false, "porQue": "También semipresencial." }
+      ],
+      "explicacion": "Las modalidades se adecúan a las normas de seguridad y al régimen penitenciario.",
+      "citaTextual": "se impartirá en las modalidades presencial y semipresencial",
+      "referencia": "RM 0764/2025, Reglamento, Art. 29, págs. 16-17", "etiquetas": ["modalidades", "capciosa"] }
+  ]},
+  { "fragmentoRef": "rm0764-2025-reg-art33", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según el Reglamento de la RM 0764/2025, ¿a quién le corresponde garantizar la disponibilidad de aulas y talleres adecuados para los procesos educativos en los recintos penitenciarios?",
+      "opciones": [
+        { "texto": "A la Dirección de Régimen Penitenciario", "correcta": true, "porQue": "Art. 33, inc. c)." },
+        { "texto": "Al director del CEA", "correcta": false, "porQue": "El CEA coordina la parte curricular, pero los ambientes los garantiza Régimen Penitenciario." },
+        { "texto": "Al Gobierno Municipal", "correcta": false, "porQue": "No es lo que dispone el artículo." },
+        { "texto": "A los propios privados de libertad", "correcta": false, "porQue": "No es lo que dispone el artículo." }
+      ],
+      "explicacion": "Régimen Penitenciario es la instancia responsable de la rehabilitación.",
+      "citaTextual": "Garantizar la disponibilidad de aulas y talleres adecuados para el desarrollo de los procesos educativos",
+      "referencia": "RM 0764/2025, Reglamento, Art. 33, pág. 17", "etiquetas": ["privados de libertad", "competencias"] }
+  ]},
+  { "fragmentoRef": "rm0764-2025-reg-art41", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Una trabajadora asalariada del hogar quiere inscribirse en el CEA. Según el Reglamento de la RM 0764/2025, ¿cómo acredita su condición laboral?",
+      "opciones": [
+        { "texto": "Mediante declaración jurada, certificado de trabajo u otro documento válido", "correcta": true, "porQue": "Art. 42, inc. a)." },
+        { "texto": "Solo con un contrato notariado", "correcta": false, "porQue": "Capciosa: se admiten otros documentos, incluida la declaración jurada." },
+        { "texto": "Con la firma de su empleador ante la Distrital", "correcta": false, "porQue": "No es lo que dispone el reglamento." },
+        { "texto": "No necesita acreditarla", "correcta": false, "porQue": "Es un requisito de postulación." }
+      ],
+      "explicacion": "Los horarios se acuerdan con las participantes, según sus jornadas laborales (Art. 41).",
+      "citaTextual": "Acreditar su condición laboral mediante declaración jurada, certificado de trabajo u otro documento",
+      "referencia": "RM 0764/2025, Reglamento, Art. 42, págs. 18-19", "etiquetas": ["trabajadoras del hogar", "caso"] }
+  ]},
+  { "fragmentoRef": "rm0764-2025-reg-art51", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Un CEA en una comunidad indígena planifica su gestión. Según el Art. 51 del Reglamento de la RM 0764/2025, ¿qué debe integrar a la planificación educativa?",
+      "opciones": [
+        { "texto": "Los ciclos agrícolas, festivos y ceremoniales, y las prácticas de reciprocidad (ayni, mink'a, waki)", "correcta": true, "porQue": "Art. 51, incs. c) y d)." },
+        { "texto": "Solo el calendario escolar urbano", "correcta": false, "porQue": "No es lo que dispone el reglamento." },
+        { "texto": "La suspensión de clases en todas las fiestas", "correcta": false, "porQue": "Lo que se pide es integrar los ciclos, no suspender." },
+        { "texto": "La sustitución de los PSP por exámenes", "correcta": false, "porQue": "Se desarrollan PSP contextualizados." }
+      ],
+      "explicacion": "También se recuperan técnicas productivas ancestrales en armonía con la Madre Tierra.",
+      "citaTextual": "La integración de los ciclos agrícolas, festivos y ceremoniales en la planificación educativa",
+      "referencia": "RM 0764/2025, Reglamento, Art. 51, pág. 20", "etiquetas": ["pertinencia cultural", "caso"] }
+  ]}
+]
