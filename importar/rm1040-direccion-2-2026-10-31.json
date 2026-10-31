@@ -1,0 +1,159 @@
+[
+  { "fragmentoRef": "rm1040-b017", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Un CEA de Educación Permanente desarrolla un taller de 4 horas reloj. Según los lineamientos de la RM 1040, ¿con cuántas horas académicas debe certificarse?",
+      "opciones": [
+        { "texto": "Con 6 horas académicas (240 minutos ÷ 40 minutos por hora académica)", "correcta": true, "porQue": "Es el ejemplo n.º 1 del documento." },
+        { "texto": "Con 4 horas académicas", "correcta": false, "porQue": "La hora académica dura 40 minutos, no 60." },
+        { "texto": "Con 5 horas académicas (hora de 45 minutos)", "correcta": false, "porQue": "La hora académica dura 40 minutos." },
+        { "texto": "Con 8 horas académicas", "correcta": false, "porQue": "No coincide con el cálculo." }
+      ],
+      "explicacion": "Ejemplo n.º 2: 8 horas reloj = 480 minutos = 12 horas académicas.",
+      "citaTextual": "este taller de 4 horas reloj debe certificarse con 6 horas académicas",
+      "referencia": "RM 1040, Lineamientos Educación Permanente, págs. 43-46", "etiquetas": ["horas académicas", "caso", "cálculo"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según la RM 1040, el Centro Especializado para la Formación de las Organizaciones Sociales (CEFOS) se sustenta legalmente en:",
+      "opciones": [
+        { "texto": "El Art. 24, par. III de la Ley 070, que prevé una institución especializada dependiente del Ministerio de Educación para los procesos educativos permanentes no escolarizados", "correcta": true, "porQue": "Es el marco legal citado." },
+        { "texto": "El Art. 23 de la Ley 070, sobre la EPJA", "correcta": false, "porQue": "El Art. 23 regula la Educación de Personas Jóvenes y Adultas." },
+        { "texto": "El Art. 40 de la Ley 070, sobre la formación continua", "correcta": false, "porQue": "El Art. 40 regula la formación continua de maestros." },
+        { "texto": "El Art. 83 de la Ley 070, sobre el Observatorio", "correcta": false, "porQue": "El Art. 83 crea el Observatorio de la Calidad Educativa." }
+      ],
+      "explicacion": "El CEFOS se organiza en tres equipos regionales: Tierras Bajas, Valles y Altiplano.",
+      "citaTextual": "El proyecto se sustenta en el Art. 24, parágrafo III de la Ley de la Educación",
+      "referencia": "RM 1040, CEFOS, págs. 43-46", "etiquetas": ["CEFOS", "marco legal", "capciosa"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según la RM 1040, ¿en cuántos equipos regionales se configura la estrategia del CEFOS?",
+      "opciones": [
+        { "texto": "Tres: Tierras Bajas, Valles y Altiplano", "correcta": true, "porQue": "Es la estrategia descrita." },
+        { "texto": "Nueve, uno por departamento", "correcta": false, "porQue": "No coincide con la RM." },
+        { "texto": "Dos: urbano y rural", "correcta": false, "porQue": "No coincide con la RM." },
+        { "texto": "Cuatro: Norte, Sur, Este y Oeste", "correcta": false, "porQue": "No coincide con la RM." }
+      ],
+      "explicacion": "Los procesos son no escolarizados, flexibles y de carácter transterritorial.",
+      "citaTextual": "se basa en la configuración de tres equipos regionales: Tierras Bajas, Valles y Altiplano",
+      "referencia": "RM 1040, CEFOS, págs. 43-46", "etiquetas": ["CEFOS", "memorística"] }
+  ]},
+  { "fragmentoRef": "rm1040-b019", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según la RM 1040, ¿qué duración debe contemplar un curso corto de Educación Permanente No Escolarizada?",
+      "opciones": [
+        { "texto": "De 6 a 100 horas académicas", "correcta": true, "porQue": "Es lo que dice el documento." },
+        { "texto": "De 20 a 80 horas reloj", "correcta": false, "porQue": "Esa es la Categoría A de los Centros de Capacitación Técnica Privados." },
+        { "texto": "De 80 a 400 horas reloj", "correcta": false, "porQue": "Esa es la Categoría B, de cursos largos." },
+        { "texto": "De 100 a 200 horas académicas", "correcta": false, "porQue": "No coincide." }
+      ],
+      "explicacion": "Capciosa: hay que distinguir horas académicas de horas reloj, y cursos de Educación Permanente de categorías de centros privados.",
+      "citaTextual": "La duración de un curso corto debe contemplarse de 6 a 100 horas académicas",
+      "referencia": "RM 1040, Orientaciones Metodológicas, págs. 48-53", "etiquetas": ["cursos cortos", "memorística", "capciosa"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Un Centro de Capacitación Técnica Privado ofrece cursos cortos de 20 a 80 horas reloj. Según la RM 1040, ¿en qué categoría se ubica?",
+      "opciones": [
+        { "texto": "Categoría A", "correcta": true, "porQue": "La Categoría A desarrolla cursos cortos de 20 a 80 horas reloj." },
+        { "texto": "Categoría B", "correcta": false, "porQue": "La Categoría B desarrolla cursos largos de 80 a 400 horas reloj." },
+        { "texto": "Categoría C", "correcta": false, "porQue": "No existe en la RM." },
+        { "texto": "No se categoriza", "correcta": false, "porQue": "Sí se categoriza según la carga horaria." }
+      ],
+      "explicacion": "Los tramos formativos de los centros privados dependen de su carga horaria.",
+      "citaTextual": "Categoría A: los que desarrollan cursos cortos con una carga horaria de veinte (20) a ochenta (80) horas reloj.",
+      "referencia": "RM 1040, Centros Privados, págs. 48-53", "etiquetas": ["centros privados", "caso"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según la RM 1040, ¿qué lógica dialéctica debe reflejar el Diseño Metodológico de un curso corto?",
+      "opciones": [
+        { "texto": "Práctica, teoría, valoración y producción", "correcta": true, "porQue": "Es la lógica dialéctica del documento." },
+        { "texto": "Teoría, práctica, evaluación y certificación", "correcta": false, "porQue": "El orden y los elementos son otros." },
+        { "texto": "Objetivos, recursos, tiempo y responsables", "correcta": false, "porQue": "Eso es la lógica metodológica, no la dialéctica." },
+        { "texto": "Diagnóstico, planificación, ejecución y evaluación", "correcta": false, "porQue": "No es la lógica dialéctica del documento." }
+      ],
+      "explicacion": "Capciosa: hay que distinguir la lógica dialéctica de la lógica metodológica. El enfoque es el de la Educación Popular.",
+      "citaTextual": "refleje la Lógica Dialéctica: práctica, teoría, valoración y producción y la lógica metodológica: Objetivos, recursos, tiempo, responsables",
+      "referencia": "RM 1040, Orientaciones Metodológicas, págs. 48-53", "etiquetas": ["diseño metodológico", "capciosa"] }
+  ]},
+  { "fragmentoRef": "rm1040-b016", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Un Centro de Educación Permanente quiere abrir un curso largo con facilitadores comunitarios locales. ¿Cuál de las siguientes NO es una condición interna exigida por la RM 1040?",
+      "opciones": [
+        { "texto": "Contar con un mínimo de 50 participantes inscritos", "correcta": true, "porQue": "No figura entre las condiciones internas." },
+        { "texto": "Haber desarrollado mínimamente un curso largo en algún programa, o un curso en el Programa de Formación de Facilitadores Comunitarios", "correcta": false, "porQue": "Sí es una condición interna." },
+        { "texto": "Contar con un convenio o acuerdo con la organización interesada", "correcta": false, "porQue": "Sí es una condición interna." },
+        { "texto": "Tener vínculo con la organización solicitante mínimamente dos años", "correcta": false, "porQue": "Sí es una condición interna." }
+      ],
+      "explicacion": "También se requiere la demanda del curso por parte de la organización.",
+      "citaTextual": "Tener vínculo con la organizacional social o institución solicitante mínimamente dos años.",
+      "referencia": "RM 1040, Cursos largos, págs. 41-43", "etiquetas": ["cursos largos", "EXCEPTO"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Un CEA quiere diseñar un curso largo para población en riesgo social, con un enfoque participativo, inclusivo e intersectorial. Según la RM 1040, ¿a qué programa corresponde ese perfil?",
+      "opciones": [
+        { "texto": "Programa de Educación Abierta y Plural", "correcta": true, "porQue": "Es el perfil de ese programa." },
+        { "texto": "Programa Educación Productiva Comunitaria", "correcta": false, "porQue": "Ese programa fortalece la producción y la matriz productiva." },
+        { "texto": "Programa Educación para el Fortalecimiento de Organizaciones Sociales", "correcta": false, "porQue": "Ese programa moviliza la formación y la conciencia social de las organizaciones." },
+        { "texto": "Programa de Educación para la Convivencia con la Madre Tierra", "correcta": false, "porQue": "Ese programa desarrolla la conciencia socioambiental." }
+      ],
+      "explicacion": "Debe haber una relación estrecha entre el programa y el perfil del facilitador.",
+      "citaTextual": "Desarrolla procesos formativos para población vulnerable o en riego social con un enfoque participativo, inclusivo e intersectorial",
+      "referencia": "RM 1040, Cursos largos, págs. 41-43", "etiquetas": ["programas", "caso"] }
+  ]},
+  { "fragmentoRef": "rm1040-b021", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según la RM 1040, además del tiempo de duración, ¿qué diferencia a un curso largo de un curso corto?",
+      "opciones": [
+        { "texto": "Que se planifica con los actores (comunidades y organizaciones), y que los productores y trabajadores expertos del rubro participan en su planificación y desarrollo", "correcta": true, "porQue": "Son las características que señala el texto." },
+        { "texto": "Que lo planifica solo el facilitador", "correcta": false, "porQue": "Se planifica con los actores." },
+        { "texto": "Que no requiere diagnóstico", "correcta": false, "porQue": "Surge de las necesidades y problemas identificados." },
+        { "texto": "Que solo es teórico", "correcta": false, "porQue": "Se comparten técnicas y tecnologías productivas." }
+      ],
+      "explicacion": "La planificación surge siempre de las necesidades, problemas, intereses y potencialidades.",
+      "citaTextual": "Un curso largo es planificado con los actores, vale decir, comunidades, organizaciones",
+      "referencia": "RM 1040, Cursos largos, págs. 58-60", "etiquetas": ["cursos largos"] }
+  ]},
+  { "fragmentoRef": "rm1040-b023", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según la RM 1040, en el mapa de contenidos de un curso largo, ¿hasta qué proporción pueden distribuirse las horas prácticas y teóricas?",
+      "opciones": [
+        { "texto": "Hasta un 70% de práctica y un 30% de teoría", "correcta": true, "porQue": "Es lo que dice la nota del mapa de contenidos." },
+        { "texto": "Hasta un 70% de teoría y un 30% de práctica", "correcta": false, "porQue": "Capciosa: la proporción está invertida." },
+        { "texto": "Siempre un 50% y un 50%", "correcta": false, "porQue": "El 50/50 es el ejemplo de la tabla, pero puede variar." },
+        { "texto": "Un 90% de práctica y un 10% de teoría", "correcta": false, "porQue": "No coincide." }
+      ],
+      "explicacion": "Las horas varían según los objetivos y propósitos del curso.",
+      "citaTextual": "llegando incluso a distribuirse hasta un 70 % practica y 30 % teoría",
+      "referencia": "RM 1040, Mapa de contenidos, págs. 63-67", "etiquetas": ["cursos largos", "capciosa"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según el mapa de módulos de la RM 1040, ¿a través de qué subsistemas se desarrollará el nivel Técnico Medio?",
+      "opciones": [
+        { "texto": "A través de la Educación de Personas Jóvenes y Adultas (EPJA) o de la Educación Permanente (EDUPER), bajo reglamentación específica", "correcta": true, "porQue": "Es la nota (*) del mapa de módulos." },
+        { "texto": "Solo a través de institutos técnicos superiores", "correcta": false, "porQue": "No coincide con la nota." },
+        { "texto": "Solo a través de universidades", "correcta": false, "porQue": "No coincide con la nota." },
+        { "texto": "A través del Subsistema de Educación Regular", "correcta": false, "porQue": "No coincide con la nota." }
+      ],
+      "explicacion": "Los niveles son Técnico Básico, Técnico Auxiliar y Técnico Medio, con módulos de fortalecimiento organizacional y módulos emergentes.",
+      "citaTextual": "Este nivel se desarrollará a través de la Educación de Personas Jóvenes y Adultas (EPJA) o Educación Permanente (EDUPER) bajo reglamentación específica.",
+      "referencia": "RM 1040, Mapa de módulos, págs. 63-67", "etiquetas": ["niveles técnicos"] }
+  ]},
+  { "fragmentoRef": "rm1040-b008", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según el enfoque descolonizador y despatriarcalizador de la Educación Permanente (RM 1040), «enseñar» no es solo transferir conocimientos, sino:",
+      "opciones": [
+        { "texto": "Crear las condiciones para su producción o su construcción", "correcta": true, "porQue": "Es la cita del texto." },
+        { "texto": "Memorizar los contenidos universales", "correcta": false, "porQue": "Es la visión bancaria que se critica." },
+        { "texto": "Evaluar y certificar", "correcta": false, "porQue": "No es la idea." },
+        { "texto": "Transmitir la cultura occidental", "correcta": false, "porQue": "Se busca superar la hegemonía eurocéntrica." }
+      ],
+      "explicacion": "Se propone una práctica educativa dialógica, crítica, alegre y creativa, desde la andragogía para el Vivir Bien.",
+      "citaTextual": "“Enseñar no solo sea transferir conocimientos”, sino “crear las condiciones para su producción o su construcción”",
+      "referencia": "RM 1040, Enfoques de la Educación Permanente, págs. 23-25", "etiquetas": ["descolonización", "enfoques"] }
+  ]},
+  { "fragmentoRef": "rm1040-b002", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según la RM 1040, ¿qué instancia presenta los nuevos Lineamientos Metodológicos de Educación Permanente No Escolarizada?",
+      "opciones": [
+        { "texto": "La Dirección General de Educación de Adultos del Viceministerio de Educación Alternativa y Especial", "correcta": true, "porQue": "Es lo que dice la introducción." },
+        { "texto": "La Dirección General de Educación Especial", "correcta": false, "porQue": "Es otra dirección del mismo viceministerio." },
+        { "texto": "El Viceministerio de Educación Regular", "correcta": false, "porQue": "No corresponde al subsistema." },
+        { "texto": "Las Direcciones Departamentales de Educación", "correcta": false, "porQue": "No son la instancia que los presenta." }
+      ],
+      "explicacion": "Los lineamientos tienen dos partes: Lineamientos Metodológicos, y Orientaciones Metodológicas para cursos cortos y largos.",
+      "citaTextual": "a través de la Dirección General de Educación de Adultos del Viceministerio de Educación Alternativa y Especial",
+      "referencia": "RM 1040, Introducción, págs. 10-13", "etiquetas": ["institucionalidad", "memorística"] }
+  ]}
+]
