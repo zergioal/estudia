@@ -1,0 +1,142 @@
+[
+  { "fragmentoRef": "ods4-b002", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según la Declaración de Incheon (ODS 4-Educación 2030), ¿qué constituye la piedra angular de una agenda de la educación transformadora?",
+      "opciones": [
+        { "texto": "La inclusión y la equidad en la educación y a través de ella", "correcta": true, "porQue": "Es la afirmación textual de la Declaración." },
+        { "texto": "La gratuidad de la educación superior", "correcta": false, "porQue": "No es lo que la Declaración llama piedra angular." },
+        { "texto": "La medición de los resultados en pruebas internacionales", "correcta": false, "porQue": "La evaluación es un insumo de la calidad, no la piedra angular." },
+        { "texto": "La incorporación de las TIC en el aula", "correcta": false, "porQue": "Las TIC son un medio para reforzar los sistemas educativos." }
+      ],
+      "explicacion": "De ahí el principio de que ninguna meta educativa debería considerarse lograda a menos que se haya logrado para todos.",
+      "citaTextual": "La inclusión y la equidad en la educación y a través de ella son la piedra angular de una agenda de la educación transformadora",
+      "referencia": "Declaración de Incheon y Marco de Acción ODS 4, págs. 6-8", "etiquetas": ["inclusión", "equidad"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Un país informa que alcanzó la meta de conclusión de la primaria a nivel nacional, pero las niñas indígenas del área rural siguen muy por debajo. Según la Declaración de Incheon:",
+      "opciones": [
+        { "texto": "La meta no debería considerarse lograda, porque ninguna meta educativa se considera lograda a menos que se haya logrado para todos", "correcta": true, "porQue": "Es el principio de equidad de la Declaración." },
+        { "texto": "La meta está lograda, porque se mide con el promedio nacional", "correcta": false, "porQue": "La Declaración rechaza expresamente ese criterio." },
+        { "texto": "La meta está lograda si la brecha es menor al 10%", "correcta": false, "porQue": "La Declaración no fija ese umbral." },
+        { "texto": "La meta solo exige mejorar el acceso, no los resultados", "correcta": false, "porQue": "La Declaración se refiere al acceso, la participación y los resultados de aprendizaje." }
+      ],
+      "explicacion": "Hay que centrar los esfuerzos en los más desfavorecidos para que nadie se quede atrás.",
+      "citaTextual": "Ninguna meta educativa debería considerarse lograda a menos que se haya logrado para todos.",
+      "referencia": "Declaración de Incheon y Marco de Acción ODS 4, págs. 6-8", "etiquetas": ["no dejar a nadie atrás", "caso"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Un CEA quiere acreditar las competencias que un participante adquirió trabajando como mecánico, sin estudios formales. ¿Qué compromiso de la Declaración de Incheon respalda esta iniciativa?",
+      "opciones": [
+        { "texto": "El reconocimiento, la validación y la acreditación de los conocimientos, habilidades y competencias adquiridos mediante la educación informal y no formal", "correcta": true, "porQue": "Es el compromiso sobre aprendizaje a lo largo de la vida." },
+        { "texto": "La gratuidad de 12 años de educación primaria y secundaria", "correcta": false, "porQue": "No se refiere al reconocimiento de aprendizajes previos." },
+        { "texto": "La educación para la ciudadanía mundial", "correcta": false, "porQue": "No es el compromiso aplicable a este caso." },
+        { "texto": "Las becas para estudiar en el extranjero (meta 4.b)", "correcta": false, "porQue": "No es el compromiso aplicable a este caso." }
+      ],
+      "explicacion": "Este compromiso coincide con el Art. 18 de la Ley 070 sobre el reconocimiento de saberes en Educación Alternativa.",
+      "citaTextual": "el reconocimiento, la validación y la acreditación de los conocimientos, habilidades y competencias adquiridos mediante la educación informal y no formal",
+      "referencia": "Declaración de Incheon y Marco de Acción ODS 4, págs. 6-8", "etiquetas": ["aprendizaje a lo largo de la vida", "caso"] }
+  ]},
+  { "fragmentoRef": "ods4-b008", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "¿Qué enseñanza extrae el Marco de Acción Educación 2030 de no haber alcanzado los objetivos de la Educación para Todos (EPT)?",
+      "opciones": [
+        { "texto": "Que de «seguir con lo habitual» la educación de calidad para todos no se hará nunca realidad", "correcta": true, "porQue": "Es la enseñanza que señala el texto." },
+        { "texto": "Que basta con ampliar el acceso a la escuela", "correcta": false, "porQue": "El texto advierte del peligro de concentrarse solo en el acceso." },
+        { "texto": "Que las metas deben limitarse a los países en desarrollo", "correcta": false, "porQue": "La nueva agenda es universal." },
+        { "texto": "Que deben reducirse las metas para 2030", "correcta": false, "porQue": "Se pide movilizar esfuerzos a una velocidad sin precedentes." }
+      ],
+      "explicacion": "Al ritmo actual, muchos países rezagados no alcanzarán las metas de 2030, así que hay que cambiar las prácticas vigentes.",
+      "citaTextual": "de “seguir con lo habitual” la educación de calidad para todos no se hará nunca realidad",
+      "referencia": "Marco de Acción Educación 2030, págs. 23-25", "etiquetas": ["EPT", "lecciones"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "¿Qué aspecto novedoso del ODS 4-Educación 2030 lo distingue de agendas anteriores?",
+      "opciones": [
+        { "texto": "Que reviste un carácter universal y pertenece al mundo entero, tanto a los países desarrollados como en desarrollo", "correcta": true, "porQue": "Es la novedad que destaca el texto." },
+        { "texto": "Que está dirigido solo a los países menos adelantados", "correcta": false, "porQue": "Es universal." },
+        { "texto": "Que se limita a la educación primaria", "correcta": false, "porQue": "Abarca desde la primera infancia hasta la educación superior y de adultos." },
+        { "texto": "Que no tiene metas cuantificables", "correcta": false, "porQue": "Tiene metas e indicadores." }
+      ],
+      "explicacion": "La agenda también se caracteriza por una visión holística y humanista.",
+      "citaTextual": "reviste un carácter universal y pertenece al mundo entero, tanto a los países desarrollados como en desarrollo",
+      "referencia": "Marco de Acción Educación 2030, págs. 23-25", "etiquetas": ["universalidad"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Centrarse en la calidad de la educación pone de relieve, según el Marco de Acción, el peligro de:",
+      "opciones": [
+        { "texto": "Concentrarse en el acceso a la educación sin determinar si los alumnos están aprendiendo y adquiriendo competencias pertinentes", "correcta": true, "porQue": "Es la enseñanza que señala el texto." },
+        { "texto": "Invertir demasiado en formación docente", "correcta": false, "porQue": "No es lo que señala el texto." },
+        { "texto": "Incluir a migrantes y pueblos indígenas", "correcta": false, "porQue": "La inclusión es un objetivo de la agenda, no un peligro." },
+        { "texto": "Evaluar los aprendizajes en el aula", "correcta": false, "porQue": "La evaluación formativa se promueve." }
+      ],
+      "explicacion": "Asistir a la escuela no garantiza aprender.",
+      "citaTextual": "el peligro de concentrarse en el acceso a la educación, sin prestar la debida atención a determinar si los alumnos están aprendiendo",
+      "referencia": "Marco de Acción Educación 2030, págs. 23-25", "etiquetas": ["calidad", "aprendizaje"] }
+  ]},
+  { "fragmentoRef": "ods4-b013", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según las estrategias indicativas de la meta 4.1 del Marco de Acción Educación 2030, ¿cuántos años de educación primaria y secundaria gratuita se deben garantizar, y cuántos de ellos deben ser obligatorios como mínimo?",
+      "opciones": [
+        { "texto": "12 años gratuitos, de los cuales no menos de nueve obligatorios", "correcta": true, "porQue": "Es la estrategia indicativa del texto." },
+        { "texto": "9 años gratuitos, de los cuales seis obligatorios", "correcta": false, "porQue": "Nueve años es el mínimo obligatorio y seis es la duración habitual de la CINE 1." },
+        { "texto": "12 años gratuitos y obligatorios en su totalidad", "correcta": false, "porQue": "El mínimo obligatorio es de nueve años." },
+        { "texto": "10 años gratuitos, de los cuales tres obligatorios", "correcta": false, "porQue": "No coincide con el texto." }
+      ],
+      "explicacion": "Los nueve años equivalen a la CINE 1 (primaria, unos seis años) más la CINE 2 (secundaria baja, unos tres años).",
+      "citaTextual": "garanticen 12 años de educación primaria y secundaria gratuita, financiada con fondos públicos, inclusiva, equitativa y de calidad, de los cuales no menos de nueve serán obligatorios",
+      "referencia": "Marco de Acción Educación 2030, meta 4.1, págs. 34-36", "etiquetas": ["gratuidad", "obligatoriedad"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Un CEA en una comunidad quechuahablante debe decidir la lengua de enseñanza inicial. ¿Qué recomienda el Marco de Acción Educación 2030 en contextos plurilingües?",
+      "opciones": [
+        { "texto": "Promover la educación bilingüe y plurilingüe, comenzando con el aprendizaje temprano en la primera lengua o la hablada en casa", "correcta": true, "porQue": "Es la estrategia indicativa del texto." },
+        { "texto": "Enseñar exclusivamente en la lengua oficial mayoritaria", "correcta": false, "porQue": "Contradice la recomendación." },
+        { "texto": "Priorizar una lengua extranjera desde el inicio", "correcta": false, "porQue": "Se recomienda una lengua extranjera como asignatura, no como lengua inicial." },
+        { "texto": "Dejar la decisión a cada docente sin política", "correcta": false, "porQue": "La recomendación es una estrategia de política." }
+      ],
+      "explicacion": "Esto concuerda con la educación intracultural, intercultural y plurilingüe de la Ley 070.",
+      "citaTextual": "promover la educación bilingüe y plurilingüe, comenzando con el aprendizaje temprano en la primera lengua de los niños o la hablada en casa",
+      "referencia": "Marco de Acción Educación 2030, págs. 34-36", "etiquetas": ["plurilingüismo", "caso"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según el Marco de Acción, además de los insumos y procesos, ¿de qué depende también la calidad de la educación?",
+      "opciones": [
+        { "texto": "De sistemas de gestión del personal docente, buena gobernanza, mecanismos de rendición de cuentas y una sólida gestión de la financiación pública", "correcta": true, "porQue": "Es lo que señala el texto." },
+        { "texto": "Exclusivamente del número de horas de clase", "correcta": false, "porQue": "Es una visión reduccionista." },
+        { "texto": "De la privatización de la oferta educativa", "correcta": false, "porQue": "No es lo que señala el texto." },
+        { "texto": "Únicamente de la infraestructura escolar", "correcta": false, "porQue": "Es solo uno de los insumos." }
+      ],
+      "explicacion": "La gobernanza se refuerza ampliando la participación de las comunidades, incluidos los jóvenes y los padres, en la gestión de las escuelas.",
+      "citaTextual": "la calidad depende también de la existencia de sistemas de gestión del personal docente, una buena gobernanza, mecanismos de rendición de cuentas",
+      "referencia": "Marco de Acción Educación 2030, págs. 34-36", "etiquetas": ["calidad", "gobernanza"] }
+  ]},
+  { "fragmentoRef": "ods4-b020", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según el Marco de Acción Educación 2030, ¿cuántos niños y niñas sufren aproximadamente acoso y abusos dentro y alrededor de las escuelas cada año?",
+      "opciones": [
+        { "texto": "Unos 246 millones", "correcta": true, "porQue": "Es la cifra que da el texto." },
+        { "texto": "Unos 3.200 millones", "correcta": false, "porQue": "3.200 millones de dólares es el monto anual de ayuda destinado a becas." },
+        { "texto": "Unos 24 millones", "correcta": false, "porQue": "Es la cifra con un orden de magnitud cambiado." },
+        { "texto": "Unos 57 millones", "correcta": false, "porQue": "No es la cifra del texto." }
+      ],
+      "explicacion": "La violencia de género en la escuela es un obstáculo considerable para la educación de las niñas.",
+      "citaTextual": "aproximadamente 246 millones de niñas y niños sufren acoso y abusos dentro y a los alrededores de las escuelas cada año",
+      "referencia": "Marco de Acción Educación 2030, meta 4.a, págs. 49-51", "etiquetas": ["violencia escolar", "datos"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Un director detecta un aumento del ausentismo de las adolescentes del centro. Según el Marco de Acción, ¿qué factor puede estar incrementándolo?",
+      "opciones": [
+        { "texto": "La falta de servicios privados y de acceso a compresas, y la estigmatización relativa a la higiene menstrual", "correcta": true, "porQue": "Es lo que señala el texto sobre el ausentismo de las niñas." },
+        { "texto": "El exceso de tareas escolares", "correcta": false, "porQue": "No es lo que señala el texto." },
+        { "texto": "La enseñanza en lengua materna", "correcta": false, "porQue": "No es lo que señala el texto." },
+        { "texto": "La presencia de docentes mujeres", "correcta": false, "porQue": "No es lo que señala el texto." }
+      ],
+      "explicacion": "De ahí la estrategia de que los establecimientos tengan servicios separados para hombres y mujeres, en buen estado y accesibles.",
+      "citaTextual": "La falta de servicios privados y de acceso a compresas, así como la estigmatización relativa a la higiene cuando las niñas comienzan a menstruar",
+      "referencia": "Marco de Acción Educación 2030, meta 4.a, págs. 49-51", "etiquetas": ["género", "entornos seguros", "caso"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "La meta 4.b del ODS 4 se refiere a:",
+      "opciones": [
+        { "texto": "Aumentar considerablemente, de aquí a 2020, el número de becas disponibles para los países en desarrollo, para que sus estudiantes cursen enseñanza superior", "correcta": true, "porQue": "Es el texto de la meta 4.b." },
+        { "texto": "Construir y adecuar instalaciones educativas seguras e inclusivas", "correcta": false, "porQue": "Esa es la meta 4.a." },
+        { "texto": "Aumentar la oferta de docentes calificados", "correcta": false, "porQue": "Esa es la meta 4.c." },
+        { "texto": "Garantizar la alfabetización de jóvenes y adultos", "correcta": false, "porQue": "Esa es la meta 4.6." }
+      ],
+      "explicacion": "Es una de las pocas metas con plazo en 2020 y no en 2030.",
+      "citaTextual": "De aquí a 2020, aumentar considerablemente a nivel mundial el número de becas disponibles para los países en desarrollo",
+      "referencia": "Marco de Acción Educación 2030, meta 4.b, págs. 49-51", "etiquetas": ["metas", "becas"] }
+  ]}
+]

@@ -1,0 +1,67 @@
+[
+  { "fragmentoRef": "rm0001-2026-art30", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Una organización propone abrir un nuevo punto de Post-alfabetización en una zona donde ya funciona un CEA acreditado con el nivel de Educación Primaria de adultos. Según el Art. 30 de la RM 0001/2026:",
+      "opciones": [
+        { "texto": "No se apertura el punto; la atención de toda la población mayor de quince años que requiera Educación Primaria queda bajo responsabilidad del CEA", "correcta": true, "porQue": "Es la regla del num. 2." },
+        { "texto": "Se apertura si existen al menos quince participantes", "correcta": false, "porQue": "El número de participantes no habilita la apertura en zonas con CEA acreditado." },
+        { "texto": "Se apertura con autorización de la Dirección Distrital", "correcta": false, "porQue": "La norma prohíbe aperturar nuevos puntos en esas áreas." },
+        { "texto": "Se apertura y el CEA deja de atender Educación Primaria", "correcta": false, "porQue": "Es al revés: el CEA asume esa atención." }
+      ],
+      "explicacion": "Las subdirecciones de educación alternativa y especial coordinan con los directores distritales y de CEA, y garantizan la transitabilidad de los participantes de Post-alfabetización al CEA.",
+      "citaTextual": "No se aperturarán nuevos puntos de Post-alfabetización en las áreas donde se encuentren centros de educación alternativa acreditados con el nivel de educación primaria de adultos",
+      "referencia": "RM 0001/2026, Art. 30, num. 2, pág. 25", "etiquetas": ["post-alfabetización", "caso"] }
+  ]},
+  { "fragmentoRef": "rm0001-2026-art32", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según el Art. 32 de la RM 0001/2026, ¿en qué modalidad de atención los participantes asumen la responsabilidad del ritmo y la intensidad de sus aprendizajes y no asisten a sesiones presenciales?",
+      "opciones": [
+        { "texto": "Modalidad a Distancia", "correcta": true, "porQue": "Es la definición del num. 3." },
+        { "texto": "Modalidad Semipresencial", "correcta": false, "porQue": "Combina sesiones presenciales con autoformación, así que sí hay presencialidad." },
+        { "texto": "Modalidad Presencial con horario flexible", "correcta": false, "porQue": "La presencial exige la participación física y simultánea." },
+        { "texto": "Modalidad itinerante y desescolarizada", "correcta": false, "porQue": "Es la forma de atención de los docentes de primaria del Art. 30, no una de las tres modalidades del Art. 32." }
+      ],
+      "explicacion": "Hay tres modalidades: Presencial, Semipresencial y a Distancia.",
+      "citaTextual": "los participantes asumen la responsabilidad del ritmo y la intensidad de sus aprendizajes, no asisten a sesiones presenciales",
+      "referencia": "RM 0001/2026, Art. 32, num. 3, pág. 26", "etiquetas": ["modalidades"] }
+  ]},
+  { "fragmentoRef": "rm0001-2026-art36", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Al armar el file para el trámite del Diploma de Bachiller de un participante del CEA, la secretaría exige las libretas de Educación Primaria. Según el Art. 36 de la RM 0001/2026:",
+      "opciones": [
+        { "texto": "Es incorrecto: para la emisión del Diploma de Bachiller no se requieren las libretas del nivel de Educación Primaria", "correcta": true, "porQue": "Lo dispone expresamente el par. II." },
+        { "texto": "Es correcto, porque se debe acreditar toda la trayectoria escolar", "correcta": false, "porQue": "La norma excluye expresamente esas libretas." },
+        { "texto": "Es correcto solo si el participante tuvo inscripción excepcional", "correcta": false, "porQue": "En ese caso se adjuntan los documentos de respaldo de la inscripción, no las libretas de primaria." },
+        { "texto": "Es correcto si el participante es del CEPEAD", "correcta": false, "porQue": "Para el CEPEAD la regla especial es que se admiten fotocopias simples." }
+      ],
+      "explicacion": "Requisitos: concluir la Secundaria de PJA (de la Etapa de Aprendizajes Aplicados, tercer año, a la de Aprendizajes Especializados, quinto año), el formulario CUT-DB-ALT y dos fotografías 4x4 con fondo celeste.",
+      "citaTextual": "Para la emisión del Diploma de Bachiller no se requiere las libretas del nivel de Educación Primaria.",
+      "referencia": "RM 0001/2026, Art. 36, par. II, págs. 27-28", "etiquetas": ["diploma de bachiller", "caso"] }
+  ]},
+  { "fragmentoRef": "rm0001-2026-art43", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Una fundación ofrece al director de un CEA firmar directamente un convenio de capacitación técnica. Según el Art. 43 de la RM 0001/2026:",
+      "opciones": [
+        { "texto": "El director no puede suscribirlo: el Ministerio de Educación y las direcciones departamentales de educación son las únicas instancias para suscribir convenios", "correcta": true, "porQue": "El Art. 43 limita la suscripción de convenios a esas dos instancias." },
+        { "texto": "Puede suscribirlo con el aval de la Junta Escolar", "correcta": false, "porQue": "La norma no prevé esa vía." },
+        { "texto": "Puede suscribirlo si el convenio no implica erogación económica", "correcta": false, "porQue": "La norma no hace esa excepción." },
+        { "texto": "Lo suscribe el director distrital", "correcta": false, "porQue": "La Dirección Distrital no figura entre las únicas instancias habilitadas." }
+      ],
+      "explicacion": "Los convenios se rigen por las Pautas para la Gestión y firma de Convenios Institucionales a Nivel Central y Departamental.",
+      "citaTextual": "El Ministerio de Educación y las direcciones departamentales de educación son las únicas instancias en cuanto a la suscripción de convenios",
+      "referencia": "RM 0001/2026, Art. 43, págs. 30-31", "etiquetas": ["convenios", "caso"] }
+  ]},
+  { "fragmentoRef": "rm0001-2026-art50", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Respecto a los centros de educación alternativa privados, ¿qué afirmación es correcta según el Art. 50 de la RM 0001/2026?",
+      "opciones": [
+        { "texto": "Se prohíbe el cobro de matrícula, derecho de inscripción o cualquier otro concepto, y en la gestión 2026 no hay incremento de pensiones", "correcta": true, "porQue": "Lo disponen los par. II y III." },
+        { "texto": "Pueden cobrar matrícula si no incrementan las pensiones", "correcta": false, "porQue": "El cobro de matrícula está prohibido en cualquier caso." },
+        { "texto": "Las pensiones pueden dividirse en hasta diez cuotas por semestre", "correcta": false, "porQue": "El máximo es de cinco cuotas por semestre o anuales." },
+        { "texto": "Las denuncias por incumplimiento se presentan solo por escrito ante el Ministerio", "correcta": false, "porQue": "Se presentan de forma verbal o escrita ante la Dirección Distrital de la jurisdicción." }
+      ],
+      "explicacion": "La norma busca proteger el derecho a la educación y la economía de las familias.",
+      "citaTextual": "Se prohíbe el cobro de matrícula, derecho de inscripción o cualquier otro concepto.",
+      "referencia": "RM 0001/2026, Art. 50, par. III, pág. 33", "etiquetas": ["CEA privados", "pensiones"] }
+  ]}
+]

@@ -1,0 +1,96 @@
+[
+  { "fragmentoRef": "lidei2022-b010", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según el informe de la OEI sobre liderazgo directivo, ¿cómo se caracteriza el caso portugués?",
+      "opciones": [
+        { "texto": "Como un modelo de gestión democrática con mandos intermedios de coordinación y supervisión, que coexiste con una gestión centralizada y se somete a evaluación externa en ciclos de cuatro a cinco años", "correcta": true, "porQue": "Es la síntesis que hace el informe." },
+        { "texto": "Como un modelo totalmente descentralizado y sin evaluación externa", "correcta": false, "porQue": "Coexiste con una gestión centralizada y tiene evaluación externa." },
+        { "texto": "Como un modelo de liderazgo unipersonal con evaluación anual", "correcta": false, "porQue": "Los ciclos son de cuatro a cinco años y el liderazgo intermedio se fortalece." },
+        { "texto": "Como un modelo neoliberal basado en la competitividad entre escuelas", "correcta": false, "porQue": "Esa tensión se atribuye al proyecto neoliberal en España y Brasil." }
+      ],
+      "explicacion": "En la evaluación externa, el dominio de Liderazgo y Gestión es el que tiene las clasificaciones más precisas.",
+      "citaTextual": "Las prácticas de dirección y gestión son objeto de una evaluación externa, en ciclos de cuatro a cinco años",
+      "referencia": "OEI, Liderazgo directivo 2022, págs. 22-24", "etiquetas": ["Portugal", "evaluación externa"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según Batista y Pereyra (2020), citados en el informe de la OEI, ¿qué rasgos expresan el proyecto político neoliberal en la gestión escolar de España y Brasil?",
+      "opciones": [
+        { "texto": "La lógica de la competitividad, el fortalecimiento de la jerarquía escolar y la concentración de las decisiones en líderes unipersonales", "correcta": true, "porQue": "Son los matices que señala el informe." },
+        { "texto": "La participación de toda la comunidad educativa en la toma de decisiones", "correcta": false, "porQue": "Ese es el proyecto democrático-participativo." },
+        { "texto": "El reconocimiento de las diferencias como base de la justicia social", "correcta": false, "porQue": "Corresponde a la gestión democrática." },
+        { "texto": "La autonomía escolar como forma de participación democrática", "correcta": false, "porQue": "Es el espíritu de la Constitución española según el informe." }
+      ],
+      "explicacion": "Los dos proyectos políticos, el democrático-participativo y el neoliberal, compiten en la legislación sobre gestión escolar.",
+      "citaTextual": "la lógica de la competitividad, el fortalecimiento de la jerarquía escolar y la concentración de las decisiones en líderes unipersonales",
+      "referencia": "OEI, Liderazgo directivo 2022, págs. 22-24", "etiquetas": ["gestión democrática", "neoliberalismo"] }
+  ]},
+  { "fragmentoRef": "lidei2022-b021", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "En la encuesta de la OEI a directores, ¿en qué país se valoraron las habilidades personales de liderazgo en el proceso de selección del 93% de los directores?",
+      "opciones": [
+        { "texto": "Chile", "correcta": true, "porQue": "El 93% de los directores chilenos lo señala." },
+        { "texto": "Argentina", "correcta": false, "porQue": "En Argentina fue el 35%; allí predominó la experiencia (69%)." },
+        { "texto": "España", "correcta": false, "porQue": "En España fue el 36%; allí predominó el proyecto de dirección (67%)." },
+        { "texto": "Portugal", "correcta": false, "porQue": "Portugal no forma parte de la encuesta a directores (Argentina, Chile y España)." }
+      ],
+      "explicacion": "Los criterios más valorados fueron: Argentina, la experiencia (69%); Chile, el liderazgo (93%); España, el proyecto de dirección (67%).",
+      "citaTextual": "El 93% de los directores chilenos estima que en el proceso de selección se han valorado las habilidades personales de liderazgo.",
+      "referencia": "OEI, Liderazgo directivo 2022, págs. 49-51", "etiquetas": ["acceso a la dirección", "datos"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según el informe de la OEI, en España, ¿cuál fue el aspecto más valorado en el acceso a la dirección escolar?",
+      "opciones": [
+        { "texto": "El proyecto de dirección (67%), seguido de los años de experiencia (64%)", "correcta": true, "porQue": "Son los resultados de la encuesta en España." },
+        { "texto": "La superación de un examen", "correcta": false, "porQue": "No es el aspecto más valorado en España." },
+        { "texto": "Las habilidades de liderazgo (93%)", "correcta": false, "porQue": "El 93% corresponde a Chile; en España fue el 36%." },
+        { "texto": "Los años de experiencia (69%)", "correcta": false, "porQue": "El 69% corresponde a Argentina." }
+      ],
+      "explicacion": "En España, la selección la hace una comisión con representantes de la comunidad educativa y de la Administración, según la LOE modificada por la LOMLOE.",
+      "citaTextual": "el aspecto más valorado es el proyecto de dirección (67%) seguido de los años de experiencia (64%)",
+      "referencia": "OEI, Liderazgo directivo 2022, págs. 49-51", "etiquetas": ["acceso a la dirección", "España"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según el informe de la OEI, ¿a qué puede vincularse el nombramiento forzoso del 14% de los directores en España?",
+      "opciones": [
+        { "texto": "Al bajo atractivo de la función directiva en algunos centros", "correcta": true, "porQue": "Es la interpretación del informe." },
+        { "texto": "A la ausencia de un proceso regulado de acceso", "correcta": false, "porQue": "Todos los directores afirman que existe un proceso regulado." },
+        { "texto": "A la exigencia de aprobar un examen de oposición", "correcta": false, "porQue": "No es la explicación del informe." },
+        { "texto": "A la sobreoferta de candidatos", "correcta": false, "porQue": "Es lo contrario: nadie quiere asumir la dirección." }
+      ],
+      "explicacion": "En los tres países, entre el 8% y el 14% de los directores fueron nombrados de forma forzosa, a veces porque el cargo no compensa la dedicación, el salario o la valoración social.",
+      "citaTextual": "Sorprende el nombramiento forzoso del 14% de los directores, que se puede vincular al bajo atractivo de la función directiva en algunos centros.",
+      "referencia": "OEI, Liderazgo directivo 2022, págs. 49-51", "etiquetas": ["nombramiento forzoso"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según el informe de la OEI, ¿qué opinan los directores de España (72%) y Argentina (70%) sobre su formación?",
+      "opciones": [
+        { "texto": "Que la formación de los directores no está diferenciada en función de la experiencia", "correcta": true, "porQue": "Es la opinión mayoritaria que reporta el informe." },
+        { "texto": "Que la formación inicial y la de actualización están plenamente institucionalizadas", "correcta": false, "porQue": "En España existen ejemplos, pero no está institucionalizado." },
+        { "texto": "Que la Administración y los directores coinciden plenamente", "correcta": false, "porQue": "En Argentina, la Administración valora la diferenciación con un 5 sobre 6, al contrario de sus directores." },
+        { "texto": "Que no existe ninguna oferta de formación", "correcta": false, "porQue": "No es lo que señala el informe." }
+      ],
+      "explicacion": "En Chile la opinión está dividida: cerca del 50% está en desacuerdo con que la formación esté diferenciada.",
+      "citaTextual": "tienen posiciones similares al opinar que la formación de los directores no está diferenciada en función de la experiencia",
+      "referencia": "OEI, Liderazgo directivo 2022, págs. 49-51", "etiquetas": ["formación directiva"] }
+  ]},
+  { "fragmentoRef": "lidei2022-b034", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "¿Qué muestra se usó en la encuesta piloto de la OEI sobre los rasgos del modelo de liderazgo?",
+      "opciones": [
+        { "texto": "Una muestra incidental de 77 directores y directoras de Argentina, Chile y España", "correcta": true, "porQue": "Es la muestra que describe el informe." },
+        { "texto": "Una muestra probabilística de directores de nueve países", "correcta": false, "porQue": "Los nueve países corresponden al estudio OEI-INEE 2019 sobre la normativa." },
+        { "texto": "Todos los directores de Iberoamérica", "correcta": false, "porQue": "Es una muestra incidental pequeña." },
+        { "texto": "Las Administraciones educativas de Argentina, Brasil y Portugal", "correcta": false, "porQue": "La encuesta piloto fue a directores de Argentina, Chile y España." }
+      ],
+      "explicacion": "Al ser una muestra incidental, sus resultados no son representativos de cada país.",
+      "citaTextual": "una muestra incidental de directores y directoras de Argentina, Chile y España (77 en total)",
+      "referencia": "OEI, Liderazgo directivo 2022, págs. 81-84", "etiquetas": ["metodología"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según el estudio OEI-INEE (2019) sobre la normativa de dirección escolar, ¿qué aspecto la mayoría de los países señala que NO está cuantificado en la normativa y debería ser objeto de reflexión?",
+      "opciones": [
+        { "texto": "La docencia directa con el alumnado", "correcta": true, "porQue": "Es lo que señala la mayoría de los países." },
+        { "texto": "El perfil de funciones del director", "correcta": false, "porQue": "Sobre el perfil de funciones hay más consenso, con una valoración intermedia." },
+        { "texto": "Los requisitos de acceso al cargo", "correcta": false, "porQue": "No es lo que destaca el estudio." },
+        { "texto": "El salario del director", "correcta": false, "porQue": "No es lo que destaca el estudio." }
+      ],
+      "explicacion": "Además, solo dos países cuantifican en su normativa el tiempo dedicado a la gestión administrativa, el liderazgo pedagógico y la convivencia.",
+      "citaTextual": "La mayoría de los países señala que la docencia directa con el alumnado no está cuantificada en la normativa, lo que debería ser objeto de reflexión.",
+      "referencia": "OEI, Liderazgo directivo 2022, págs. 81-84", "etiquetas": ["normativa", "tiempo directivo"] }
+  ]}
+]

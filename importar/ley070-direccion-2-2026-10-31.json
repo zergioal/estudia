@@ -1,0 +1,76 @@
+[
+  { "fragmentoRef": "ley070-art18", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Un albañil con veinte años de experiencia, sin estudios formales, se acerca al CEA para que se le reconozca su oficio. Según el Art. 18 de la Ley 070, sus saberes adquiridos en la práctica cotidiana y comunitaria:",
+      "opciones": [
+        { "texto": "Serán reconocidos y homologados a niveles y modalidades que correspondan al Subsistema de Educación Alternativa y Especial", "correcta": true, "porQue": "Es el texto del Art. 18." },
+        { "texto": "Solo pueden certificarse en una universidad pública", "correcta": false, "porQue": "La homologación corresponde al Subsistema de Educación Alternativa y Especial." },
+        { "texto": "Solo se reconocen si cursa la Educación Secundaria de Personas Jóvenes y Adultas completa", "correcta": false, "porQue": "El Art. 18 reconoce saberes previos sin exigir cursar todo el nivel." },
+        { "texto": "Se acreditan en el Subsistema de Educación Regular", "correcta": false, "porQue": "El subsistema competente es el Alternativo y Especial." }
+      ],
+      "explicacion": "El reconocimiento de saberes es una función propia del Subsistema de Educación Alternativa y Especial.",
+      "citaTextual": "serán reconocidos y homologados a niveles y modalidades que correspondan al Subsistema de Educación Alternativa y Especial",
+      "referencia": "Ley 070, Art. 18, pág. 14", "etiquetas": ["reconocimiento de saberes", "alternativa", "caso"] }
+  ]},
+  { "fragmentoRef": "ley070-art22", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según el Art. 22 de la Ley 070, ¿cuáles son las áreas de la Educación Alternativa?",
+      "opciones": [
+        { "texto": "Educación de Personas Jóvenes y Adultas, y Educación Permanente", "correcta": true, "porQue": "Son las dos áreas que fija el Art. 22." },
+        { "texto": "Educación de Personas Jóvenes y Adultas, Educación Permanente y Educación Especial", "correcta": false, "porQue": "La Educación Especial forma parte del mismo subsistema, pero no es un área de la Educación Alternativa." },
+        { "texto": "Alfabetización, Post-alfabetización y Educación Técnica", "correcta": false, "porQue": "Alfabetización y post-alfabetización son niveles dentro de la Educación de Personas Jóvenes y Adultas." },
+        { "texto": "Educación Primaria y Educación Secundaria de Personas Jóvenes y Adultas", "correcta": false, "porQue": "Son niveles de formación de la EPJA (Art. 23), no áreas." }
+      ],
+      "explicacion": "Hay que distinguir las áreas (Art. 22: EPJA y Permanente) de los niveles de la EPJA (Art. 23: primaria con alfabetización y post-alfabetización, y secundaria).",
+      "citaTextual": "Son áreas de la Educación Alternativa: 1. Educación de Personas Jóvenes y Adultas. 2. Educación Permanente.",
+      "referencia": "Ley 070, Art. 22, pág. 15", "etiquetas": ["alternativa", "estructura"] }
+  ]},
+  { "fragmentoRef": "ley070-art40", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según el Art. 40 de la Ley 070, la formación continua de maestras y maestros es:",
+      "opciones": [
+        { "texto": "Un derecho y un deber de toda maestra y maestro", "correcta": true, "porQue": "Es el texto del par. 1." },
+        { "texto": "Un derecho optativo que depende de la voluntad del maestro", "correcta": false, "porQue": "Además de derecho, es un deber." },
+        { "texto": "Un requisito exclusivo para ascender de categoría", "correcta": false, "porQue": "La ley la concibe como derecho y deber general." },
+        { "texto": "Una obligación que asume cada Unidad Educativa con recursos propios", "correcta": false, "porQue": "Está a cargo de una instancia especializada del Ministerio de Educación." }
+      ],
+      "explicacion": "Busca mejorar la calidad de la gestión, de los procesos, de los resultados y del ambiente educativo.",
+      "citaTextual": "La formación continua es un derecho y un deber de toda maestra y maestro",
+      "referencia": "Ley 070, Art. 40, par. 1, pág. 20", "etiquetas": ["formación continua"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según el Art. 40 de la Ley 070, ¿quién está a cargo de la formación continua de maestras y maestros?",
+      "opciones": [
+        { "texto": "Una instancia especializada bajo dependencia del Ministerio de Educación", "correcta": true, "porQue": "Lo dispone el par. 2." },
+        { "texto": "Las Escuelas Superiores de Formación de Maestros, de manera exclusiva", "correcta": false, "porQue": "La ley asigna la formación continua a una instancia especializada." },
+        { "texto": "Las Direcciones Departamentales de Educación", "correcta": false, "porQue": "No es lo que establece el Art. 40." },
+        { "texto": "El Observatorio Plurinacional de la Calidad Educativa", "correcta": false, "porQue": "El Observatorio evalúa y acredita la calidad, no forma a los maestros." }
+      ],
+      "explicacion": "Su funcionamiento se define mediante reglamentación específica.",
+      "citaTextual": "La formación continua estará a cargo de una instancia especializada, bajo dependencia del Ministerio de Educación",
+      "referencia": "Ley 070, Art. 40, par. 2, pág. 20", "etiquetas": ["formación continua"] }
+  ]},
+  { "fragmentoRef": "ley070-art83", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según el Art. 83 de la Ley 070, ¿cuál es la naturaleza del Observatorio Plurinacional de la Calidad Educativa?",
+      "opciones": [
+        { "texto": "Institución pública descentralizada, técnica, especializada, independiente en cuanto al proceso y resultados de sus evaluaciones", "correcta": true, "porQue": "Es el texto del par. 1." },
+        { "texto": "Unidad desconcentrada de la Dirección Departamental de Educación", "correcta": false, "porQue": "Es una institución pública descentralizada." },
+        { "texto": "Entidad privada acreditadora con financiamiento internacional", "correcta": false, "porQue": "Es una institución pública." },
+        { "texto": "Dirección general del Viceministerio de Educación Alternativa y Especial", "correcta": false, "porQue": "Es una institución descentralizada e independiente en sus evaluaciones." }
+      ],
+      "explicacion": "Su funcionamiento se reglamenta mediante Decreto Supremo.",
+      "citaTextual": "institución pública descentralizada, técnica, especializada, independiente en cuanto al proceso y resultados de sus evaluaciones",
+      "referencia": "Ley 070, Art. 83, par. 1, pág. 34", "etiquetas": ["calidad", "observatorio"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según el Art. 83 de la Ley 070, el Observatorio Plurinacional de la Calidad Educativa se encarga del seguimiento, medición, evaluación y acreditación de la calidad educativa:",
+      "opciones": [
+        { "texto": "En los subsistemas Regular, Alternativo y Especial", "correcta": true, "porQue": "Es el alcance que fija el par. 2." },
+        { "texto": "Solo en el Subsistema de Educación Regular", "correcta": false, "porQue": "Alcanza también a los subsistemas Alternativo y Especial." },
+        { "texto": "Solo en la Educación Superior de Formación Profesional", "correcta": false, "porQue": "No es el alcance que fija la ley." },
+        { "texto": "En las universidades públicas y privadas", "correcta": false, "porQue": "No es el alcance que fija la ley." }
+      ],
+      "explicacion": "Su composición: un Directorio, una Directora o Director Ejecutivo y un equipo técnico multidisciplinario especializado.",
+      "citaTextual": "seguimiento, medición, evaluación y acreditación de la calidad educativa del sistema educativo en los subsistemas Regular, Alternativo y Especial",
+      "referencia": "Ley 070, Art. 83, par. 2, pág. 34", "etiquetas": ["calidad", "observatorio"] }
+  ]}
+]

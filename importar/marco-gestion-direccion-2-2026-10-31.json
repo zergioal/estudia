@@ -1,0 +1,118 @@
+[
+  { "fragmentoRef": "marco-gestion-b006", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según el Marco para la gestión y el liderazgo educativo, ¿cuál es la función fundamental de los Servicios Locales de Educación Pública (SLEP)?",
+      "opciones": [
+        { "texto": "Garantizar la provisión de educación pública en cada territorio, en sus diferentes ciclos, modalidades y niveles", "correcta": true, "porQue": "Es la función fundamental que señala el texto." },
+        { "texto": "Evaluar y sancionar a los establecimientos con bajo desempeño", "correcta": false, "porQue": "Los SLEP dan apoyo integral; no se definen como órgano sancionador." },
+        { "texto": "Dictar la Estrategia Nacional de Educación Pública", "correcta": false, "porQue": "La ENEP la dicta el Ministerio de Educación." },
+        { "texto": "Reemplazar a los equipos directivos en la gestión pedagógica", "correcta": false, "porQue": "Su papel es potenciar a los equipos directivos, no reemplazarlos." }
+      ],
+      "explicacion": "Para cumplirla, los SLEP potencian a los equipos directivos y docentes, prestan apoyo técnico-pedagógico y administrativo, y organizan el trabajo colaborativo de los establecimientos.",
+      "citaTextual": "La función fundamental de los SLEP es garantizar la provisión de educación pública en cada territorio, en sus diferentes ciclos, modalidades y niveles.",
+      "referencia": "Marco para la gestión y el liderazgo educativo, págs. 14-16", "etiquetas": ["nivel intermedio", "SLEP"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según el Marco, ¿qué vigencia tiene la Estrategia Nacional de Educación Pública (ENEP) y quién la aprueba?",
+      "opciones": [
+        { "texto": "Ocho años; la dicta el Ministerio de Educación a propuesta de la Dirección de Educación Pública y la aprueba el Consejo Nacional de Educación", "correcta": true, "porQue": "Es lo que establece el texto (Art. 6 de la Ley 21.040)." },
+        { "texto": "Cuatro años; la aprueba el Congreso", "correcta": false, "porQue": "La vigencia es de ocho años y el Congreso solo es oído, a través de las Comisiones de Educación." },
+        { "texto": "Cinco años; la aprueba cada SLEP", "correcta": false, "porQue": "Los SLEP elaboran el PEL y el PAL, no la ENEP." },
+        { "texto": "Diez años; la dicta la Dirección de Educación Pública sin otra intervención", "correcta": false, "porQue": "La DEP solo propone la ENEP." }
+      ],
+      "explicacion": "La primera ENEP rige de 2020 a 2028. Es el instrumento mandante, del que derivan el PEL y el PAL (nivel intermedio) y el PEI y el PME (establecimiento).",
+      "citaTextual": "Esta estrategia tiene una vigencia de ocho años, siendo dictada por el Ministerio de Educación, a propuesta de la Dirección de Educación Pública",
+      "referencia": "Marco para la gestión y el liderazgo educativo, págs. 14-16", "etiquetas": ["ENEP", "instrumentos de gestión"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según estudios citados en el Marco, ¿cuál ha sido uno de los principales obstaculizadores de la Nueva Educación Pública en sus primeros años?",
+      "opciones": [
+        { "texto": "La falta de validación por parte de las comunidades educativas sobre el proceso de instalación de los SLEP y la falta de coherencia respecto a los roles y atribuciones de cada actor", "correcta": true, "porQue": "Es lo que identifican los estudios citados." },
+        { "texto": "La falta de financiamiento internacional", "correcta": false, "porQue": "No es lo que señalan los estudios." },
+        { "texto": "La resistencia de los estudiantes al nuevo currículo", "correcta": false, "porQue": "No es lo que señalan los estudios." },
+        { "texto": "El exceso de autonomía de los directores escolares", "correcta": false, "porQue": "No es lo que señalan los estudios." }
+      ],
+      "explicacion": "Por eso se recomienda que cada SLEP conozca la realidad de su territorio y abra espacios de encuentro con las comunidades.",
+      "citaTextual": "es la falta de validación por parte de las comunidades educativas sobre el proceso de instalación de los SLEP",
+      "referencia": "Marco para la gestión y el liderazgo educativo, págs. 14-16", "etiquetas": ["obstaculizadores", "nivel intermedio"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Entre los desafíos estratégicos de los liderazgos intermedios (Uribe et al., 2019), ¿qué se entiende por «territorialidad»?",
+      "opciones": [
+        { "texto": "El desarrollo de un discurso e identidad común entre los distintos actores involucrados", "correcta": true, "porQue": "Es la definición del texto." },
+        { "texto": "La distribución de atribuciones y responsabilidades", "correcta": false, "porQue": "Eso es la gobernanza." },
+        { "texto": "La capacidad de generar relaciones en distintos escenarios y contextos", "correcta": false, "porQue": "Eso es la vinculación." },
+        { "texto": "La delimitación geográfica de la jurisdicción del SLEP", "correcta": false, "porQue": "No es el sentido que le da el Marco." }
+      ],
+      "explicacion": "Los desafíos son gobernanza, territorialidad, vinculación y participación.",
+      "citaTextual": "La territorialidad: Desarrollo de un discurso e identidad común entre los distintos actores involucrados.",
+      "referencia": "Marco para la gestión y el liderazgo educativo, págs. 14-16", "etiquetas": ["desafíos", "liderazgo intermedio"] }
+  ]},
+  { "fragmentoRef": "marco-gestion-b012", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según el Marco, el trato diferenciado y las sanciones por no cumplir los roles y estereotipos asignados según el sexo biológico se entienden como:",
+      "opciones": [
+        { "texto": "Una socialización de género prescriptiva", "correcta": true, "porQue": "Es el concepto que usa el texto." },
+        { "texto": "Un enfoque de género transformador", "correcta": false, "porQue": "Es lo contrario: el enfoque de género busca superar esas desigualdades." },
+        { "texto": "Una educación socioemocional", "correcta": false, "porQue": "Es otra temática del Marco." },
+        { "texto": "Una diferenciación curricular inclusiva", "correcta": false, "porQue": "No es el concepto del texto." }
+      ],
+      "explicacion": "Esa socialización produce desempeños desiguales y una orientación vocacional estereotipada, que afecta después la empleabilidad y la remuneración.",
+      "citaTextual": "Esto se entiende como una socialización de género prescriptiva",
+      "referencia": "Marco para la gestión y el liderazgo educativo, págs. 26-28", "etiquetas": ["enfoque de género"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según el Marco, ¿cómo redefine la Agenda Educación 2030 de las Naciones Unidas la educación de calidad?",
+      "opciones": [
+        { "texto": "Como el derecho a un aprendizaje con sentido, pertinente y adecuado a los contextos y los tiempos", "correcta": true, "porQue": "Es la redefinición que cita el texto." },
+        { "texto": "Como el logro de altos puntajes en pruebas estandarizadas", "correcta": false, "porQue": "Es una visión restringida que la Agenda supera." },
+        { "texto": "Como la cobertura universal de la matrícula", "correcta": false, "porQue": "La cobertura no basta para definir la calidad." },
+        { "texto": "Como la eficiencia en el uso de los recursos", "correcta": false, "porQue": "No es la redefinición de la Agenda." }
+      ],
+      "explicacion": "El concepto de calidad se ha transformado con el tiempo hacia una calidad integral con equidad.",
+      "citaTextual": "redefine la educación de calidad como el derecho a un aprendizaje con sentido, pertinente y adecuado a los contextos y los tiempos",
+      "referencia": "Marco para la gestión y el liderazgo educativo, págs. 26-28", "etiquetas": ["calidad", "Agenda 2030"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según el Marco, el bienestar integral de los estudiantes comprende:",
+      "opciones": [
+        { "texto": "El resguardo del enfoque de derechos, la seguridad y protección, la promoción del buen trato y estilos de vida saludable, garantizando su integridad física, psicológica, emocional, moral y espiritual", "correcta": true, "porQue": "Es lo que comprende el concepto según el texto." },
+        { "texto": "Solo la atención de salud física y la alimentación escolar", "correcta": false, "porQue": "Es mucho más amplio." },
+        { "texto": "Solo el rendimiento académico y la promoción de curso", "correcta": false, "porQue": "No es el contenido del concepto." },
+        { "texto": "La disciplina y el cumplimiento del reglamento interno", "correcta": false, "porQue": "No es el contenido del concepto." }
+      ],
+      "explicacion": "Está estrechamente ligado al aprendizaje socioemocional. El nivel intermedio es clave para integrar las competencias socioemocionales en el territorio.",
+      "citaTextual": "garantizando en todo momento la integridad física, psicológica, emocional, moral y espiritual de los estudiantes",
+      "referencia": "Marco para la gestión y el liderazgo educativo, págs. 26-28", "etiquetas": ["bienestar integral", "socioemocional"] }
+  ]},
+  { "fragmentoRef": "marco-gestion-b027", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Al diseñar la distribución de recursos para las unidades educativas, un equipo del nivel intermedio decide centralizar todas las decisiones de gasto sin consultar a los directivos. Según la Dimensión 6 del Marco, esta decisión:",
+      "opciones": [
+        { "texto": "Contradice el Marco, porque la distribución de recursos debe promover la autonomía de gestión de los equipos directivos", "correcta": true, "porQue": "Es lo que dispone la descripción de la Dimensión 6." },
+        { "texto": "Es correcta, porque asegura la probidad", "correcta": false, "porQue": "La probidad se promueve junto con la autonomía, no a costa de ella." },
+        { "texto": "Es correcta si se cumple el Plan Anual", "correcta": false, "porQue": "Igual debe respetarse la autonomía de los equipos directivos." },
+        { "texto": "Es indiferente para el Marco", "correcta": false, "porQue": "El Marco se pronuncia expresamente sobre este punto." }
+      ],
+      "explicacion": "Se buscan criterios de distribución equitativos y decisiones basadas en evidencia, según las necesidades de cada unidad educativa.",
+      "citaTextual": "La distribución de recursos debe promover la autonomía de gestión de los equipos directivos",
+      "referencia": "Marco para la gestión y el liderazgo educativo, Dimensión 6, págs. 63-65", "etiquetas": ["recursos", "autonomía", "caso"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según las prácticas del Marco, ¿qué hacen los equipos del nivel intermedio respecto a los sesgos de género en las prácticas pedagógicas?",
+      "opciones": [
+        { "texto": "Apoyan a las unidades educativas para que se visibilicen y desnaturalicen, promoviendo el pensamiento crítico sobre sexismo, estereotipos, habilidades y roles", "correcta": true, "porQue": "Es la práctica n.º 8." },
+        { "texto": "Sancionan a los docentes que reproduzcan estereotipos", "correcta": false, "porQue": "El Marco plantea apoyo y sensibilización, no sanción." },
+        { "texto": "Separan a los estudiantes por sexo en las actividades", "correcta": false, "porQue": "Eso reforzaría los sesgos." },
+        { "texto": "Delegan el tema a organizaciones externas", "correcta": false, "porQue": "Es una práctica propia del nivel intermedio." }
+      ],
+      "explicacion": "Esta práctica incorpora estrategias educativas con perspectiva de género.",
+      "citaTextual": "se visibilicen y desnaturalicen los sesgos de género en las prácticas pedagógicas",
+      "referencia": "Marco para la gestión y el liderazgo educativo, págs. 63-65", "etiquetas": ["enfoque de género", "prácticas"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Llegan al territorio varias familias migrantes con hijos en edad escolar. ¿Qué práctica del nivel intermedio propone el Marco?",
+      "opciones": [
+        { "texto": "Constituir redes de mejoramiento e innovación para la recepción e inducción de estudiantes inmigrantes y sus familias, promoviendo la multiculturalidad", "correcta": true, "porQue": "Es la práctica n.º 7." },
+        { "texto": "Derivarlos a escuelas especiales para extranjeros", "correcta": false, "porQue": "Sería segregación, contraria a la inclusión." },
+        { "texto": "Esperar a que regularicen su situación migratoria antes de matricularlos", "correcta": false, "porQue": "Contradice el derecho a la educación." },
+        { "texto": "Asignarlos al establecimiento con más vacantes, sin otro apoyo", "correcta": false, "porQue": "El Marco plantea un proceso de recepción e inducción." }
+      ],
+      "explicacion": "El Marco promueve la multiculturalidad y la interculturalidad en el territorio.",
+      "citaTextual": "constituyendo redes de mejoramiento e innovación para la recepción e inducción de estudiantes inmigrantes y sus familias, promoviendo la multiculturalidad",
+      "referencia": "Marco para la gestión y el liderazgo educativo, págs. 63-65", "etiquetas": ["migrantes", "inclusión", "caso"] }
+  ]}
+]

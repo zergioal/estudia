@@ -1,0 +1,142 @@
+[
+  { "fragmentoRef": "erce-b005", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según el ERCE 2019, en Lectura, ¿dónde es mayor la brecha de resultados?",
+      "opciones": [
+        { "texto": "Al interior de los países, más que entre ellos", "correcta": true, "porQue": "Es la conclusión del estudio para ambos grados." },
+        { "texto": "Entre los países, más que al interior de ellos", "correcta": false, "porQue": "Es al revés." },
+        { "texto": "Solo entre las escuelas públicas y privadas", "correcta": false, "porQue": "No es la comparación que hace el estudio." },
+        { "texto": "Es igual dentro de los países y entre ellos", "correcta": false, "porQue": "La brecha interna es claramente mayor." }
+      ],
+      "explicacion": "Dentro de un país, la distancia entre los percentiles 10 y 90 va de 221 puntos (Nicaragua) a 302 (Perú); entre países, las mayores diferencias rondan los 113-129 puntos.",
+      "citaTextual": "es mayor la brecha de resultados al interior de los países que entre ellos",
+      "referencia": "UNESCO, ERCE 2019 Los aprendizajes fundamentales, págs. 14-17", "etiquetas": ["brechas", "lectura"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según el ERCE 2019, ¿qué país se destaca por obtener en Lectura puntajes elevados y, a la vez, resultados internamente más homogéneos en ambos grados?",
+      "opciones": [
+        { "texto": "Costa Rica", "correcta": true, "porQue": "Su desviación estándar es inferior al promedio regional en ambos grados." },
+        { "texto": "Brasil", "correcta": false, "porQue": "En 3.º grado tiene un promedio alto, pero más disperso." },
+        { "texto": "Perú", "correcta": false, "porQue": "Es el país con mayor avance, pero tiene la mayor brecha interna (302 puntos)." },
+        { "texto": "República Dominicana", "correcta": false, "porQue": "Avanzó, pero sigue bajo el promedio regional." }
+      ],
+      "explicacion": "Los países con resultados más bajos tienden a ser más homogéneos; entre los de alto desempeño, algunos son homogéneos (Costa Rica) y otros dispares (Brasil en 3.º).",
+      "citaTextual": "Costa Rica destaca por obtener puntajes elevados y más homogéneos",
+      "referencia": "UNESCO, ERCE 2019, págs. 14-17", "etiquetas": ["Costa Rica", "lectura"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Respecto al TERCE 2013, ¿qué país muestra el mayor avance en Lectura en el ERCE 2019, tanto en 3.º como en 6.º grado?",
+      "opciones": [
+        { "texto": "Perú", "correcta": true, "porQue": "El estudio lo señala como el país con mayor avance." },
+        { "texto": "Cuba", "correcta": false, "porQue": "Cuba no participó en el TERCE 2013 y queda excluida de la comparación." },
+        { "texto": "El Salvador", "correcta": false, "porQue": "Tampoco participó en el TERCE 2013." },
+        { "texto": "Uruguay", "correcta": false, "porQue": "No es el país señalado." }
+      ],
+      "explicacion": "Brasil también destaca por su progreso en 3.º grado.",
+      "citaTextual": "Perú es el país que muestra un mayor avance.",
+      "referencia": "UNESCO, ERCE 2019, págs. 14-17", "etiquetas": ["tendencias", "TERCE"] }
+  ]},
+  { "fragmentoRef": "erce-b010", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según el ERCE 2019, ¿cuántos puntos más obtienen en promedio los estudiantes que asistieron a educación preescolar?",
+      "opciones": [
+        { "texto": "28 puntos", "correcta": true, "porQue": "Es la cifra promedio del estudio." },
+        { "texto": "65 puntos", "correcta": false, "porQue": "65 puntos es la desventaja promedio de quienes repitieron de grado." },
+        { "texto": "22 puntos", "correcta": false, "porQue": "22 puntos es la desventaja promedio de los estudiantes indígenas de 6.º grado." },
+        { "texto": "100 puntos", "correcta": false, "porQue": "100 puntos es una desviación estándar de la escala." }
+      ],
+      "explicacion": "Esta ventaja persiste en la mayoría de los países incluso después de controlar por el nivel socioeconómico.",
+      "citaTextual": "los estudiantes que participaron de la educación preescolar obtienen 28 puntos más que aquellos que no lo hicieron",
+      "referencia": "UNESCO, ERCE 2019, Factores asociados, págs. 28-30", "etiquetas": ["preescolar", "factores asociados"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Un consejo técnico propone hacer repetir de grado a más estudiantes para «elevar el nivel». Según la evidencia del ERCE 2019:",
+      "opciones": [
+        { "texto": "La repetición se asocia sistemáticamente con menores logros: quienes repitieron obtienen en promedio 65 puntos menos, incluso controlando por nivel socioeconómico", "correcta": true, "porQue": "Es el hallazgo del estudio." },
+        { "texto": "La repetición mejora los logros a mediano plazo", "correcta": false, "porQue": "La evidencia muestra lo contrario." },
+        { "texto": "La repetición no tiene efecto una vez que se controla el nivel socioeconómico", "correcta": false, "porQue": "La desventaja persiste aun con ese control." },
+        { "texto": "Solo perjudica en los países con mayor repitencia", "correcta": false, "porQue": "Es sistemática en toda la región, con desventajas de 20 a 100 puntos según el país." }
+      ],
+      "explicacion": "La repitencia en 3.º grado va del 5% (Cuba) al 34% (Nicaragua), y en 6.º, del 2% (Cuba) al 37% (Colombia).",
+      "citaTextual": "La repetición de grado se asocia sistemáticamente con menores logros de aprendizaje por parte de los estudiantes.",
+      "referencia": "UNESCO, ERCE 2019, Factores asociados, págs. 28-30", "etiquetas": ["repitencia", "caso"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "En algunos países, la ventaja de asistir a preescolar desaparece al considerar las diferencias socioeconómicas. ¿Qué recomienda el ERCE 2019 en esos casos?",
+      "opciones": [
+        { "texto": "Indagar si todos los niños tienen las mismas oportunidades de participar en preescolar y si los programas alcanzan niveles adecuados de calidad", "correcta": true, "porQue": "Es la recomendación del estudio." },
+        { "texto": "Eliminar la educación preescolar por ineficaz", "correcta": false, "porQue": "El estudio no lo recomienda; la literatura muestra retornos positivos cuando hay calidad." },
+        { "texto": "Hacer obligatoria la preescolar solo para las familias de altos ingresos", "correcta": false, "porQue": "Contradice la equidad." },
+        { "texto": "Sustituir la preescolar por tareas en el hogar", "correcta": false, "porQue": "No es lo que plantea el estudio." }
+      ],
+      "explicacion": "Pasa en Colombia, Ecuador, Nicaragua y República Dominicana en Lectura y Matemática de 3.º grado.",
+      "citaTextual": "es necesario indagar en mayor profundidad si todos los niños tienen las mismas oportunidades de participar en la educación preescolar",
+      "referencia": "UNESCO, ERCE 2019, Factores asociados, págs. 28-30", "etiquetas": ["preescolar", "equidad"] }
+  ]},
+  { "fragmentoRef": "erce-b011", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según la investigación previa citada en el ERCE 2019, ¿qué se califica como ausentismo crónico?",
+      "opciones": [
+        { "texto": "La pérdida del 10% de los días de clases", "correcta": true, "porQue": "Es la definición citada." },
+        { "texto": "Faltar más de dos días al mes", "correcta": false, "porQue": "Es el corte que usa el estudio para comparar logros, no la definición de ausentismo crónico." },
+        { "texto": "La pérdida del 25% de los días de clases", "correcta": false, "porQue": "No coincide con el texto." },
+        { "texto": "Faltar una semana completa en el año", "correcta": false, "porQue": "No coincide con el texto." }
+      ],
+      "explicacion": "En la mitad de los países, al menos 1 de cada 3 estudiantes faltó más de un día en el último mes.",
+      "citaTextual": "califica como ausentismo crónico la pérdida del 10% de los días de clases",
+      "referencia": "UNESCO, ERCE 2019, Factores asociados, págs. 30-32", "etiquetas": ["ausentismo"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según el ERCE 2019, las desventajas de los estudiantes indígenas en los logros de aprendizaje:",
+      "opciones": [
+        { "texto": "Persisten aun controlando por diferencias socioeconómicas y se deben también a factores de oportunidades de aprendizaje, por lo que pueden reducirse con reformas focalizadas", "correcta": true, "porQue": "Es lo que concluye el estudio con base en la investigación previa." },
+        { "texto": "Desaparecen al controlar por el nivel socioeconómico", "correcta": false, "porQue": "Persisten (salvo Honduras en Matemática)." },
+        { "texto": "Se deben únicamente a la pobreza de las familias", "correcta": false, "porQue": "No se deben únicamente a diferencias socioeconómicas." },
+        { "texto": "Son inmodificables por la escuela", "correcta": false, "porQue": "Pueden disminuirse con reformas focalizadas." }
+      ],
+      "explicacion": "En 6.º grado, la diferencia promedio es de 22 puntos y varía de 22 (Honduras) a 117 (Costa Rica).",
+      "citaTextual": "no se deben únicamente a diferencias socioeconómicas, como se observa en este estudio, sino a factores de oportunidades de aprendizaje",
+      "referencia": "UNESCO, ERCE 2019, Factores asociados, págs. 30-32", "etiquetas": ["pueblos indígenas", "equidad"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "En el ERCE 2019, ¿qué país tiene el mayor porcentaje de estudiantes pertenecientes a un pueblo originario?",
+      "opciones": [
+        { "texto": "Guatemala, con 68%", "correcta": true, "porQue": "Es la excepción regional que señala el estudio." },
+        { "texto": "Perú, con 27%", "correcta": false, "porQue": "27% es el límite superior del rango habitual (4% a 27%)." },
+        { "texto": "Costa Rica, con 4%", "correcta": false, "porQue": "4% es el mínimo." },
+        { "texto": "Uruguay, con 37%", "correcta": false, "porQue": "Uruguay no tiene población indígena entre sus estudiantes." }
+      ],
+      "explicacion": "Cuba, República Dominicana y Uruguay no tienen población indígena entre sus estudiantes.",
+      "citaTextual": "Guatemala es la excepción, con 68% de estudiantes.",
+      "referencia": "UNESCO, ERCE 2019, págs. 30-32", "etiquetas": ["pueblos indígenas", "datos"] }
+  ]},
+  { "fragmentoRef": "erce-b012", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según el ERCE 2019, ¿qué ocurre con la relación entre las expectativas educativas de los docentes y el logro de los estudiantes al controlar por el nivel socioeconómico?",
+      "opciones": [
+        { "texto": "Aminora o se vuelve no significativa, lo que sugiere que las expectativas docentes están fuertemente marcadas por el nivel socioeconómico de los estudiantes", "correcta": true, "porQue": "Es el hallazgo del estudio." },
+        { "texto": "Se duplica", "correcta": false, "porQue": "Disminuye." },
+        { "texto": "Se mantiene igual en todos los países", "correcta": false, "porQue": "Disminuye o desaparece." },
+        { "texto": "Se vuelve negativa", "correcta": false, "porQue": "No se invierte." }
+      ],
+      "explicacion": "Hay que tener en cuenta las desigualdades y los estereotipos para contrarrestar el peso de las expectativas.",
+      "citaTextual": "las expectativas docentes parecieran estar fuertemente marcadas por el nivel socioeconómico de los estudiantes",
+      "referencia": "UNESCO, ERCE 2019, Docentes y prácticas, págs. 32-34", "etiquetas": ["expectativas docentes"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según el ERCE 2019 (Benner & Mistry, 2007), ¿qué efecto se produce cuando tanto las expectativas parentales como las docentes son positivas?",
+      "opciones": [
+        { "texto": "Efectos generativos; cuando ambas son negativas, los efectos son disruptivos", "correcta": true, "porQue": "Es lo que señala la investigación citada." },
+        { "texto": "Efectos disruptivos por exceso de presión", "correcta": false, "porQue": "Los efectos disruptivos se dan cuando ambas son negativas." },
+        { "texto": "Ningún efecto, porque se anulan entre sí", "correcta": false, "porQue": "Las dos contribuyen al logro." },
+        { "texto": "Solo efectos en Matemática", "correcta": false, "porQue": "No se limita a una disciplina." }
+      ],
+      "explicacion": "Las expectativas de padres y docentes contribuyen juntas al logro de los niños.",
+      "citaTextual": "puede generar efectos generativos cuando ambas son positivas, y disruptivos cuando ambas son negativas",
+      "referencia": "UNESCO, ERCE 2019, págs. 32-34", "etiquetas": ["expectativas", "familia"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Un director quiere mejorar los logros de 3.º grado sin aumentar el presupuesto. Según el ERCE 2019, ¿qué práctica docente muestra una relación positiva con el logro, especialmente en ese grado?",
+      "opciones": [
+        { "texto": "El interés de los docentes por el bienestar de los estudiantes: estar atentos a sus preocupaciones, gestionar positivamente los errores y animarlos cuando las materias son difíciles", "correcta": true, "porQue": "Es la práctica que el estudio asocia con mayores logros en 3.º grado." },
+        { "texto": "Aumentar la repitencia para estudiantes rezagados", "correcta": false, "porQue": "La repetición se asocia con menores logros." },
+        { "texto": "Bajar las expectativas para no frustrar a los estudiantes", "correcta": false, "porQue": "Las expectativas altas se asocian con mayores logros." },
+        { "texto": "Más disciplina punitiva frente a los errores", "correcta": false, "porQue": "El estudio valora gestionar los errores de manera positiva." }
+      ],
+      "explicacion": "Las prácticas docentes son el núcleo de la actividad educativa, donde se concretan los objetivos de las políticas.",
+      "citaTextual": "El interés de los docentes por el bienestar de los estudiantes tiene una relación positiva con el logro de aprendizaje, particularmente en 3° grado.",
+      "referencia": "UNESCO, ERCE 2019, Docentes y prácticas, págs. 32-34", "etiquetas": ["prácticas docentes", "bienestar", "caso"] }
+  ]}
+]
