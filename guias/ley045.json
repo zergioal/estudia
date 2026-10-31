@@ -1,0 +1,48 @@
+{
+  "clave": "ley045",
+  "resumen": "La Ley 045 contra el Racismo y toda forma de Discriminación (2010) establece mecanismos de prevención y sanción, medidas en educación, administración pública, comunicación y economía, crea el Comité Nacional contra el Racismo y toda forma de Discriminación y tipifica delitos contra la dignidad del ser humano.\n\nPara un director/a importa que el ámbito educativo tiene obligaciones de prevención y que en los centros no puede discriminarse por origen, cultura, idioma, vestimenta, etc. Ante un acto racista corresponde la vía administrativa o la denuncia penal.",
+  "ideasClave": [
+    "Principios: interculturalidad, igualdad con acciones afirmativas, equidad, protección.",
+    "Medidas de prevención en el ámbito educativo (Art. 6).",
+    "Comité Nacional: integrado por instituciones públicas y organizaciones sociales; vela por los reglamentos internos de personal.",
+    "Medios que difundan ideas racistas: sanciones económicas y suspensión de licencia (Art. 16).",
+    "Delitos: racismo y discriminación, con agravantes para servidores públicos."
+  ],
+  "obligatorio": [
+    {
+      "parte": "Arts. 1-5",
+      "titulo": "Disposiciones generales",
+      "porQue": "Objeto, principios, ámbito y definiciones (discriminación, racismo, etc.)."
+    },
+    {
+      "parte": "Art. 6",
+      "titulo": "Medidas de prevención y educación",
+      "porQue": "Obligaciones directas del sistema educativo."
+    },
+    {
+      "parte": "Arts. 12-14",
+      "titulo": "Instancias competentes: vía administrativa o disciplinaria",
+      "porQue": "Qué hacer ante una denuncia dentro de una institución pública o privada."
+    },
+    {
+      "parte": "Arts. 21-23",
+      "titulo": "Delitos contra la dignidad del ser humano",
+      "porQue": "Tipos penales y agravantes."
+    }
+  ],
+  "opcional": [
+    {
+      "parte": "Arts. 7-11",
+      "titulo": "Comité Nacional",
+      "porQue": "Integrantes, funciones y presupuesto."
+    },
+    {
+      "parte": "Arts. 15-20",
+      "titulo": "Medios, víctimas y salidas alternativas",
+      "porQue": "Sanciones a medios y protección de víctimas."
+    }
+  ],
+  "consejos": [
+    "Relaciónala con CPE Art. 14 (no discriminación) y con los principios de la Ley 070 (educación inclusiva y descolonizadora)."
+  ]
+}

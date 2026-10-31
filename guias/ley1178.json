@@ -1,0 +1,50 @@
+{
+  "clave": "ley1178",
+  "resumen": "La Ley 1178 de Administración y Control Gubernamentales (SAFCO, 1990) regula los sistemas de administración y control de los recursos del Estado y la responsabilidad por la función pública. Establece los sistemas para programar y organizar (Programación de Operaciones, Organización Administrativa, Presupuesto), para ejecutar (Personal, Bienes y Servicios, Tesorería, Contabilidad) y para controlar (Control Gubernamental interno y externo posterior, a cargo de la Contraloría).\n\nPara un director/a es clave entender el POA, la ejecución de recursos, los cuatro tipos de responsabilidad (administrativa, ejecutiva, civil y penal) y el rol de la Contraloría.",
+  "ideasClave": [
+    "Siete sistemas de administración (para programar y organizar, y para ejecutar) y el Sistema de Control Gubernamental, interno y externo posterior (Art. 2).",
+    "El POA aplica el Sistema de Programación de Operaciones (Art. 6).",
+    "No se pueden transferir gastos de inversión a funcionamiento (Art. 8).",
+    "Responsabilidad administrativa, ejecutiva, civil y penal (Arts. 28-36); la civil prescribe en 10 años.",
+    "El dictamen de la Contraloría es prueba preconstituida (Art. 43).",
+    "Quien firma un informe responde por él (Art. 38)."
+  ],
+  "obligatorio": [
+    {
+      "parte": "Arts. 1-5",
+      "titulo": "Finalidad y ámbito",
+      "porQue": "Objetivos de la ley y obligación de rendir cuentas de quien recibe recursos públicos."
+    },
+    {
+      "parte": "Arts. 6-16",
+      "titulo": "Sistemas de administración y control",
+      "porQue": "Qué hace cada sistema (pregunta típica: ¿qué sistema aplica a esta tarea?)."
+    },
+    {
+      "parte": "Arts. 28-40",
+      "titulo": "Responsabilidad por la función pública",
+      "porQue": "Tipos de responsabilidad, prescripción, repetición, costas."
+    }
+  ],
+  "opcional": [
+    {
+      "parte": "Arts. 17-27",
+      "titulo": "Relación con planificación e inversión; órganos rectores",
+      "porQue": "Atribuciones de ministerios, Banco Central y superintendencias."
+    },
+    {
+      "parte": "Arts. 41-46",
+      "titulo": "Contraloría General",
+      "porQue": "Autonomía, dictamen, facultades."
+    },
+    {
+      "parte": "Arts. 47-55",
+      "titulo": "Jurisdicción coactiva fiscal y derogaciones",
+      "porQue": "Qué conoce y qué no."
+    }
+  ],
+  "consejos": [
+    "Haz una tabla: sistema → pregunta que responde (qué hacer, cómo organizarse, con qué recursos, quién lo hace…).",
+    "Diferencia los cuatro tipos de responsabilidad con un ejemplo de CEA para cada uno."
+  ]
+}

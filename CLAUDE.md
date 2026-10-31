@@ -77,6 +77,15 @@ VERDADERO_FALSO 2 opciones con 1 correcta, CASO 1 correcta, COMPLETAR ≥1 respu
 - Normativa → un fragmento por artículo con temas Parte/Reglamento › Título › Capítulo › Sección › Subsección.
   Libros/guías → bloques de ~900 palabras con temas por rango de 20 páginas.
 
+## Guías de estudio
+- Una por documento en `guias/<clave>.json` (versionadas): `{ clave, resumen, ideasClave[], obligatorio[], opcional[],
+  consejos[] }`, cada parte `{ parte: "Arts. 3-5", titulo, porQue }` (esquema `guiaArchivoSchema` en shared).
+- Cargar o actualizar: `npm run guias -- guias/` (o un archivo). Se ven en la pestaña Guías (`#/guias`, `#/guias/<id>`),
+  con atajo a un quiz solo de ese documento; `#/estudiar/<contenidoId>` abre Estudiar con el documento marcado.
+- API: `GET /api/v1/guias`, `GET /api/v1/guias/:contenidoId`, `PUT /api/v1/admin/guias/:contenidoId` (ADMIN).
+- Al redactar una guía: basarse en `fuentes/<clave>/_indice.md` (estructura) y en los fragmentos; obligatorio = lo que
+  más se pregunta y lo propio del director/a de CEA; opcional = lo de menor peso. Nada inventado.
+
 ## Examen objetivo: institucionalización de cargos directivos (Convocatoria Pública 0001/2026)
 Según el Reglamento de la Convocatoria 0001/2026 (Arts. 6, 11, 12, 14): examen de competencia escrito de
 **100 preguntas en 150 minutos** (~90 s por pregunta), contenido **35% Normativa General y Específica y 65%

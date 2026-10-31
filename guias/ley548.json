@@ -1,0 +1,66 @@
+{
+  "clave": "ley548",
+  "resumen": "La Ley 548, Código Niña, Niño y Adolescente (2014), reconoce a niñas, niños y adolescentes como sujetos de derechos, establece el Sistema Plurinacional de Protección Integral (SIPPROINA), la protección jurisdiccional y el sistema penal para adolescentes.\n\nPara un director/a interesan sobre todo: principios (interés superior, prioridad absoluta), derechos a la educación, protección contra la violencia (obligación de denunciar en 24 horas), el trabajo adolescente (relevante en la EPJA, que atiende a mayores de 15 años), la Defensoría de la Niñez y la distribución de responsabilidades entre niveles de gobierno.",
+  "ideasClave": [
+    "Niñez: desde la concepción hasta los 12 años cumplidos; adolescencia: 12 a 18 años (Art. 5).",
+    "Interés superior y prioridad absoluta (Art. 12) no son lo mismo.",
+    "Obligación de denunciar violencia en 24 horas ante la Defensoría u otra autoridad (Art. 155).",
+    "Defensoría de la Niñez: depende de los gobiernos municipales; interviene sin mandato expreso (Arts. 185-188).",
+    "Trabajo: edad mínima 14 años; dos horas diarias remuneradas para estudio (Art. 132).",
+    "Responsabilidad penal desde los 14 años, atenuada en cuatro quintas partes (Arts. 267-268)."
+  ],
+  "obligatorio": [
+    {
+      "parte": "Arts. 1-15",
+      "titulo": "Título preliminar",
+      "porQue": "Objeto, sujetos y etapas, garantías, principios (interés superior, prioridad absoluta, etc.)."
+    },
+    {
+      "parte": "Arts. 115-125",
+      "titulo": "Derecho a la educación, información, cultura, opinión y petición",
+      "porQue": "Lo que el centro debe garantizar."
+    },
+    {
+      "parte": "Arts. 126-140",
+      "titulo": "Protección en relación al trabajo",
+      "porQue": "Edad mínima, garantías, horas de estudio, seguridad social, infracciones; casos frecuentes con participantes de la EPJA."
+    },
+    {
+      "parte": "Arts. 141-158",
+      "titulo": "Libertad, dignidad, imagen, integridad y protección contra la violencia; deberes",
+      "porQue": "Violencia en el sistema educativo, obligación de denunciar, confidencialidad."
+    },
+    {
+      "parte": "Arts. 159-192",
+      "titulo": "Sistema Plurinacional de Protección Integral",
+      "porQue": "Medidas de protección, ente rector, Congreso quinquenal, competencias departamentales y municipales, Defensorías, Comités de NNA."
+    }
+  ],
+  "opcional": [
+    {
+      "parte": "Arts. 16-34",
+      "titulo": "Vida, salud y medio ambiente",
+      "porQue": "Salud sexual y reproductiva, discapacidad."
+    },
+    {
+      "parte": "Arts. 35-114",
+      "titulo": "Familia, adopción, identidad",
+      "porQue": "Familia de origen y sustituta, requisitos de adopción, registro."
+    },
+    {
+      "parte": "Arts. 193-258",
+      "titulo": "Protección jurisdiccional y procedimientos especiales",
+      "porQue": "Principios procesales (presunción de verdad); el resto pesa poco."
+    },
+    {
+      "parte": "Arts. 259-348",
+      "titulo": "Sistema penal para adolescentes y justicia restaurativa",
+      "porQue": "Edad 14-18, atenuación, mecanismos restaurativos."
+    }
+  ],
+  "consejos": [
+    "Memoriza edades y plazos: 12, 14, 18, 24 años; 24 horas; 72 horas; 6 meses.",
+    "Para cada caso de violencia, la respuesta del director es casi siempre: denunciar en 24 h a la Defensoría.",
+    "Distingue Defensoría (municipal) de Instancia Técnica Departamental de Política Social (gobernación)."
+  ]
+}

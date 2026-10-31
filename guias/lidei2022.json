@@ -1,0 +1,60 @@
+{
+  "clave": "lidei2022",
+  "resumen": "Informe de la OEI y el INEE de España (Pacheco y Vélaz-de-Medrano, 2023) sobre el liderazgo directivo en Iberoamérica. Propone el modelo de liderazgo pedagógico, inclusivo, distribuido y contextualizado; analiza casos nacionales (Chile, Portugal, España y Brasil); presenta el diseño y los resultados de una encuesta piloto a 77 directores de Argentina, Chile y España, comparada con la opinión de las Administraciones (OEI-INEE 2019); y cierra con reflexiones y prospectiva.\n\nLos resultados abordan el acceso al cargo, la formación, el uso del tiempo, la autonomía, el salario, la evaluación del desempeño, el atractivo de la dirección y el liderazgo en la pandemia.",
+  "ideasClave": [
+    "Modelo de liderazgo pedagógico, inclusivo, distribuido y contextualizado.",
+    "Fullan: tres rasgos del liderazgo digital (disciplina fanática, aprender de los buenos datos, paranoia productiva).",
+    "Leithwood: liderazgo es movilizar e influir en otros para lograr metas compartidas; es una práctica que se aprende.",
+    "Datos de la encuesta: liderazgo valorado al seleccionar al 93% de los directores en Chile; proyecto de dirección (67%) en España; experiencia (69%) en Argentina.",
+    "Brechas de autonomía entre países (presupuesto, contratación); alta autonomía para flexibilizar el horario (~80%).",
+    "Demanda de profesionalización y salarios acordes; la mayoría volvería a ser director."
+  ],
+  "obligatorio": [
+    {
+      "parte": "Págs. 7-16",
+      "titulo": "Capítulo 1: el modelo de liderazgo",
+      "porQue": "Fundamentos conceptuales (Fullan, OEI 2017)."
+    },
+    {
+      "parte": "Págs. 16-27",
+      "titulo": "Capítulo 2: casos (Chile, Portugal, España, Brasil)",
+      "porQue": "Marco para la Buena Dirección (5 dimensiones), gestión democrática, Bolívar."
+    },
+    {
+      "parte": "Págs. 27-31, 40-72",
+      "titulo": "Capítulo 3: diseño y resultados por dimensión",
+      "porQue": "Acceso, formación, tiempo, salario, evaluación, autonomía y atractivo."
+    },
+    {
+      "parte": "Págs. 81-97",
+      "titulo": "Capítulo 4: análisis, reflexiones y prospectiva",
+      "porQue": "Conclusiones y propuestas: lo que más se pregunta de forma conceptual."
+    }
+  ],
+  "opcional": [
+    {
+      "parte": "Págs. 1-7",
+      "titulo": "Introducción",
+      "porQue": "Objetivos de la OEI y estructura del informe."
+    },
+    {
+      "parte": "Págs. 31-40",
+      "titulo": "Perfil de la muestra",
+      "porQue": "Edad, género, experiencia, contexto (datos finos y TALIS)."
+    },
+    {
+      "parte": "Págs. 72-80",
+      "titulo": "Educar en tiempos de emergencia",
+      "porQue": "Pandemia y aspectos socioemocionales."
+    },
+    {
+      "parte": "Págs. 97-122",
+      "titulo": "Referencias y anexo (cuestionario)",
+      "porQue": "No se evalúa."
+    }
+  ],
+  "consejos": [
+    "Los datos de la encuesta son una fuente frecuente de preguntas capciosas: asocia cada porcentaje con su país.",
+    "Diferencia los cuatro casos nacionales de los tres países de la encuesta (Argentina, Chile, España)."
+  ]
+}

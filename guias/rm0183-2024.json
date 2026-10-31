@@ -1,0 +1,44 @@
+{
+  "clave": "rm0183-2024",
+  "resumen": "La RM 0183/2024 aprueba los Reglamentos de Evaluación de los procesos formativos de la Educación de Personas Jóvenes y Adultas y de la Educación Permanente. Norma la evaluación integral y holística en las dimensiones Ser, Saber, Hacer y Decidir, los actores y momentos de la evaluación, la escala y la promoción (mínimo 51), los niveles técnicos y su carga horaria, la evaluación extraordinaria y el cuaderno andragógico.",
+  "ideasClave": [
+    "Principios: equidad, ética profesional, objetividad, carácter formativo.",
+    "Características: integral-holística, dinámica y permanente, flexible.",
+    "Autoevaluación del Ser y Decidir: 5 puntos cada una.",
+    "Técnico Básico 500 h, Técnico Auxiliar 500 h, Técnico Medio 1000 h (2000 h en total).",
+    "Evaluación extraordinaria al final del semestre; el facilitador informa 15 días hábiles antes.",
+    "Se anula el certificado de quien estudia en el CEA en su mismo horario laboral o en el centro donde trabaja (Art. 15)."
+  ],
+  "obligatorio": [
+    {
+      "parte": "Arts. 1-7",
+      "titulo": "Disposiciones generales",
+      "porQue": "Objeto, definiciones, principios, características y objetivos de la evaluación."
+    },
+    {
+      "parte": "Arts. 8-18",
+      "titulo": "Actores, momentos y criterios de calificación",
+      "porQue": "Dimensiones, instrumentos, escala, aprobación, restricciones, niveles y carga horaria."
+    },
+    {
+      "parte": "Arts. 19-29",
+      "titulo": "Lineamientos y evaluación extraordinaria",
+      "porQue": "Certificaciones, cuaderno andragógico, procedimiento extraordinario."
+    }
+  ],
+  "opcional": [
+    {
+      "parte": "Arts. 30-31",
+      "titulo": "Otras evaluaciones",
+      "porQue": "Casos especiales."
+    },
+    {
+      "parte": "Considerandos y disposiciones",
+      "titulo": "Antecedentes y registro en el SIE",
+      "porQue": "Continuidad desde la Educación Regular."
+    }
+  ],
+  "consejos": [
+    "Memoriza la carga horaria de los niveles técnicos y los plazos de la evaluación extraordinaria (15 días hábiles, 24 h)."
+  ]
+}

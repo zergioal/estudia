@@ -1,0 +1,81 @@
+{
+  "clave": "cpe",
+  "resumen": "La Constitución Política del Estado (2009) funda el Estado Unitario Social de Derecho Plurinacional Comunitario, con autonomías. Reconoce derechos fundamentales, garantías y acciones de defensa, organiza los órganos del poder público, la función pública, la organización territorial (autonomías y competencias) y la economía, y fija la jerarquía normativa (Art. 410).\n\nPara el examen de directivos interesan sobre todo: las bases del Estado, los derechos (en especial educación, Arts. 77-90, niñez, discapacidad y trabajo), las garantías y acciones de defensa, la función pública (requisitos, obligaciones, prohibiciones e incompatibilidades) y la distribución de competencias en educación.",
+  "ideasClave": [
+    "Bolivia: Estado Unitario Social de Derecho Plurinacional Comunitario, descentralizado y con autonomías (Art. 1).",
+    "La educación es función suprema y primera responsabilidad financiera del Estado (Art. 77); unitaria, pública, universal, democrática, participativa, comunitaria, descolonizadora (Art. 78).",
+    "Derecho a la educación: universal, productiva, gratuita, integral e intercultural (Art. 17).",
+    "Acciones de defensa: Libertad, Amparo, Protección de Privacidad, Inconstitucionalidad, Cumplimiento y Popular.",
+    "Función pública: requisitos (Art. 234, dos idiomas oficiales), obligaciones (Art. 235), prohibiciones y nepotismo hasta 4º/2º grado (Art. 236).",
+    "Políticas del sistema educativo: exclusiva del nivel central; gestión del sistema de educación: concurrente (Arts. 298-299)."
+  ],
+  "obligatorio": [
+    {
+      "parte": "Arts. 1-12",
+      "titulo": "Bases fundamentales del Estado",
+      "porQue": "Modelo de Estado, idiomas oficiales, principios ético-morales (ama qhilla…), fines del Estado y democracia."
+    },
+    {
+      "parte": "Arts. 13-24",
+      "titulo": "Derechos fundamentales y civiles",
+      "porQue": "No discriminación (Art. 14), integridad, educación (Art. 17), petición (Art. 24)."
+    },
+    {
+      "parte": "Arts. 30, 46-48, 58-72",
+      "titulo": "Pueblos IOC, trabajo, niñez, discapacidad",
+      "porQue": "Base de las leyes 548 y 223; irrenunciabilidad de derechos laborales."
+    },
+    {
+      "parte": "Arts. 77-90",
+      "titulo": "Educación, interculturalidad y derechos culturales",
+      "porQue": "Capítulo central para el examen: obligatoriedad hasta el bachillerato, gratuidad, participación social, educación privada."
+    },
+    {
+      "parte": "Arts. 108, 109-136",
+      "titulo": "Deberes, garantías y acciones de defensa",
+      "porQue": "Qué acción corresponde a cada caso (amparo, privacidad, popular, libertad)."
+    },
+    {
+      "parte": "Arts. 232-240",
+      "titulo": "Servidores públicos",
+      "porQue": "Principios de la administración, requisitos, obligaciones, prohibiciones, incompatibilidades, revocatoria."
+    },
+    {
+      "parte": "Arts. 297-304, 410",
+      "titulo": "Competencias y jerarquía normativa",
+      "porQue": "Tipos de competencias, competencias en educación, bloque de constitucionalidad."
+    }
+  ],
+  "opcional": [
+    {
+      "parte": "Arts. 91-107",
+      "titulo": "Educación superior, culturas, ciencia, deporte y comunicación",
+      "porQue": "Universidades autónomas, patrimonio cultural."
+    },
+    {
+      "parte": "Arts. 112-113",
+      "titulo": "Imprescriptibilidad y acción de repetición",
+      "porQue": "Vinculado con la Ley 004 y la Ley 1178."
+    },
+    {
+      "parte": "Arts. 145-231",
+      "titulo": "Órganos Legislativo, Ejecutivo, Judicial, Electoral y de control",
+      "porQue": "Organización del poder; pocas preguntas."
+    },
+    {
+      "parte": "Arts. 269-296",
+      "titulo": "Organización territorial y autonomías",
+      "porQue": "Principios, gobiernos departamental y municipal, requisitos de autoridades."
+    },
+    {
+      "parte": "Arts. 306-409",
+      "titulo": "Organización económica, recursos naturales, tierra",
+      "porQue": "Peso bajo para el cargo directivo."
+    }
+  ],
+  "consejos": [
+    "Memoriza la lista literal del Art. 1 y la diferencia entre \"política\" (exclusiva central) y \"gestión\" (concurrente) de la educación.",
+    "Para acciones de defensa, practica con casos: ¿qué acción presenta un participante al que le niegan un dato o una inscripción?",
+    "Cruza Arts. 235-236 con la Ley 004 y la Ley 1178 (declaración jurada, uso de bienes, nepotismo)."
+  ]
+}

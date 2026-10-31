@@ -1,0 +1,48 @@
+{
+  "clave": "rm0092-2025",
+  "resumen": "La RM 0092/2025 aprueba el Reglamento de apertura, modificación y cierre de Centros de Educación Alternativa (CEA), Centros de Educación Permanente No Escolarizada (CEP) y Centros de Educación Alternativa Integrados (CEA-I), fiscales y de convenio. Define requisitos y procedimientos ante la Dirección Distrital, formularios del portal de trámites, causales de cierre y plazos de trámite.",
+  "ideasClave": [
+    "Las solicitudes se dirigen a la Dirección Distrital, que verifica in situ en un plazo no mayor a 10 días.",
+    "Formulario R-CEA-CEP-CEAI 001 (registro) y M-CEA-CEP-CEAI 002 (modificación).",
+    "Modificaciones: ampliación o reducción, cambio de nombre, de jurisdicción, de infraestructura, de dependencia y fusión.",
+    "Causal de cierre: menos de 10 participantes (salvo zonas de difícil acceso), entre otras.",
+    "Trámites: del 1 de abril al 30 de mayo y del 1 de septiembre al 30 de octubre; vencen el 31 de diciembre."
+  ],
+  "obligatorio": [
+    {
+      "parte": "Arts. 1-5",
+      "titulo": "Consideraciones generales",
+      "porQue": "Objeto, ámbito y definiciones."
+    },
+    {
+      "parte": "Arts. 6-9",
+      "titulo": "Requisitos y procedimiento de apertura",
+      "porQue": "CEA, CEP y CEA-I: qué se presenta y ante quién."
+    },
+    {
+      "parte": "Arts. 10-16",
+      "titulo": "Requisitos para modificaciones",
+      "porQue": "Cada tipo de modificación y sus documentos."
+    },
+    {
+      "parte": "Arts. 17-23",
+      "titulo": "Cierre y plazos",
+      "porQue": "Causales, requisitos de cierre (resguardo del RUDEAL) y períodos de trámite."
+    }
+  ],
+  "opcional": [
+    {
+      "parte": "Considerandos",
+      "titulo": "Antecedentes normativos",
+      "porQue": "Contexto legal; no suele preguntarse."
+    },
+    {
+      "parte": "Disposiciones transitorias y finales",
+      "titulo": "Casos pendientes",
+      "porQue": "Datos finos."
+    }
+  ],
+  "consejos": [
+    "Arma un flujo: solicitud (Distrital) → verificación (10 días) → informe → Departamental → resolución."
+  ]
+}

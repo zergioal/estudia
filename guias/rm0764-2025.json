@@ -1,0 +1,38 @@
+{
+  "clave": "rm0764-2025",
+  "resumen": "La RM 0764/2025 aprueba el Reglamento para la atención educativa de poblaciones diversas y vulnerables del ámbito de Educación Alternativa: soldados y marineros en Servicio Militar Obligatorio, personas privadas de libertad, jóvenes con responsabilidad penal, trabajadoras y trabajadores asalariados del hogar, y naciones y pueblos indígena originario campesinos y afrobolivianos. Fija principios, el rol del maestro, la gestión y coordinación, los horarios y la carga horaria.",
+  "ideasClave": [
+    "Principios: equidad, flexibilidad curricular, pertinencia cultural y lingüística, vinculación educación-trabajo, participación comunitaria.",
+    "Carga del facilitador: 80 h mensuales en humanística y 100 h en técnica.",
+    "El director identifica la necesidad y presenta un informe y una solicitud a la Distrital.",
+    "Privados de libertad: modalidades presencial y semipresencial, horario coordinado con el recinto.",
+    "Soldados y marineros: coordinación con el Alto Mando Militar (DS 1875)."
+  ],
+  "obligatorio": [
+    {
+      "parte": "Arts. 1-6",
+      "titulo": "Disposiciones generales",
+      "porQue": "Objeto, principios, marco normativo y definiciones."
+    },
+    {
+      "parte": "Arts. 7-23",
+      "titulo": "Disposiciones comunes",
+      "porQue": "Rol del maestro, continuidad, gestión y coordinación, horarios y carga horaria."
+    },
+    {
+      "parte": "Arts. 24-51",
+      "titulo": "Atención por población",
+      "porQue": "Soldados, privados de libertad, jóvenes con responsabilidad penal, trabajadoras del hogar, pueblos IOC."
+    }
+  ],
+  "opcional": [
+    {
+      "parte": "Considerandos, seguimiento y anexos",
+      "titulo": "Antecedentes y declaración jurada",
+      "porQue": "Validez de 3 meses de la declaración jurada."
+    }
+  ],
+  "consejos": [
+    "Para cada población, ubica con quién coordina el CEA y qué modalidad aplica."
+  ]
+}

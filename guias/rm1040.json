@@ -1,0 +1,49 @@
+{
+  "clave": "rm1040",
+  "resumen": "La RM 1040/2022 aprueba los documentos curriculares del Subsistema de Educación Alternativa y Especial; el documento de la bibliografía son los Lineamientos Metodológicos de la Educación Permanente No Escolarizada (2023). Desarrolla los antecedentes históricos, el análisis de la realidad, los enfoques (descolonizador y despatriarcalizador, diverso e inclusivo, productivo territorial), los lineamientos teóricos y operativos, la evaluación, la organización en cursos cortos y largos, los programas y los lineamientos para CEFOS, CEA-I, CEPEAD y Centros de Capacitación Técnica Privados.",
+  "ideasClave": [
+    "Cinco programas: F.O.S, E.PRO.C, ED.A.C, ED.A.P y E.CO.M.T.",
+    "Hora académica de 40 minutos: un taller de 4 horas reloj se certifica con 6 horas académicas.",
+    "Curso corto: 6 a 100 horas académicas, con un Diseño Metodológico (práctica, teoría, valoración y producción).",
+    "Curso largo: se planifica con los actores; hasta 70% de práctica y 30% de teoría.",
+    "CCTP: Categoría A (20-80 h reloj) y Categoría B (80-400 h reloj).",
+    "Evaluación comunitaria: «no todos pueden evaluar todo»; dimensiones Ser, Saber, Hacer y Decidir."
+  ],
+  "obligatorio": [
+    {
+      "parte": "Págs. 21-28",
+      "titulo": "Análisis de la realidad y enfoques",
+      "porQue": "Enfoques descolonizador, diverso e inclusivo, y productivo territorial."
+    },
+    {
+      "parte": "Págs. 30-37",
+      "titulo": "Lineamientos metodológicos y evaluación",
+      "porQue": "Concepción de la evaluación y las cuatro dimensiones."
+    },
+    {
+      "parte": "Págs. 41-48",
+      "titulo": "Cursos largos, CEFOS y CEA-I",
+      "porQue": "Condiciones de apertura, perfiles de programa, conversión de horas y lineamientos de centros."
+    },
+    {
+      "parte": "Págs. 48-67",
+      "titulo": "Orientaciones para cursos cortos y largos",
+      "porQue": "Duración, diseño metodológico, mapa de módulos y contenidos, niveles técnicos."
+    }
+  ],
+  "opcional": [
+    {
+      "parte": "Págs. 1-20",
+      "titulo": "Presentación e historia de la educación",
+      "porQue": "Antecedentes: Colonia, República, reformas."
+    },
+    {
+      "parte": "Págs. 67-71",
+      "titulo": "Anexos y bibliografía",
+      "porQue": "Formatos."
+    }
+  ],
+  "consejos": [
+    "Practica las conversiones de horas reloj a horas académicas y memoriza las siglas de los programas."
+  ]
+}

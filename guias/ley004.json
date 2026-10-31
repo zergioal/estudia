@@ -1,0 +1,44 @@
+{
+  "clave": "ley004",
+  "resumen": "La Ley 004 «Marcelo Quiroga Santa Cruz» (2010) de lucha contra la corrupción, enriquecimiento ilícito e investigación de fortunas crea institucionalidad (Consejo Nacional, tribunales, fiscales e investigadores especializados, SIIARBE), sistematiza los delitos de corrupción, crea nuevos tipos penales y modifica el Código Penal, el Código de Procedimiento Penal y el Código Civil.\n\nPara el director/a importan el ámbito de aplicación (incluye ex servidores), los nuevos delitos (uso indebido de bienes, enriquecimiento ilícito, falsedad en la declaración jurada), la imprescriptibilidad y la obligación de denunciar.",
+  "ideasClave": [
+    "Se aplica a servidores y ex servidores públicos y a particulares que dañen al Estado (Art. 5).",
+    "No se invoca secreto bancario ante la UIF, el Ministerio de Transparencia, el Ministerio Público y la Procuraduría (Art. 19).",
+    "Ocho nuevos tipos penales (Art. 25): uso indebido de bienes, enriquecimiento ilícito, obstrucción de la justicia, falsedad en la declaración jurada…",
+    "Falsedad en la declaración jurada: 1 a 4 años; obstrucción de la justicia: 3 a 8 años.",
+    "Las deudas por daños económicos al Estado no prescriben (Código Civil, Art. 1502 modificado)."
+  ],
+  "obligatorio": [
+    {
+      "parte": "Arts. 1-5",
+      "titulo": "Disposiciones generales",
+      "porQue": "Objeto, finalidad, principios y ámbito de aplicación."
+    },
+    {
+      "parte": "Arts. 6-23",
+      "titulo": "Entidades de lucha contra la corrupción",
+      "porQue": "Consejo Nacional, control social, tribunales, fiscales, SIIARBE."
+    },
+    {
+      "parte": "Arts. 24-33",
+      "titulo": "Delitos de corrupción y nuevos tipos penales",
+      "porQue": "Uso indebido de bienes, enriquecimiento ilícito, cohechos, obstrucción, falsedad."
+    }
+  ],
+  "opcional": [
+    {
+      "parte": "Arts. 34-40",
+      "titulo": "Modificaciones a códigos",
+      "porQue": "Imprescriptibilidad, retroactividad, nuevos textos del Código Penal (peculado, retardo de justicia)."
+    },
+    {
+      "parte": "Disposiciones transitorias y finales",
+      "titulo": "Implementación",
+      "porQue": "Datos finos."
+    }
+  ],
+  "consejos": [
+    "Memoriza las penas por delito: es la fuente más común de distractores.",
+    "Relaciónala con CPE Arts. 108 (deber de denunciar), 112 (imprescriptibilidad) y 235 (declaración jurada)."
+  ]
+}

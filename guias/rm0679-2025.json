@@ -1,0 +1,47 @@
+{
+  "clave": "rm0679-2025",
+  "resumen": "La RM 0679/2025 aprueba el Reglamento de certificación para la Educación Técnica, Tecnológica y Productiva de Personas Jóvenes y Adultas. Regula la emisión de certificados de Técnico Básico y Técnico Auxiliar y del Título de Técnico Medio, su procedimiento a través de los sistemas del SIE, la regularización, el certificado supletorio, la legalización, y la anulación y reimpresión.",
+  "ideasClave": [
+    "Cadena: CEA (CUT-ETTP y registro) → Distrital (valida) → Departamental (emite) → Distrital → CEA → participante.",
+    "El CEA remite las carpetas a la Distrital en un máximo de 72 horas.",
+    "El Ministerio, a través de Comunicación Social, diseña los formatos; la UGPSEP-SI ajusta el sistema.",
+    "Anulación y reimpresión: Subdirección 5 días hábiles, Asuntos Jurídicos 3 días hábiles, emisión en 10 días hábiles; costo Bs 100 (30 Departamental / 70 Ministerio)."
+  ],
+  "obligatorio": [
+    {
+      "parte": "Reglamento Arts. 1-4",
+      "titulo": "Disposiciones generales",
+      "porQue": "Objeto, ámbito y marco normativo."
+    },
+    {
+      "parte": "Reglamento Arts. 5-17",
+      "titulo": "Procedimiento de certificación",
+      "porQue": "Definiciones, formatos, requisitos, procedimiento y regularización."
+    },
+    {
+      "parte": "Reglamento Art. 18",
+      "titulo": "Responsabilidades por instancia",
+      "porQue": "Qué hace el CEA, la Distrital y la Subdirección."
+    },
+    {
+      "parte": "Reglamento Arts. 25-28",
+      "titulo": "Anulación y reimpresión",
+      "porQue": "Requisitos, plazos y costos."
+    }
+  ],
+  "opcional": [
+    {
+      "parte": "Reglamento Arts. 19-24",
+      "titulo": "Certificado supletorio y legalización",
+      "porQue": "Requisitos."
+    },
+    {
+      "parte": "Considerandos, parte resolutiva y disposiciones",
+      "titulo": "Antecedentes y transitorias",
+      "porQue": "Contexto."
+    }
+  ],
+  "consejos": [
+    "Memoriza la cadena de instancias y cada plazo (72 h, 5, 3 y 10 días hábiles)."
+  ]
+}

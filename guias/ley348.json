@@ -1,0 +1,70 @@
+{
+  "clave": "ley348",
+  "resumen": "La Ley 348, Ley Integral para Garantizar a las Mujeres una Vida Libre de Violencia (2013), establece mecanismos de prevención, atención, protección y reparación, la persecución y sanción de los agresores, nuevos tipos penales (como el feminicidio) y un procedimiento penal simplificado. Su Reglamento (DS 2145) desarrolla el SIPPASE, el uso de recursos (IDH), las casas de acogida y las obligaciones del sistema educativo.\n\nPara un director/a es clave la obligación de denunciar los casos de violencia contra mujeres de cualquier edad, las medidas en el ámbito educativo y las medidas de protección.",
+  "ideasClave": [
+    "Violencia: acción u omisión que cause daño a una mujer por el solo hecho de ser mujer (Art. 6).",
+    "Principios: trato digno, igualdad, inclusión, entre otros (Art. 4).",
+    "Medidas en el ámbito educativo a cargo del Ministerio de Educación (Art. 19).",
+    "Medidas de protección de aplicación inmediata; alcanzan el lugar de estudios (Arts. 32-35).",
+    "Todos los delitos de la ley son de acción pública (Art. 90); feminicidio: 30 años sin indulto.",
+    "Reglamento: el responsable de la institución educativa debe denunciar los casos, sin importar la edad de la víctima."
+  ],
+  "obligatorio": [
+    {
+      "parte": "Arts. 1-7",
+      "titulo": "Disposiciones generales",
+      "porQue": "Objeto, principios y valores, definiciones y tipos de violencia."
+    },
+    {
+      "parte": "Arts. 17-23",
+      "titulo": "Prevención (incluido el ámbito educativo, Art. 19)",
+      "porQue": "Lo que corresponde al sistema educativo."
+    },
+    {
+      "parte": "Arts. 32-35",
+      "titulo": "Medidas de protección",
+      "porQue": "Finalidad, aplicación inmediata y catálogo de medidas."
+    },
+    {
+      "parte": "Arts. 42-54",
+      "titulo": "Denuncia y FELCV",
+      "porQue": "Quién recibe la denuncia y sus obligaciones; plazos de la FELCV."
+    },
+    {
+      "parte": "Arts. 83-86, 90",
+      "titulo": "Delitos, principios procesales y acción pública",
+      "porQue": "Feminicidio, violencia económica, gratuidad, oralidad."
+    },
+    {
+      "parte": "Reglamento Arts. 3, 15, 25",
+      "titulo": "Faltas, acciones preventivas en educación, deber de informar",
+      "porQue": "Obligación del director de denunciar y traspaso de los hijos."
+    }
+  ],
+  "opcional": [
+    {
+      "parte": "Arts. 8-16",
+      "titulo": "Políticas públicas e institucionalidad",
+      "porQue": "Rol del ente rector."
+    },
+    {
+      "parte": "Arts. 24-31",
+      "titulo": "Atención a mujeres en situación de violencia",
+      "porQue": "Servicios de atención integral."
+    },
+    {
+      "parte": "Arts. 55-82, 87-100",
+      "titulo": "Investigación, jurisdicción y procedimiento",
+      "porQue": "Detalles procesales."
+    },
+    {
+      "parte": "Reglamento Arts. 5-13, 18-20",
+      "titulo": "SIPPASE, alertas, IDH, casas de acogida",
+      "porQue": "Datos institucionales y porcentajes (30% / 10% del IDH)."
+    }
+  ],
+  "consejos": [
+    "Diferencia la Ley 348 (mujeres) de la Ley 548 (niñez): en ambas el director denuncia, pero ante instancias distintas.",
+    "Memoriza: 8 horas (FELCV), 30 años sin indulto (feminicidio), 2 a 4 años (violencia económica)."
+  ]
+}

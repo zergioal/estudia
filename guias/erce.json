@@ -1,0 +1,48 @@
+{
+  "clave": "erce",
+  "resumen": "Reporte ejecutivo del Estudio Regional Comparativo y Explicativo ERCE 2019 (LLECE, OREALC/UNESCO Santiago, 2021), que evaluó a estudiantes de 3.º y 6.º grado de primaria en Lectura, Matemática y Ciencias en 16 países. Presenta los logros por nivel, la comparación con el TERCE 2013, las diferencias por sexo, el monitoreo de la meta 4.1 de la Agenda 2030 y los factores asociados (estudiante y familia, docentes y prácticas, escuela).\n\nPara un director/a lo valioso son los factores asociados (preescolar, repitencia, ausentismo, prácticas docentes, nivel socioeconómico de la escuela) y las conclusiones sobre la equidad.",
+  "ideasClave": [
+    "La brecha dentro de cada país es mayor que la brecha entre países.",
+    "Preescolar: +28 puntos; repetir de grado: −65 puntos en promedio.",
+    "Prácticas docentes con efecto: interés por el bienestar, apoyo al aprendizaje y organización de la enseñanza.",
+    "El factor de mayor peso es el nivel socioeconómico de la escuela (segregación); la ventaja de lo privado se diluye al controlarlo.",
+    "Más del 40% (3.º) y del 60% (6.º) no alcanzan el nivel mínimo de competencias; sin avance desde 2013."
+  ],
+  "obligatorio": [
+    {
+      "parte": "Págs. 11-25",
+      "titulo": "Logros de aprendizaje y diferencias por sexo",
+      "porQue": "Niveles por área, variabilidad y comparación con el TERCE."
+    },
+    {
+      "parte": "Págs. 25-28",
+      "titulo": "Monitoreo de la meta 4.1",
+      "porQue": "Indicadores 4.1.1a y 4.1.1b."
+    },
+    {
+      "parte": "Págs. 28-39",
+      "titulo": "Factores asociados al logro",
+      "porQue": "Lo más útil para la gestión: familia, docentes y escuela."
+    },
+    {
+      "parte": "Págs. 39-40",
+      "titulo": "Conclusiones",
+      "porQue": "Inequidades estructurales y recomendaciones."
+    }
+  ],
+  "opcional": [
+    {
+      "parte": "Págs. 1-11",
+      "titulo": "Prólogo y antecedentes",
+      "porQue": "Quién elabora el estudio y cómo se diseña."
+    },
+    {
+      "parte": "Págs. 41-77",
+      "titulo": "Anexos por país y referencias",
+      "porQue": "Tablas de resultados."
+    }
+  ],
+  "consejos": [
+    "Asocia cada cifra con su factor (28, 65, 22, 40-50%) y cada país destacado con su logro (Perú, Costa Rica, Cuba)."
+  ]
+}

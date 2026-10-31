@@ -1,0 +1,43 @@
+{
+  "clave": "rm0872-2024",
+  "resumen": "La RM 0872/2024 aprueba el Reglamento de Reconocimiento de Saberes, Conocimientos y Experiencias para la Educación de Personas Jóvenes y Adultas. Permite que jóvenes y adultos acrediten lo aprendido a lo largo de la vida y se homologuen a una etapa o nivel (Primaria, Secundaria o Técnica) mediante una evaluación a cargo de una Comisión Evaluadora del CEA.",
+  "ideasClave": [
+    "Se fundamenta en la diversidad, la descolonización de la educación y el MESCP.",
+    "La Comisión Evaluadora prepara y aplica los instrumentos y valida los resultados; sus miembros no pueden tener parentesco con los postulantes.",
+    "Mínimo de aprobación: 51 puntos (en Secundaria, en todas las áreas).",
+    "Requisitos: formulario en el SIE, fotocopias simples del CI y del certificado de nacimiento, sin calificaciones previas en la etapa.",
+    "Registro en el SIE: las dos primeras semanas de octubre; la Distrital y la Subdirección verifican en 48 h."
+  ],
+  "obligatorio": [
+    {
+      "parte": "Arts. 1-8",
+      "titulo": "Disposiciones generales",
+      "porQue": "Objeto, marco normativo y fundamentación."
+    },
+    {
+      "parte": "Arts. 9-13",
+      "titulo": "Comisión Evaluadora",
+      "porQue": "Conformación, impedimentos y funciones."
+    },
+    {
+      "parte": "Arts. 14-17",
+      "titulo": "Lineamientos por nivel y requisitos",
+      "porQue": "Primaria, Secundaria y Técnica; inscripción."
+    },
+    {
+      "parte": "Arts. 18-26",
+      "titulo": "Procedimiento, habilitados y registro en el SIE",
+      "porQue": "Plazos y responsables."
+    }
+  ],
+  "opcional": [
+    {
+      "parte": "Considerandos y disposiciones",
+      "titulo": "Antecedentes",
+      "porQue": "Contexto."
+    }
+  ],
+  "consejos": [
+    "Relaciónala con Ley 070 Art. 18 (reconocimiento de saberes) y con ODS 4 (validación del aprendizaje no formal)."
+  ]
+}

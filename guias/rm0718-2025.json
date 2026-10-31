@@ -1,0 +1,43 @@
+{
+  "clave": "rm0718-2025",
+  "resumen": "La RM 0718/2025 aprueba el Reglamento para la implementación de maestros itinerantes en atención multigrado en los niveles de Primaria y Secundaria de Personas Jóvenes y Adultas. Está dirigido a CEA que atienden a poblaciones en fronteras, riberas de río y zonas de difícil acceso, y regula la identificación de comunidades, la autorización, la implementación, la gestión curricular (módulos emergentes desde el diagnóstico comunitario) y el seguimiento.",
+  "ideasClave": [
+    "Ámbito: fronteras, riberas de río y zonas de difícil acceso.",
+    "Beneficiarios: jóvenes y adultos mayores de 15 años de CEA autorizados.",
+    "El director coordina con el GAM la identificación de la comunidad.",
+    "Asistencia obligatoria a las sesiones presenciales; planificación semestral, modular y de aula-taller.",
+    "El maestro itinerante entrega un informe semestral con el cuaderno andragógico."
+  ],
+  "obligatorio": [
+    {
+      "parte": "Arts. 1-14",
+      "titulo": "Disposiciones generales",
+      "porQue": "Objeto, marco legal, principios, ámbito y beneficiarios."
+    },
+    {
+      "parte": "Arts. 15-21",
+      "titulo": "Implementación",
+      "porQue": "Autorización, calendario, libretas y Diploma de Bachiller."
+    },
+    {
+      "parte": "Arts. 22-28",
+      "titulo": "Gestión curricular y seguimiento",
+      "porQue": "Asistencia, estructura curricular, evaluación, planificación e informe semestral."
+    }
+  ],
+  "opcional": [
+    {
+      "parte": "Considerandos",
+      "titulo": "Antecedentes",
+      "porQue": "Contexto (texto escaneado)."
+    },
+    {
+      "parte": "Disposiciones transitorias y finales",
+      "titulo": "Capacitación y situaciones no previstas",
+      "porQue": "Quién resuelve los casos no previstos (VEAE con informe de la DGEA)."
+    }
+  ],
+  "consejos": [
+    "Relaciónala con Ley 070 Art. 5 (priorizar la educación en las fronteras) y RM 0001 Art. 23."
+  ]
+}

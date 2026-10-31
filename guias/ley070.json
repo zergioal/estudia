@@ -1,0 +1,81 @@
+{
+  "clave": "ley070",
+  "resumen": "La Ley 070 «Avelino Siñani – Elizardo Pérez» (2010) es la ley marco de la educación boliviana. Define la educación como derecho fundamental, fija sus bases, fines y objetivos, y organiza el Sistema Educativo Plurinacional en tres subsistemas: Regular; Alternativa y Especial; y Superior de Formación Profesional.\n\nPara un director/a de CEA es la norma de referencia: el Subsistema de Educación Alternativa y Especial (Arts. 16-27) define la Educación de Personas Jóvenes y Adultas (mayores de 15 años, técnico-humanística) y la Educación Permanente, y el Título III regula la gestión, la certificación (Diploma de Bachiller gratuito, certificación de competencias) y la participación social.",
+  "ideasClave": [
+    "Bases (Art. 3), fines (Art. 4) y objetivos (Art. 5) son distintos: la confusión entre ellos es pregunta clásica.",
+    "La educación es descolonizadora, comunitaria, universal, única-diversa-plural, laica, inclusiva, intracultural-intercultural-plurilingüe y productiva.",
+    "Tres subsistemas; Alternativa y Especial es UNO solo (Art. 8).",
+    "Educación Alternativa: áreas EPJA y Educación Permanente (Art. 22); EPJA para mayores de 15 años, con certificación Técnico Básico, Auxiliar y Medio (Arts. 19, 23).",
+    "La educación inicia en la lengua materna; reglas de primera y segunda lengua según la comunidad (Art. 7).",
+    "Diploma de Bachiller gratuito vía Direcciones Departamentales (Art. 81); Sistema Plurinacional de Certificación de Competencias (Art. 82)."
+  ],
+  "obligatorio": [
+    {
+      "parte": "Arts. 1-2",
+      "titulo": "Mandatos constitucionales y disposiciones generales",
+      "porQue": "Participación social, unidades fiscales, privadas y de convenio: base de la gestión de un centro."
+    },
+    {
+      "parte": "Arts. 3-5",
+      "titulo": "Bases, fines y objetivos de la educación",
+      "porQue": "Lo más preguntado de la ley; memoriza el orden de las primeras bases y diferencia fines de objetivos."
+    },
+    {
+      "parte": "Arts. 6-7",
+      "titulo": "Intra/interculturalidad y uso de idiomas",
+      "porQue": "Reglas de primera/segunda lengua, lengua extranjera y lengua de señas; casos prácticos frecuentes."
+    },
+    {
+      "parte": "Art. 8",
+      "titulo": "Estructura del Sistema Educativo Plurinacional",
+      "porQue": "Los tres subsistemas (pregunta capciosa con \"cuatro\")."
+    },
+    {
+      "parte": "Arts. 16-27",
+      "titulo": "Subsistema de Educación Alternativa y Especial",
+      "porQue": "Núcleo para un director de CEA: EPJA, Educación Permanente, reconocimiento de saberes, centros de capacitación técnica y Educación Especial."
+    },
+    {
+      "parte": "Arts. 40, 78-83",
+      "titulo": "Formación continua, administración y gestión, Observatorio de la Calidad",
+      "porQue": "Estructura de gestión, Diploma de Bachiller, certificación de competencias y evaluación de la calidad."
+    },
+    {
+      "parte": "Arts. 89-92",
+      "titulo": "Financiamiento y participación social comunitaria",
+      "porQue": "Quién financia (TGE y ETA) y cómo participan padres, comunidades y pueblos IOC."
+    }
+  ],
+  "opcional": [
+    {
+      "parte": "Arts. 9-15",
+      "titulo": "Subsistema de Educación Regular",
+      "porQue": "Estructura inicial-primaria-secundaria (Art. 11-12); útil para preguntas de comparación."
+    },
+    {
+      "parte": "Arts. 28-68",
+      "titulo": "Educación Superior de Formación Profesional",
+      "porQue": "Formación de maestros, técnica y universitaria; pesa poco para un CEA (salvo Art. 38: título de Licenciatura)."
+    },
+    {
+      "parte": "Arts. 69-77",
+      "titulo": "Organización curricular",
+      "porQue": "Currículo base y regionalizado."
+    },
+    {
+      "parte": "Arts. 84-88",
+      "titulo": "Apoyo técnico y entidades descentralizadas",
+      "porQue": "IPELC y equipos multidisciplinarios."
+    },
+    {
+      "parte": "Disposiciones transitorias y finales",
+      "titulo": "Plazos de implementación",
+      "porQue": "Datos finos (p. ej., 90 días para el Observatorio)."
+    }
+  ],
+  "consejos": [
+    "Haz una tabla de tres columnas: Bases (Art. 3) / Fines (Art. 4) / Objetivos (Art. 5).",
+    "Relaciona cada artículo del subsistema alternativo con la RM 0001 y la RM 1040: el examen mezcla ley y reglamento.",
+    "Ojo con los nombres exactos: \"Inicial en Familia Comunitaria\", \"Primaria Comunitaria Vocacional\", \"Secundaria Comunitaria Productiva\"."
+  ]
+}

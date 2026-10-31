@@ -1,0 +1,37 @@
+{
+  "clave": "ley223",
+  "resumen": "La Ley 223 General para Personas con Discapacidad (2012) garantiza el ejercicio pleno de los derechos de las personas con discapacidad en igualdad de condiciones: principios, derechos (educación, salud, trabajo, accesibilidad), deberes, garantías y gestión pública.\n\nPara un director/a interesa el derecho a la educación inclusiva en todos los niveles, la accesibilidad de la infraestructura, la no discriminación y las obligaciones de las familias y del Estado.",
+  "ideasClave": [
+    "Principios: igualdad en dignidad, no discriminación, inclusión, accesibilidad, entre otros (Art. 4).",
+    "Derecho a la educación inclusiva y a servicios de salud gratuitos.",
+    "Las familias que limitan el desarrollo y la autonomía de la persona con discapacidad pierden los beneficios (Art. 21).",
+    "Los gobiernos departamentales y municipales dictan normas de accesibilidad en construcciones públicas (Art. 48)."
+  ],
+  "obligatorio": [
+    {
+      "parte": "Arts. 1-5",
+      "titulo": "Disposiciones generales",
+      "porQue": "Objeto, fines, principios y definiciones."
+    },
+    {
+      "parte": "Arts. 6-22",
+      "titulo": "Derechos y deberes",
+      "porQue": "Educación, salud, trabajo, protección; deberes según el grado de discapacidad."
+    },
+    {
+      "parte": "Arts. 23-41",
+      "titulo": "Garantías",
+      "porQue": "Ámbitos de educación, salud y trabajo; acceso a la justicia."
+    }
+  ],
+  "opcional": [
+    {
+      "parte": "Arts. 42-49",
+      "titulo": "Gestión pública",
+      "porQue": "Unidades especializadas, CONALPEDIS, accesibilidad."
+    }
+  ],
+  "consejos": [
+    "Conecta con la Ley 070 (Educación Especial, modalidades directa e indirecta) y con la RM 0001 (transitabilidad inclusiva)."
+  ]
+}

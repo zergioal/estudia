@@ -1,0 +1,61 @@
+{
+  "clave": "rm0001-2026",
+  "resumen": "La RM 0001/2026 aprueba las Normas Generales para la Gestión Educativa 2026 del Subsistema de Educación Alternativa y Especial. Es el \"manual de operación\" anual de un CEA: calendario (200 días hábiles), planificación (PAD, POA, Plan Regional de Educación Productiva), inscripciones y requisitos, modalidades de atención, reportes, libretas y Diploma de Bachiller, certificación técnica y de competencias, CEA privados, Educación Especial y medidas de bienestar (Cero Tolerancia, alimentación complementaria, prohibición de cobros).",
+  "ideasClave": [
+    "200 días hábiles de trabajo educativo; actividades extracurriculares solo si están en el POA.",
+    "EPJA: lunes a viernes, 4 períodos (humanística) o 5 (técnica) de 40 minutos.",
+    "Lineamientos 2026 (Art. 23): maestros itinerantes, competencias digitales e IA, enfoque dual, atención a adultos mayores.",
+    "Prohibido cualquier cobro o aporte en CEA fiscales y de convenio (Art. 81).",
+    "CEA privados: sin incremento de pensiones, becas completas al 10%, prohibido abrir nuevos y retener libretas.",
+    "Fechas clave 2026: PAD hasta 27/02, Comité de Educación Productiva hasta 23/01, organizaciones estudiantiles hasta 02/03."
+  ],
+  "obligatorio": [
+    {
+      "parte": "Arts. 1-11",
+      "titulo": "Aspectos generales de gestión",
+      "porQue": "Ámbito, días hábiles, gestión de recursos ante el GAM, inventario de bienes, uso de infraestructura compartida."
+    },
+    {
+      "parte": "Arts. 12-23",
+      "titulo": "Organización y planificación de procesos educativos",
+      "porQue": "Inscripciones, requisitos, continuidad de estudios y lineamientos de la gestión (Art. 23)."
+    },
+    {
+      "parte": "Arts. 24-33",
+      "titulo": "Planificación de la gestión",
+      "porQue": "PAD, Subdirecciones, Plan Regional de Educación Productiva, POA del CEA, Post-alfabetización, modalidades, duración de períodos."
+    },
+    {
+      "parte": "Arts. 34-42",
+      "titulo": "Reportes y certificaciones",
+      "porQue": "Diploma de Bachiller (requisitos y casos especiales), notas duplicadas, bachiller destacado, SIE, certificación técnica y de competencias."
+    },
+    {
+      "parte": "Arts. 43-53",
+      "titulo": "Gestión administrativa y CEA privados",
+      "porQue": "Convenios, transitabilidad, suplencias, prohibiciones, pensiones, becas y supervisión."
+    },
+    {
+      "parte": "Arts. 78-86",
+      "titulo": "Bienestar educativo",
+      "porQue": "Cero Tolerancia a la violencia, alimentación complementaria, prohibición de cobros, trabajo comunitario, organizaciones estudiantiles."
+    }
+  ],
+  "opcional": [
+    {
+      "parte": "Arts. 54-77",
+      "titulo": "Ámbito de Educación Especial",
+      "porQue": "Calendario, planificación e informes de los centros de Educación Especial; útil para preguntas de inclusión."
+    },
+    {
+      "parte": "Disposiciones finales y transitoria",
+      "titulo": "Mapeo de centros inclusivos, Post-alfabetización, regularización 2020-2021",
+      "porQue": "Datos finos."
+    }
+  ],
+  "consejos": [
+    "Arma tu propio calendario 2026 con todas las fechas límite que fija la RM.",
+    "Distingue quién hace qué: Departamental, Subdirección, Distrital, director del CEA.",
+    "Muchas preguntas son casos: cobros, suplencias, libretas retenidas, traspasos, infraestructura compartida."
+  ]
+}

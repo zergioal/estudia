@@ -1,0 +1,43 @@
+{
+  "clave": "rm0531-2023",
+  "resumen": "La RM 0531/2023 (con la RM 1115/2023) aprueba el Reglamento para la certificación de competencias en el ámbito de la Educación Alternativa. Regula el Sistema Plurinacional de Certificación de Competencias (SPCC): definiciones, funciones de cada instancia, procedimiento de evaluación en CEA de Educación Permanente acreditados, construcción de estándares ocupacionales, emisión y archivo de certificados, aranceles y sanciones.",
+  "ideasClave": [
+    "El certificado acredita competencias adquiridas a lo largo de la vida según un estándar ocupacional.",
+    "La DGEA (equipo del SPCC) elabora políticas, coordina acreditaciones y valida la formación complementaria.",
+    "Las Departamentales imprimen los certificados; las Subdirecciones los entregan; el coordinador del SPCC aprueba cronogramas.",
+    "1 evaluador por cada 30 postulantes como máximo; carpetas observadas se subsanan en 10 días hábiles.",
+    "Nuevo estándar: mapeo en 15 días con al menos 10 expertos."
+  ],
+  "obligatorio": [
+    {
+      "parte": "Arts. 2-9",
+      "titulo": "Disposiciones generales",
+      "porQue": "Objeto, marco jurídico y definiciones (certificado, competencia, matriz ocupacional)."
+    },
+    {
+      "parte": "Arts. 15-21",
+      "titulo": "Funciones y atribuciones",
+      "porQue": "DGEA, Departamentales, Subdirecciones, coordinadores del SPCC y CEA."
+    },
+    {
+      "parte": "Arts. 22-38",
+      "titulo": "Procedimiento de certificación",
+      "porQue": "Postulación, evaluadores, evaluación y verificación de carpetas."
+    }
+  ],
+  "opcional": [
+    {
+      "parte": "Arts. 39-48",
+      "titulo": "Construcción de estándares ocupacionales",
+      "porQue": "Plazos y expertos."
+    },
+    {
+      "parte": "Arts. 49-68",
+      "titulo": "Emisión, archivo, aranceles y sanciones",
+      "porQue": "Certificado supletorio y custodia (3 y 9 meses)."
+    }
+  ],
+  "consejos": [
+    "Diferencia la certificación de competencias (RM 0531) del reconocimiento de saberes para la EPJA (RM 0872) y de la certificación técnica (RM 0679)."
+  ]
+}

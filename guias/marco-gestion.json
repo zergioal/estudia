@@ -1,0 +1,55 @@
+{
+  "clave": "marco-gestion",
+  "resumen": "Marco para la Gestión y el Liderazgo Educativo Local (C Líder y DEP, Chile, 2.ª versión, 2025). Orienta las prácticas del liderazgo de nivel intermedio (los Servicios Locales de Educación Pública, SLEP) en la Nueva Educación Pública: contexto e institucionalidad (DEP, ENEP, PEL, PEI, PME), la evidencia sobre el nivel intermedio y sus tendencias, y el Marco propiamente dicho, con 6 dimensiones de prácticas y recursos personales (principios, habilidades y conocimientos).\n\nAunque es chileno, sus conceptos (liderar desde el medio, trabajo en red, enfoque territorial, gobernanza local) se aplican a las Direcciones Distritales y a los directores de CEA.",
+  "ideasClave": [
+    "El nivel intermedio pasa de transmisor de orientaciones a mediador, intérprete e implementador con pertinencia territorial.",
+    "Influencia en tres direcciones: hacia abajo, lateralmente y hacia arriba (Rincón-Gallardo).",
+    "Seis dimensiones: visión compartida; participación; liderazgo pedagógico; capacidades; bienestar, inclusión y ciudadanía; recursos y condiciones.",
+    "«La cultura se come a la estrategia en el desayuno»: ninguna cultura se cambia por mandato.",
+    "Desafíos: gobernanza, territorialidad, vinculación y participación.",
+    "Recursos personales: principios (justicia socioeducativa, confianza…), habilidades (pensamiento sistémico, reflexión…) y conocimientos."
+  ],
+  "obligatorio": [
+    {
+      "parte": "Págs. 8-20",
+      "titulo": "Introducción y contexto del nivel intermedio",
+      "porQue": "SLEP, DEP, ENEP, instrumentos de gestión y coordinación institucional."
+    },
+    {
+      "parte": "Págs. 21-40",
+      "titulo": "Evidencia y tendencias",
+      "porQue": "Rol del nivel intermedio, tendencias (género, socioemocional, calidad, redes), dimensión política y condiciones de base."
+    },
+    {
+      "parte": "Págs. 51-68",
+      "titulo": "Las seis dimensiones de prácticas",
+      "porQue": "Núcleo del documento: desafío, descripción y prácticas de cada dimensión."
+    },
+    {
+      "parte": "Págs. 68-80",
+      "titulo": "Recursos personales",
+      "porQue": "Principios, habilidades y conocimientos del líder intermedio."
+    }
+  ],
+  "opcional": [
+    {
+      "parte": "Págs. 1-8",
+      "titulo": "Presentación y agradecimientos",
+      "porQue": "Autoría y contexto."
+    },
+    {
+      "parte": "Págs. 40-51",
+      "titulo": "Otros antecedentes de la evidencia",
+      "porQue": "Profundización."
+    },
+    {
+      "parte": "Págs. 81-96",
+      "titulo": "Referencias",
+      "porQue": "No se evalúa."
+    }
+  ],
+  "consejos": [
+    "Memoriza los nombres de las 6 dimensiones en orden y no las confundas con las 5 del Marco chileno de la Buena Dirección (que aparece en LIDEI).",
+    "Las preguntas suelen ser casos: ¿qué práctica corresponde ante esta situación del territorio?"
+  ]
+}

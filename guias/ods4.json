@@ -1,0 +1,55 @@
+{
+  "clave": "ods4",
+  "resumen": "Documento de la UNESCO con la Declaración de Incheon (Foro Mundial sobre la Educación, mayo de 2015) y el Marco de Acción Educación 2030 para el Objetivo de Desarrollo Sostenible 4: «Garantizar una educación inclusiva y equitativa de calidad y promover oportunidades de aprendizaje permanente para todos».\n\nLa Declaración fija los compromisos (inclusión y equidad como piedra angular, igualdad de género, calidad, aprendizaje a lo largo de la vida, financiamiento). El Marco de Acción explica la visión y los principios, las 7 metas y los 3 medios de aplicación con sus estrategias indicativas, y los mecanismos de gobernanza, financiamiento y seguimiento.",
+  "ideasClave": [
+    "Ninguna meta educativa se considera lograda si no se logra para todos.",
+    "Financiamiento: 4-6% del PIB o 15-20% del gasto público para educación.",
+    "Metas 4.1 a 4.7 y medios 4.a, 4.b y 4.c; 12 años gratuitos, de los cuales al menos 9 obligatorios, y 1 año de preescolar.",
+    "La educación es un derecho humano fundamental y habilitador y un bien público cuyo garante es el Estado.",
+    "Alfabetización como continuo de competencias; EDS y ECM (meta 4.7).",
+    "Seguimiento: el IEU como fuente oficial de datos y el Informe GEM."
+  ],
+  "obligatorio": [
+    {
+      "parte": "Págs. 6-10",
+      "titulo": "Declaración de Incheon: compromisos",
+      "porQue": "Inclusión y equidad, género, calidad, aprendizaje a lo largo de la vida, financiamiento."
+    },
+    {
+      "parte": "Págs. 23-30",
+      "titulo": "Visión, principios y enfoques estratégicos",
+      "porQue": "Lecciones de la EPT, carácter universal, principios (derecho, bien público, igualdad de género)."
+    },
+    {
+      "parte": "Págs. 30-34",
+      "titulo": "Equidad, calidad, aprendizaje permanente y emergencias",
+      "porQue": "Estrategias transversales."
+    },
+    {
+      "parte": "Págs. 34-53",
+      "titulo": "Metas 4.1 a 4.7 y 4.a a 4.c",
+      "porQue": "Núcleo del documento: contenido de cada meta y sus estrategias indicativas."
+    }
+  ],
+  "opcional": [
+    {
+      "parte": "Págs. 1-6, 10-23",
+      "titulo": "Preámbulo, declaraciones de los directores e introducción",
+      "porQue": "Contexto (Jomtien, Dakar, Mascate) y estructura."
+    },
+    {
+      "parte": "Págs. 54-64",
+      "titulo": "Indicadores, gobernanza, financiamiento y seguimiento",
+      "porQue": "Cuatro niveles de indicadores, IEU, Informe GEM."
+    },
+    {
+      "parte": "Págs. 65-83",
+      "titulo": "Anexos",
+      "porQue": "Indicadores temáticos."
+    }
+  ],
+  "consejos": [
+    "Haz una ficha por meta (número + idea central): las confusiones entre metas son el distractor más frecuente.",
+    "Relaciona la meta 4.6 (alfabetización de jóvenes y adultos) y el aprendizaje a lo largo de la vida con la misión del CEA."
+  ]
+}
