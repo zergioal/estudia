@@ -1,0 +1,144 @@
+[
+  { "fragmentoRef": "erce-b001", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "¿Qué instancia elaboró el ERCE 2019, y qué mide?",
+      "opciones": [
+        { "texto": "El LLECE de la OREALC/UNESCO Santiago; mide logros en Matemática, Lenguaje y Ciencias en 3.º y 6.º de primaria", "correcta": true, "porQue": "Es lo que dice el prólogo." },
+        { "texto": "La OCDE; mide competencias de estudiantes de 15 años", "correcta": false, "porQue": "Eso es PISA." },
+        { "texto": "La OEI; mide el liderazgo directivo", "correcta": false, "porQue": "Ese es el informe de Liderazgo Directivo 2022." },
+        { "texto": "El LLECE; mide Lenguaje y Matemática en 4.º y 8.º grado", "correcta": false, "porQue": "Capciosa: los grados son 3.º y 6.º, y también se evalúan Ciencias." }
+      ],
+      "explicacion": "Es la evaluación regional más antigua y de más amplio alcance en América Latina. Participaron 16 países, con el apoyo de MIDE UC y UNICEF.",
+      "citaTextual": "mide los logros de aprendizaje en Matemática, Lenguaje y Ciencias de estudiantes de 3° y 6° grado de educación primaria",
+      "referencia": "UNESCO, ERCE 2019, Prólogo, págs. 1-4", "etiquetas": ["ERCE", "memorística"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "¿Cuántos países participaron en el ERCE 2019 y cuál fue el estudio anterior con el que se compara?",
+      "opciones": [
+        { "texto": "16 países; el TERCE 2013", "correcta": true, "porQue": "Es lo que dice el prólogo." },
+        { "texto": "9 países; el SERCE 2006", "correcta": false, "porQue": "Nueve es el número de países del estudio OEI-INEE 2019." },
+        { "texto": "21 países; PISA 2018", "correcta": false, "porQue": "No coincide." },
+        { "texto": "16 países; el PERCE 1997", "correcta": false, "porQue": "Capciosa: el número de países es correcto, pero la comparación es con el TERCE 2013." }
+      ],
+      "explicacion": "El reporte incluye un apartado sobre el monitoreo de la meta 4.1 de la Agenda 2030.",
+      "citaTextual": "la participación activa y contribución de los 16 países de la región que han participado de este estudio internacional",
+      "referencia": "UNESCO, ERCE 2019, Prólogo, págs. 1-4", "etiquetas": ["ERCE", "memorística"] }
+  ]},
+  { "fragmentoRef": "erce-b004", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "¿Qué tres grupos de habilidades evalúan las pruebas de Lectura del ERCE 2019?",
+      "opciones": [
+        { "texto": "Comprensión literal, comprensión inferencial y comprensión crítica", "correcta": true, "porQue": "Es lo que dice el texto." },
+        { "texto": "Comprensión de diversos textos y conocimiento textual", "correcta": false, "porQue": "Son los dos ejes temáticos, no los grupos de habilidades." },
+        { "texto": "Reconocimiento, análisis y producción de información", "correcta": false, "porQue": "Son las habilidades de la prueba de Ciencias." },
+        { "texto": "Fluidez, vocabulario y ortografía", "correcta": false, "porQue": "No son las habilidades evaluadas." }
+      ],
+      "explicacion": "Capciosa: hay que distinguir los ejes temáticos de los grupos de habilidades.",
+      "citaTextual": "Comprensión literal • Comprensión inferencial • Comprensión crítica",
+      "referencia": "UNESCO, ERCE 2019, Lectura, págs. 11-14", "etiquetas": ["lectura", "capciosa"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según el ERCE 2019, ¿qué porcentaje de estudiantes de 3.º grado de la región superó el Nivel I en Lectura, y qué porcentaje de 6.º alcanzó al menos el Nivel III?",
+      "opciones": [
+        { "texto": "55,7% en 3.º grado y 31,2% en 6.º grado", "correcta": true, "porQue": "Son los datos del texto." },
+        { "texto": "31,2% en 3.º y 55,7% en 6.º", "correcta": false, "porQue": "Capciosa: las cifras están invertidas." },
+        { "texto": "75,6% en 3.º y 20,7% en 6.º", "correcta": false, "porQue": "75,6% es el dato de Perú en 3.º, y 20,7% es el de Ciencias." },
+        { "texto": "50% en ambos grados", "correcta": false, "porQue": "No coincide." }
+      ],
+      "explicacion": "Los países con más estudiantes sobre el Nivel I en 3.º grado son Perú (75,6%), Costa Rica (74,7%) y Brasil (72,4%).",
+      "citaTextual": "En 3° grado, a nivel regional, el 55,7% de los estudiantes logró superar el Nivel de logro I",
+      "referencia": "UNESCO, ERCE 2019, Lectura, págs. 11-14", "etiquetas": ["lectura", "memorística"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "En el ERCE 2019, ¿qué distingue una diferencia «significativa» de una «diferencia sustantiva»?",
+      "opciones": [
+        { "texto": "«Significativa» indica que es estadísticamente significativa aunque sea pequeña; «sustantiva» indica que además tiene una magnitud importante", "correcta": true, "porQue": "Es la aclaración metodológica del informe." },
+        { "texto": "Son sinónimos", "correcta": false, "porQue": "El informe las distingue." },
+        { "texto": "«Significativa» es siempre de gran magnitud", "correcta": false, "porQue": "Puede ser de pequeña magnitud." },
+        { "texto": "«Sustantiva» no requiere significancia estadística", "correcta": false, "porQue": "Requiere significancia y, además, magnitud." }
+      ],
+      "explicacion": "El nivel de significancia usado es del 5%.",
+      "citaTextual": "que son estadísticamente significativas, aunque pueden ser de pequeña magnitud",
+      "referencia": "UNESCO, ERCE 2019, págs. 11-14", "etiquetas": ["metodología", "capciosa"] }
+  ]},
+  { "fragmentoRef": "erce-b007", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según el ERCE 2019, ¿qué porcentaje de estudiantes de la región alcanza al menos el Nivel III en Ciencias de 6.º grado, y qué país tuvo el desempeño más destacado?",
+      "opciones": [
+        { "texto": "Solo un quinto (20,7%); Cuba, con 779 puntos", "correcta": true, "porQue": "Son los datos del texto." },
+        { "texto": "31,2%; Costa Rica", "correcta": false, "porQue": "31,2% es el dato de Lectura en 6.º grado." },
+        { "texto": "48,6%; Perú", "correcta": false, "porQue": "48,6% es el porcentaje de Cuba en el Nivel III." },
+        { "texto": "20,7%; Costa Rica, con 779 puntos", "correcta": false, "porQue": "Capciosa: los 779 puntos son de Cuba; Costa Rica fue la segunda." }
+      ],
+      "explicacion": "Cuba superó en 77 puntos al promedio regional, pero tiene la mayor brecha interna; Costa Rica tiene resultados homogéneamente altos.",
+      "citaTextual": "solo un quinto (20,7%) de los estudiantes de la región alcanza este nivel",
+      "referencia": "UNESCO, ERCE 2019, Ciencias, págs. 18-20", "etiquetas": ["ciencias", "memorística"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "¿Cuál de los siguientes NO es uno de los cinco dominios de la prueba de Ciencias del ERCE 2019?",
+      "opciones": [
+        { "texto": "Química orgánica e inorgánica", "correcta": true, "porQue": "No figura entre los dominios." },
+        { "texto": "Cuerpo humano y Salud", "correcta": false, "porQue": "Sí es un dominio." },
+        { "texto": "Ciencia, Tecnología y Sociedad", "correcta": false, "porQue": "Sí es un dominio." },
+        { "texto": "Seres vivos, Ecología y Medio Ambiente", "correcta": false, "porQue": "Sí es un dominio." }
+      ],
+      "explicacion": "Los otros dos dominios son La Tierra y el Sistema Solar, y Energía y Materia.",
+      "citaTextual": "Cuerpo humano y Salud • Ciencia, Tecnología y Sociedad • La Tierra y el Sistema Solar • Energía y Materia",
+      "referencia": "UNESCO, ERCE 2019, Ciencias, págs. 18-20", "etiquetas": ["ciencias", "EXCEPTO"] }
+  ]},
+  { "fragmentoRef": "erce-b013", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Al observar clases, el director de un CEA nota que muchos docentes improvisan, no dicen el objetivo y no cierran la sesión. Según el ERCE 2019, ¿qué práctica debe fortalecer?",
+      "opciones": [
+        { "texto": "La organización de la enseñanza: tener listos los materiales, exponer los objetivos al inicio y hacer un resumen al final", "correcta": true, "porQue": "Son las prácticas que el ERCE asocia con mayores logros, incluso controlando el nivel socioeconómico." },
+        { "texto": "Más tareas para la casa", "correcta": false, "porQue": "No es la práctica descrita." },
+        { "texto": "Más evaluaciones sumativas", "correcta": false, "porQue": "No es la práctica descrita." },
+        { "texto": "Reducir la duración de las clases", "correcta": false, "porQue": "No es la práctica descrita." }
+      ],
+      "explicacion": "En 3.º grado, el efecto ronda los 70 puntos; en 6.º, va de 34 (Lectura) a 58 (Ciencias).",
+      "citaTextual": "tener listos los materiales que se usarán en la clase, exponer claramente los objetivos de aprendizaje al inicio de la clase y realizar un resumen al término de esta",
+      "referencia": "UNESCO, ERCE 2019, Factores asociados, págs. 34-36", "etiquetas": ["organización de la enseñanza", "caso"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según el ERCE 2019, ¿qué relación tienen las disrupciones en el aula con los aprendizajes?",
+      "opciones": [
+        { "texto": "Una relación negativa, aun después de considerar las diferencias socioeconómicas", "correcta": true, "porQue": "Es lo que dice el texto." },
+        { "texto": "Una relación positiva, porque estimulan la participación", "correcta": false, "porQue": "Es lo contrario." },
+        { "texto": "Ninguna relación", "correcta": false, "porQue": "Sí hay relación." },
+        { "texto": "Solo una relación negativa en escuelas privadas", "correcta": false, "porQue": "No es lo que dice el texto." }
+      ],
+      "explicacion": "La buena organización de la enseñanza se vincula con menos problemas disciplinarios.",
+      "citaTextual": "Las disrupciones en el aula durante clases tienen una relación negativa con los aprendizajes, aun después de considerar las diferencias socioeconómicas",
+      "referencia": "UNESCO, ERCE 2019, Factores asociados, págs. 34-36", "etiquetas": ["clima de aula"] }
+  ]},
+  { "fragmentoRef": "erce-b014", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según el ERCE 2019, ¿cuál es el factor de mayor peso en los aprendizajes por su magnitud?",
+      "opciones": [
+        { "texto": "El nivel socioeconómico promedio de la escuela, más importante incluso que el nivel socioeconómico individual del estudiante", "correcta": true, "porQue": "Es lo que dice el texto (entre 20 y 90 puntos)." },
+        { "texto": "La asistencia a preescolar", "correcta": false, "porQue": "Pesa unos 28 puntos, menos que el nivel socioeconómico de la escuela." },
+        { "texto": "La ubicación urbana de la escuela", "correcta": false, "porQue": "Controlando el nivel socioeconómico, no hay una ventaja urbana sistemática." },
+        { "texto": "La administración privada", "correcta": false, "porQue": "Su efecto se reduce o desaparece al controlar el nivel socioeconómico." }
+      ],
+      "explicacion": "Se explica por la alta segregación socioeconómica de la región, que se replica en las escuelas.",
+      "citaTextual": "este es el factor de mayor peso en los aprendizajes dada su magnitud",
+      "referencia": "UNESCO, ERCE 2019, Factores asociados, págs. 36-39", "etiquetas": ["nivel socioeconómico", "segregación"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Una autoridad afirma que «las escuelas privadas enseñan mejor que las públicas». Según la evidencia del ERCE 2019:",
+      "opciones": [
+        { "texto": "La ventaja de las privadas se reduce o desaparece al controlar el nivel socioeconómico: se explica, sobre todo, por el estudiantado que reciben", "correcta": true, "porQue": "Es la conclusión del estudio." },
+        { "texto": "Las privadas superan a las públicas en todos los países, aun controlando el nivel socioeconómico", "correcta": false, "porQue": "La asociación es significativa en seis países o menos." },
+        { "texto": "Las públicas superan siempre a las privadas", "correcta": false, "porQue": "No es lo que dice el estudio." },
+        { "texto": "No hay ninguna diferencia, ni siquiera sin controlar", "correcta": false, "porQue": "Sin controlar sí hay una asociación positiva." }
+      ],
+      "explicacion": "En Lectura de 3.º grado la relación es significativa en nueve países.",
+      "citaTextual": "Esta asociación se reduce o desaparece al controlar por el nivel socioeconómico.",
+      "referencia": "UNESCO, ERCE 2019, Factores asociados, págs. 36-39", "etiquetas": ["público-privado", "caso"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según el ERCE 2019, ¿qué parte de las diferencias de aprendizaje entre los estudiantes depende de la escuela a la que asisten?",
+      "opciones": [
+        { "texto": "Entre el 40% y el 50%", "correcta": true, "porQue": "Es el dato del texto." },
+        { "texto": "Menos del 10%", "correcta": false, "porQue": "No coincide." },
+        { "texto": "Entre el 80% y el 90%", "correcta": false, "porQue": "No coincide." },
+        { "texto": "Exactamente el 28%", "correcta": false, "porQue": "28 son los puntos de ventaja de la preescolar." }
+      ],
+      "explicacion": "Hay un margen importante de mejora con políticas que den más oportunidades a las escuelas con estudiantes más desaventajados.",
+      "citaTextual": "50% de las diferencias de aprendizajes entre los estudiantes dependen de la escuela a la que asisten 40% Entre",
+      "referencia": "UNESCO, ERCE 2019, Factores asociados, págs. 36-39", "etiquetas": ["efecto escuela", "memorística"] }
+  ]}
+]

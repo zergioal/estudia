@@ -1,0 +1,98 @@
+[
+  { "fragmentoRef": "erce-b006", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según el ERCE 2019, ¿qué proporción de estudiantes de la región alcanza el Nivel III en Matemática de 6.º grado, y qué países lideran?",
+      "opciones": [
+        { "texto": "17,4%; Perú (38,9%), México (38%) y Uruguay (38%)", "correcta": true, "porQue": "Son los datos del texto." },
+        { "texto": "31,2%; Costa Rica, Cuba y Brasil", "correcta": false, "porQue": "31,2% es el dato de Lectura en 6.º grado." },
+        { "texto": "20,7%; Cuba y Costa Rica", "correcta": false, "porQue": "20,7% es el dato de Ciencias en 6.º grado." },
+        { "texto": "55,7%; Perú, Costa Rica y Brasil", "correcta": false, "porQue": "55,7% es el dato de Lectura en 3.º grado." }
+      ],
+      "explicacion": "En ocho países prácticamente no hay estudiantes en el Nivel IV.",
+      "citaTextual": "la proporción promedio de estudiantes de la región que alcanza el Nivel III es muy baja (17,4%)",
+      "referencia": "UNESCO, ERCE 2019, Matemática, págs. 17-18", "etiquetas": ["matemática", "memorística", "capciosa"] }
+  ]},
+  { "fragmentoRef": "erce-b008", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según el ERCE 2019, ¿cómo se comportan las diferencias por sexo en Matemática?",
+      "opciones": [
+        { "texto": "La mayoría de los países no presenta diferencias; cuando las hay favorecen a los niños, salvo en República Dominicana, donde las niñas aventajan", "correcta": true, "porQue": "Es lo que dice el texto." },
+        { "texto": "Las niñas superan a los niños en todos los países", "correcta": false, "porQue": "Eso ocurre en Lectura, en la mayoría de los países." },
+        { "texto": "Los niños superan a las niñas en todos los países, con gran magnitud", "correcta": false, "porQue": "La mayoría no presenta diferencias." },
+        { "texto": "No hay diferencias en ningún país", "correcta": false, "porQue": "Sí hay en algunos países." }
+      ],
+      "explicacion": "En Lectura las niñas obtienen mejores resultados en 13 países en 3.º grado y en 15 en 6.º. En Ciencias no hay diferencias en 9 de 16 países.",
+      "citaTextual": "la mayor parte de los países no presenta diferencias por sexo, y cuando se presentan, estas son favorables a los niños, excepto en República Dominicana",
+      "referencia": "UNESCO, ERCE 2019, Diferencias por sexo, págs. 21-25", "etiquetas": ["género", "capciosa"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Los resultados de un CEA replican el patrón regional del ERCE 2019 en Lectura. ¿Qué desafío plantea el estudio?",
+      "opciones": [
+        { "texto": "Mejorar las oportunidades de aprendizaje en Lectura que se ofrecen a los niños (varones), ya que las niñas obtienen mejores resultados en la mayoría de los países", "correcta": true, "porQue": "Es el desafío que señala el estudio." },
+        { "texto": "Reducir el tiempo de Lectura para las niñas", "correcta": false, "porQue": "No es lo que plantea el estudio." },
+        { "texto": "Separar a niños y niñas en Lectura", "correcta": false, "porQue": "No es lo que plantea el estudio." },
+        { "texto": "Priorizar Matemática para las niñas", "correcta": false, "porQue": "No es el desafío de Lectura." }
+      ],
+      "explicacion": "Las mayores brechas a favor de las niñas se dan en República Dominicana y, en 6.º grado, en Cuba.",
+      "citaTextual": "requieren mejorar las oportunidades de aprendizaje que se ofrecen en el área de Lectura a los niños",
+      "referencia": "UNESCO, ERCE 2019, Diferencias por sexo, págs. 21-25", "etiquetas": ["género", "caso"] }
+  ]},
+  { "fragmentoRef": "erce-b009", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según el ERCE 2019, en el indicador 4.1.1b (fin de primaria) en Matemática, ¿qué porcentaje de niñas y niños de la región logra el nivel mínimo de competencias?",
+      "opciones": [
+        { "texto": "Apenas el 17% de las niñas y el 18% de los niños", "correcta": true, "porQue": "Es el dato del texto." },
+        { "texto": "El 52% de las niñas y el 53% de los niños", "correcta": false, "porQue": "Son los datos de Matemática en el indicador 4.1.1a (3.º grado)." },
+        { "texto": "El 34% de las niñas y el 28% de los niños", "correcta": false, "porQue": "Son los datos de Lectura en el indicador 4.1.1b." },
+        { "texto": "El 59% de las niñas y el 53% de los niños", "correcta": false, "porQue": "Son los datos de Lectura en el indicador 4.1.1a." }
+      ],
+      "explicacion": "En algunos países, menos de cinco de cada 100 estudiantes alcanzan el mínimo en Matemática.",
+      "citaTextual": "apenas el 17% de las niñas y el 18% de los niños de la región logran el nivel mínimo de competencias",
+      "referencia": "UNESCO, ERCE 2019, Agenda 2030, págs. 25-28", "etiquetas": ["meta 4.1", "memorística", "capciosa"] }
+  ]},
+  { "fragmentoRef": "erce-b015", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según las conclusiones del ERCE 2019, ¿qué porcentaje de estudiantes de la región NO alcanza el nivel mínimo de competencias?",
+      "opciones": [
+        { "texto": "Más del 40% en 3.º grado (Lectura y Matemática) y más del 60% en 6.º grado", "correcta": true, "porQue": "Es la conclusión del estudio." },
+        { "texto": "Menos del 10% en ambos grados", "correcta": false, "porQue": "No coincide." },
+        { "texto": "Más del 60% en 3.º y más del 40% en 6.º", "correcta": false, "porQue": "Capciosa: las cifras están invertidas." },
+        { "texto": "Exactamente la mitad en ambos grados", "correcta": false, "porQue": "No coincide." }
+      ],
+      "explicacion": "La región no está encaminada a cumplir el ODS 4 y no mostró avances significativos desde 2013.",
+      "citaTextual": "más del 40% de los estudiantes en 3° grado en Lectura y Matemática, y más del 60% en 6° grado, no alcanzan el nivel mínimo de competencias",
+      "referencia": "UNESCO, ERCE 2019, Conclusiones, págs. 39-40", "etiquetas": ["conclusiones", "meta 4.1"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según las conclusiones del ERCE 2019, ¿cómo evolucionaron en promedio los aprendizajes de la región respecto del TERCE 2013?",
+      "opciones": [
+        { "texto": "La región no evidenció un avance significativo en ninguna de las áreas o grados evaluados", "correcta": true, "porQue": "Es la conclusión del estudio." },
+        { "texto": "Mejoraron significativamente en todas las áreas", "correcta": false, "porQue": "No hubo un avance significativo en promedio." },
+        { "texto": "Mejoraron solo en Ciencias", "correcta": false, "porQue": "No hubo avance en ninguna área." },
+        { "texto": "Empeoraron por la pandemia", "correcta": false, "porQue": "Capciosa: el retroceso por la pandemia es un riesgo futuro; la prueba fue en 2019." }
+      ],
+      "explicacion": "Hay países concretos con avances (Perú, Brasil y República Dominicana), pero el promedio regional se estancó.",
+      "citaTextual": "la región no evidenció un avance significativo en ninguna de las áreas o grados evaluados por este estudio",
+      "referencia": "UNESCO, ERCE 2019, Conclusiones, págs. 39-40", "etiquetas": ["tendencias", "capciosa"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Un director debe priorizar acciones de mejora con un presupuesto limitado. Según las conclusiones del ERCE 2019, ¿qué ámbito se señala como clave?",
+      "opciones": [
+        { "texto": "Fortalecer las políticas docentes, porque el interés por el bienestar, la organización de la enseñanza y el apoyo al aprendizaje se asocian consistentemente con mayores logros", "correcta": true, "porQue": "Es la conclusión sobre la importancia de los docentes." },
+        { "texto": "Aumentar la repitencia para elevar la exigencia", "correcta": false, "porQue": "La repitencia se asocia con menores logros." },
+        { "texto": "Invertir solo en infraestructura", "correcta": false, "porQue": "No es lo que destaca el estudio." },
+        { "texto": "Privatizar la gestión del centro", "correcta": false, "porQue": "La ventaja de lo privado desaparece al controlar el nivel socioeconómico." }
+      ],
+      "explicacion": "Entre estas prácticas están animar a los estudiantes a perseverar y retroalimentarlos a tiempo.",
+      "citaTextual": "la importancia de fortalecer las políticas docentes como un elemento clave para hacer posible el mejoramiento de los aprendizajes",
+      "referencia": "UNESCO, ERCE 2019, Conclusiones, págs. 39-40", "etiquetas": ["docentes", "caso"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según las conclusiones del ERCE 2019, ¿qué evidencia de inequidad estructural presentan los estudiantes de pueblos originarios?",
+      "opciones": [
+        { "texto": "Puntajes sistemáticamente más bajos que sus pares no indígenas, incluso al comparar estudiantes de igual nivel socioeconómico", "correcta": true, "porQue": "Es la conclusión del estudio." },
+        { "texto": "Puntajes más bajos que desaparecen al controlar el nivel socioeconómico", "correcta": false, "porQue": "Capciosa: persisten aun con igual nivel socioeconómico." },
+        { "texto": "Puntajes superiores en Lectura", "correcta": false, "porQue": "No es lo que señala el estudio." },
+        { "texto": "Ninguna diferencia significativa", "correcta": false, "porQue": "Hay diferencias sistemáticas." }
+      ],
+      "explicacion": "Las otras inequidades son las brechas de género y el peso persistente del nivel socioeconómico.",
+      "citaTextual": "muestran puntajes sistemáticamente más bajos que sus pares que no pertenecen a pueblos originarios, incluso cuando se comparan estudiantes de igual nivel socioeconómico",
+      "referencia": "UNESCO, ERCE 2019, Conclusiones, págs. 39-40", "etiquetas": ["pueblos indígenas", "capciosa"] }
+  ]}
+]
