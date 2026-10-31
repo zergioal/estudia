@@ -16,8 +16,11 @@ import {
   type TemaEstudio,
 } from './esquemas';
 
-/** Tipos que se responden eligiendo opciones (COMPLETAR y ORDENAR necesitan otra interfaz). */
-export const TIPOS_EN_QUIZ: TipoPregunta[] = ['OPCION_MULTIPLE', 'VERDADERO_FALSO', 'SELECCION_MULTIPLE', 'CASO'];
+/**
+ * Formato del examen de institucionalización: opción múltiple con 4 opciones y 1 correcta.
+ * Los demás tipos pueden quedar en el banco, pero no entran a los quizzes.
+ */
+export const TIPOS_EN_QUIZ: TipoPregunta[] = ['OPCION_MULTIPLE'];
 
 // ---------- Fechas (Bolivia, UTC-4 sin horario de verano) ----------
 

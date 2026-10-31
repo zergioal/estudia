@@ -209,3 +209,28 @@ describe('racha', () => {
     expect(diaBolivia(dia('2026-10-30T03:30:00Z'))).toBe('2026-10-29');
   });
 });
+
+describe('formato del examen', () => {
+  it('solo entran preguntas de OPCION_MULTIPLE', async () => {
+    await importarYAprobar(['¿OM?']);
+    const vf = await request(app)
+      .post('/api/v1/admin/preguntas/importar')
+      .set(auth())
+      .send(
+        lote([
+          preguntaValida('¿Verdadero o falso?', {
+            tipo: 'VERDADERO_FALSO',
+            opciones: [
+              { texto: 'Verdadero', correcta: true },
+              { texto: 'Falso', correcta: false },
+            ],
+          }),
+        ]),
+      );
+    expect(vf.body.importadas).toBe(1);
+    await prisma.pregunta.updateMany({ data: { estado: 'APROBADA' } });
+
+    const quiz = (await crear({ contenidoIds: [contenidoId], cantidad: 10 })).body;
+    expect(quiz.preguntas.map((p: { enunciado: string }) => p.enunciado)).toEqual(['¿OM?']);
+  });
+});
