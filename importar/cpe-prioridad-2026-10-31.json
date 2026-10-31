@@ -1,0 +1,141 @@
+[
+  { "fragmentoRef": "cpe-art297", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según el Art. 297 de la CPE, las competencias en las que la legislación corresponde al nivel central y los otros niveles ejercen simultáneamente las facultades reglamentaria y ejecutiva se denominan:",
+      "opciones": [
+        { "texto": "Concurrentes", "correcta": true, "porQue": "Art. 297, par. I, num. 3." },
+        { "texto": "Compartidas", "correcta": false, "porQue": "Capciosa: en las compartidas el nivel central dicta la legislación básica y las ETA, la de desarrollo (num. 4)." },
+        { "texto": "Exclusivas", "correcta": false, "porQue": "En las exclusivas, un mismo nivel tiene las facultades legislativa, reglamentaria y ejecutiva (num. 2)." },
+        { "texto": "Privativas", "correcta": false, "porQue": "Las privativas no se transfieren ni se delegan (num. 1)." }
+      ],
+      "explicacion": "Toda competencia no incluida en la CPE se atribuye al nivel central (par. II).",
+      "citaTextual": "Concurrentes, aquellas en las que la legislación corresponde al nivel central del Estado y los otros niveles ejercen simultáneamente las facultades reglamentaria y ejecutiva.",
+      "referencia": "CPE, Art. 297, págs. 71-72", "etiquetas": ["competencias", "capciosa"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según el Art. 297 de la CPE, ¿qué características tienen las competencias privativas?",
+      "opciones": [
+        { "texto": "Su legislación, reglamentación y ejecución no se transfieren ni delegan, y están reservadas al nivel central", "correcta": true, "porQue": "Art. 297, par. I, num. 1." },
+        { "texto": "Pueden delegarse a los municipios", "correcta": false, "porQue": "No se transfieren ni se delegan." },
+        { "texto": "Las legislan las ETA", "correcta": false, "porQue": "Están reservadas al nivel central." },
+        { "texto": "Se ejercen de forma simultánea", "correcta": false, "porQue": "Eso es propio de las concurrentes." }
+      ],
+      "explicacion": "Las exclusivas sí permiten transferir y delegar la reglamentación y la ejecución.",
+      "citaTextual": "Privativas, aquellas cuya legislación, reglamentación y ejecución no se transfiere ni delega, y están reservadas para el nivel central del Estado.",
+      "referencia": "CPE, Art. 297, págs. 71-72", "etiquetas": ["competencias", "memorística"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según el Art. 297 de la CPE, ¿a qué nivel se atribuye una competencia que no está incluida en la Constitución?",
+      "opciones": [
+        { "texto": "Al nivel central del Estado, que podrá transferirla o delegarla por Ley", "correcta": true, "porQue": "Art. 297, par. II." },
+        { "texto": "A los gobiernos departamentales", "correcta": false, "porQue": "No es lo que dispone la CPE." },
+        { "texto": "A los municipios, por subsidiariedad", "correcta": false, "porQue": "Capciosa: la subsidiariedad es un principio (Art. 270), pero la cláusula residual favorece al nivel central." },
+        { "texto": "A las autonomías indígenas", "correcta": false, "porQue": "No es lo que dispone la CPE." }
+      ],
+      "explicacion": "Es la cláusula residual de competencias.",
+      "citaTextual": "Toda competencia que no esté incluida en esta Constitución será atribuida al nivel central del Estado, que podrá transferirla o delegarla por Ley.",
+      "referencia": "CPE, Art. 297, par. II, págs. 71-72", "etiquetas": ["competencias", "capciosa"] }
+  ]},
+  { "fragmentoRef": "cpe-art298", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según el Art. 298 de la CPE, las «políticas del sistema de educación y salud» son una competencia:",
+      "opciones": [
+        { "texto": "Exclusiva del nivel central del Estado", "correcta": true, "porQue": "Art. 298, par. II, num. 17." },
+        { "texto": "Privativa del nivel central", "correcta": false, "porQue": "Capciosa: figura entre las exclusivas (par. II), no entre las privativas (par. I)." },
+        { "texto": "Concurrente con las ETA", "correcta": false, "porQue": "Lo concurrente es la «gestión» del sistema de salud y educación (Art. 299, par. II)." },
+        { "texto": "Exclusiva de los municipios", "correcta": false, "porQue": "No coincide." }
+      ],
+      "explicacion": "La política es exclusiva del nivel central; la gestión es concurrente.",
+      "citaTextual": "Políticas del sistema de educación y salud",
+      "referencia": "CPE, Art. 298, par. II, num. 17", "etiquetas": ["competencias", "educación", "capciosa"] }
+  ]},
+  { "fragmentoRef": "cpe-art299", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Un alcalde dice que la gestión de los servicios educativos es asunto exclusivo del Ministerio y que el municipio no tiene ningún papel. Según el Art. 299 de la CPE:",
+      "opciones": [
+        { "texto": "Se equivoca: la gestión del sistema de salud y educación es una competencia concurrente entre el nivel central y las entidades territoriales autónomas", "correcta": true, "porQue": "Art. 299, par. II, num. 2." },
+        { "texto": "Tiene razón: es una competencia privativa", "correcta": false, "porQue": "No es privativa." },
+        { "texto": "Tiene razón: es una competencia compartida sin papel municipal", "correcta": false, "porQue": "Es concurrente, y las ETA ejercen la reglamentación y la ejecución." },
+        { "texto": "Solo la Gobernación puede intervenir", "correcta": false, "porQue": "Las ETA incluyen a los municipios." }
+      ],
+      "explicacion": "Esto fundamenta que los CEA gestionen infraestructura y POA ante el municipio (RM 0001, Art. 7).",
+      "citaTextual": "Gestión del sistema de salud y educación.",
+      "referencia": "CPE, Art. 299, par. II, págs. 74-75", "etiquetas": ["competencias", "caso"] }
+  ]},
+  { "fragmentoRef": "cpe-art304", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según el Art. 304 de la CPE, la organización, planificación y ejecución de planes, programas y proyectos de educación es, para las autonomías indígena originario campesinas, una competencia:",
+      "opciones": [
+        { "texto": "Concurrente, en el marco de la legislación del Estado", "correcta": true, "porQue": "Art. 304, par. III, num. 2." },
+        { "texto": "Exclusiva", "correcta": false, "porQue": "Capciosa: figura en el par. III, el de las concurrentes." },
+        { "texto": "Privativa", "correcta": false, "porQue": "Las privativas son solo del nivel central." },
+        { "texto": "Compartida", "correcta": false, "porQue": "No figura en el par. II." }
+      ],
+      "explicacion": "Cada nivel y tipo de competencia se lee en su parágrafo.",
+      "citaTextual": "Organización, planificación y ejecución de planes, programas y proyectos de educación, ciencia, tecnología e investigación, en el marco de la legislación del Estado",
+      "referencia": "CPE, Art. 304, par. III", "etiquetas": ["AIOC", "competencias", "capciosa"] }
+  ]},
+  { "fragmentoRef": "cpe-art276", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según el Art. 276 de la CPE, ¿qué relación jerárquica existe entre las entidades territoriales autónomas?",
+      "opciones": [
+        { "texto": "No están subordinadas entre ellas y tienen igual rango constitucional", "correcta": true, "porQue": "Art. 276." },
+        { "texto": "El departamento está por encima del municipio", "correcta": false, "porQue": "Capciosa: no hay subordinación." },
+        { "texto": "El municipio depende de la región", "correcta": false, "porQue": "No hay subordinación." },
+        { "texto": "Las AIOC dependen del municipio", "correcta": false, "porQue": "No hay subordinación." }
+      ],
+      "explicacion": "Es concordante con el principio de lealtad institucional del Art. 270.",
+      "citaTextual": "Las entidades territoriales autónomas no estarán subordinadas entre ellas y tendrán igual rango constitucional.",
+      "referencia": "CPE, Art. 276, pág. 67", "etiquetas": ["autonomías", "capciosa"] }
+  ]},
+  { "fragmentoRef": "cpe-art272", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según el Art. 272 de la CPE, ¿qué implica la autonomía?",
+      "opciones": [
+        { "texto": "La elección directa de sus autoridades, la administración de sus recursos y el ejercicio de las facultades legislativa, reglamentaria, fiscalizadora y ejecutiva", "correcta": true, "porQue": "Art. 272." },
+        { "texto": "La independencia total del Estado", "correcta": false, "porQue": "Se ejerce en el marco de la unidad del Estado." },
+        { "texto": "Solo la ejecución de políticas centrales", "correcta": false, "porQue": "Eso se parecería a la desconcentración." },
+        { "texto": "La designación de autoridades por el nivel central", "correcta": false, "porQue": "Implica la elección directa." }
+      ],
+      "explicacion": "Hay que distinguir autonomía, descentralización y desconcentración.",
+      "citaTextual": "La autonomía implica la elección directa de sus autoridades por las ciudadanas y los ciudadanos, la administración de sus recursos económicos",
+      "referencia": "CPE, Art. 272, pág. 67", "etiquetas": ["autonomía"] }
+  ]},
+  { "fragmentoRef": "cpe-art283", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según el Art. 283 de la CPE, ¿cómo está constituido el gobierno autónomo municipal?",
+      "opciones": [
+        { "texto": "Por un Concejo Municipal con facultad deliberativa, fiscalizadora y legislativa, y un órgano ejecutivo presidido por la Alcaldesa o el Alcalde", "correcta": true, "porQue": "Art. 283." },
+        { "texto": "Solo por el Alcalde", "correcta": false, "porQue": "Incluye el Concejo." },
+        { "texto": "Por una Asamblea Departamental", "correcta": false, "porQue": "Es el órgano del gobierno departamental (Art. 277)." },
+        { "texto": "Por un Concejo designado por la Gobernación", "correcta": false, "porQue": "No es lo que dispone la CPE." }
+      ],
+      "explicacion": "El gobierno departamental tiene una Asamblea Departamental y un órgano ejecutivo.",
+      "citaTextual": "El gobierno autónomo municipal está constituido por un Concejo Municipal con facultad deliberativa, fiscalizadora y legislativa municipal",
+      "referencia": "CPE, Art. 283, págs. 68-69", "etiquetas": ["municipio"] }
+  ]},
+  { "fragmentoRef": "cpe-art285", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según el Art. 285 de la CPE, ¿qué edad mínima se exige para ser candidato a Alcalde y a Gobernador?",
+      "opciones": [
+        { "texto": "Alcalde: 21 años; Gobernador: 25 años", "correcta": true, "porQue": "Art. 285, par. I." },
+        { "texto": "Alcalde: 25; Gobernador: 21", "correcta": false, "porQue": "Capciosa: está invertido." },
+        { "texto": "Ambos: 18 años", "correcta": false, "porQue": "18 años se exige a los candidatos a concejos y asambleas (Art. 287)." },
+        { "texto": "Ambos: 30 años", "correcta": false, "porQue": "No coincide." }
+      ],
+      "explicacion": "También se exigen dos años de residencia permanente previa a la elección.",
+      "citaTextual": "En el caso de la elección de la Alcaldesa o del Alcalde y de la autoridad regional haber cumplido veintiún años.",
+      "referencia": "CPE, Art. 285, pág. 69", "etiquetas": ["requisitos", "memorística", "capciosa"] }
+  ]},
+  { "fragmentoRef": "cpe-art270", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "¿Cuál de los siguientes NO figura entre los principios de la organización territorial del Art. 270 de la CPE?",
+      "opciones": [
+        { "texto": "Centralización", "correcta": true, "porQue": "No figura; la CPE consagra la descentralización y la autonomía." },
+        { "texto": "Subsidiariedad", "correcta": false, "porQue": "Sí figura." },
+        { "texto": "Gradualidad", "correcta": false, "porQue": "Sí figura." },
+        { "texto": "Preexistencia de las naciones y pueblos IOC", "correcta": false, "porQue": "Sí figura." }
+      ],
+      "explicacion": "Otros principios: unidad, voluntariedad, solidaridad, autogobierno, coordinación, lealtad institucional y transparencia.",
+      "citaTextual": "subsidiariedad, gradualidad, coordinación y lealtad institucional, transparencia, participación y control social",
+      "referencia": "CPE, Art. 270, pág. 66", "etiquetas": ["organización territorial", "EXCEPTO"] }
+  ]}
+]

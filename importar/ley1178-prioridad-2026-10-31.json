@@ -1,0 +1,117 @@
+[
+  { "fragmentoRef": "ley1178-art43", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según el Art. 43 de la Ley 1178, ¿qué valor tienen el dictamen del Contralor General y los informes que lo sustentan?",
+      "opciones": [
+        { "texto": "Constituyen prueba preconstituida para la acción administrativa, ejecutiva y civil", "correcta": true, "porQue": "Art. 43, inc. a)." },
+        { "texto": "Son sentencias ejecutoriadas", "correcta": false, "porQue": "Capciosa: son prueba, no sentencia." },
+        { "texto": "Son meras recomendaciones sin valor probatorio", "correcta": false, "porQue": "Tienen valor de prueba preconstituida." },
+        { "texto": "Sustituyen el proceso penal", "correcta": false, "porQue": "El artículo menciona la vía administrativa, ejecutiva y civil." }
+      ],
+      "explicacion": "Con el dictamen, la entidad puede conceder diez días al deudor para pagar.",
+      "citaTextual": "constituirán prueba preconstituida para la acción administrativa, ejecutiva y civil a que hubiere lugar",
+      "referencia": "Ley 1178, Art. 43, pág. 15", "etiquetas": ["Contraloría", "dictamen", "capciosa"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según el Art. 43 de la Ley 1178, notificado el dictamen de responsabilidad civil, ¿qué plazo concede la entidad al deudor para pagar?",
+      "opciones": [
+        { "texto": "Diez días", "correcta": true, "porQue": "Art. 43, inc. b)." },
+        { "texto": "Treinta días", "correcta": false, "porQue": "No coincide." },
+        { "texto": "Setenta y dos horas", "correcta": false, "porQue": "No coincide." },
+        { "texto": "Noventa días", "correcta": false, "porQue": "No coincide." }
+      ],
+      "explicacion": "El plazo se concede bajo conminatoria de iniciar la acción.",
+      "citaTextual": "concediendo al deudor diez días para efectuarlo",
+      "referencia": "Ley 1178, Art. 43, pág. 15", "etiquetas": ["plazos", "memorística"] }
+  ]},
+  { "fragmentoRef": "ley1178-art41", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según el Art. 41 de la Ley 1178, ¿cómo se asegura la independencia de la Contraloría respecto de la administración del Estado?",
+      "opciones": [
+        { "texto": "Su presupuesto, elaborado por ella misma, se incorpora sin modificación al proyecto de Presupuesto General", "correcta": true, "porQue": "Art. 41." },
+        { "texto": "El Ministerio de Finanzas fija libremente su presupuesto", "correcta": false, "porQue": "Lo incorpora sin modificación." },
+        { "texto": "Se financia con las multas que impone", "correcta": false, "porQue": "No es lo que dispone la ley." },
+        { "texto": "Depende del Poder Ejecutivo", "correcta": false, "porQue": "Tiene autonomía operativa, técnica y administrativa." }
+      ],
+      "explicacion": "La Contraloría ejerce el Control Externo Posterior.",
+      "citaTextual": "será incorporado sin modificación por el Ministerio de Finanzas al proyecto de Presupuesto General de la Nación",
+      "referencia": "Ley 1178, Art. 41, pág. 14", "etiquetas": ["Contraloría"] }
+  ]},
+  { "fragmentoRef": "ley1178-art42", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "La Unidad de Auditoría Interna concluye un informe sobre el manejo de recursos de una Dirección Departamental. Según el Art. 42 de la Ley 1178, ¿qué se hace con ese informe?",
+      "opciones": [
+        { "texto": "Se envía a la Contraloría inmediatamente después de concluido, en la forma que señale la reglamentación", "correcta": true, "porQue": "Art. 42, inc. b)." },
+        { "texto": "Se archiva en la entidad", "correcta": false, "porQue": "Debe remitirse a la Contraloría." },
+        { "texto": "Se envía solo si encuentra indicios penales", "correcta": false, "porQue": "Capciosa: se envía todo informe." },
+        { "texto": "Se publica en la prensa", "correcta": false, "porQue": "No es lo que dispone la ley." }
+      ],
+      "explicacion": "La Contraloría también puede contratar firmas de auditoría externa independientes.",
+      "citaTextual": "Todo informe de auditoría interna o externa será enviado a la Contraloría inmediatamente de ser concluido",
+      "referencia": "Ley 1178, Art. 42, págs. 14-15", "etiquetas": ["auditoría", "caso"] }
+  ]},
+  { "fragmentoRef": "ley1178-art47", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según el Art. 47 de la Ley 1178, ¿qué conoce la jurisdicción coactiva fiscal?",
+      "opciones": [
+        { "texto": "Las demandas por las que se determinen responsabilidades civiles (Art. 31), derivadas de actos de servidores públicos o de privados con contratos administrativos con el Estado", "correcta": true, "porQue": "Art. 47." },
+        { "texto": "Los delitos de corrupción", "correcta": false, "porQue": "Las cuestiones penales no le corresponden (Art. 48)." },
+        { "texto": "Las cuestiones tributarias", "correcta": false, "porQue": "Tampoco le corresponden (Art. 48)." },
+        { "texto": "Los procesos disciplinarios administrativos", "correcta": false, "porQue": "Son otra vía." }
+      ],
+      "explicacion": "Los contratos administrativos se refieren a obras, provisión de materiales, bienes y servicios.",
+      "citaTextual": "por los cuales se determinen responsabilidades civiles definidas en el artículo 31º de la presente Ley",
+      "referencia": "Ley 1178, Art. 47, pág. 15", "etiquetas": ["coactiva fiscal"] }
+  ]},
+  { "fragmentoRef": "ley1178-art44", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según el Art. 44 de la Ley 1178, ¿en qué procesos puede demandar y actuar la Contraloría?",
+      "opciones": [
+        { "texto": "En procesos administrativos, coactivos fiscales, civiles y penales relacionados con daños económicos al Estado", "correcta": true, "porQue": "Art. 44." },
+        { "texto": "Solo en procesos administrativos", "correcta": false, "porQue": "Es más amplio." },
+        { "texto": "Solo en procesos penales", "correcta": false, "porQue": "Es más amplio." },
+        { "texto": "En procesos de familia", "correcta": false, "porQue": "No corresponde." }
+      ],
+      "explicacion": "La representa el Contralor General o sus representantes departamentales, que pueden delegar.",
+      "citaTextual": "podrá demandar y actuar en procesos administrativos, coactivos fiscales, civiles y penales relacionados con daños económicos al Estado",
+      "referencia": "Ley 1178, Art. 44, pág. 15", "etiquetas": ["Contraloría"] }
+  ]},
+  { "fragmentoRef": "ley1178-art37", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según el Art. 37 de la Ley 1178, el control posterior sobre un acto administrativo que ya puso fin al reclamo de un particular:",
+      "opciones": [
+        { "texto": "No modificará ese acto, y se concretará a determinar la responsabilidad de la autoridad que lo autorizó, si la hubiere", "correcta": true, "porQue": "Art. 37." },
+        { "texto": "Anulará el acto de pleno derecho", "correcta": false, "porQue": "Capciosa: no lo modifica." },
+        { "texto": "Obligará a devolver lo pagado al particular", "correcta": false, "porQue": "No es lo que dispone la ley." },
+        { "texto": "Suspenderá sus efectos", "correcta": false, "porQue": "No es lo que dispone la ley." }
+      ],
+      "explicacion": "El control posterior determina responsabilidades; no revoca actos firmes frente a particulares.",
+      "citaTextual": "no modificará los actos administrativos que hubieren puesto término a los reclamos de los particulares",
+      "referencia": "Ley 1178, Art. 37, pág. 13", "etiquetas": ["control posterior", "capciosa"] }
+  ]},
+  { "fragmentoRef": "ley1178-art38", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Un técnico de la Distrital firma un informe que avala una compra con datos falsos que le pasó otro funcionario. Según el Art. 38 de la Ley 1178:",
+      "opciones": [
+        { "texto": "Es responsable, porque los servidores públicos responden por los informes y documentos que suscriben", "correcta": true, "porQue": "Art. 38." },
+        { "texto": "No es responsable, porque solo firmó", "correcta": false, "porQue": "Responde por lo que suscribe." },
+        { "texto": "Solo responde quien elaboró los datos", "correcta": false, "porQue": "Capciosa: también responde quien firma." },
+        { "texto": "Solo responde la MAE", "correcta": false, "porQue": "No es lo que dispone la ley." }
+      ],
+      "explicacion": "También responden los abogados del Sector Público por vicios procedimentales en su patrocinio.",
+      "citaTextual": "Los profesionales y demás servidores públicos son responsables por los informes y documentos que suscriban.",
+      "referencia": "Ley 1178, Art. 38, pág. 13", "etiquetas": ["responsabilidad", "caso", "capciosa"] }
+  ]},
+  { "fragmentoRef": "ley1178-art39", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según el Art. 39 de la Ley 1178, en los procesos administrativos y judiciales previstos en la ley, ¿quién paga las costas y los honorarios profesionales?",
+      "opciones": [
+        { "texto": "No hay condena en costas: cada parte cubre los suyos", "correcta": true, "porQue": "Art. 39." },
+        { "texto": "La parte perdedora", "correcta": false, "porQue": "Capciosa: la ley excluye la condena en costas." },
+        { "texto": "Siempre el Estado", "correcta": false, "porQue": "No es lo que dispone la ley." },
+        { "texto": "La Contraloría", "correcta": false, "porQue": "No es lo que dispone la ley." }
+      ],
+      "explicacion": "El monto del daño civil se actualiza con los parámetros del Banco Central de Bolivia.",
+      "citaTextual": "en ninguno de sus grados e instancias darán lugar a condena de costas y honorarios profesionales",
+      "referencia": "Ley 1178, Art. 39, pág. 13", "etiquetas": ["costas", "capciosa"] }
+  ]}
+]
