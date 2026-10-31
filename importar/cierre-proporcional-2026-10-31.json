@@ -1,0 +1,133 @@
+[
+  { "fragmentoRef": "lidei2022-b016", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "¿Cuál de las siguientes NO es una limitación de representatividad de la muestra piloto que señala el informe de la OEI?",
+      "opciones": [
+        { "texto": "Que solo participaron directores de educación superior", "correcta": true, "porQue": "No es una limitación que señale el informe." },
+        { "texto": "Que las mujeres directoras están infrarrepresentadas", "correcta": false, "porQue": "Sí la señala (España tiene un 67,2% de directoras)." },
+        { "texto": "Que la proporción de centros privados no refleja la realidad (63% en Chile frente a 20% en la muestra)", "correcta": false, "porQue": "Sí la señala." },
+        { "texto": "Que faltan directores de centros pequeños, probablemente rurales", "correcta": false, "porQue": "Sí la señala." }
+      ],
+      "explicacion": "Ningún director español encuestado pertenece a un centro de menos de 100 alumnos.",
+      "citaTextual": "el 63% de los centros son privados en Chile. En la muestra piloto, los directores encuestados son en un 20% de centros privados",
+      "referencia": "OEI, Liderazgo directivo 2022, págs. 38-40", "etiquetas": ["metodología", "EXCEPTO"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según la encuesta de la OEI, ¿en qué país todos los directores dicen conocer la normativa bien (53%) o muy bien (47%), sin que nadie diga conocerla solo «algo»?",
+      "opciones": [
+        { "texto": "Chile", "correcta": true, "porQue": "Es el dato del gráfico 9." },
+        { "texto": "Argentina", "correcta": false, "porQue": "En Argentina, un 15% dice conocerla «algo»." },
+        { "texto": "España", "correcta": false, "porQue": "En España, un 17% dice conocerla «algo»." },
+        { "texto": "Portugal", "correcta": false, "porQue": "No participó en la encuesta." }
+      ],
+      "explicacion": "Dato fino del capítulo de resultados.",
+      "citaTextual": "todos los directores manifiestan conocer la normativa bien (53%), o muy bien (47%)",
+      "referencia": "OEI, Liderazgo directivo 2022, págs. 38-40", "etiquetas": ["normativa", "memorística"] }
+  ]},
+  { "fragmentoRef": "lidei2022-b020", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según la encuesta de la OEI, ¿qué tareas requieren más tiempo a los directores en los tres países?",
+      "opciones": [
+        { "texto": "La gestión administrativa, el liderazgo pedagógico y otro tipo de tareas no incluidas en los demás apartados", "correcta": true, "porQue": "Es la conclusión del gráfico 13." },
+        { "texto": "La docencia directa con el alumnado", "correcta": false, "porQue": "Ocupa entre el 7% (Chile) y el 14% (España)." },
+        { "texto": "La gestión de la convivencia", "correcta": false, "porQue": "Ocupa entre el 13% y el 15%." },
+        { "texto": "La interacción con otras organizaciones", "correcta": false, "porQue": "No es de las tareas que más tiempo requieren." }
+      ],
+      "explicacion": "En Argentina y Chile, la gestión administrativa y el liderazgo pedagógico ocupan más del 20% del tiempo cada uno.",
+      "citaTextual": "las tareas que requieren más tiempo son la gestión administrativa, el liderazgo pedagógico y otro tipo de tareas",
+      "referencia": "OEI, Liderazgo directivo 2022, págs. 45-48", "etiquetas": ["tiempo directivo"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según la encuesta de la OEI, ¿en qué país el 80% de los directores trabaja entre 40 y 50 horas semanales?",
+      "opciones": [
+        { "texto": "Chile", "correcta": true, "porQue": "Es el dato del informe." },
+        { "texto": "Argentina", "correcta": false, "porQue": "En Argentina, el 38% dedica entre 30 y 40 horas." },
+        { "texto": "España", "correcta": false, "porQue": "En España, el 39% dedica entre 30 y 40 horas." },
+        { "texto": "Ninguno", "correcta": false, "porQue": "Es el caso de Chile." }
+      ],
+      "explicacion": "Las medias semanales son 40,2 horas en Argentina, 42,1 en Chile y 42 en España.",
+      "citaTextual": "En Chile, el 80% se sitúa en el rango de 40 a 50 horas de trabajo a la semana.",
+      "referencia": "OEI, Liderazgo directivo 2022, págs. 45-48", "etiquetas": ["horas", "memorística"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según la encuesta de la OEI, ¿qué porcentaje de su tiempo dedican los directores a la docencia directa?",
+      "opciones": [
+        { "texto": "14% en España, 10% en Argentina y 7% en Chile", "correcta": true, "porQue": "Son los datos del texto." },
+        { "texto": "7% en España, 10% en Argentina y 14% en Chile", "correcta": false, "porQue": "Capciosa: los extremos están invertidos." },
+        { "texto": "Más del 20% en los tres países", "correcta": false, "porQue": "Más del 20% corresponde a la gestión administrativa y al liderazgo pedagógico." },
+        { "texto": "Entre el 13% y el 15% en los tres países", "correcta": false, "porQue": "Ese rango corresponde a la gestión de la convivencia." }
+      ],
+      "explicacion": "Los porcentajes de tiempo son más comparables que la suma de horas por apartado.",
+      "citaTextual": "La docencia es un porcentaje mayor en España (14%), que en Argentina (10%) y en Chile (7%).",
+      "referencia": "OEI, Liderazgo directivo 2022, págs. 45-48", "etiquetas": ["tiempo directivo", "capciosa"] }
+  ]},
+  { "fragmentoRef": "lidei2022-b022", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según la encuesta de la OEI, ¿qué porcentaje de directores declara no haber recibido formación una vez nombrado?",
+      "opciones": [
+        { "texto": "50% en Argentina, 33% en Chile y 25% en España", "correcta": true, "porQue": "Son los datos del texto (gráfico 21)." },
+        { "texto": "25% en Argentina, 33% en Chile y 50% en España", "correcta": false, "porQue": "Capciosa: los extremos están invertidos." },
+        { "texto": "70% en Argentina, 47% en Chile y 72% en España", "correcta": false, "porQue": "Son los porcentajes que opinan que la formación no está diferenciada por experiencia." },
+        { "texto": "Ninguno: todos recibieron formación", "correcta": false, "porQue": "No coincide." }
+      ],
+      "explicacion": "La mentoría de directores noveles es escasa: 33% en Chile, 19% en Argentina y 14% en España.",
+      "citaTextual": "el 50% de los directores argentinos, el 33% de los chilenos, y el 25% de los españoles, declaren no haber tenido formación",
+      "referencia": "OEI, Liderazgo directivo 2022, págs. 51-54", "etiquetas": ["formación", "memorística", "capciosa"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según la encuesta de la OEI, ¿en qué país la formación de los directores noveles tiene más peso administrativo (47%) que pedagógico (42%)?",
+      "opciones": [
+        { "texto": "España", "correcta": true, "porQue": "Es el dato del texto." },
+        { "texto": "Chile", "correcta": false, "porQue": "En Chile pesa más el liderazgo de la innovación pedagógica (40%)." },
+        { "texto": "Argentina", "correcta": false, "porQue": "En Argentina, lo administrativo y el trabajo en equipo pesan igual (23%)." },
+        { "texto": "En los tres por igual", "correcta": false, "porQue": "No coincide." }
+      ],
+      "explicacion": "El país donde más se favorecen las redes de centros es Chile (73%).",
+      "citaTextual": "En España, la formación recibida por los directores noveles tiene una mayor carga de contenidos administrativos (47%)",
+      "referencia": "OEI, Liderazgo directivo 2022, págs. 51-54", "etiquetas": ["formación inicial"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Una Dirección Departamental quiere mejorar la inserción de los directores de CEA recién nombrados. Según los resultados de la OEI, ¿qué práctica tiene una incidencia escasa en los tres países y podría fortalecerse?",
+      "opciones": [
+        { "texto": "La mentoría personalizada de directores noveles (33% en Chile, 19% en Argentina y 14% en España)", "correcta": true, "porQue": "Es lo que señala el informe." },
+        { "texto": "La formación administrativa, ya muy extendida", "correcta": false, "porQue": "No es la práctica de incidencia escasa." },
+        { "texto": "Las sanciones por bajo desempeño", "correcta": false, "porQue": "No es una práctica de formación." },
+        { "texto": "La rotación anual de directores", "correcta": false, "porQue": "No es lo que analiza el informe." }
+      ],
+      "explicacion": "El acompañamiento posterior al nombramiento también es bajo: 25% en España, 31% en Argentina y 40% en Chile.",
+      "citaTextual": "En cuanto a la mentoría de directores noveles la incidencia es escasa.",
+      "referencia": "OEI, Liderazgo directivo 2022, págs. 51-54", "etiquetas": ["mentoría", "caso"] }
+  ]},
+  { "fragmentoRef": "marco-gestion-b028", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Un CEA necesita recursos complementarios para un nuevo taller. Según las prácticas del Marco (Dimensión 6), ¿cómo apoya el nivel intermedio a los directivos?",
+      "opciones": [
+        { "texto": "Coordinando y apoyando la obtención de recursos complementarios mediante nuevos proyectos, postulación a fondos y convenios que consoliden los objetivos del PEI", "correcta": true, "porQue": "Es la práctica n.º 9." },
+        { "texto": "Autorizando cobros a los participantes", "correcta": false, "porQue": "No es lo que plantea el Marco." },
+        { "texto": "Reduciendo la planta docente", "correcta": false, "porQue": "No es lo que plantea el Marco." },
+        { "texto": "Trasladando la responsabilidad a las familias", "correcta": false, "porQue": "No es lo que plantea el Marco." }
+      ],
+      "explicacion": "El nivel intermedio también planifica proyectos de infraestructura y la renovación del equipamiento, con foco pedagógico.",
+      "citaTextual": "a través de la generación de nuevos proyectos, postulación a fondos, celebración de convenios",
+      "referencia": "Marco para la gestión y el liderazgo educativo, págs. 65-68", "etiquetas": ["recursos", "caso"] }
+  ]},
+  { "fragmentoRef": "rm1040-b009", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según el enfoque de Educación Diversa e Inclusiva de la RM 1040, ¿qué cambios implica responder a la diversidad?",
+      "opciones": [
+        { "texto": "Cambios en contenidos, metodologías y estrategias, con una visión emancipadora y transformadora que reconozca las identidades y respete los ritmos de aprendizaje", "correcta": true, "porQue": "Es lo que plantea el enfoque." },
+        { "texto": "Solo agregar contenidos sobre discapacidad", "correcta": false, "porQue": "Es mucho más amplio." },
+        { "texto": "Separar a los participantes por su origen", "correcta": false, "porQue": "Contradice la inclusión." },
+        { "texto": "Uniformar los ritmos de aprendizaje", "correcta": false, "porQue": "Se respetan los ritmos de cada persona." }
+      ],
+      "explicacion": "Toda persona en situación de vulnerabilidad tiene derecho a una educación de calidad.",
+      "citaTextual": "Este proceso involucra cambios y modificaciones en contenidos, metodologías y estrategias, con una visión emancipadora, transformadora",
+      "referencia": "RM 1040, Enfoques, págs. 25-28", "etiquetas": ["inclusión", "enfoques"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "En un CEA conviven participantes de distintas culturas y algunos sufren burlas por su origen. Según el enfoque de Educación Diversa e Inclusiva de la RM 1040, ¿qué deben generar los centros?",
+      "opciones": [
+        { "texto": "Espacios de respeto, solidaridad y complementariedad que respondan a la diversidad y reduzcan la exclusión, la discriminación y la desigualdad", "correcta": true, "porQue": "Es lo que plantea el enfoque." },
+        { "texto": "Grupos separados por cultura para evitar conflictos", "correcta": false, "porQue": "Contradice la inclusión." },
+        { "texto": "Sanciones de expulsión inmediata", "correcta": false, "porQue": "No es lo que plantea el enfoque." },
+        { "texto": "Un currículo único sin referencias culturales", "correcta": false, "porQue": "Se reconocen las identidades y los saberes propios." }
+      ],
+      "explicacion": "La educación para la diversidad parte de reconocer la identidad cultural para convivir democráticamente.",
+      "citaTextual": "es fundamental generar en los centros educativos espacios de respeto, solidaridad y complementariedad",
+      "referencia": "RM 1040, Enfoques, págs. 25-28", "etiquetas": ["diversidad", "caso"] }
+  ]}
+]
