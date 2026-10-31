@@ -57,7 +57,7 @@ function barajar<T>(arr: T[]): T[] {
 // ---------- Acceso ----------
 
 /** ADMIN y REVISOR ven todo; un ESTUDIANTE, los contenidos publicados de sus colecciones asignadas vigentes. */
-function filtroContenidos(u: UsuarioToken): Prisma.ContenidoWhereInput {
+export function filtroContenidos(u: UsuarioToken): Prisma.ContenidoWhereInput {
   if (u.rol !== 'ESTUDIANTE') return {};
   return {
     publicado: true,

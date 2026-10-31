@@ -4,6 +4,7 @@ import { useSesion } from './auth/sesion';
 import { Contenidos } from './paginas/Contenidos';
 import { Documentos } from './paginas/Documentos';
 import { Estudiar } from './paginas/Estudiar';
+import { Guias } from './paginas/Guias';
 import { Login } from './paginas/Login';
 import { Quiz } from './paginas/Quiz';
 import { Resultado } from './paginas/Resultado';
@@ -11,6 +12,7 @@ import { Revision } from './paginas/Revision';
 
 const PAGINAS = {
   estudiar: { titulo: 'Estudiar', roles: ['ADMIN', 'REVISOR', 'ESTUDIANTE'] },
+  guias: { titulo: 'Guías', roles: ['ADMIN', 'REVISOR', 'ESTUDIANTE'] },
   contenidos: { titulo: 'Contenidos', roles: ['ADMIN'] },
   documentos: { titulo: 'Documentos', roles: ['ADMIN'] },
   revision: { titulo: 'Revisión', roles: ['ADMIN', 'REVISOR'] },
@@ -46,10 +48,11 @@ export function App() {
   let contenido;
   if (hash.ruta === 'quiz' && hash.id) contenido = <Quiz id={hash.id} />;
   else if (hash.ruta === 'resultado' && hash.id) contenido = <Resultado id={hash.id} />;
+  else if (actual === 'guias') contenido = <Guias id={hash.id} />;
   else if (actual === 'contenidos') contenido = <Contenidos />;
   else if (actual === 'documentos') contenido = <Documentos />;
   else if (actual === 'revision') contenido = <Revision />;
-  else contenido = <Estudiar />;
+  else contenido = <Estudiar key={hash.id ?? ''} preseleccion={hash.ruta === 'estudiar' ? hash.id : undefined} />;
 
   return (
     <div className="min-h-screen">

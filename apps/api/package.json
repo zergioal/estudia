@@ -16,7 +16,8 @@
     "importar": "dotenv -e ../../.env -- tsx scripts/importar.ts",
     "postinstall": "prisma generate",
     "ingestar": "dotenv -e ../../.env -- tsx scripts/ingestar.ts",
-    "refragmentar": "dotenv -e ../../.env -- tsx scripts/refragmentar.ts"
+    "refragmentar": "dotenv -e ../../.env -- tsx scripts/refragmentar.ts",
+    "guias": "dotenv -e ../../.env -- tsx scripts/guias.ts"
   },
   "dependencies": {
     "@estudia/shared": "*",

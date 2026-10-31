@@ -9,7 +9,7 @@ export { prisma };
 
 export async function limpiarBase() {
   await prisma.$executeRawUnsafe(`
-    TRUNCATE "Respuesta", "Intento", "EstadoEstudio", "Opcion", "Pregunta", "Fragmento", "Pagina",
+    TRUNCATE "GuiaEstudio", "Respuesta", "Intento", "EstadoEstudio", "Opcion", "Pregunta", "Fragmento", "Pagina",
              "Documento", "Tema", "Contenido", "Asignacion", "Coleccion", "Usuario" CASCADE
   `);
 }

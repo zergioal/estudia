@@ -22,10 +22,11 @@ const BLOQUES = [
 
 const NOMBRE_DIFICULTAD: Record<Dificultad, string> = { FACIL: 'Fácil', MEDIA: 'Media', DIFICIL: 'Difícil' };
 
-export function Estudiar() {
+export function Estudiar({ preseleccion }: { preseleccion?: string } = {}) {
   const panel = useQuery({ queryKey: ['panel'], queryFn: () => api<Panel>('/me/panel') });
   const arbol = useQuery({ queryKey: ['estudio'], queryFn: () => api<ColeccionEstudio[]>('/me/estudio') });
-  const [contenidos, setContenidos] = useState<Set<string>>(new Set());
+  // Desde una guía (#/estudiar/<contenidoId>) el documento llega ya marcado.
+  const [contenidos, setContenidos] = useState<Set<string>>(() => new Set(preseleccion ? [preseleccion] : []));
   const [temas, setTemas] = useState<Set<string>>(new Set());
   const [dificultades, setDificultades] = useState<Set<Dificultad>>(new Set());
   const [cantidad, setCantidad] = useState<number>(20);

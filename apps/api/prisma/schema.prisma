@@ -82,6 +82,7 @@ model Contenido {
   publicado   Boolean     @default(false)
   temas       Tema[]
   documentos  Documento[]
+  guia        GuiaEstudio?
   creadoEn    DateTime    @default(now())
 
   @@index([coleccionId])
@@ -255,4 +256,17 @@ model Asignacion {
   coleccionId String
   coleccion   Coleccion @relation(fields: [coleccionId], references: [id])
   venceEn     DateTime?
+}
+
+/// Guía de estudio de un documento: resumen, ideas clave y qué partes leer (obligatorio/opcional).
+model GuiaEstudio {
+  id            String    @id @default(cuid())
+  contenidoId   String    @unique
+  contenido     Contenido @relation(fields: [contenidoId], references: [id], onDelete: Cascade)
+  resumen       String
+  ideasClave    String[]
+  obligatorio   Json // [{ parte, titulo, porQue }]
+  opcional      Json // [{ parte, titulo, porQue }]
+  consejos      String[]
+  actualizadoEn DateTime  @updatedAt
 }
