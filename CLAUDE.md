@@ -93,6 +93,12 @@ pondera 65% y los méritos 35%. La bibliografía del usuario (`fuentes/examenDir
      Núcleo), quién designa vs de quién depende, cifras/plazos/fechas/edades de la misma norma, listas con un solo
      elemento cambiado, conceptos de otro autor/meta/artículo, "NO corresponde/EXCEPTO". Sin "todas/ninguna las
      anteriores"; opciones de largo similar. Cada `porQue` explica el error citando artículo/autor.
+   - Cantidad proporcional al documento: meta = máx(30, palabras/600) (palabras = suma de la columna del `_indice.md`),
+     repartidas entre todos los títulos/bloques, no solo los primeros.
+   - Mezcla de estilos por lote: ~30% memorísticas (cifras, plazos, edades, porcentajes, quién/qué instancia, listas
+     literales), ~40% situaciones prácticas ("Usted es director/a de un CEA/UE y ocurre X, ¿qué debe hacer?"), ~30%
+     rebuscadas y capciosas (EXCEPTO/NO corresponde, opción casi correcta con una palabra cambiada: "solo", "siempre",
+     "podrá" vs "deberá", plazo en días hábiles vs calendario, actor intercambiado). La correcta debe seguir siendo inequívoca.
    - Nada inventado fuera del fragmento. `citaTextual` copiada literal del texto; `referencia` con artículo/sección
      y página del encabezado.
 3. Lote mínimo: basta `{ "fragmentoRef": "...", "preguntas": [...] }` (contenido y tema salen del fragmento). Un archivo

@@ -1,0 +1,334 @@
+[
+  { "fragmentoRef": "ley548-art155", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Un lunes a las 8:00, una facilitadora informa al director del CEA que un participante de 16 años muestra golpes y dice que su padrastro lo agrede. Según el Código Niña, Niño y Adolescente, ¿qué debe hacer el director?",
+      "opciones": [
+        { "texto": "Denunciar el hecho en un plazo máximo de 24 horas de conocido, ante la Defensoría de la Niñez y Adolescencia o cualquier otra autoridad competente", "correcta": true, "porQue": "Art. 155, par. I: toda persona, particular o servidora pública, está obligada a denunciar en 24 horas." },
+        { "texto": "Citar primero al padrastro a una reunión de conciliación en el CEA", "correcta": false, "porQue": "La ley no prevé conciliar la violencia en el centro; impone la obligación de denunciar." },
+        { "texto": "Denunciar en un plazo de 72 horas, después de reunir pruebas", "correcta": false, "porQue": "72 horas es el plazo para responder la solicitud de autorización laboral (Art. 129); para denunciar el plazo es de 24 horas." },
+        { "texto": "Informar a la Dirección Distrital para que ella decida si denuncia", "correcta": false, "porQue": "La obligación de denunciar es personal; trasladar la decisión no la cumple." }
+      ],
+      "explicacion": "Si no existen esas instancias, se puede acudir a las autoridades indígena originario campesinas, que remiten la denuncia a las instancias competentes.",
+      "citaTextual": "están obligados a denunciarlos en un plazo máximo de veinticuatro (24) horas de conocido el hecho, ante las Defensorías de la Niñez y Adolescencia o cualquier otra autoridad competente",
+      "referencia": "Ley 548, Art. 155, par. I, pág. 59", "etiquetas": ["denuncia", "caso", "plazos"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "En una comunidad rural alejada no hay Defensoría de la Niñez ni otra autoridad competente. Según el Art. 155 de la Ley 548, ¿ante quién se puede acudir para denunciar violencia contra un niño?",
+      "opciones": [
+        { "texto": "Ante las autoridades indígena originario campesinas, quienes deberán remitir la denuncia ante las instancias competentes", "correcta": true, "porQue": "Es la regla del par. II." },
+        { "texto": "Ante la Junta Escolar, que resolverá el caso", "correcta": false, "porQue": "La Junta Escolar no figura en el Art. 155." },
+        { "texto": "Ante el director de la unidad educativa, que sancionará al agresor", "correcta": false, "porQue": "El director no tiene competencia sancionadora sobre el agresor." },
+        { "texto": "Solo ante la Policía del municipio más cercano", "correcta": false, "porQue": "La norma prevé expresamente a las autoridades IOC." }
+      ],
+      "explicacion": "Las autoridades IOC no resuelven el caso: lo remiten a las instancias competentes, según corresponda.",
+      "citaTextual": "se podrá acudir a las autoridades indígena originario campesinas, quienes según el caso deberán remitir la denuncia ante las instancias competentes",
+      "referencia": "Ley 548, Art. 155, par. II, pág. 59", "etiquetas": ["denuncia", "IOC"] }
+  ]},
+  { "fragmentoRef": "ley548-art05", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según el Art. 5 de la Ley 548, ¿cuál es la etapa de la niñez?",
+      "opciones": [
+        { "texto": "Desde la concepción hasta los doce (12) años cumplidos", "correcta": true, "porQue": "Es el inciso a) del Art. 5." },
+        { "texto": "Desde el nacimiento hasta los doce (12) años cumplidos", "correcta": false, "porQue": "Capciosa: la niñez empieza en la concepción, no en el nacimiento." },
+        { "texto": "Desde la concepción hasta los catorce (14) años cumplidos", "correcta": false, "porQue": "14 años es la edad mínima para trabajar y para la responsabilidad penal; la niñez termina a los 12." },
+        { "texto": "Desde el nacimiento hasta los diez (10) años cumplidos", "correcta": false, "porQue": "No coincide con el Art. 5." }
+      ],
+      "explicacion": "La adolescencia va desde los 12 hasta los 18 años cumplidos.",
+      "citaTextual": "Niñez, desde la concepción hasta los doce (12) años cumplidos",
+      "referencia": "Ley 548, Art. 5, pág. 12", "etiquetas": ["etapas", "memorística"] }
+  ]},
+  { "fragmentoRef": "ley548-art12", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "El principio por el cual niñas, niños y adolescentes son objeto de preferente atención y protección en la formulación de políticas públicas, en la asignación de recursos y en el acceso a servicios públicos se denomina, según la Ley 548:",
+      "opciones": [
+        { "texto": "Prioridad Absoluta", "correcta": true, "porQue": "Art. 12, inc. b)." },
+        { "texto": "Interés Superior", "correcta": false, "porQue": "El Interés Superior es toda situación que favorezca el desarrollo integral (inc. a); no se define por la preferencia en recursos y servicios." },
+        { "texto": "Igualdad y no Discriminación", "correcta": false, "porQue": "Es otro principio (inc. c)." },
+        { "texto": "Corresponsabilidad", "correcta": false, "porQue": "La obligación de todos los corresponsables se menciona dentro de la Prioridad Absoluta, pero no es el nombre de este principio." }
+      ],
+      "explicacion": "Confusión frecuente: Interés Superior frente a Prioridad Absoluta.",
+      "citaTextual": "Prioridad Absoluta. Por el cual las niñas, niños y adolescentes serán objeto de preferente atención y protección",
+      "referencia": "Ley 548, Art. 12, inc. b), págs. 13-14", "etiquetas": ["principios", "capciosa"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Para determinar el interés superior de un adolescente en una situación concreta, el Art. 12 de la Ley 548 exige apreciar varios elementos. ¿Cuál NO figura entre ellos?",
+      "opciones": [
+        { "texto": "El rendimiento académico del adolescente en la gestión anterior", "correcta": true, "porQue": "No figura en el inciso a) del Art. 12." },
+        { "texto": "Su opinión y la de la madre, padre, guardador o tutor", "correcta": false, "porQue": "Sí figura en el inciso a)." },
+        { "texto": "Su condición específica como persona en desarrollo", "correcta": false, "porQue": "Sí figura en el inciso a)." },
+        { "texto": "La necesidad de equilibrio entre sus derechos y garantías y los derechos de las demás personas", "correcta": false, "porQue": "Sí figura en el inciso a)." }
+      ],
+      "explicacion": "Elementos: opinión del NNA y de sus responsables, equilibrio entre derechos, garantías y deberes, condición de persona en desarrollo, y equilibrio con los derechos de los demás.",
+      "citaTextual": "su condición específica como persona en desarrollo",
+      "referencia": "Ley 548, Art. 12, inc. a), págs. 13-14", "etiquetas": ["interés superior", "EXCEPTO"] }
+  ]},
+  { "fragmentoRef": "ley548-art08", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según el Art. 8 de la Ley 548, ¿de quién es la obligación primordial de garantizar el ejercicio pleno de los derechos de niñas, niños y adolescentes?",
+      "opciones": [
+        { "texto": "Del Estado en todos sus niveles", "correcta": true, "porQue": "Art. 8, par. II." },
+        { "texto": "De la familia, en primer lugar y de forma exclusiva", "correcta": false, "porQue": "A la familia y a la sociedad les toca asegurar oportunidades de desarrollo integral (par. III); la obligación primordial es del Estado." },
+        { "texto": "Solo del Gobierno Autónomo Municipal", "correcta": false, "porQue": "Capciosa: alcanza al Estado en todos sus niveles, no a uno solo." },
+        { "texto": "De las unidades educativas", "correcta": false, "porQue": "No es lo que establece el Art. 8." }
+      ],
+      "explicacion": "La familia y la sociedad tienen la función de asegurar oportunidades de desarrollo integral en igualdad y equidad.",
+      "citaTextual": "Es obligación primordial del Estado en todos sus niveles, garantizar el ejercicio pleno de los derechos de las niñas, niños y adolescentes.",
+      "referencia": "Ley 548, Art. 8, par. II, pág. 12", "etiquetas": ["garantías"] }
+  ]},
+  { "fragmentoRef": "ley548-art150", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según el Art. 150 de la Ley 548, la protección contra la violencia en el Sistema Educativo implica:",
+      "opciones": [
+        { "texto": "La prevención, atención y sanción de la violencia, para consolidar la convivencia pacífica y armónica y la cultura de paz", "correcta": true, "porQue": "Es el contenido del Art. 150." },
+        { "texto": "Solo la sanción disciplinaria de los estudiantes agresores", "correcta": false, "porQue": "Comprende prevención, atención y sanción, y protege a todos los miembros de la comunidad educativa." },
+        { "texto": "Solo la protección de estudiantes frente a docentes", "correcta": false, "porQue": "Protege la vida y la integridad de todos los miembros de la comunidad educativa." },
+        { "texto": "La expulsión inmediata del agresor del sistema educativo", "correcta": false, "porQue": "No es el contenido del Art. 150." }
+      ],
+      "explicacion": "Se enmarca en el Vivir Bien, el buen trato, la solidaridad, el respeto, la intra e interculturalidad y la no discriminación.",
+      "citaTextual": "implica la prevención, atención y sanción de la violencia ejercida en el Sistema Educativo",
+      "referencia": "Ley 548, Art. 150, pág. 55", "etiquetas": ["violencia escolar"] }
+  ]},
+  { "fragmentoRef": "ley548-art144", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Un canal de televisión pide al director de una UE el expediente y la foto de una estudiante víctima de abuso para un reportaje. Según el Art. 144 de la Ley 548, el director debe:",
+      "opciones": [
+        { "texto": "Mantener reserva, resguardar la identidad de la estudiante y restringir el acceso a la documentación, salvo autorización expresa de la autoridad competente", "correcta": true, "porQue": "Art. 144, par. II: la obligación alcanza a servidores públicos y personal de instituciones privadas." },
+        { "texto": "Entregarlos si los padres firman una autorización", "correcta": false, "porQue": "La excepción es la autorización expresa de la autoridad competente, no la de los padres." },
+        { "texto": "Entregar solo la foto, con el rostro pixelado", "correcta": false, "porQue": "Igual debe restringir el acceso a la documentación y resguardar la identidad." },
+        { "texto": "Entregarlos, porque la libertad de prensa prevalece", "correcta": false, "porQue": "Los medios están obligados a preservar la identificación del NNA (par. III)." }
+      ],
+      "explicacion": "El derecho a la imagen y a la confidencialidad protege también al entorno familiar.",
+      "citaTextual": "tienen la obligación de mantener reserva y resguardar la identidad de la niña, niño y adolescente, que se vea involucrado en cualquier tipo de proceso",
+      "referencia": "Ley 548, Art. 144, par. II, pág. 52", "etiquetas": ["confidencialidad", "caso"] }
+  ]},
+  { "fragmentoRef": "ley548-art147", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según el Art. 147 de la Ley 548, las formas de violencia contra niñas, niños o adolescentes que NO estén tipificadas como delito en la Ley Penal:",
+      "opciones": [
+        { "texto": "Constituyen infracciones y son sancionadas por la Jueza o Juez Público de la Niñez y Adolescencia", "correcta": true, "porQue": "Art. 147, par. III." },
+        { "texto": "Son sancionadas por la Jueza o Juez Penal", "correcta": false, "porQue": "El Juez Penal sanciona la violencia tipificada como delito (par. II)." },
+        { "texto": "Quedan impunes por el principio de legalidad", "correcta": false, "porQue": "Se sancionan como infracciones." },
+        { "texto": "Las sanciona la Defensoría de la Niñez de forma administrativa", "correcta": false, "porQue": "La Defensoría denuncia e interviene, pero no sanciona." }
+      ],
+      "explicacion": "Al sancionar, el juez considera la gravedad del hecho y aplica la sana crítica.",
+      "citaTextual": "constituyen infracciones y serán sancionadas por la Jueza o Juez Público de la Niñez y Adolescencia",
+      "referencia": "Ley 548, Art. 147, par. III, pág. 53", "etiquetas": ["violencia", "competencia"] }
+  ]},
+  { "fragmentoRef": "ley548-art148", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Para un acto cívico, una maestra organiza un baile en el que obliga a niñas de 10 años a usar vestimenta y posturas eróticas propias de adultos. Según el Art. 148 de la Ley 548, esta conducta constituye:",
+      "opciones": [
+        { "texto": "Sexualización precoz o hipersexualización, una forma de vulneración a la integridad sexual", "correcta": true, "porQue": "Art. 148, par. II, inc. c)." },
+        { "texto": "Explotación sexual", "correcta": false, "porQue": "La explotación sexual requiere la finalidad de obtener algún tipo de retribución (inc. b)." },
+        { "texto": "Una actividad cultural protegida por el derecho a la cultura", "correcta": false, "porQue": "El derecho a la cultura no ampara la vulneración de la integridad sexual." },
+        { "texto": "Una falta solo si hay denuncia de los padres", "correcta": false, "porQue": "La ley la define como vulneración, sin depender de la denuncia de los padres." }
+      ],
+      "explicacion": "El Estado debe implementar políticas de prevención contra el abuso, la explotación y la sexualización precoz.",
+      "citaTextual": "Sexualización precoz o hipersexualización, que constituye la sexualización de las expresiones, posturas o códigos de la vestimenta precoces",
+      "referencia": "Ley 548, Art. 148, par. II, inc. c), págs. 53-54", "etiquetas": ["integridad sexual", "caso"] }
+  ]},
+  { "fragmentoRef": "ley548-art154", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según el Art. 154 de la Ley 548, ¿con qué finalidad se aplica el anticipo de prueba en la atención a niñas, niños o adolescentes víctimas o testigos de delitos?",
+      "opciones": [
+        { "texto": "Para evitar la revictimización", "correcta": true, "porQue": "Art. 154, inc. b)." },
+        { "texto": "Para acelerar la sentencia del agresor", "correcta": false, "porQue": "No es la finalidad que señala la norma." },
+        { "texto": "Para que la víctima no necesite atención psicológica", "correcta": false, "porQue": "La atención especializada con equipo multidisciplinario se mantiene." },
+        { "texto": "Para trasladar la competencia a la Defensoría", "correcta": false, "porQue": "La atención corresponde al Ministerio Público y al SEPDAVI." }
+      ],
+      "explicacion": "Atienden el Ministerio Público, con sus unidades especializadas, y el Ministerio de Justicia, a través del SEPDAVI, con reserva y en la lengua materna de la víctima.",
+      "citaTextual": "tomando en cuenta también el anticipo de prueba para evitar la revictimización",
+      "referencia": "Ley 548, Art. 154, pág. 58-59", "etiquetas": ["revictimización"] }
+  ]},
+  { "fragmentoRef": "ley548-art185", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según la Ley 548, ¿de quién depende la Defensoría de la Niñez y Adolescencia?",
+      "opciones": [
+        { "texto": "De los gobiernos municipales", "correcta": true, "porQue": "Art. 185." },
+        { "texto": "De los gobiernos autónomos departamentales", "correcta": false, "porQue": "Confusión de nivel: la Defensoría es municipal." },
+        { "texto": "Del Ministerio de Justicia", "correcta": false, "porQue": "Del Ministerio de Justicia depende el SEPDAVI, no la Defensoría." },
+        { "texto": "De la Defensoría del Pueblo", "correcta": false, "porQue": "Son instituciones distintas." }
+      ],
+      "explicacion": "Presta servicios gratuitos de defensa psico-socio-jurídica, con equipos interdisciplinarios de abogados, trabajadores sociales y psicólogos (Art. 186).",
+      "citaTextual": "es la instancia dependiente de los gobiernos municipales, que presta servicios públicos de defensa psico-socio-jurídica gratuitos",
+      "referencia": "Ley 548, Art. 185, pág. 77", "etiquetas": ["Defensoría", "memorística"] }
+  ]},
+  { "fragmentoRef": "ley548-art188", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "La Defensoría de la Niñez quiere intervenir en un proceso administrativo disciplinario donde se investiga a un docente por maltratar a una estudiante, pero la familia no le dio poder. Según el Art. 188 de la Ley 548:",
+      "opciones": [
+        { "texto": "Puede apersonarse de oficio e intervenir ante las instancias administrativas o judiciales, en cualquier estado de la causa, sin necesidad de mandato expreso", "correcta": true, "porQue": "Art. 188, inc. b)." },
+        { "texto": "Necesita un poder notariado de los padres", "correcta": false, "porQue": "La norma excluye expresamente esa exigencia." },
+        { "texto": "Solo puede intervenir en procesos judiciales, no en administrativos", "correcta": false, "porQue": "Interviene ante instancias administrativas y judiciales." },
+        { "texto": "Solo puede intervenir al inicio del proceso", "correcta": false, "porQue": "Puede intervenir en cualquier estado de la causa." }
+      ],
+      "explicacion": "También puede interponer demandas y denuncias sin mandato expreso (inc. a).",
+      "citaTextual": "Apersonarse de oficio e intervenir en defensa de la niña, niño o adolescente ante las instancias administrativas o judiciales, por cualquier causa o motivo y en cualquier estado de la causa, sin necesidad de mandato expreso",
+      "referencia": "Ley 548, Art. 188, inc. b), págs. 77-79", "etiquetas": ["Defensoría", "caso"] }
+  ]},
+  { "fragmentoRef": "ley548-art129", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según el Art. 129 de la Ley 548, ¿en qué plazo debe responderse la solicitud de autorización de actividad laboral de un adolescente, y dónde se registra?",
+      "opciones": [
+        { "texto": "En 72 horas desde su recepción, previa valoración socio-económica, con registro en el SINNA", "correcta": true, "porQue": "Art. 129, par. III." },
+        { "texto": "En 24 horas, con registro en el Ministerio de Trabajo", "correcta": false, "porQue": "24 horas es el plazo para denunciar la violencia (Art. 155)." },
+        { "texto": "En 10 días hábiles, con registro en el SEGIP", "correcta": false, "porQue": "No coincide con la norma." },
+        { "texto": "En 72 horas, con registro en la Dirección Distrital de Educación", "correcta": false, "porQue": "Capciosa: el plazo es correcto, pero el registro es en el SINNA." }
+      ],
+      "explicacion": "Para cambiar de rubro basta una solicitud verbal, sin iniciar un nuevo trámite.",
+      "citaTextual": "La solicitud deberá tener respuesta en el plazo de setenta y dos (72) horas computables a partir de su recepción",
+      "referencia": "Ley 548, Art. 129, par. III, pág. 44", "etiquetas": ["trabajo", "plazos", "memorística"] }
+  ]},
+  { "fragmentoRef": "ley548-art132", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Un participante de 16 años del CEA trabaja en una panadería y su empleador no le permite salir para asistir a clases. Según el Art. 132 de la Ley 548, el empleador:",
+      "opciones": [
+        { "texto": "Debe otorgarle dos (2) horas diarias destinadas a estudio, que deberán ser remuneradas", "correcta": true, "porQue": "Art. 132, par. IV." },
+        { "texto": "Debe otorgarle dos horas diarias de estudio, que puede descontar del salario", "correcta": false, "porQue": "Capciosa: las horas de estudio deben ser remuneradas." },
+        { "texto": "Debe otorgarle una hora diaria no remunerada", "correcta": false, "porQue": "Son dos horas, y remuneradas." },
+        { "texto": "No tiene obligación alguna si el contrato no lo prevé", "correcta": false, "porQue": "Es una obligación legal: no puede limitar su derecho a la educación." }
+      ],
+      "explicacion": "El salario del adolescente no puede ser menor al de un adulto en el mismo trabajo ni al salario mínimo nacional.",
+      "citaTextual": "debiendo otorgar dos (2) horas diarias destinadas a estudio, que deberán ser remuneradas",
+      "referencia": "Ley 548, Art. 132, par. IV, págs. 45-46", "etiquetas": ["trabajo", "educación", "caso"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según el Art. 132 de la Ley 548, la remuneración de un adolescente mayor de 14 años que trabaja por cuenta ajena:",
+      "opciones": [
+        { "texto": "No puede ser menor a la de un adulto que realice el mismo trabajo ni inferior al salario mínimo nacional", "correcta": true, "porQue": "Art. 132, par. II." },
+        { "texto": "Puede ser el 50% del salario de un adulto por su condición de aprendiz", "correcta": false, "porQue": "La ley prohíbe pagarle menos que a un adulto en el mismo trabajo." },
+        { "texto": "La fijan libremente las partes", "correcta": false, "porQue": "Tiene pisos legales." },
+        { "texto": "Debe entregarse a los padres", "correcta": false, "porQue": "El salario debe ir siempre en beneficio del adolescente." }
+      ],
+      "explicacion": "El trabajo por cuenta ajena implica un empleador, una remuneración y una relación de dependencia.",
+      "citaTextual": "no podrá ser menor a la de un adulto que realice el mismo trabajo, no podrá ser inferior al salario mínimo nacional",
+      "referencia": "Ley 548, Art. 132, par. II, págs. 45-46", "etiquetas": ["trabajo", "salario"] }
+  ]},
+  { "fragmentoRef": "ley548-art137", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Respecto a la seguridad social de los adolescentes trabajadores, según el Art. 137 de la Ley 548, es correcto que:",
+      "opciones": [
+        { "texto": "Para el que trabaja por cuenta ajena la inscripción es obligatoria; el que trabaja por cuenta propia podrá afiliarse voluntariamente", "correcta": true, "porQue": "Art. 137, par. I y II." },
+        { "texto": "La inscripción es voluntaria en ambos casos", "correcta": false, "porQue": "Para el que trabaja con un empleador es obligatoria." },
+        { "texto": "La inscripción es obligatoria en ambos casos", "correcta": false, "porQue": "Para el que trabaja por cuenta propia es voluntaria." },
+        { "texto": "Los adolescentes acceden a la seguridad social solo al cumplir 18 años", "correcta": false, "porQue": "Acceden en las mismas condiciones que los mayores de 18." }
+      ],
+      "explicacion": "El empleador debe inscribirlo inmediatamente después de su ingreso. Los gobiernos departamentales y municipales promueven planes de orientación.",
+      "citaTextual": "Las y los adolescentes que trabajan por cuenta propia, podrán afi liarse voluntariamente al Sistema de Seguridad Social.",
+      "referencia": "Ley 548, Art. 137, pág. 49", "etiquetas": ["seguridad social", "capciosa"] }
+  ]},
+  { "fragmentoRef": "ley548-art139", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según el Art. 139 de la Ley 548, si en una inspección a un lugar de trabajo de adolescentes se evidencia la vulneración de derechos humanos, la Inspectoría del Trabajo debe:",
+      "opciones": [
+        { "texto": "Ponerlo en conocimiento de las Defensorías de la Niñez y Adolescencia, para su restitución mediante proceso legal", "correcta": true, "porQue": "Art. 139, par. II." },
+        { "texto": "Clausurar el establecimiento de forma definitiva", "correcta": false, "porQue": "La norma no prevé la clausura en este artículo." },
+        { "texto": "Remitir el caso a la Dirección Distrital de Educación", "correcta": false, "porQue": "La remisión es a la Defensoría." },
+        { "texto": "Imponer directamente una pena privativa de libertad", "correcta": false, "porQue": "No tiene esa competencia." }
+      ],
+      "explicacion": "Inspecciona el Ministerio de Trabajo, Empleo y Previsión Social, en áreas urbanas y rurales.",
+      "citaTextual": "se deberá poner en conocimiento de las Defensorías de la Niñez y Adolescencia, para su restitución mediante proceso legal",
+      "referencia": "Ley 548, Art. 139, par. II, pág. 50", "etiquetas": ["trabajo", "inspección"] }
+  ]},
+  { "fragmentoRef": "ley548-art267", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según el Art. 267 de la Ley 548, el sistema penal para adolescentes se aplica a:",
+      "opciones": [
+        { "texto": "Adolescentes de 14 años en adelante y menores de 18 años, con una edad máxima de 24 años para cumplir la sanción privativa de libertad", "correcta": true, "porQue": "Art. 267, par. I y II." },
+        { "texto": "Adolescentes de 12 a 18 años, con edad máxima de 21 años para cumplir la sanción", "correcta": false, "porQue": "Confunde el inicio de la adolescencia (12) con la edad de imputabilidad (14), y la edad máxima es 24." },
+        { "texto": "Adolescentes de 16 a 18 años", "correcta": false, "porQue": "El sistema se aplica desde los 14." },
+        { "texto": "Adolescentes de 14 a 18 años, con edad máxima de 18 años para cumplir la sanción", "correcta": false, "porQue": "Capciosa: la sanción puede cumplirse hasta los 24 años." }
+      ],
+      "explicacion": "Se aplica a adolescentes sindicados por hechos tipificados como delitos.",
+      "citaTextual": "Se establece la edad máxima de veinticuatro (24) años para el cumplimiento de la sanción en privación de libertad.",
+      "referencia": "Ley 548, Art. 267, págs. 103-104", "etiquetas": ["penal adolescente", "memorística"] }
+  ]},
+  { "fragmentoRef": "ley548-art268", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según el Art. 268 de la Ley 548, ¿en cuánto se atenúa la responsabilidad penal del adolescente y qué medida corresponde si el máximo penal del delito es menor a 15 años?",
+      "opciones": [
+        { "texto": "En cuatro quintas partes respecto del máximo penal; para delitos con máximo menor a 15 años, medidas socio-educativas con restricción de libertad y en libertad", "correcta": true, "porQue": "Art. 268, par. I y III." },
+        { "texto": "En la mitad; para delitos con máximo menor a 15 años, un centro especializado", "correcta": false, "porQue": "Son cuatro quintas partes, y el centro especializado corresponde a delitos con máximo de 15 a 30 años." },
+        { "texto": "En tres quintas partes; siempre privación de libertad", "correcta": false, "porQue": "No coincide con la norma." },
+        { "texto": "En cuatro quintas partes; para delitos con máximo menor a 15 años, un centro especializado en privación de libertad", "correcta": false, "porQue": "Capciosa: la atenuación es correcta, pero el centro especializado es para delitos con máximo de 15 a 30 años." }
+      ],
+      "explicacion": "Delitos con máximo penal de 15 a 30 años: centro especializado. Menor a 15 años: medidas socio-educativas.",
+      "citaTextual": "será atenuada en cuatro quintas partes respecto del máximo penal correspondiente al delito establecido en la norma penal",
+      "referencia": "Ley 548, Art. 268, pág. 104", "etiquetas": ["penal adolescente", "capciosa"] }
+  ]},
+  { "fragmentoRef": "ley548-art124", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Un grupo de estudiantes de 13 años presenta al director, por escrito y sin firma de sus padres, una petición para mejorar los baños. Según el Art. 124 de la Ley 548, el director debe:",
+      "opciones": [
+        { "texto": "Recibirla y responderla oportuna y adecuadamente, porque pueden peticionar directamente, individual o colectivamente, sin necesidad de representación", "correcta": true, "porQue": "Art. 124: derecho de petición." },
+        { "texto": "Rechazarla porque los menores de edad necesitan representación de sus padres", "correcta": false, "porQue": "La norma excluye expresamente la necesidad de representación." },
+        { "texto": "Tramitarla solo si la presenta la Junta Escolar", "correcta": false, "porQue": "No se requiere un intermediario." },
+        { "texto": "Recibirla, pero sin obligación de responder", "correcta": false, "porQue": "Tienen derecho a ser respondidos oportuna y adecuadamente." }
+      ],
+      "explicacion": "La petición puede ser oral o escrita y dirigirse a cualquier entidad pública o privada.",
+      "citaTextual": "efectuar de manera directa peticiones, individual o colectivamente, de manera oral o escrita ante cualquier entidad pública o privada sin necesidad de representación",
+      "referencia": "Ley 548, Art. 124, pág. 43", "etiquetas": ["petición", "caso"] }
+  ]},
+  { "fragmentoRef": "ley548-art122", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según el Art. 122 de la Ley 548, las opiniones de niñas, niños y adolescentes:",
+      "opciones": [
+        { "texto": "Pueden expresarse a título personal o en representación de su organización, y deben ser tomadas en cuenta según su edad y etapa de desarrollo", "correcta": true, "porQue": "Art. 122, par. I y II." },
+        { "texto": "Solo pueden expresarse a título personal", "correcta": false, "porQue": "También en representación de su organización." },
+        { "texto": "Son vinculantes para las autoridades en todos los casos", "correcta": false, "porQue": "Deben tomarse en cuenta, pero la ley no dice que sean vinculantes." },
+        { "texto": "Solo se escuchan a partir de los 14 años", "correcta": false, "porQue": "El derecho depende de la edad y la etapa de desarrollo; no hay un umbral de 14 años." }
+      ],
+      "explicacion": "El Estado garantiza mecanismos de opinión, participación y petición (Art. 125).",
+      "citaTextual": "Las opiniones pueden ser vertidas a título personal o en representación de su organización, según corresponda.",
+      "referencia": "Ley 548, Art. 122, págs. 42-43", "etiquetas": ["opinión", "participación"] }
+  ]},
+  { "fragmentoRef": "ley548-art121", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "El municipio construye un nuevo campo deportivo junto a la UE. Según el Art. 121 de la Ley 548, ¿qué deben aplicar obligatoriamente las instancias responsables de la construcción?",
+      "opciones": [
+        { "texto": "Parámetros técnicos mínimos de accesibilidad para niñas, niños y adolescentes en situación de discapacidad", "correcta": true, "porQue": "Art. 121, par. IV." },
+        { "texto": "Un diseño aprobado por la Junta Escolar", "correcta": false, "porQue": "No es la exigencia de la norma." },
+        { "texto": "Accesibilidad solo si hay estudiantes con discapacidad inscritos", "correcta": false, "porQue": "Capciosa: la obligación es general, no condicionada." },
+        { "texto": "Uso exclusivo para competencias oficiales", "correcta": false, "porQue": "No es lo que dispone la norma." }
+      ],
+      "explicacion": "La recreación, el deporte y el juego buscan el desarrollo integral y fortalecen valores como la solidaridad y la tolerancia.",
+      "citaTextual": "deberán aplicar parámetros técnicos mínimos de accesibilidad para que las niñas, niños y adolescentes en situación de discapacidad",
+      "referencia": "Ley 548, Art. 121, par. IV, pág. 42", "etiquetas": ["accesibilidad", "caso"] }
+  ]},
+  { "fragmentoRef": "ley548-art158", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "¿Cuál de los siguientes NO figura entre los deberes de niñas, niños y adolescentes del Art. 158 de la Ley 548?",
+      "opciones": [
+        { "texto": "Contribuir económicamente al sostenimiento del hogar", "correcta": true, "porQue": "No figura en el Art. 158." },
+        { "texto": "Cumplir con sus obligaciones en el ámbito educativo", "correcta": false, "porQue": "Es el inciso f)." },
+        { "texto": "Valorar las culturas y la producción nacional", "correcta": false, "porQue": "Es el inciso k)." },
+        { "texto": "Respetar el medio ambiente y la madre tierra", "correcta": false, "porQue": "Es el inciso j)." }
+      ],
+      "explicacion": "Otros deberes: preservar su vida y salud, respetar a padres y maestros, honrar la patria y actuar con honestidad.",
+      "citaTextual": "Valorar las culturas y la producción nacional",
+      "referencia": "Ley 548, Art. 158, pág. 60", "etiquetas": ["deberes", "EXCEPTO"] }
+  ]},
+  { "fragmentoRef": "ley548-art145", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según el Art. 145 de la Ley 548, el derecho a la integridad personal comprende la integridad:",
+      "opciones": [
+        { "texto": "Física, psicológica y sexual", "correcta": true, "porQue": "Art. 145, par. I." },
+        { "texto": "Física, psicológica, cultural, afectiva y sexual", "correcta": false, "porQue": "Esa lista corresponde a la dignidad (Art. 142)." },
+        { "texto": "Física y moral", "correcta": false, "porQue": "No coincide con la norma." },
+        { "texto": "Física, psicológica, emocional, moral y espiritual", "correcta": false, "porQue": "Esa lista corresponde al bienestar integral del Marco para la gestión." }
+      ],
+      "explicacion": "Hay que distinguir la integridad (Art. 145: física, psicológica y sexual) de la dignidad (Art. 142: física, psicológica, cultural, afectiva y sexual).",
+      "citaTextual": "que comprende su integridad física, psicológica y sexual",
+      "referencia": "Ley 548, Art. 145, par. I, pág. 53", "etiquetas": ["integridad", "capciosa"] }
+  ]},
+  { "fragmentoRef": "ley548-art114", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según el Art. 114 de la Ley 548, ¿en qué caso se otorga gratuitamente el certificado de nacimiento duplicado?",
+      "opciones": [
+        { "texto": "Cuando el NNA está bajo tutela extraordinaria, en situación de calle, es adolescente trabajador o está en emergencia o desastre natural", "correcta": true, "porQue": "Art. 114, par. II." },
+        { "texto": "Siempre, a todo estudiante que lo solicite para su inscripción escolar", "correcta": false, "porQue": "Lo que es gratuito para todos es el primer certificado; el duplicado gratuito solo en los casos del par. II." },
+        { "texto": "Solo cuando lo solicita la unidad educativa", "correcta": false, "porQue": "No es un supuesto de la norma." },
+        { "texto": "Solo en caso de adopción", "correcta": false, "porQue": "No es un supuesto de la norma." }
+      ],
+      "explicacion": "La inscripción en el Registro Civil y el primer certificado de nacimiento son gratuitos.",
+      "citaTextual": "se le otorgará el Certifi cado de Nacimiento duplicado de manera gratuita",
+      "referencia": "Ley 548, Art. 114, par. II, pág. 39", "etiquetas": ["identidad", "memorística"] }
+  ]}
+]

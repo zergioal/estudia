@@ -1,0 +1,169 @@
+[
+  { "fragmentoRef": "ley548-art160", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según el Art. 160 de la Ley 548, ¿cuáles son los principios a los que se sujeta la ACTUACIÓN de los integrantes del SIPPROINA, además de los principios de organización del Sistema?",
+      "opciones": [
+        { "texto": "Articulación, cooperación, transparencia, buena fe y gratuidad", "correcta": true, "porQue": "Art. 160, par. II." },
+        { "texto": "Legalidad, integralidad, participación democrática y equidad de género", "correcta": false, "porQue": "Son principios de organización del Sistema (par. I), no de la actuación de sus integrantes." },
+        { "texto": "Interés superior, prioridad absoluta e igualdad", "correcta": false, "porQue": "Son principios generales del Código (Art. 12)." },
+        { "texto": "Eficiencia, eficacia, descentralización e interculturalidad", "correcta": false, "porQue": "También pertenecen al par. I." }
+      ],
+      "explicacion": "El par. I regula la organización del Sistema y el par. II la actuación de sus integrantes.",
+      "citaTextual": "se sujetará a los principios de articulación, cooperación, transparencia, buena fe y gratuidad",
+      "referencia": "Ley 548, Art. 160, par. II, pág. 61", "etiquetas": ["SIPPROINA", "capciosa"] }
+  ]},
+  { "fragmentoRef": "ley548-art161", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "¿Cuál de las siguientes instancias NO figura expresamente entre los integrantes del SIPPROINA del Art. 161 de la Ley 548?",
+      "opciones": [
+        { "texto": "El Ministerio de Educación", "correcta": true, "porQue": "No está nombrado en los incisos a) a l); solo cabría en el inciso m) («otras instancias»)." },
+        { "texto": "El Ministerio de Justicia", "correcta": false, "porQue": "Inciso a)." },
+        { "texto": "El Tribunal Constitucional Plurinacional", "correcta": false, "porQue": "Inciso j)." },
+        { "texto": "El Ministerio de Planificación del Desarrollo", "correcta": false, "porQue": "Inciso l)." }
+      ],
+      "explicacion": "Rebuscada: el Ministerio de Educación no aparece expresamente en la lista, aunque sí el Ministerio de Trabajo y el de Planificación.",
+      "citaTextual": "j) El Tribunal Constitucional Plurinacional; k) El Ministerio del Trabajo, Empleo y Previsión Social; l) El Ministerio de Planificación del Desarrollo",
+      "referencia": "Ley 548, Art. 161, pág. 61", "etiquetas": ["SIPPROINA", "EXCEPTO"] }
+  ]},
+  { "fragmentoRef": "ley548-art190", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según el Art. 190 de la Ley 548, ¿en qué niveles se crean los Comités de Niñas, Niños y Adolescentes?",
+      "opciones": [
+        { "texto": "Central, departamental, municipal e indígena originario campesino", "correcta": true, "porQue": "Art. 190." },
+        { "texto": "Solo en cada unidad educativa", "correcta": false, "porQue": "Son instancias de participación social territorial, no escolares." },
+        { "texto": "Solo municipal", "correcta": false, "porQue": "Se crean en los cuatro niveles." },
+        { "texto": "Central y departamental", "correcta": false, "porQue": "Faltan el municipal y el IOC." }
+      ],
+      "explicacion": "Los gobiernos subnacionales promueven su conformación con asesoramiento técnico y recursos económicos.",
+      "citaTextual": "como instancias de participación social, en los niveles central, departamental, municipal e indígena originario campesino",
+      "referencia": "Ley 548, Art. 190, pág. 80", "etiquetas": ["participación", "memorística"] }
+  ]},
+  { "fragmentoRef": "ley548-art189", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "En una autonomía indígena originario campesina ya constituida, ¿quién ejerce las responsabilidades que la Ley 548 asigna a los Gobiernos Autónomos Municipales, como garantizar la Defensoría de la Niñez?",
+      "opciones": [
+        { "texto": "El gobierno de la autonomía indígena originario campesina, en su jurisdicción", "correcta": true, "porQue": "Art. 189." },
+        { "texto": "El gobierno municipal vecino más cercano", "correcta": false, "porQue": "La ley asigna la responsabilidad a la autonomía IOC." },
+        { "texto": "El Gobierno Autónomo Departamental", "correcta": false, "porQue": "Confusión de nivel." },
+        { "texto": "El Ministerio de Justicia, en forma directa", "correcta": false, "porQue": "No es lo que dispone la norma." }
+      ],
+      "explicacion": "Las autonomías IOC asumen las responsabilidades municipales en su jurisdicción.",
+      "citaTextual": "ejercer las responsabilidades establecidas para los Gobiernos Autónomos Municipales, en su respectiva jurisdicción",
+      "referencia": "Ley 548, Art. 189, pág. 80", "etiquetas": ["IOC", "competencias"] }
+  ]},
+  { "fragmentoRef": "ley548-art316", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según el Art. 316 de la Ley 548, los mecanismos de justicia restaurativa son los procedimientos que acompañan la aplicación de:",
+      "opciones": [
+        { "texto": "La remisión, las salidas alternativas y las medidas socio-educativas", "correcta": true, "porQue": "Art. 316, par. I." },
+        { "texto": "Solo la sentencia condenatoria", "correcta": false, "porQue": "No es lo que dice la norma." },
+        { "texto": "La detención preventiva", "correcta": false, "porQue": "No es lo que dice la norma." },
+        { "texto": "Los procesos disciplinarios escolares", "correcta": false, "porQue": "Pertenecen al sistema penal para adolescentes, no al ámbito escolar." }
+      ],
+      "explicacion": "Buscan que el adolescente asume su responsabilidad y repare el daño, y que la víctima supere las consecuencias del delito.",
+      "citaTextual": "los procedimientos que acompañan la aplicación de la remisión, las salidas alternativas y las medidas socio-educativas",
+      "referencia": "Ley 548, Art. 316, par. I, pág. 124", "etiquetas": ["justicia restaurativa"] }
+  ]},
+  { "fragmentoRef": "ley548-art317", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según el Art. 317 de la Ley 548, cuando la víctima NO participa, el mecanismo de justicia restaurativa se realiza a través de:",
+      "opciones": [
+        { "texto": "Un programa de orientación socio-educativa", "correcta": true, "porQue": "Art. 317, par. I." },
+        { "texto": "La mediación", "correcta": false, "porQue": "La mediación requiere la participación de la víctima." },
+        { "texto": "Los círculos restaurativos", "correcta": false, "porQue": "Requieren la participación de la víctima." },
+        { "texto": "Las reuniones familiares con la víctima", "correcta": false, "porQue": "Requieren la participación de la víctima." }
+      ],
+      "explicacion": "Con la víctima: mediación, reuniones familiares, círculos restaurativos. Sin la víctima: programa de orientación socio-educativa.",
+      "citaTextual": "Cuando la víctima no participa, el mecanismo se realiza a través de un programa de orientación socio-educativa.",
+      "referencia": "Ley 548, Art. 317, pág. 125", "etiquetas": ["justicia restaurativa"] }
+  ]},
+  { "fragmentoRef": "ley548-art318", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según el Art. 318 de la Ley 548, si un adolescente participa en un mecanismo de justicia restaurativa y luego incumple el acuerdo:",
+      "opciones": [
+        { "texto": "El incumplimiento no deberá utilizarse como fundamento para una sentencia sancionatoria ni para agravar una medida socio-educativa", "correcta": true, "porQue": "Art. 318, inc. e)." },
+        { "texto": "El incumplimiento se toma como admisión de culpabilidad", "correcta": false, "porQue": "Ni la participación ni el incumplimiento cuentan como admisión de culpa (incs. d y e)." },
+        { "texto": "Se agrava automáticamente la medida socio-educativa", "correcta": false, "porQue": "Lo prohíbe el inciso e)." },
+        { "texto": "Se le impone privación de libertad", "correcta": false, "porQue": "No es lo que dispone la norma." }
+      ],
+      "explicacion": "Los mecanismos son gratuitos, voluntarios y confidenciales, y el consentimiento puede retirarse en cualquier momento.",
+      "citaTextual": "El incumplimiento de un acuerdo no deberá utilizarse como fundamento para una sentencia sancionatoria o para la agravación de una medida socio-educativa",
+      "referencia": "Ley 548, Art. 318, inc. e), pág. 125", "etiquetas": ["justicia restaurativa", "capciosa"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según el Art. 318 de la Ley 548, el acceso a los mecanismos de justicia restaurativa debe ser:",
+      "opciones": [
+        { "texto": "Gratuito, voluntario y confidencial", "correcta": true, "porQue": "Art. 318, inc. a)." },
+        { "texto": "Obligatorio, gratuito y público", "correcta": false, "porQue": "Es voluntario y confidencial." },
+        { "texto": "Voluntario, oneroso y confidencial", "correcta": false, "porQue": "Es gratuito." },
+        { "texto": "Gratuito, obligatorio y confidencial", "correcta": false, "porQue": "Capciosa: es voluntario, no obligatorio." }
+      ],
+      "explicacion": "Se aplica a solicitud de la autoridad competente y con el consentimiento libre de las partes.",
+      "citaTextual": "Deberán ser de acceso gratuito, voluntario y confidencial",
+      "referencia": "Ley 548, Art. 318, inc. a), pág. 125", "etiquetas": ["justicia restaurativa", "memorística"] }
+  ]},
+  { "fragmentoRef": "ley548-art134", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Una familia contrata a una adolescente de 15 años como trabajadora del hogar para cuidar a un bebé, pero además le exige cocinar, lavar y limpiar. Según el Art. 134 de la Ley 548:",
+      "opciones": [
+        { "texto": "Está prohibido: la contratación debe ser para labores específicas, y se prohíbe contratarla para trabajos múltiples o imponerle labores para las que no fue contratada", "correcta": true, "porQue": "Art. 134, par. II." },
+        { "texto": "Es lícito porque es mayor de 14 años", "correcta": false, "porQue": "La edad la habilita para el trabajo del hogar, pero no para que se le impongan labores múltiples." },
+        { "texto": "Es lícito si se le paga más", "correcta": false, "porQue": "La prohibición no depende del salario." },
+        { "texto": "Solo está prohibido si trabaja de noche", "correcta": false, "porQue": "La infracción es la imposición de labores múltiples." }
+      ],
+      "explicacion": "También se prohíbe que trabajen los hijos de la trabajadora adulta del hogar que viven con ella en el domicilio del empleador.",
+      "citaTextual": "prohibiéndose la contratación para trabajos múltiples o la imposición de labores para las que no hayan sido contratadas o contratados",
+      "referencia": "Ley 548, Art. 134, par. II, pág. 47", "etiquetas": ["trabajo del hogar", "caso"] }
+  ]},
+  { "fragmentoRef": "ley548-art140", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "¿Cuál de las siguientes conductas NO figura como infracción al derecho de protección en relación al trabajo en el Art. 140 de la Ley 548?",
+      "opciones": [
+        { "texto": "Otorgar al adolescente trabajador dos horas diarias remuneradas de estudio", "correcta": true, "porQue": "No es una infracción, sino una obligación del empleador (Art. 132, par. IV)." },
+        { "texto": "Omitir la inscripción del adolescente trabajador en el Sistema de Seguridad Social", "correcta": false, "porQue": "Inciso d)." },
+        { "texto": "Obstaculizar la inspección del Ministerio de Trabajo", "correcta": false, "porQue": "Inciso f)." },
+        { "texto": "Contratar al adolescente sin la debida inscripción en el registro de adolescentes trabajadores", "correcta": false, "porQue": "Inciso c)." }
+      ],
+      "explicacion": "También es infracción contratar o lucrar con el trabajo de una niña o niño (inc. a).",
+      "citaTextual": "Omitir la inscripción de la o el adolescente trabajador en el Sistema de Seguridad Social",
+      "referencia": "Ley 548, Art. 140, págs. 50-51", "etiquetas": ["infracciones", "EXCEPTO"] }
+  ]},
+  { "fragmentoRef": "ley548-art35", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "La directora de una UE considera que un estudiante vive en un hogar negligente y quiere llevarlo a vivir con una tía. Según el Art. 35 de la Ley 548, ¿quién puede determinar la separación del niño de su familia?",
+      "opciones": [
+        { "texto": "La Jueza o Juez Público en materia de Niñez y Adolescencia, previo proceso y con la finalidad de protegerlo", "correcta": true, "porQue": "Art. 35, par. II." },
+        { "texto": "La directora, por razones de urgencia", "correcta": false, "porQue": "La directora no tiene competencia para separar a un niño de su familia." },
+        { "texto": "La Junta Escolar, en asamblea", "correcta": false, "porQue": "No es competente." },
+        { "texto": "La Defensoría, mediante resolución administrativa definitiva", "correcta": false, "porQue": "La separación la determina el Juez, previo proceso." }
+      ],
+      "explicacion": "Lo que corresponde a la directora es denunciar ante la Defensoría. La familia sustituta es excepcional.",
+      "citaTextual": "determinadas por la Jueza o Juez Público en materia de Niñez y Adolescencia, previo proceso y con la finalidad de protegerlo",
+      "referencia": "Ley 548, Art. 35, par. II, pág. 20", "etiquetas": ["familia", "caso"] }
+  ]},
+  { "fragmentoRef": "ley548-art36", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según el Art. 36 de la Ley 548, la familia de origen está constituida por:",
+      "opciones": [
+        { "texto": "La madre y el padre o cualquiera de los progenitores, los descendientes, los ascendientes y parientes colaterales, conforme al cómputo civil", "correcta": true, "porQue": "Art. 36." },
+        { "texto": "Solo la madre y el padre biológicos", "correcta": false, "porQue": "Incluye a descendientes, ascendientes y colaterales." },
+        { "texto": "Quienes conviven bajo el mismo techo con el niño", "correcta": false, "porQue": "La convivencia no define a la familia de origen." },
+        { "texto": "La familia que obtiene la guarda judicial", "correcta": false, "porQue": "Esa es una familia sustituta." }
+      ],
+      "explicacion": "La familia sustituta es una excepción, aplicable cuando la de origen no es posible o es contraria al interés superior.",
+      "citaTextual": "Es la constituida por la madre y el padre o por cualquiera de los progenitores, los descendientes, los ascendientes y parientes colaterales",
+      "referencia": "Ley 548, Art. 36, pág. 21", "etiquetas": ["familia", "memorística"] }
+  ]},
+  { "fragmentoRef": "ley548-art142", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según el Art. 142 de la Ley 548, un adolescente sujeto a medidas socio-educativas privativas de libertad:",
+      "opciones": [
+        { "texto": "Goza de todos los derechos y garantías de la CPE y del Código, salvo los restringidos por las sanciones legalmente impuestas", "correcta": true, "porQue": "Art. 142, par. II." },
+        { "texto": "Pierde el derecho a la educación mientras dure la medida", "correcta": false, "porQue": "Solo pierde los derechos restringidos por la sanción." },
+        { "texto": "Pierde todos sus derechos civiles", "correcta": false, "porQue": "No es lo que dispone la norma." },
+        { "texto": "Queda bajo la tutela del director del centro, sin derechos propios", "correcta": false, "porQue": "Conserva su dignidad y sus derechos." }
+      ],
+      "explicacion": "La dignidad es física, psicológica, cultural, afectiva y sexual.",
+      "citaTextual": "salvo los restringidos por las sanciones legalmente impuestas",
+      "referencia": "Ley 548, Art. 142, par. II, pág. 52", "etiquetas": ["dignidad"] }
+  ]}
+]

@@ -1,0 +1,119 @@
+[
+  { "fragmentoRef": "ley548-art191", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "El director de una UE debe proponer representantes estudiantiles para el Comité Municipal de Niñas, Niños y Adolescentes. Según el Art. 191 de la Ley 548, ¿qué requisitos debe respetar la conformación del Comité?",
+      "opciones": [
+        { "texto": "Representantes de organizaciones estudiantiles de entre 10 y 18 años, con al menos un 50% de niñas y adolescentes mujeres", "correcta": true, "porQue": "Art. 191, par. I." },
+        { "texto": "Estudiantes de entre 12 y 18 años, con al menos un 30% de mujeres", "correcta": false, "porQue": "La edad mínima es 10 años y la participación de mujeres es de al menos 50%." },
+        { "texto": "Solo estudiantes de unidades educativas públicas", "correcta": false, "porQue": "También de unidades privadas y de convenio." },
+        { "texto": "Estudiantes de entre 10 y 18 años designados por el director, sin cuota de género", "correcta": false, "porQue": "Capciosa: hay una cuota de al menos 50% de mujeres, y los integrantes representan a las organizaciones estudiantiles." }
+      ],
+      "explicacion": "También pueden integrar el Comité representantes de otras organizaciones de NNA.",
+      "citaTextual": "que tengan entre diez (10) y dieciocho (18) años de edad, respetando una participación de al menos cincuenta por ciento (50%) de niñas y adolescentes mujeres",
+      "referencia": "Ley 548, Art. 191, par. I, pág. 80", "etiquetas": ["comités", "caso", "memorística"] }
+  ]},
+  { "fragmentoRef": "ley548-art193", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "El principio procesal de la Ley 548 por el cual las autoridades judiciales deben considerar cierto el testimonio de un niño, niña o adolescente mientras no se desvirtúe objetivamente se denomina:",
+      "opciones": [
+        { "texto": "Presunción de Verdad", "correcta": true, "porQue": "Art. 193, inc. c)." },
+        { "texto": "Desformalización", "correcta": false, "porQue": "La desformalización flexibiliza el procedimiento (inc. b)." },
+        { "texto": "Especialidad", "correcta": false, "porQue": "La especialidad se refiere al personal interdisciplinario especializado (inc. a)." },
+        { "texto": "Interés Superior", "correcta": false, "porQue": "Es un principio general del Art. 12, no un principio procesal." }
+      ],
+      "explicacion": "Tiene implicaciones directas para el director: el relato de un estudiante sobre una agresión debe tomarse en serio y denunciarse.",
+      "citaTextual": "deberán considerar el testimonio de una niña, niño o adolescente como cierto, en tanto no se desvirtúe objetivamente el mismo",
+      "referencia": "Ley 548, Art. 193, inc. c), pág. 81", "etiquetas": ["principios procesales"] }
+  ]},
+  { "fragmentoRef": "ley548-art22", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Un grupo de padres exige al director de una UE suprimir los contenidos de educación sexual porque «es tarea exclusiva de la familia». Según el Art. 22 de la Ley 548:",
+      "opciones": [
+        { "texto": "Los NNA tienen derecho a recibir información y educación para la sexualidad, en forma prioritaria de sus padres o tutores, y también dentro del sistema educativo", "correcta": true, "porQue": "Art. 22, par. II." },
+        { "texto": "Los padres tienen razón: es competencia exclusiva de la familia", "correcta": false, "porQue": "La ley incluye expresamente al sistema educativo." },
+        { "texto": "Solo los centros de salud pueden brindarla", "correcta": false, "porQue": "No es lo que dispone la norma." },
+        { "texto": "Solo se brinda a mayores de 18 años", "correcta": false, "porQue": "Se brinda de acuerdo al desarrollo físico y psicológico de los NNA." }
+      ],
+      "explicacion": "Rebuscada: «en forma prioritaria» por la familia no significa «exclusivamente».",
+      "citaTextual": "en forma prioritaria por su padre y por su madre, guardadora o guardador y tutora o tutor, y dentro del sistema educativo",
+      "referencia": "Ley 548, Art. 22, par. II, págs. 16-17", "etiquetas": ["educación sexual", "caso", "capciosa"] }
+  ]},
+  { "fragmentoRef": "ley548-art18", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según el Art. 18 de la Ley 548, el derecho a la salud de niñas, niños y adolescentes comprende:",
+      "opciones": [
+        { "texto": "Un bienestar completo, físico, mental y social, y servicios de salud gratuitos y de calidad para prevención, tratamiento y rehabilitación", "correcta": true, "porQue": "Art. 18." },
+        { "texto": "Solo la atención de emergencias", "correcta": false, "porQue": "Comprende prevención, tratamiento y rehabilitación." },
+        { "texto": "Servicios de salud con copago reducido", "correcta": false, "porQue": "Los servicios son gratuitos." },
+        { "texto": "Un bienestar físico y psicológico, sin incluir lo social", "correcta": false, "porQue": "Incluye la dimensión social." }
+      ],
+      "explicacion": "Los establecimientos de salud deben permitir el acompañamiento de padres o tutores durante la internación (Art. 27).",
+      "citaTextual": "tienen el derecho a un bienestar completo, físico, mental y social",
+      "referencia": "Ley 548, Art. 18, pág. 16", "etiquetas": ["salud"] }
+  ]},
+  { "fragmentoRef": "ley548-art177", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según el Art. 177 de la Ley 548, ¿con qué finalidad se interponen las acciones de defensa ante la amenaza o vulneración de derechos de NNA?",
+      "opciones": [
+        { "texto": "Hacer cesar la amenaza o restituir el derecho, conforme a la CPE y el Código Procesal Constitucional", "correcta": true, "porQue": "Art. 177." },
+        { "texto": "Imponer sanciones penales al responsable", "correcta": false, "porQue": "Las acciones de defensa buscan cesar la amenaza o restituir el derecho; no son una vía de sanción penal." },
+        { "texto": "Obtener solo una indemnización económica", "correcta": false, "porQue": "No es la finalidad que señala la norma." },
+        { "texto": "Proceden solo contra instituciones públicas", "correcta": false, "porQue": "Proceden también contra particulares e instituciones privadas." }
+      ],
+      "explicacion": "Protegen derechos individuales, colectivos o difusos, frente a acciones u omisiones.",
+      "citaTextual": "con la finalidad de hacer cesar la amenaza o restituir el derecho",
+      "referencia": "Ley 548, Art. 177, págs. 70-71", "etiquetas": ["acciones de defensa"] }
+  ]},
+  { "fragmentoRef": "ley548-art179", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según la Ley 548, ¿qué entidad es el ente rector del Sistema Plurinacional de Protección Integral de la Niña, Niño y Adolescente (SIPPROINA)?",
+      "opciones": [
+        { "texto": "El Ministerio de Justicia", "correcta": true, "porQue": "Art. 179." },
+        { "texto": "El Ministerio de Educación", "correcta": false, "porQue": "No es el ente rector." },
+        { "texto": "El Ministerio de Trabajo, Empleo y Previsión Social", "correcta": false, "porQue": "Integra el sistema e inspecciona el trabajo, pero no es el ente rector." },
+        { "texto": "La Defensoría de la Niñez y Adolescencia", "correcta": false, "porQue": "Es una instancia municipal del sistema." }
+      ],
+      "explicacion": "El Ministerio de Justicia elabora e implementa el Plan Plurinacional para la Niña, Niño y Adolescente.",
+      "citaTextual": "Son atribuciones del Ministerio de Justicia como ente rector del Sistema Plurinacional de Protección Integral",
+      "referencia": "Ley 548, Art. 179, págs. 71-72", "etiquetas": ["SIPPROINA", "memorística"] }
+  ]},
+  { "fragmentoRef": "ley548-art180", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según el Art. 180 de la Ley 548, las decisiones del Consejo de Coordinación Sectorial e Intersectorial para temas de la niña, niño y adolescente:",
+      "opciones": [
+        { "texto": "Son vinculantes para todas las instituciones públicas y privadas", "correcta": true, "porQue": "Art. 180, par. I." },
+        { "texto": "Son recomendaciones no vinculantes", "correcta": false, "porQue": "Son vinculantes." },
+        { "texto": "Solo obligan a las instituciones públicas", "correcta": false, "porQue": "Capciosa: obligan también a las privadas." },
+        { "texto": "Requieren ratificación del Congreso de los Derechos de la NNA", "correcta": false, "porQue": "No es lo que dispone la norma." }
+      ],
+      "explicacion": "Lo conforma el ente rector, con autoridades de los niveles central, departamental y municipal.",
+      "citaTextual": "asumiendo decisiones que serán vinculantes a todas las instituciones públicas y privadas",
+      "referencia": "Ley 548, Art. 180, par. I, pág. 73", "etiquetas": ["SIPPROINA", "capciosa"] }
+  ]},
+  { "fragmentoRef": "ley548-art178", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según el Art. 178 de la Ley 548, ¿qué responsabilidad corresponde al NIVEL CENTRAL del Estado?",
+      "opciones": [
+        { "texto": "Registrar a las instituciones privadas de atención a la niña, niño y adolescente", "correcta": true, "porQue": "Art. 178, inc. d)." },
+        { "texto": "Garantizar el servicio de la Defensoría de la Niñez en cada municipio", "correcta": false, "porQue": "Es una responsabilidad de los gobiernos municipales (Art. 187)." },
+        { "texto": "Promover la conformación de los Comités municipales de NNA", "correcta": false, "porQue": "Corresponde a los gobiernos subnacionales (Art. 190)." },
+        { "texto": "Inscribir a los adolescentes trabajadores en la seguridad social", "correcta": false, "porQue": "Es una obligación del empleador (Art. 137)." }
+      ],
+      "explicacion": "El nivel central también es la Autoridad Central en los tratados internacionales y armoniza la cooperación internacional.",
+      "citaTextual": "Registrar a las instituciones privadas de atención a la niña, niño y adolescente",
+      "referencia": "Ley 548, Art. 178, inc. d), pág. 71", "etiquetas": ["competencias", "niveles del Estado"] }
+  ]},
+  { "fragmentoRef": "ley548-art16", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según el Art. 16 de la Ley 548, el derecho a la vida de la niña, niño o adolescente comprende:",
+      "opciones": [
+        { "texto": "El derecho a vivir en condiciones que garanticen una existencia digna", "correcta": true, "porQue": "Art. 16, par. I." },
+        { "texto": "Solo la prohibición de privarle de la vida", "correcta": false, "porQue": "Comprende además condiciones de existencia digna." },
+        { "texto": "Solo el derecho a nacer", "correcta": false, "porQue": "Es más amplio." },
+        { "texto": "Solo el acceso a servicios de salud", "correcta": false, "porQue": "Eso es el derecho a la salud (Art. 18)." }
+      ],
+      "explicacion": "El Estado debe implementar políticas que aseguren condiciones dignas para su nacimiento y desarrollo integral.",
+      "citaTextual": "que comprende el derecho a vivir en condiciones que garanticen para toda niña, niño o adolescente una existencia digna",
+      "referencia": "Ley 548, Art. 16, pág. 15", "etiquetas": ["vida"] }
+  ]}
+]
