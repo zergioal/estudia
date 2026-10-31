@@ -1,5 +1,6 @@
 export {
   aprobarLoteSchema,
+  aprobarTodasSchema,
   loteImportacionSchema,
   opcionesSchemaPara,
   preguntaEditarSchema,
@@ -7,6 +8,7 @@ export {
   revisionFiltroSchema,
   validarOpcionesPorTipo,
   type AprobarLote,
+  type AprobarTodas,
   type ItemRechazado,
   type LoteImportacion,
   type OrigenPregunta,

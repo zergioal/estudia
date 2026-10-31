@@ -6,6 +6,7 @@ import {
   loteImportacionSchema,
   opcionesSchemaPara,
   preguntaImportacionSchema,
+  type AprobarTodas,
   type ItemRechazado,
   type OrigenPregunta,
   type Paginado,
@@ -259,4 +260,17 @@ export async function aprobarLote(ids: string[]) {
     data: { estado: 'APROBADA' },
   });
   return { aprobadas: count, omitidas: unicos.length - count };
+}
+
+/** Aprueba todas las preguntas en BORRADOR o VALIDADA que cumplan el filtro de la bandeja. */
+export async function aprobarTodas(filtro: AprobarTodas) {
+  const { count } = await prisma.pregunta.updateMany({
+    where: {
+      estado: { in: ['BORRADOR', 'VALIDADA'] },
+      ...(filtro.temaId && { temaId: filtro.temaId }),
+      ...(filtro.contenidoId && { tema: { contenidoId: filtro.contenidoId } }),
+    },
+    data: { estado: 'APROBADA' },
+  });
+  return { aprobadas: count };
 }

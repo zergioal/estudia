@@ -112,3 +112,34 @@ describe('POST /api/v1/admin/preguntas/aprobar-lote', () => {
     expect(res.status).toBe(400);
   });
 });
+
+describe('POST /api/v1/admin/preguntas/aprobar-todas', () => {
+  it('un REVISOR aprueba de una vez todas las BORRADOR, sin tocar las descartadas', async () => {
+    await prisma.pregunta.update({ where: { id: ids[0] }, data: { estado: 'DESCARTADA' } });
+    const revisor = await tokenDe('REVISOR');
+    const res = await request(app).post('/api/v1/admin/preguntas/aprobar-todas').set({ Authorization: `Bearer ${revisor}` }).send({});
+
+    expect(res.status).toBe(200);
+    expect(res.body).toEqual({ aprobadas: 2 });
+    expect(await prisma.pregunta.count({ where: { estado: 'APROBADA' } })).toBe(2);
+    expect((await prisma.pregunta.findUniqueOrThrow({ where: { id: ids[0] } })).estado).toBe('DESCARTADA');
+  });
+
+  it('respeta el filtro por contenido', async () => {
+    const otro = await prisma.contenido.create({
+      data: { titulo: 'Ley 999', tipoFuente: 'LEY', coleccion: { create: { nombre: 'Otra' } } },
+    });
+    const res = await request(app).post('/api/v1/admin/preguntas/aprobar-todas').set(auth()).send({ contenidoId: otro.id });
+    expect(res.body).toEqual({ aprobadas: 0 });
+
+    const ley070 = await prisma.contenido.findUniqueOrThrow({ where: { titulo: 'Ley 070' } });
+    const res2 = await request(app).post('/api/v1/admin/preguntas/aprobar-todas').set(auth()).send({ contenidoId: ley070.id });
+    expect(res2.body).toEqual({ aprobadas: 3 });
+  });
+
+  it('un ESTUDIANTE no puede aprobar', async () => {
+    const estudiante = await tokenDe('ESTUDIANTE');
+    const res = await request(app).post('/api/v1/admin/preguntas/aprobar-todas').set({ Authorization: `Bearer ${estudiante}` }).send({});
+    expect(res.status).toBe(403);
+  });
+});

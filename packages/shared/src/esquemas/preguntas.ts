@@ -150,6 +150,13 @@ export const aprobarLoteSchema = z.object({
 });
 export type AprobarLote = z.infer<typeof aprobarLoteSchema>;
 
+/** Aprueba de una vez todas las BORRADOR/VALIDADA que cumplan el filtro (sin filtro: todo el banco). */
+export const aprobarTodasSchema = z.object({
+  contenidoId: z.string().min(1).optional(),
+  temaId: z.string().min(1).optional(),
+});
+export type AprobarTodas = z.infer<typeof aprobarTodasSchema>;
+
 export interface OpcionRevision {
   id: string;
   texto: string;

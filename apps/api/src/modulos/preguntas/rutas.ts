@@ -1,6 +1,6 @@
 import { Router } from 'express';
 import { requiereRol } from '../../middleware/auth';
-import { aprobarLoteSchema, preguntaEditarSchema, revisionFiltroSchema } from './esquemas';
+import { aprobarLoteSchema, aprobarTodasSchema, preguntaEditarSchema, revisionFiltroSchema } from './esquemas';
 import * as servicio from './servicio';
 
 /** Montado en /api/v1/admin */
@@ -22,7 +22,11 @@ rutasPreguntas.patch('/preguntas/:id', requiereRol('ADMIN', 'REVISOR'), async (r
   res.json(await servicio.editarPregunta(req.params.id, preguntaEditarSchema.parse(req.body)));
 });
 
-rutasPreguntas.post('/preguntas/aprobar-lote', requiereRol('ADMIN'), async (req, res) => {
+rutasPreguntas.post('/preguntas/aprobar-lote', requiereRol('ADMIN', 'REVISOR'), async (req, res) => {
   const { ids } = aprobarLoteSchema.parse(req.body);
   res.json(await servicio.aprobarLote(ids));
+});
+
+rutasPreguntas.post('/preguntas/aprobar-todas', requiereRol('ADMIN', 'REVISOR'), async (req, res) => {
+  res.json(await servicio.aprobarTodas(aprobarTodasSchema.parse(req.body ?? {})));
 });
