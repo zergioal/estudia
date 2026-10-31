@@ -1,0 +1,197 @@
+[
+  {
+    "fragmentoRef": "ley1178-art29",
+    "preguntas": [
+      {
+        "tipo": "OPCION_MULTIPLE",
+        "dificultad": "DIFICIL",
+        "nivelBloom": "RECORDAR",
+        "enunciado": "Según la Ley 1178, ¿qué sanciones puede aplicar la autoridad competente por responsabilidad administrativa, según la gravedad de la falta?",
+        "opciones": [
+          { "texto": "Multa de hasta el 20% de la remuneración mensual, suspensión de hasta 30 días o destitución", "correcta": true, "porQue": "Son las sanciones y los topes del Art. 29." },
+          { "texto": "Multa de hasta el 10% de la remuneración mensual, suspensión de hasta 15 días o destitución", "correcta": false, "porQue": "Los topes son 20% y 30 días." },
+          { "texto": "Multa de hasta el 20% de la remuneración mensual, suspensión de hasta 60 días o destitución", "correcta": false, "porQue": "La suspensión máxima es de 30 días." },
+          { "texto": "Multa de hasta el 30% de la remuneración mensual, suspensión de hasta 30 días o destitución", "correcta": false, "porQue": "La multa máxima es del 20% de la remuneración mensual." }
+        ],
+        "explicacion": "La responsabilidad administrativa admite tres sanciones graduales: multa de hasta el 20% de la remuneración mensual, suspensión de hasta 30 días y destitución.",
+        "citaTextual": "multa hasta un veinte por ciento de la remuneración mensual; suspensión hasta un máximo de treinta días; o destitución",
+        "referencia": "Ley 1178, Art. 29, pág. 12",
+        "etiquetas": ["responsabilidad administrativa", "sanciones"]
+      },
+      {
+        "tipo": "OPCION_MULTIPLE",
+        "dificultad": "DIFICIL",
+        "nivelBloom": "COMPRENDER",
+        "enunciado": "Según la Ley 1178, ¿mediante qué procedimiento se determina la responsabilidad administrativa?",
+        "opciones": [
+          { "texto": "Por proceso interno de cada entidad, que toma en cuenta los resultados de la auditoría si la hubiere", "correcta": true, "porQue": "Es lo que dispone el Art. 29." },
+          { "texto": "Por la Contraloría General del Estado, mediante dictamen obligatorio", "correcta": false, "porQue": "La ley asigna la determinación a un proceso interno de cada entidad; la auditoría se considera si existe." },
+          { "texto": "Por proceso judicial ante un juez de partido en materia administrativa", "correcta": false, "porQue": "La vía judicial corresponde a otras responsabilidades, como la penal o la civil." },
+          { "texto": "Por resolución de la autoridad superior, sin necesidad de proceso", "correcta": false, "porQue": "Se exige un proceso interno; la autoridad competente aplica la sanción según la gravedad." }
+        ],
+        "explicacion": "La responsabilidad administrativa surge al contravenir el ordenamiento jurídico-administrativo o las normas de conducta funcionaria, y se determina por proceso interno de cada entidad.",
+        "citaTextual": "Se determinará por proceso interno de cada entidad que tomará en cuenta los resultados de la auditoría si la hubiere.",
+        "referencia": "Ley 1178, Art. 29, pág. 12",
+        "etiquetas": ["responsabilidad administrativa", "proceso interno"]
+      }
+    ]
+  },
+  {
+    "fragmentoRef": "ley1178-art30",
+    "preguntas": [
+      {
+        "tipo": "OPCION_MULTIPLE",
+        "dificultad": "DIFICIL",
+        "nivelBloom": "APLICAR",
+        "enunciado": "La gestión de una autoridad educativa presenta deficiencias y negligencia de tal magnitud que impiden lograr resultados razonables en términos de eficacia, eficiencia y economía. Según la Ley 1178, ¿qué tipo de responsabilidad se configura?",
+        "opciones": [
+          { "texto": "Responsabilidad ejecutiva", "correcta": true, "porQue": "El Art. 30 la define así para la autoridad o ejecutivo." },
+          { "texto": "Responsabilidad administrativa", "correcta": false, "porQue": "La administrativa surge de contravenir el ordenamiento jurídico-administrativo (Art. 29), no de deficiencias graves de gestión." },
+          { "texto": "Responsabilidad civil", "correcta": false, "porQue": "La civil exige un daño al Estado valuable en dinero (Art. 31)." },
+          { "texto": "Responsabilidad penal", "correcta": false, "porQue": "La penal exige que la conducta esté tipificada en el Código Penal (Art. 34)." }
+        ],
+        "explicacion": "La responsabilidad ejecutiva alcanza a la autoridad o ejecutivo que no rinde cuentas, incumple deberes del Art. 27 o cuya gestión es tan deficiente que no logra resultados razonables de eficacia, eficiencia y economía.",
+        "citaTextual": "cuando se encuentre que las deficiencias o negligencia de la gestión ejecutiva son de tal magnitud que no permiten lograr, dentro de las circunstancias existentes, resultados razonables en términos de eficacia, eficiencia y economía",
+        "referencia": "Ley 1178, Art. 30, pág. 12",
+        "etiquetas": ["responsabilidad ejecutiva", "caso"]
+      }
+    ]
+  },
+  {
+    "fragmentoRef": "ley1178-art31",
+    "preguntas": [
+      {
+        "tipo": "OPCION_MULTIPLE",
+        "dificultad": "DIFICIL",
+        "nivelBloom": "APLICAR",
+        "enunciado": "El director de un CEA autoriza que el vehículo del centro se use para fines particulares de un funcionario, y el vehículo sufre daños. Según el Art. 31 de la Ley 1178, ¿cuál es la situación del director?",
+        "opciones": [
+          { "texto": "Es civilmente corresponsable, por haber autorizado el uso indebido de bienes del Estado", "correcta": true, "porQue": "El Art. 31, inc. a) hace corresponsable civil al superior jerárquico que autoriza el uso indebido." },
+          { "texto": "No tiene responsabilidad civil, porque el daño lo causó otro servidor", "correcta": false, "porQue": "La ley extiende la responsabilidad civil al superior que autorizó el uso indebido." },
+          { "texto": "Solo tiene responsabilidad ejecutiva, por su condición de autoridad", "correcta": false, "porQue": "Hay un daño al Estado valuable en dinero, lo que configura responsabilidad civil." },
+          { "texto": "Queda exento, porque se presume la licitud de sus actos", "correcta": false, "porQue": "La presunción de licitud (Art. 28, inc. b)) cede cuando se demuestra lo contrario, como en este caso." }
+        ],
+        "explicacion": "La responsabilidad civil requiere un daño al Estado valuable en dinero. El superior jerárquico que autoriza el uso indebido es corresponsable, y si varios son responsables del mismo hecho, la responsabilidad es solidaria.",
+        "citaTextual": "Será civilmente corresponsable el superior jerárquico que hubiere autorizado el uso indebido de bienes, servicios y recursos del Estado",
+        "referencia": "Ley 1178, Art. 31, inc. a), pág. 12",
+        "etiquetas": ["responsabilidad civil", "bienes del Estado", "caso"]
+      }
+    ]
+  },
+  {
+    "fragmentoRef": "ley1178-art33",
+    "preguntas": [
+      {
+        "tipo": "OPCION_MULTIPLE",
+        "dificultad": "DIFICIL",
+        "nivelBloom": "ANALIZAR",
+        "enunciado": "Según el Art. 33 de la Ley 1178, si se prueba que una decisión se tomó en procura de mayor beneficio y en resguardo de los bienes de la entidad, dentro de los riesgos propios de la operación, ¿qué responsabilidades quedan excluidas?",
+        "opciones": [
+          { "texto": "La administrativa, la ejecutiva y la civil", "correcta": true, "porQue": "Son las tres que el Art. 33 excluye; la penal no se menciona." },
+          { "texto": "Todas, incluida la penal", "correcta": false, "porQue": "El Art. 33 no excluye la responsabilidad penal." },
+          { "texto": "Solo la administrativa", "correcta": false, "porQue": "Excluye también la ejecutiva y la civil." },
+          { "texto": "La ejecutiva y la penal", "correcta": false, "porQue": "La penal no está comprendida en la exención." }
+        ],
+        "explicacion": "La exención del Art. 33 (decisión en procura de mayor beneficio, dentro de los riesgos de la operación, o por fuerza mayor) alcanza a la responsabilidad administrativa, ejecutiva y civil, no a la penal.",
+        "citaTextual": "No existirá responsabilidad administrativa, ejecutiva ni civil cuando se pruebe que la decisión hubiese sido tomada en procura de mayor beneficio y en resguardo de los bienes de la entidad",
+        "referencia": "Ley 1178, Art. 33, pág. 13",
+        "etiquetas": ["exención de responsabilidad"]
+      }
+    ]
+  },
+  {
+    "fragmentoRef": "ley1178-art28",
+    "preguntas": [
+      {
+        "tipo": "OPCION_MULTIPLE",
+        "dificultad": "DIFICIL",
+        "nivelBloom": "APLICAR",
+        "enunciado": "Una facilitadora trabaja en un CEA fiscal en relación de dependencia con las autoridades educativas, pero su salario lo paga un proyecto de cooperación. Según la Ley 1178, ¿es servidora pública?",
+        "opciones": [
+          { "texto": "Sí, porque el término comprende a toda persona que preste servicios en relación de dependencia con autoridades estatales, cualquiera sea la fuente de su remuneración", "correcta": true, "porQue": "Es la definición del Art. 28, inc. c)." },
+          { "texto": "No, porque su remuneración no proviene del Tesoro General de la Nación", "correcta": false, "porQue": "La ley aclara que la fuente de la remuneración es irrelevante." },
+          { "texto": "Solo si fue designada mediante concurso de méritos", "correcta": false, "porQue": "La Ley 1178 no condiciona la calidad de servidor público a la forma de designación." },
+          { "texto": "Solo si ejerce un cargo de autoridad o ejecutivo", "correcta": false, "porQue": "\"Autoridad\" o \"ejecutivo\" es una categoría dentro de los servidores públicos (inc. d)), no un requisito para serlo." }
+        ],
+        "explicacion": "Para la Ley 1178, servidor público es todo dignatario, funcionario o persona que presta servicios en relación de dependencia con autoridades estatales, sin importar quién paga su remuneración.",
+        "citaTextual": "toda otra persona que preste servicios en relación de dependencia con autoridades estatales, cualquiera sea la fuente de su remuneración",
+        "referencia": "Ley 1178, Art. 28, inc. c), pág. 12",
+        "etiquetas": ["servidor público", "caso"]
+      },
+      {
+        "tipo": "OPCION_MULTIPLE",
+        "dificultad": "DIFICIL",
+        "nivelBloom": "COMPRENDER",
+        "enunciado": "Respecto de las operaciones y actividades de los servidores públicos, la Ley 1178 establece que:",
+        "opciones": [
+          { "texto": "Se presume su licitud, mientras no se demuestre lo contrario", "correcta": true, "porQue": "Es la presunción del Art. 28, inc. b)." },
+          { "texto": "Se presume la responsabilidad del servidor, hasta que demuestre la licitud de sus actos", "correcta": false, "porQue": "La ley invierte esa idea: la presunción es de licitud." },
+          { "texto": "Solo se presumen lícitas las que cuentan con auditoría previa favorable", "correcta": false, "porQue": "La presunción de licitud no depende de una auditoría previa." },
+          { "texto": "Solo se presumen lícitas las realizadas por autoridades o ejecutivos", "correcta": false, "porQue": "La presunción alcanza a todo servidor público." }
+        ],
+        "explicacion": "Todo servidor público responde por los resultados de su desempeño, y la responsabilidad se determina según los resultados de la acción u omisión. Rige la presunción de licitud mientras no se pruebe lo contrario.",
+        "citaTextual": "Se presume la licitud de las operaciones y actividades realizadas por todo servidor público, mientras no se demuestre lo contrario.",
+        "referencia": "Ley 1178, Art. 28, inc. b), pág. 12",
+        "etiquetas": ["presunción de licitud"]
+      }
+    ]
+  },
+  {
+    "fragmentoRef": "ley1178-art02",
+    "preguntas": [
+      {
+        "tipo": "OPCION_MULTIPLE",
+        "dificultad": "DIFICIL",
+        "nivelBloom": "ANALIZAR",
+        "enunciado": "Según el Art. 2 de la Ley 1178, ¿cuál de los siguientes sistemas NO pertenece al grupo de sistemas para ejecutar las actividades programadas?",
+        "opciones": [
+          { "texto": "Presupuesto", "correcta": true, "porQue": "El Presupuesto, junto con la Programación de Operaciones y la Organización Administrativa, es un sistema para programar y organizar." },
+          { "texto": "Administración de Personal", "correcta": false, "porQue": "Es un sistema para ejecutar." },
+          { "texto": "Tesorería y Crédito Público", "correcta": false, "porQue": "Es un sistema para ejecutar." },
+          { "texto": "Contabilidad Integrada", "correcta": false, "porQue": "Es un sistema para ejecutar." }
+        ],
+        "explicacion": "Sistemas para programar y organizar: Programación de Operaciones, Organización Administrativa y Presupuesto. Para ejecutar: Administración de Personal, Administración de Bienes y Servicios, Tesorería y Crédito Público, y Contabilidad Integrada. Para controlar: Control Gubernamental.",
+        "citaTextual": "Para ejecutar las actividades programadas: - Administración de Personal. - Administración de Bienes y Servicios. - Tesorería y Crédito Público. - Contabilidad Integrada.",
+        "referencia": "Ley 1178, Art. 2, inc. b), pág. 4",
+        "etiquetas": ["sistemas de administración"]
+      },
+      {
+        "tipo": "OPCION_MULTIPLE",
+        "dificultad": "DIFICIL",
+        "nivelBloom": "RECORDAR",
+        "enunciado": "Según la Ley 1178, el sistema de Control Gubernamental está integrado por:",
+        "opciones": [
+          { "texto": "El Control Interno y el Control Externo Posterior", "correcta": true, "porQue": "Es lo que dispone el Art. 2, inc. c)." },
+          { "texto": "El Control Interno y el Control Externo Previo", "correcta": false, "porQue": "El control externo que prevé la ley es posterior, no previo." },
+          { "texto": "El Control Previo, el Control Concurrente y el Control Posterior", "correcta": false, "porQue": "La ley lo integra solo con el Control Interno y el Control Externo Posterior." },
+          { "texto": "La Auditoría Interna y el Control Social", "correcta": false, "porQue": "No es la composición que define el Art. 2." }
+        ],
+        "explicacion": "El Control Gubernamental, sistema para controlar la gestión del Sector Público, se integra por el Control Interno y el Control Externo Posterior.",
+        "citaTextual": "Control Gubernamental, integrado por el Control Interno y el Control Externo Posterior.",
+        "referencia": "Ley 1178, Art. 2, inc. c), pág. 4",
+        "etiquetas": ["control gubernamental"]
+      }
+    ]
+  },
+  {
+    "fragmentoRef": "ley1178-art01",
+    "preguntas": [
+      {
+        "tipo": "OPCION_MULTIPLE",
+        "dificultad": "DIFICIL",
+        "nivelBloom": "COMPRENDER",
+        "enunciado": "Según el Art. 1 de la Ley 1178, todo servidor público, sin distinción de jerarquía, debe asumir plena responsabilidad por sus actos, rindiendo cuenta:",
+        "opciones": [
+          { "texto": "No solo de los objetivos a que se destinaron los recursos públicos que le fueron confiados, sino también de la forma y resultado de su aplicación", "correcta": true, "porQue": "Es el contenido del Art. 1, inc. c)." },
+          { "texto": "Únicamente de los objetivos a que se destinaron los recursos públicos", "correcta": false, "porQue": "La ley exige rendir cuentas también de la forma y el resultado de su aplicación." },
+          { "texto": "Solo ante la Contraloría General del Estado, al concluir su gestión", "correcta": false, "porQue": "El inc. c) no limita la rendición de cuentas a un órgano ni a un momento." },
+          { "texto": "Solo si ocupa un cargo jerárquico de autoridad o ejecutivo", "correcta": false, "porQue": "La ley dice \"sin distinción de jerarquía\"." }
+        ],
+        "explicacion": "La Ley 1178 extiende la rendición de cuentas a todo servidor público y a tres aspectos: los objetivos, la forma y el resultado de la aplicación de los recursos.",
+        "citaTextual": "rindiendo cuenta no sólo de los objetivos a que se destinaron los recursos públicos que le fueron confiados sino también de la forma y resultado de su aplicación",
+        "referencia": "Ley 1178, Art. 1, inc. c), pág. 4",
+        "etiquetas": ["rendición de cuentas"]
+      }
+    ]
+  }
+]

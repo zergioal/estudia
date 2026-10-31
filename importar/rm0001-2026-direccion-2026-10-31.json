@@ -1,0 +1,287 @@
+[
+  {
+    "fragmentoRef": "rm0001-2026-art12",
+    "preguntas": [
+      {
+        "tipo": "OPCION_MULTIPLE",
+        "dificultad": "DIFICIL",
+        "nivelBloom": "RECORDAR",
+        "enunciado": "Según el calendario del ámbito de Educación Alternativa de la RM 0001/2026, ¿a qué población y en qué fechas del primer semestre se aplican las inscripciones especiales?",
+        "opciones": [
+          { "texto": "Soldados, marineros y personas en contextos de encierro, del 2 al 27 de marzo de 2026", "correcta": true, "porQue": "Es lo que fija el calendario del Art. 12 para el I/2026." },
+          { "texto": "Personas con discapacidad, del 2 al 27 de marzo de 2026", "correcta": false, "porQue": "Las fechas son correctas, pero las inscripciones especiales son para soldados, marineros y personas en contextos de encierro." },
+          { "texto": "Soldados, marineros y personas en contextos de encierro, del 20 al 27 de febrero de 2026", "correcta": false, "porQue": "Del 20 al 27 de febrero corresponden las inscripciones extemporáneas de EPJA del primer semestre." },
+          { "texto": "Población migrante del CEPEAD, del 10 de agosto al 11 de septiembre de 2026", "correcta": false, "porQue": "Esas fechas son las inscripciones especiales del II/2026, y la población no es la migrante del CEPEAD." }
+        ],
+        "explicacion": "Las inscripciones especiales se aplican solo a soldados, marineros y personas en contextos de encierro: del 2 al 27 de marzo (I/2026) y del 10 de agosto al 11 de septiembre (II/2026).",
+        "citaTextual": "Inscripciones especiales (soldados, marineros y personas en contextos de encierro) 02 de marzo al 27 de marzo de 2026",
+        "referencia": "RM 0001/2026, Art. 12, pág. 13",
+        "etiquetas": ["calendario", "inscripciones", "educación alternativa"]
+      }
+    ]
+  },
+  {
+    "fragmentoRef": "rm0001-2026-art13",
+    "preguntas": [
+      {
+        "tipo": "OPCION_MULTIPLE",
+        "dificultad": "DIFICIL",
+        "nivelBloom": "RECORDAR",
+        "enunciado": "Según la RM 0001/2026, ¿de quién es la responsabilidad plena del proceso de inscripción en un Centro de Educación Alternativa?",
+        "opciones": [
+          { "texto": "Del director y el plantel administrativo del Centro de Educación Alternativa", "correcta": true, "porQue": "Lo dice el Art. 13, par. IV." },
+          { "texto": "De la Dirección Distrital Educativa de la jurisdicción", "correcta": false, "porQue": "La Distrital no asume la inscripción; la norma la asigna al CEA." },
+          { "texto": "De la UGPSEP-SI del Ministerio, que habilita la inscripción automática", "correcta": false, "porQue": "La UGPSEP-SI solo habilita la opción de inscripción automática en el sistema (par. I); la responsabilidad es del CEA." },
+          { "texto": "De cada maestro facilitador, respecto de los participantes de su área", "correcta": false, "porQue": "La norma no atribuye la inscripción a los maestros." }
+        ],
+        "explicacion": "La inscripción es responsabilidad plena del director y del plantel administrativo del CEA. El Ministerio solo provee la herramienta de inscripción automática para los participantes antiguos.",
+        "citaTextual": "El proceso de inscripción es responsabilidad plena del director y plantel administrativo del Centro de Educación Alternativa.",
+        "referencia": "RM 0001/2026, Art. 13, par. IV, pág. 14",
+        "etiquetas": ["inscripciones", "responsabilidades del director"]
+      },
+      {
+        "tipo": "OPCION_MULTIPLE",
+        "dificultad": "DIFICIL",
+        "nivelBloom": "APLICAR",
+        "enunciado": "Cerrado el proceso de inscripción del calendario, la directora de un CEA constata que un participante antiguo, inscrito de forma automática, nunca se presentó. Según la RM 0001/2026, ¿qué debe hacer?",
+        "opciones": [
+          { "texto": "Eliminar su registro en el sistema de registro académico correspondiente, para evitar duplicidad de registro", "correcta": true, "porQue": "Es lo que dispone el Art. 13, par. III ante la ausencia posterior al cierre de inscripciones." },
+          { "texto": "Mantenerlo inscrito hasta el cierre del semestre y reportarlo como abandono", "correcta": false, "porQue": "La norma ordena eliminar el registro, no mantenerlo hasta el cierre." },
+          { "texto": "Exigirle el formulario físico RUDEAL actualizado para confirmar su continuidad", "correcta": false, "porQue": "El par. II prohíbe pedir el RUDEAL físico o documentación adicional a los participantes antiguos." },
+          { "texto": "Transferirlo de oficio al CEA más cercano a su domicilio", "correcta": false, "porQue": "La norma no prevé transferencias de oficio." }
+        ],
+        "explicacion": "La inscripción automática del participante antiguo requiere su confirmación. Si no asiste tras el cierre de inscripciones, la dirección del CEA elimina el registro en el sistema para evitar duplicidad.",
+        "citaTextual": "la dirección del Centro de Educación Alternativa deberá eliminar el registro del estudiante/participante en el sistema de registro académico correspondiente, a fin de evitar duplicidad de registro",
+        "referencia": "RM 0001/2026, Art. 13, par. III, pág. 14",
+        "etiquetas": ["inscripciones", "registro académico", "caso"]
+      },
+      {
+        "tipo": "OPCION_MULTIPLE",
+        "dificultad": "DIFICIL",
+        "nivelBloom": "COMPRENDER",
+        "enunciado": "Respecto de los participantes antiguos que continúan su formación en el mismo CEA, la RM 0001/2026 dispone que el centro:",
+        "opciones": [
+          { "texto": "No debe llenar el formulario físico RUDEAL ni solicitar documentación adicional, y solo actualiza la información si el participante modifica sus datos personales", "correcta": true, "porQue": "Es lo que establece el Art. 13, par. II." },
+          { "texto": "Debe llenar nuevamente el RUDEAL físico al inicio de cada semestre", "correcta": false, "porQue": "La norma prohíbe expresamente llenar el RUDEAL físico para los antiguos." },
+          { "texto": "Debe pedir una nueva fotocopia de la cédula de identidad y del certificado del último curso", "correcta": false, "porQue": "Esos son requisitos para participantes nuevos (Art. 14); a los antiguos no se les pide documentación adicional." },
+          { "texto": "Debe esperar la autorización de la Dirección Distrital para cada inscripción automática", "correcta": false, "porQue": "La inscripción automática solo requiere la confirmación del interesado (par. I)." }
+        ],
+        "explicacion": "Para los participantes antiguos la inscripción es automática, previa confirmación del interesado, sin RUDEAL físico ni documentación adicional; solo se actualizan los datos que cambien.",
+        "citaTextual": "Los centros de educación alternativa no deberán realizar el llenado del formulario físico RUDEAL, ni solicitar documentación adicional a los estudiantes/ participantes antiguos",
+        "referencia": "RM 0001/2026, Art. 13, par. II, pág. 14",
+        "etiquetas": ["inscripciones", "RUDEAL"]
+      }
+    ]
+  },
+  {
+    "fragmentoRef": "rm0001-2026-art14",
+    "preguntas": [
+      {
+        "tipo": "OPCION_MULTIPLE",
+        "dificultad": "DIFICIL",
+        "nivelBloom": "RECORDAR",
+        "enunciado": "Según la RM 0001/2026, ¿cuál es la edad mínima para inscribirse como participante nuevo en la etapa de Aprendizajes Aplicados de la Educación Secundaria de Personas Jóvenes y Adultas?",
+        "opciones": [
+          { "texto": "17 años", "correcta": true, "porQue": "El cuadro del Art. 14 fija 17 años para Aprendizajes Aplicados." },
+          { "texto": "15 años", "correcta": false, "porQue": "15 años corresponde a Aprendizajes Elementales (Primaria)." },
+          { "texto": "16 años", "correcta": false, "porQue": "16 años corresponde a Aprendizajes Avanzados (Primaria)." },
+          { "texto": "18 años", "correcta": false, "porQue": "18 años corresponde a Aprendizajes Complementarios y Especializados." }
+        ],
+        "explicacion": "Edades mínimas: Elementales 15, Avanzados 16, Aplicados 17, Complementarios 18 y Especializados 18. Fuera de esos rangos solo caben los casos excepcionales con documentos de respaldo.",
+        "citaTextual": "Aprendizajes Aplicados 17 años",
+        "referencia": "RM 0001/2026, Art. 14, par. I, num. 4, pág. 15",
+        "etiquetas": ["inscripciones", "edad mínima", "EPJA"]
+      },
+      {
+        "tipo": "OPCION_MULTIPLE",
+        "dificultad": "DIFICIL",
+        "nivelBloom": "RECORDAR",
+        "enunciado": "Según la RM 0001/2026, ¿hasta qué fecha debe cumplirse la edad mínima para inscribirse en el primer semestre de 2026 en Educación de Personas Jóvenes y Adultas?",
+        "opciones": [
+          { "texto": "Hasta el 19 de marzo de 2026", "correcta": true, "porQue": "Es la fecha límite del primer semestre en el cuadro del Art. 14." },
+          { "texto": "Hasta el 19 de enero de 2026", "correcta": false, "porQue": "El 19 de enero es el inicio de las inscripciones de nuevos participantes (Art. 12)." },
+          { "texto": "Hasta el 20 de febrero de 2026", "correcta": false, "porQue": "El 20 de febrero es el cierre de las inscripciones de nuevos participantes del primer semestre." },
+          { "texto": "Hasta el 6 de septiembre de 2026", "correcta": false, "porQue": "Es la fecha límite del segundo semestre." }
+        ],
+        "explicacion": "La fecha límite de cumplimiento de edad es el 19 de marzo de 2026 para el primer semestre y el 6 de septiembre de 2026 para el segundo. No hay que confundirlas con las fechas de inicio y cierre de inscripciones.",
+        "citaTextual": "Primer Semestre: Hasta el 19 de marzo de 2026.",
+        "referencia": "RM 0001/2026, Art. 14, par. I, num. 4, pág. 15",
+        "etiquetas": ["inscripciones", "edad mínima", "calendario"]
+      }
+    ]
+  },
+  {
+    "fragmentoRef": "rm0001-2026-art16",
+    "preguntas": [
+      {
+        "tipo": "OPCION_MULTIPLE",
+        "dificultad": "DIFICIL",
+        "nivelBloom": "APLICAR",
+        "enunciado": "Según la RM 0001/2026, ¿cuál de las siguientes inscripciones simultáneas está PROHIBIDA, aun sin choque de horarios?",
+        "opciones": [
+          { "texto": "La misma carrera técnica en dos centros de educación alternativa diferentes", "correcta": true, "porQue": "El Art. 16, par. I prohíbe inscribirse en la misma carrera en dos CEA diferentes." },
+          { "texto": "El área humanística y el área técnica tecnológica productiva en el mismo centro", "correcta": false, "porQue": "Está permitida si no hay choque de horarios." },
+          { "texto": "Dos carreras técnicas distintas en dos centros diferentes", "correcta": false, "porQue": "Está permitida si no hay choque de horarios: la prohibición es cursar la misma carrera." },
+          { "texto": "El área humanística en un centro y una carrera técnica en otro", "correcta": false, "porQue": "Está permitida: se admite combinar áreas en el mismo o en otro centro, sin choque de horarios." }
+        ],
+        "explicacion": "Se admite la inscripción simultánea en el área humanística y técnica, o en dos carreras técnicas distintas, en el mismo centro o en otro, siempre que no haya choque de horarios. Lo prohibido es la misma carrera en dos CEA.",
+        "citaTextual": "No se permitirá que estudiantes o participantes se inscriban en la misma carrera en dos centros de educación alternativa diferentes.",
+        "referencia": "RM 0001/2026, Art. 16, par. I, pág. 17",
+        "etiquetas": ["inscripciones simultáneas", "educación técnica"]
+      },
+      {
+        "tipo": "OPCION_MULTIPLE",
+        "dificultad": "DIFICIL",
+        "nivelBloom": "APLICAR",
+        "enunciado": "Se verifica que una participante del CEPEAD está inscrita, a la vez, en un CEA de El Alto, sin choque de horarios. Según la RM 0001/2026, ¿qué corresponde?",
+        "opciones": [
+          { "texto": "Anular la inscripción, porque el CEPEAD está dirigido a la población boliviana migrante en el exterior y no admite inscripción simultánea en el territorio nacional", "correcta": true, "porQue": "Es lo que dispone el Art. 16, par. II." },
+          { "texto": "Mantener ambas inscripciones, porque no existe choque de horarios", "correcta": false, "porQue": "La regla de \"sin choque de horarios\" del par. I no se aplica al CEPEAD, que tiene una prohibición expresa." },
+          { "texto": "Darle un plazo de dos meses para elegir uno de los dos centros", "correcta": false, "porQue": "El plazo de dos meses es para documentos del exterior en trámite (Art. 19); aquí la consecuencia es la anulación." },
+          { "texto": "Convalidar en el CEA las calificaciones obtenidas en el CEPEAD", "correcta": false, "porQue": "La norma no prevé convalidación: la inscripción se anula." }
+        ],
+        "explicacion": "El CEPEAD es el Centro Plurinacional de Educación Alternativa a Distancia, para bolivianos migrantes en el exterior. Su población no puede inscribirse simultáneamente en CEA del país; si ocurre, la inscripción se anula.",
+        "citaTextual": "no podrán inscribirse de manera simultánea en centros de educación alternativa dentro del territorio nacional. En caso de verificarse esta situación, la inscripción será anulada.",
+        "referencia": "RM 0001/2026, Art. 16, par. II, pág. 17",
+        "etiquetas": ["CEPEAD", "inscripciones simultáneas", "caso"]
+      }
+    ]
+  },
+  {
+    "fragmentoRef": "rm0001-2026-art17",
+    "preguntas": [
+      {
+        "tipo": "OPCION_MULTIPLE",
+        "dificultad": "DIFICIL",
+        "nivelBloom": "COMPRENDER",
+        "enunciado": "Según la tabla de equivalencias de la RM 0001/2026, 3ro y 4to de Secundaria de Educación Regular equivalen, en Educación Alternativa, a:",
+        "opciones": [
+          { "texto": "Aprendizajes Complementarios", "correcta": true, "porQue": "Es la equivalencia del cuadro del Art. 17, par. II." },
+          { "texto": "Aprendizajes Aplicados", "correcta": false, "porQue": "Aplicados equivale a 1ro y 2do de Secundaria." },
+          { "texto": "Aprendizajes Especializados", "correcta": false, "porQue": "Especializados equivale a 5to y 6to de Secundaria." },
+          { "texto": "Aprendizajes Avanzados", "correcta": false, "porQue": "Avanzados equivale a 4to, 5to y 6to de Primaria." }
+        ],
+        "explicacion": "Equivalencias: Elementales = 1ro a 3ro de Primaria; Avanzados = 4to a 6to de Primaria; Aplicados = 1ro y 2do de Secundaria; Complementarios = 3ro y 4to de Secundaria; Especializados = 5to y 6to de Secundaria.",
+        "citaTextual": "3ro de Secundaria · 4to de Secundaria Aprendizajes Complementarios",
+        "referencia": "RM 0001/2026, Art. 17, par. II, págs. 17-18",
+        "etiquetas": ["equivalencias", "transitabilidad"]
+      },
+      {
+        "tipo": "OPCION_MULTIPLE",
+        "dificultad": "DIFICIL",
+        "nivelBloom": "APLICAR",
+        "enunciado": "Un estudiante del Subsistema de Educación Regular solicita continuar sus estudios en un CEA. Según la RM 0001/2026, ¿qué ocurre con su registro?",
+        "opciones": [
+          { "texto": "Continúa con el mismo número de RUDE, y debe darse de baja en el SIE académico de Educación Regular", "correcta": true, "porQue": "Es lo que establece el Art. 17, par. I." },
+          { "texto": "Se le asigna un nuevo código, y el RUDE de Regular queda activo hasta que concluya el semestre", "correcta": false, "porQue": "Conserva el mismo número de RUDE, y el registro de Regular se da de baja." },
+          { "texto": "Debe tramitar en la Dirección Distrital un nuevo RUDE exclusivo de Educación Alternativa", "correcta": false, "porQue": "La norma no exige un nuevo registro: continúa con el mismo RUDE." },
+          { "texto": "Mantiene el doble registro para que pueda volver a Educación Regular sin trámites", "correcta": false, "porQue": "La norma ordena dar de baja el registro de Regular, lo que evita el doble registro." }
+        ],
+        "explicacion": "El tránsito de Regular a EPJA conserva el número de RUDE, exige la baja en el SIE de Regular y ubica al estudiante según la tabla de equivalencias.",
+        "citaTextual": "con el mismo número de RUDE, debiendo darse la baja en el Sistema de Información Educativa (SIE) académico de Educación Regular",
+        "referencia": "RM 0001/2026, Art. 17, par. I, pág. 17",
+        "etiquetas": ["transitabilidad", "RUDE", "caso"]
+      }
+    ]
+  },
+  {
+    "fragmentoRef": "rm0001-2026-art19",
+    "preguntas": [
+      {
+        "tipo": "OPCION_MULTIPLE",
+        "dificultad": "DIFICIL",
+        "nivelBloom": "APLICAR",
+        "enunciado": "Una participante retorna del exterior, pero su certificado de estudios visado aún está en trámite. Según la RM 0001/2026, ¿qué debe hacer el director del CEA?",
+        "opciones": [
+          { "texto": "Inscribirla, otorgándole un plazo máximo de dos meses desde el inicio de las inscripciones del calendario para presentar los documentos", "correcta": true, "porQue": "El Art. 19, par. III prevé ese plazo cuando los documentos están en trámite." },
+          { "texto": "Postergar su inscripción hasta que presente el certificado visado o apostillado", "correcta": false, "porQue": "La norma no posterga la inscripción: otorga un plazo para presentar los documentos." },
+          { "texto": "Inscribirla con un plazo de 30 días desde la fecha de su inscripción", "correcta": false, "porQue": "El plazo es de dos meses y se cuenta desde el inicio de las inscripciones del calendario." },
+          { "texto": "Inscribirla previo pago de un arancel por la verificación documental", "correcta": false, "porQue": "La norma exige que la inscripción sea inmediata y gratuita." }
+        ],
+        "explicacion": "Los documentos del exterior deben estar visados por el Consulado y la Cancillería, o apostillados. Si están en trámite, se otorga un plazo máximo de dos meses desde el inicio de las inscripciones. Cumplidos los requisitos, la inscripción es inmediata y gratuita.",
+        "citaTextual": "se deberá otorgar un plazo máximo de dos meses desde el inicio de las inscripciones del calendario educativo para su presentación",
+        "referencia": "RM 0001/2026, Art. 19, par. III, pág. 18",
+        "etiquetas": ["inscripciones", "estudios en el exterior", "plazos", "caso"]
+      }
+    ]
+  },
+  {
+    "fragmentoRef": "rm0001-2026-art20",
+    "preguntas": [
+      {
+        "tipo": "OPCION_MULTIPLE",
+        "dificultad": "DIFICIL",
+        "nivelBloom": "RECORDAR",
+        "enunciado": "Según la RM 0001/2026, ¿cuál es el único registro válido para documentar la situación académica de los participantes en el ámbito de Educación Alternativa?",
+        "opciones": [
+          { "texto": "El Cuaderno Andragógico", "correcta": true, "porQue": "El Art. 20, par. I lo define como instrumento exclusivo y obligatorio, y como único registro válido." },
+          { "texto": "El formulario RUDEAL", "correcta": false, "porQue": "El RUDEAL es el formulario de registro para la inscripción, no el registro de la situación académica." },
+          { "texto": "El Sistema de Información de Carga Horaria (SICH)", "correcta": false, "porQue": "El SICH registra la carga horaria docente (Art. 22)." },
+          { "texto": "El Cuaderno Pedagógico", "correcta": false, "porQue": "La RM establece, para Educación Alternativa, el Cuaderno Andragógico." }
+        ],
+        "explicacion": "En Educación Alternativa, el Cuaderno Andragógico es exclusivo y obligatorio para el maestro. En él se registran el avance de contenidos, los criterios y la programación de evaluaciones y los resultados de los participantes.",
+        "citaTextual": "Este documento constituye el único registro válido para documentar la situación académica de los participantes.",
+        "referencia": "RM 0001/2026, Art. 20, par. I, pág. 18",
+        "etiquetas": ["cuaderno andragógico", "registro académico"]
+      }
+    ]
+  },
+  {
+    "fragmentoRef": "rm0001-2026-art21",
+    "preguntas": [
+      {
+        "tipo": "OPCION_MULTIPLE",
+        "dificultad": "DIFICIL",
+        "nivelBloom": "RECORDAR",
+        "enunciado": "Según la RM 0001/2026, ¿cuál es la relación maestro-estudiante mínima para la Educación Técnica de Personas Jóvenes y Adultas en el área rural?",
+        "opciones": [
+          { "texto": "Mínimo 15", "correcta": true, "porQue": "El cuadro del Art. 21 fija un mínimo de 15, igual en el área urbana y en la rural." },
+          { "texto": "Mínimo 10", "correcta": false, "porQue": "10 es el mínimo de la Educación Primaria de Personas Jóvenes y Adultas." },
+          { "texto": "Mínimo 20", "correcta": false, "porQue": "20 es el mínimo de la Educación Secundaria de Personas Jóvenes y Adultas." },
+          { "texto": "Mínimo 10 en el área rural y 15 en la urbana", "correcta": false, "porQue": "La norma no diferencia por área: el mínimo es el mismo en ambas." }
+        ],
+        "explicacion": "Mínimos de la relación maestro-estudiante: Primaria EPJA 10, Secundaria EPJA 20, Técnica EPJA 15, iguales en áreas urbana y rural. El reordenamiento se analiza hasta octubre.",
+        "citaTextual": "Educación Técnica de Personas Jóvenes y Adultas Mínimo 15 Mínimo 15",
+        "referencia": "RM 0001/2026, Art. 21, par. I, pág. 19",
+        "etiquetas": ["relación maestro-estudiante", "reordenamiento"]
+      },
+      {
+        "tipo": "OPCION_MULTIPLE",
+        "dificultad": "DIFICIL",
+        "nivelBloom": "APLICAR",
+        "enunciado": "Un CEA de una zona ribereña de difícil acceso no alcanza el mínimo de participantes en Educación Primaria de Personas Jóvenes y Adultas. Según la RM 0001/2026, ¿quiénes deben realizar el análisis y la evaluación del estado situacional para el reordenamiento?",
+        "opciones": [
+          { "texto": "El director distrital, en coordinación con el director del Centro de Educación Alternativa", "correcta": true, "porQue": "El Art. 21, par. III lo dispone para zonas fronterizas, riberas de río, áreas dispersas y de difícil acceso." },
+          { "texto": "La Subdirección de Educación Alternativa y Especial de la Dirección Departamental", "correcta": false, "porQue": "La norma no asigna ese análisis a la Subdirección departamental." },
+          { "texto": "El director del CEA, de manera autónoma, con aprobación posterior del Consejo Educativo", "correcta": false, "porQue": "El análisis lo hacen de forma coordinada el distrital y el director del CEA." },
+          { "texto": "La UGPSEP-SI del Ministerio, a partir del reporte estadístico", "correcta": false, "porQue": "La UGPSEP-SI administra los sistemas, pero no realiza el análisis situacional." }
+        ],
+        "explicacion": "En contextos fronterizos, ribereños, dispersos o de difícil acceso, el director distrital y el director del CEA analizan juntos el reporte estadístico, considerando las necesidades, características y contexto de la población.",
+        "citaTextual": "el director distrital, en coordinación con director centro de educación alternativa, deberán realizar un análisis y evaluación del estado situacional",
+        "referencia": "RM 0001/2026, Art. 21, par. III, pág. 19",
+        "etiquetas": ["reordenamiento", "contextos dispersos", "caso"]
+      }
+    ]
+  },
+  {
+    "fragmentoRef": "rm0001-2026-art22",
+    "preguntas": [
+      {
+        "tipo": "OPCION_MULTIPLE",
+        "dificultad": "DIFICIL",
+        "nivelBloom": "COMPRENDER",
+        "enunciado": "Según la RM 0001/2026, ¿quién registra y actualiza la carga horaria en el SICH y cuál es el flujo de la documentación física?",
+        "opciones": [
+          { "texto": "Los directores de los CEA, que la entregan a las direcciones distritales, y estas a las subdirecciones de educación alternativa y especial", "correcta": true, "porQue": "Es el responsable y el flujo que fija el Art. 22." },
+          { "texto": "Las direcciones distritales, que la remiten directamente al Ministerio de Educación", "correcta": false, "porQue": "El registro en el SICH es responsabilidad de los directores de CEA, y el flujo pasa por las subdirecciones." },
+          { "texto": "Los directores de los CEA, que la remiten directamente a la UGPSEP-SI", "correcta": false, "porQue": "El responsable es correcto, pero el flujo va a las distritales y de ahí a las subdirecciones." },
+          { "texto": "Las subdirecciones de educación alternativa y especial, a partir del reporte de cada maestro", "correcta": false, "porQue": "Las subdirecciones reciben la documentación; no son responsables del registro." }
+        ],
+        "explicacion": "El director del CEA registra y actualiza el SICH de forma continua, según la planilla mensual, y entrega la documentación física a la Dirección Distrital, que la remite a la Subdirección de Educación Alternativa y Especial.",
+        "citaTextual": "Los directores de centros de educación alternativa son los responsables de registrar y actualizar la información de carga horaria educativa en el SICH",
+        "referencia": "RM 0001/2026, Art. 22, pág. 19",
+        "etiquetas": ["SICH", "carga horaria", "responsabilidades del director"]
+      }
+    ]
+  }
+]

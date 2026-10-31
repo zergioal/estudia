@@ -1,0 +1,191 @@
+[
+  {
+    "fragmentoRef": "cpe-art89",
+    "preguntas": [
+      {
+        "tipo": "OPCION_MULTIPLE",
+        "dificultad": "DIFICIL",
+        "nivelBloom": "RECORDAR",
+        "enunciado": "Según la Constitución Política del Estado, ¿a quién corresponden el seguimiento, la medición, la evaluación y la acreditación de la calidad educativa en todo el sistema educativo?",
+        "opciones": [
+          { "texto": "A una institución pública, técnica especializada, independiente del Ministerio del ramo", "correcta": true, "porQue": "Así lo establece el Art. 89 de la CPE." },
+          { "texto": "A una institución técnica especializada, dependiente del Ministerio de Educación", "correcta": false, "porQue": "La CPE exige que sea independiente del Ministerio del ramo." },
+          { "texto": "Al Consejo Educativo Plurinacional, con participación social", "correcta": false, "porQue": "Ese Consejo propone políticas y evalúa las conclusiones del Congreso (Ley 070); no acredita la calidad." },
+          { "texto": "A las Direcciones Departamentales de Educación en su jurisdicción", "correcta": false, "porQue": "Las DDE implementan políticas; la CPE asigna la evaluación de la calidad a una institución independiente." }
+        ],
+        "explicacion": "La CPE separa la evaluación de la calidad de la gestión: la encarga a una institución pública, técnica, especializada e independiente del Ministerio, cuya composición y funcionamiento los determina la ley.",
+        "citaTextual": "estará a cargo de una institución pública, técnica especializada, independiente del Ministerio del ramo",
+        "referencia": "CPE, Art. 89, pág. 21",
+        "etiquetas": ["calidad educativa", "evaluación"]
+      }
+    ]
+  },
+  {
+    "fragmentoRef": "cpe-art86",
+    "preguntas": [
+      {
+        "tipo": "OPCION_MULTIPLE",
+        "dificultad": "DIFICIL",
+        "nivelBloom": "APLICAR",
+        "enunciado": "Una unidad educativa de convenio, administrada por una entidad religiosa, condiciona la inscripción de un estudiante a que su familia profese esa religión. Según la CPE, ¿qué corresponde?",
+        "opciones": [
+          { "texto": "No procede: en los centros educativos no se discrimina en la aceptación y permanencia de los estudiantes por su opción religiosa", "correcta": true, "porQue": "El Art. 86 lo prohíbe expresamente para todos los centros educativos." },
+          { "texto": "Procede, porque la CPE respeta el derecho de administración de las entidades religiosas sobre las unidades de convenio", "correcta": false, "porQue": "El derecho de administración (Art. 87) no habilita a discriminar; las unidades de convenio deben además tener acceso libre." },
+          { "texto": "Procede solo si la familia lo acepta por escrito, en ejercicio de su derecho a elegir la educación de sus hijos", "correcta": false, "porQue": "El derecho a elegir la educación (Art. 88) no legitima condicionar la aceptación por motivos religiosos." },
+          { "texto": "Procede únicamente en el nivel de secundaria, donde la enseñanza de religión es parte del currículo", "correcta": false, "porQue": "La prohibición de discriminar no distingue niveles." }
+        ],
+        "explicacion": "La CPE garantiza la libertad de conciencia, de fe y de enseñanza de religión, sin imposición dogmática, y prohíbe discriminar en la aceptación y permanencia por opción religiosa. Las unidades de convenio, además, deben tener acceso libre.",
+        "citaTextual": "En estos centros no se discriminará en la aceptación y permanencia de las alumnas y los alumnos por su opción religiosa.",
+        "referencia": "CPE, Art. 86, pág. 21",
+        "etiquetas": ["libertad religiosa", "no discriminación", "caso"]
+      }
+    ]
+  },
+  {
+    "fragmentoRef": "cpe-art87",
+    "preguntas": [
+      {
+        "tipo": "OPCION_MULTIPLE",
+        "dificultad": "DIFICIL",
+        "nivelBloom": "COMPRENDER",
+        "enunciado": "Según la CPE, las unidades educativas de convenio funcionan:",
+        "opciones": [
+          { "texto": "Con fines de servicio social, acceso libre y sin fines de lucro, bajo la tuición de las autoridades públicas y regidas por las mismas normas, políticas, planes y programas del sistema educativo", "correcta": true, "porQue": "Reúne todas las condiciones del Art. 87." },
+          { "texto": "Con fines de servicio social, bajo la tuición exclusiva de la entidad religiosa que las administra", "correcta": false, "porQue": "Funcionan bajo la tuición de las autoridades públicas; la entidad religiosa conserva el derecho de administración." },
+          { "texto": "Sin fines de lucro, pero con planes y programas propios distintos de los del sistema educativo", "correcta": false, "porQue": "Se rigen por las mismas normas, políticas, planes y programas del sistema educativo." },
+          { "texto": "Con acceso condicionado a la capacidad económica de las familias, para su autosostenimiento", "correcta": false, "porQue": "La CPE exige acceso libre y sin fines de lucro." }
+        ],
+        "explicacion": "La CPE equilibra el derecho de administración de las entidades religiosas con la tuición de las autoridades públicas, el acceso libre, la ausencia de lucro y la sujeción a las normas y programas del sistema.",
+        "citaTextual": "unidades educativas de convenio con fines de servicio social, con acceso libre y sin fines de lucro, que deberán funcionar bajo la tuición de las autoridades públicas",
+        "referencia": "CPE, Art. 87, pág. 21",
+        "etiquetas": ["unidades de convenio"]
+      }
+    ]
+  },
+  {
+    "fragmentoRef": "cpe-art82",
+    "preguntas": [
+      {
+        "tipo": "OPCION_MULTIPLE",
+        "dificultad": "DIFICIL",
+        "nivelBloom": "ANALIZAR",
+        "enunciado": "Según el Art. 82 de la CPE, ¿qué apoyo prevé el Estado ESPECÍFICAMENTE para los estudiantes con menos posibilidades económicas de las áreas dispersas?",
+        "opciones": [
+          { "texto": "Residencias estudiantiles, de acuerdo con la ley", "correcta": true, "porQue": "La CPE asocia las residencias estudiantiles específicamente a las áreas dispersas." },
+          { "texto": "Becas para estudiantes de excelente aprovechamiento", "correcta": false, "porQue": "Las becas (par. III) estimulan el excelente aprovechamiento, sin relación con las áreas dispersas." },
+          { "texto": "Programas de educación a distancia y populares no escolarizados", "correcta": false, "porQue": "Están en el Art. 90, con otro objetivo (elevar el nivel cultural y la conciencia plurinacional)." },
+          { "texto": "Atención educativa con métodos especiales de formación", "correcta": false, "porQue": "Esa atención es para niñas, niños y adolescentes con talento natural destacado (par. III)." }
+        ],
+        "explicacion": "El Estado apoya con prioridad a los estudiantes con menos posibilidades mediante recursos económicos, alimentación, vestimenta, transporte y material escolar; en áreas dispersas, además, con residencias estudiantiles.",
+        "citaTextual": "y en áreas dispersas, con residencias estudiantiles, de acuerdo con la ley",
+        "referencia": "CPE, Art. 82, par. II, pág. 20",
+        "etiquetas": ["acceso y permanencia", "equidad"]
+      }
+    ]
+  },
+  {
+    "fragmentoRef": "cpe-art78",
+    "preguntas": [
+      {
+        "tipo": "OPCION_MULTIPLE",
+        "dificultad": "DIFICIL",
+        "nivelBloom": "ANALIZAR",
+        "enunciado": "¿Cuál de las siguientes características NO figura entre las que el Art. 78, parágrafo I, de la CPE atribuye a la educación?",
+        "opciones": [
+          { "texto": "Laica", "correcta": true, "porQue": "El par. I enumera: unitaria, pública, universal, democrática, participativa, comunitaria, descolonizadora y de calidad. \"Laica\" no figura en esa lista." },
+          { "texto": "Descolonizadora", "correcta": false, "porQue": "Figura expresamente en el par. I." },
+          { "texto": "Comunitaria", "correcta": false, "porQue": "Figura expresamente en el par. I." },
+          { "texto": "Participativa", "correcta": false, "porQue": "Figura expresamente en el par. I." }
+        ],
+        "explicacion": "Hay que distinguir los parágrafos del Art. 78. El par. I enumera unitaria, pública, universal, democrática, participativa, comunitaria, descolonizadora y de calidad; el par. II, intracultural, intercultural y plurilingüe; el par. III, abierta, humanista, científica, técnica y tecnológica, productiva, territorial, teórica y práctica, liberadora y revolucionaria, crítica y solidaria.",
+        "citaTextual": "La educación es unitaria, pública, universal, democrática, participativa, comunitaria, descolonizadora y de calidad.",
+        "referencia": "CPE, Art. 78, par. I, pág. 19",
+        "etiquetas": ["características de la educación"]
+      }
+    ]
+  },
+  {
+    "fragmentoRef": "cpe-art77",
+    "preguntas": [
+      {
+        "tipo": "OPCION_MULTIPLE",
+        "dificultad": "DIFICIL",
+        "nivelBloom": "RECORDAR",
+        "enunciado": "Según la CPE, ¿quiénes tienen tuición plena sobre el sistema educativo?",
+        "opciones": [
+          { "texto": "El Estado y la sociedad", "correcta": true, "porQue": "Así lo establece el Art. 77, par. II." },
+          { "texto": "El Estado, a través del Ministerio de Educación exclusivamente", "correcta": false, "porQue": "La tuición plena es compartida entre el Estado y la sociedad." },
+          { "texto": "El Ministerio de Educación y las entidades territoriales autónomas", "correcta": false, "porQue": "La CPE no reparte la tuición entre niveles de gobierno: la atribuye al Estado y a la sociedad." },
+          { "texto": "El Estado, la sociedad y las madres y padres de familia por separado", "correcta": false, "porQue": "La participación de madres y padres está en el Art. 83; la tuición plena es del Estado y la sociedad." }
+        ],
+        "explicacion": "La educación es función suprema y primera responsabilidad financiera del Estado. La tuición plena sobre el sistema (regular, alternativa y especial, y superior de formación profesional) es del Estado y la sociedad.",
+        "citaTextual": "El Estado y la sociedad tienen tuición plena sobre el sistema educativo",
+        "referencia": "CPE, Art. 77, par. II, pág. 19",
+        "etiquetas": ["tuición", "sistema educativo"]
+      }
+    ]
+  },
+  {
+    "fragmentoRef": "cpe-art85",
+    "preguntas": [
+      {
+        "tipo": "OPCION_MULTIPLE",
+        "dificultad": "DIFICIL",
+        "nivelBloom": "COMPRENDER",
+        "enunciado": "Según la CPE, ¿bajo qué condiciones se garantiza la educación permanente de niñas, niños y adolescentes con discapacidad o con talentos extraordinarios en el aprendizaje?",
+        "opciones": [
+          { "texto": "Bajo la misma estructura, principios y valores del sistema educativo, con una organización y desarrollo curricular especial", "correcta": true, "porQue": "Es lo que dispone el Art. 85." },
+          { "texto": "En un sistema paralelo, con estructura y principios propios", "correcta": false, "porQue": "La CPE exige la misma estructura, principios y valores del sistema." },
+          { "texto": "Con el mismo currículo que el resto, sin adaptaciones", "correcta": false, "porQue": "La CPE prevé una organización y desarrollo curricular especial." },
+          { "texto": "Exclusivamente en centros privados especializados, con subvención estatal", "correcta": false, "porQue": "La CPE obliga al Estado a promoverla y garantizarla, sin limitarla a centros privados." }
+        ],
+        "explicacion": "La CPE combina inclusión (misma estructura, principios y valores) con pertinencia (organización y desarrollo curricular especial).",
+        "citaTextual": "bajo la misma estructura, principios y valores del sistema educativo, y establecerá una organización y desarrollo curricular especial",
+        "referencia": "CPE, Art. 85, pág. 21",
+        "etiquetas": ["educación especial", "inclusión"]
+      }
+    ]
+  },
+  {
+    "fragmentoRef": "cpe-art90",
+    "preguntas": [
+      {
+        "tipo": "OPCION_MULTIPLE",
+        "dificultad": "DIFICIL",
+        "nivelBloom": "COMPRENDER",
+        "enunciado": "Según el Art. 90 de la CPE, ¿con qué objetivo promoverá el Estado los programas educativos a distancia y populares no escolarizados?",
+        "opciones": [
+          { "texto": "Elevar el nivel cultural y desarrollar la conciencia plurinacional del pueblo", "correcta": true, "porQue": "Es el objetivo que fija el Art. 90, par. III." },
+          { "texto": "Garantizar la conclusión del bachillerato de las personas mayores de quince años", "correcta": false, "porQue": "Se asemeja a los fines de la EPJA (Ley 070), pero no es el objetivo constitucional de estos programas." },
+          { "texto": "Formar recursos humanos técnicos y tecnológicos para el sector productivo", "correcta": false, "porQue": "La formación técnica y tecnológica se promueve a través de institutos técnicos (par. II)." },
+          { "texto": "Erradicar el analfabetismo con programas acordes a la realidad lingüística", "correcta": false, "porQue": "La erradicación del analfabetismo es un deber del Estado y la sociedad (Art. 84), distinto de este objetivo." }
+        ],
+        "explicacion": "El Art. 90 reconoce los institutos de formación humanística, técnica y tecnológica (par. I), promueve la formación técnica a través de institutos técnicos (par. II) y crea programas a distancia y populares no escolarizados para elevar el nivel cultural y la conciencia plurinacional (par. III).",
+        "citaTextual": "con el objetivo de elevar el nivel cultural y desarrollar la conciencia plurinacional del pueblo",
+        "referencia": "CPE, Art. 90, par. III, pág. 21",
+        "etiquetas": ["educación a distancia", "educación no escolarizada"]
+      }
+    ]
+  },
+  {
+    "fragmentoRef": "cpe-art81",
+    "preguntas": [
+      {
+        "tipo": "OPCION_MULTIPLE",
+        "dificultad": "DIFICIL",
+        "nivelBloom": "RECORDAR",
+        "enunciado": "Según la CPE, al culminar los estudios del nivel secundario, el diploma de bachiller se otorga:",
+        "opciones": [
+          { "texto": "Con carácter gratuito e inmediato", "correcta": true, "porQue": "Así lo establece el Art. 81, par. III." },
+          { "texto": "Con carácter gratuito, previo trámite ante la Dirección Departamental", "correcta": false, "porQue": "La CPE exige que sea inmediato; no condiciona su entrega a un trámite." },
+          { "texto": "Con carácter inmediato, previo pago de los valores correspondientes", "correcta": false, "porQue": "La CPE exige que sea gratuito." },
+          { "texto": "Con carácter gratuito solo en la educación fiscal", "correcta": false, "porQue": "El par. III no distingue tipo de institución; la gratuidad \"hasta el superior\" del par. II se refiere a la educación fiscal en general." }
+        ],
+        "explicacion": "El Art. 81 establece la obligatoriedad hasta el bachillerato, la gratuidad de la educación fiscal hasta el nivel superior y la entrega gratuita e inmediata del diploma de bachiller.",
+        "citaTextual": "A la culminación de los estudios del nivel secundario se otorgará el diploma de bachiller, con carácter gratuito e inmediato.",
+        "referencia": "CPE, Art. 81, par. III, pág. 20",
+        "etiquetas": ["diploma de bachiller", "gratuidad"]
+      }
+    ]
+  }
+]

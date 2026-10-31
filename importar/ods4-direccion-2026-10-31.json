@@ -1,0 +1,135 @@
+[
+  {
+    "fragmentoRef": "ods4-b005",
+    "preguntas": [
+      {
+        "tipo": "OPCION_MULTIPLE",
+        "dificultad": "DIFICIL",
+        "nivelBloom": "RECORDAR",
+        "enunciado": "Según la Declaración de Incheon y el Marco de Acción ODS 4 – Educación 2030, ¿cuál es la formulación del Objetivo de Desarrollo Sostenible 4?",
+        "opciones": [
+          { "texto": "Garantizar una educación inclusiva y equitativa de calidad y promover oportunidades de aprendizaje permanente para todos", "correcta": true, "porQue": "Es la formulación del ODS 4 que recoge el documento." },
+          { "texto": "Garantizar una educación universal, gratuita y de calidad, y promover el acceso a la educación superior para todos", "correcta": false, "porQue": "Mezcla elementos de las metas 4.1 y 4.3; no es el enunciado del objetivo." },
+          { "texto": "Garantizar una educación inclusiva y de calidad, y promover oportunidades de aprendizaje durante la infancia para todos", "correcta": false, "porQue": "El objetivo habla de aprendizaje permanente, no limitado a la infancia." },
+          { "texto": "Garantizar la alfabetización universal y promover la educación técnica y profesional para todos", "correcta": false, "porQue": "Alfabetización y formación técnica son metas específicas (4.6, 4.3, 4.4), no el objetivo global." }
+        ],
+        "explicacion": "El ODS 4 tiene dos componentes: una educación inclusiva y equitativa de calidad, y oportunidades de aprendizaje permanente (a lo largo de la vida) para todos.",
+        "citaTextual": "Garantizar una educación inclusiva y equitativa de calidad y promover oportunidades de aprendizaje permanente para todos",
+        "referencia": "ODS 4 – Educación 2030 (UNESCO), Declaración de Incheon y Marco de Acción, págs. 14-20",
+        "etiquetas": ["ODS 4", "Agenda 2030"]
+      },
+      {
+        "tipo": "OPCION_MULTIPLE",
+        "dificultad": "DIFICIL",
+        "nivelBloom": "APLICAR",
+        "enunciado": "Un CEA implementa un programa de alfabetización y post-alfabetización para que jóvenes y adultos adquieran competencias de lectura, escritura y aritmética. ¿Con qué meta del ODS 4 se alinea DIRECTAMENTE?",
+        "opciones": [
+          { "texto": "Meta 4.6", "correcta": true, "porQue": "La meta 4.6 busca que todos los jóvenes y una proporción sustancial de los adultos tengan competencias de lectura, escritura y aritmética." },
+          { "texto": "Meta 4.4", "correcta": false, "porQue": "La 4.4 se refiere a competencias técnicas y profesionales para el empleo, el trabajo decente y el emprendimiento." },
+          { "texto": "Meta 4.3", "correcta": false, "porQue": "La 4.3 se refiere al acceso igualitario a la formación técnica, profesional y superior." },
+          { "texto": "Meta 4.1", "correcta": false, "porQue": "La 4.1 se refiere a que niñas y niños terminen la primaria y la secundaria." }
+        ],
+        "explicacion": "La alfabetización (lectura, escritura y aritmética) de jóvenes y adultos corresponde a la meta 4.6; las competencias laborales, a la 4.4; el acceso a formación técnica y superior, a la 4.3.",
+        "citaTextual": "4.6 De aquí a 2030, garantizar que todos los jóvenes y al menos una proporción sustancial de los adultos, tanto hombres como mujeres, tengan competencias de lectura, escritura y aritmética",
+        "referencia": "ODS 4 – Educación 2030 (UNESCO), metas del ODS 4, págs. 14-20",
+        "etiquetas": ["ODS 4", "alfabetización", "educación de adultos", "caso"]
+      },
+      {
+        "tipo": "OPCION_MULTIPLE",
+        "dificultad": "DIFICIL",
+        "nivelBloom": "RECORDAR",
+        "enunciado": "En la meta 4.6 del ODS 4, ¿qué alcance poblacional se fija para las competencias de lectura, escritura y aritmética al 2030?",
+        "opciones": [
+          { "texto": "Todos los jóvenes y al menos una proporción sustancial de los adultos, tanto hombres como mujeres", "correcta": true, "porQue": "Es la formulación literal de la meta 4.6." },
+          { "texto": "Todos los jóvenes y todos los adultos, sin excepción", "correcta": false, "porQue": "Para los adultos la meta fija \"al menos una proporción sustancial\", no la totalidad." },
+          { "texto": "Al menos la mitad de los jóvenes y de los adultos de cada país", "correcta": false, "porQue": "La meta no usa un porcentaje fijo y exige a todos los jóvenes." },
+          { "texto": "Todas las personas mayores de quince años que no concluyeron la primaria", "correcta": false, "porQue": "La meta no se formula por edad ni por nivel concluido." }
+        ],
+        "explicacion": "La meta 4.6 diferencia: todos los jóvenes, y al menos una proporción sustancial de los adultos, hombres y mujeres.",
+        "citaTextual": "garantizar que todos los jóvenes y al menos una proporción sustancial de los adultos, tanto hombres como mujeres, tengan competencias de lectura, escritura y aritmética",
+        "referencia": "ODS 4 – Educación 2030 (UNESCO), meta 4.6, págs. 14-20",
+        "etiquetas": ["ODS 4", "alfabetización"]
+      },
+      {
+        "tipo": "OPCION_MULTIPLE",
+        "dificultad": "DIFICIL",
+        "nivelBloom": "APLICAR",
+        "enunciado": "Un CEA rediseña sus carreras técnicas para que los participantes desarrollen competencias que les permitan acceder al empleo, al trabajo decente y al emprendimiento. ¿Qué meta del ODS 4 orienta MÁS directamente esa decisión?",
+        "opciones": [
+          { "texto": "Meta 4.4", "correcta": true, "porQue": "La 4.4 busca aumentar el número de jóvenes y adultos con competencias técnicas y profesionales para el empleo, el trabajo decente y el emprendimiento." },
+          { "texto": "Meta 4.3", "correcta": false, "porQue": "La 4.3 trata del acceso igualitario a la formación técnica, profesional y superior; la 4.4 trata de las competencias para el empleo y el emprendimiento." },
+          { "texto": "Meta 4.c", "correcta": false, "porQue": "La 4.c se refiere a la oferta de maestros calificados." },
+          { "texto": "Meta 4.7", "correcta": false, "porQue": "La 4.7 se refiere a los conocimientos para el desarrollo sostenible y la ciudadanía mundial." }
+        ],
+        "explicacion": "La 4.3 asegura el acceso a la formación técnica, profesional y superior; la 4.4 se enfoca en el resultado: competencias técnicas y profesionales para el empleo, el trabajo decente y el emprendimiento.",
+        "citaTextual": "4.4 De aquí a 2030, aumentar sustancialmente el número de jóvenes y adultos que tienen las competencias necesarias, en particular técnicas y profesionales, para acceder al empleo, el trabajo decente y el emprendimiento",
+        "referencia": "ODS 4 – Educación 2030 (UNESCO), meta 4.4, págs. 14-20",
+        "etiquetas": ["ODS 4", "educación técnica", "caso"]
+      },
+      {
+        "tipo": "OPCION_MULTIPLE",
+        "dificultad": "DIFICIL",
+        "nivelBloom": "ANALIZAR",
+        "enunciado": "Entre las metas del ODS 4, ¿cuál fija como plazo el año 2020 y no el 2030?",
+        "opciones": [
+          { "texto": "La 4.b, sobre el aumento de becas para que estudiantes de países en desarrollo cursen estudios superiores", "correcta": true, "porQue": "La meta 4.b dice \"De aquí a 2020\"." },
+          { "texto": "La 4.c, sobre el aumento de la oferta de maestros calificados", "correcta": false, "porQue": "La 4.c tiene plazo 2030." },
+          { "texto": "La 4.a, sobre instalaciones escolares seguras e inclusivas", "correcta": false, "porQue": "La 4.a no indica año en su formulación." },
+          { "texto": "La 4.7, sobre la educación para el desarrollo sostenible", "correcta": false, "porQue": "La 4.7 tiene plazo 2030." }
+        ],
+        "explicacion": "Casi todas las metas apuntan a 2030; la 4.b (becas) fija 2020, y la 4.a se formula sin fecha.",
+        "citaTextual": "4.b De aquí a 2020, aumentar sustancialmente a nivel mundial el número de becas disponibles para los países en desarrollo",
+        "referencia": "ODS 4 – Educación 2030 (UNESCO), meta 4.b, págs. 14-20",
+        "etiquetas": ["ODS 4", "metas"]
+      },
+      {
+        "tipo": "OPCION_MULTIPLE",
+        "dificultad": "DIFICIL",
+        "nivelBloom": "APLICAR",
+        "enunciado": "Una directora gestiona la adecuación de los ambientes de su centro para personas con discapacidad, con baños diferenciados por género y espacios libres de violencia. ¿Qué meta del ODS 4 sustenta esa gestión?",
+        "opciones": [
+          { "texto": "Meta 4.a", "correcta": true, "porQue": "La 4.a busca instalaciones que respondan a las necesidades de niños y personas con discapacidad, que consideren el género y que ofrezcan entornos seguros, no violentos, inclusivos y eficaces." },
+          { "texto": "Meta 4.5", "correcta": false, "porQue": "La 4.5 trata de las disparidades de género y del acceso de las personas vulnerables, no de la infraestructura." },
+          { "texto": "Meta 4.2", "correcta": false, "porQue": "La 4.2 se refiere a la atención y el desarrollo en la primera infancia." },
+          { "texto": "Meta 4.c", "correcta": false, "porQue": "La 4.c se refiere a la oferta de maestros calificados." }
+        ],
+        "explicacion": "La 4.a es un medio de aplicación centrado en la infraestructura: instalaciones adecuadas a la discapacidad y al género, con entornos seguros, no violentos, inclusivos y eficaces.",
+        "citaTextual": "4.a Construir y adecuar instalaciones escolares que respondan a las necesidades de los niños y las personas discapacitadas y tengan en cuenta las cuestiones de género, y que ofrezcan entornos de aprendizaje seguros, no violentos, inclusivos y eficaces para todos",
+        "referencia": "ODS 4 – Educación 2030 (UNESCO), meta 4.a, págs. 14-20",
+        "etiquetas": ["ODS 4", "infraestructura", "inclusión", "caso"]
+      },
+      {
+        "tipo": "OPCION_MULTIPLE",
+        "dificultad": "DIFICIL",
+        "nivelBloom": "COMPRENDER",
+        "enunciado": "Según el documento ODS 4 – Educación 2030, ¿qué metas fijadas en el año 2000 no se alcanzaron en el plazo de 2015?",
+        "opciones": [
+          { "texto": "Los seis objetivos de la Educación para Todos (EPT) y los Objetivos de Desarrollo del Milenio (ODM)", "correcta": true, "porQue": "El texto lo afirma al justificar la nueva agenda." },
+          { "texto": "Los ocho objetivos de la Educación para Todos, fijados en Jomtien", "correcta": false, "porQue": "El texto habla de seis objetivos EPT fijados en el año 2000." },
+          { "texto": "Los Objetivos de Desarrollo Sostenible, fijados en el año 2000", "correcta": false, "porQue": "Los ODS se formularon en 2015 (Agenda 2030); los objetivos del 2000 eran la EPT y los ODM." },
+          { "texto": "Solo los Objetivos de Desarrollo del Milenio, porque la EPT se cumplió en 2015", "correcta": false, "porQue": "El texto dice que ni la EPT ni los ODM se alcanzaron en 2015." }
+        ],
+        "explicacion": "La Agenda Educación 2030 busca concluir la agenda inconclusa de la EPT y los ODM con una agenda universal más ambiciosa para 2015-2030.",
+        "citaTextual": "cuando se fijaron los seis objetivos de la Educación para Todos (EPT) y los Objetivos de Desarrollo del Milenio (ODM). No obstante, esos objetivos no se alcanzaron en el plazo fijado de 2015",
+        "referencia": "ODS 4 – Educación 2030 (UNESCO), Introducción, págs. 14-20",
+        "etiquetas": ["ODS 4", "EPT", "ODM"]
+      },
+      {
+        "tipo": "OPCION_MULTIPLE",
+        "dificultad": "DIFICIL",
+        "nivelBloom": "ANALIZAR",
+        "enunciado": "¿Qué meta del ODS 4 incluye expresamente la promoción de una cultura de paz y no violencia, la ciudadanía mundial y la valoración de la diversidad cultural?",
+        "opciones": [
+          { "texto": "Meta 4.7", "correcta": true, "porQue": "La 4.7 busca que los alumnos adquieran conocimientos para el desarrollo sostenible, que incluyen esos elementos." },
+          { "texto": "Meta 4.5", "correcta": false, "porQue": "La 4.5 trata de la eliminación de las disparidades de género y del acceso de las personas vulnerables." },
+          { "texto": "Meta 4.a", "correcta": false, "porQue": "La 4.a menciona entornos no violentos, pero referidos a las instalaciones escolares, no a contenidos de aprendizaje." },
+          { "texto": "Meta 4.1", "correcta": false, "porQue": "La 4.1 trata de la conclusión de primaria y secundaria con resultados pertinentes." }
+        ],
+        "explicacion": "La 4.7 es la meta de contenidos para la sostenibilidad: educación para el desarrollo sostenible, derechos humanos, igualdad de género, cultura de paz y no violencia, ciudadanía mundial y diversidad cultural. Ojo: los \"entornos no violentos\" de la 4.a se refieren a la infraestructura.",
+        "citaTextual": "la promoción de una cultura de paz y no violencia, la ciudadanía mundial y la valoración de la diversidad cultural",
+        "referencia": "ODS 4 – Educación 2030 (UNESCO), meta 4.7, págs. 14-20",
+        "etiquetas": ["ODS 4", "desarrollo sostenible", "ciudadanía mundial"]
+      }
+    ]
+  }
+]

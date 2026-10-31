@@ -1,0 +1,266 @@
+[
+  {
+    "fragmentoRef": "ley070-art79",
+    "preguntas": [
+      {
+        "tipo": "OPCION_MULTIPLE",
+        "dificultad": "DIFICIL",
+        "nivelBloom": "APLICAR",
+        "enunciado": "Una maestra aprueba el concurso de méritos y el examen de competencia para el cargo de Directora de Unidad Educativa. Según la Ley 070, ¿qué autoridad debe designarla?",
+        "opciones": [
+          { "texto": "La o el Director Distrital de Educación", "correcta": true, "porQue": "El Art. 79, num. 3 establece que las y los Directores de Núcleo y de Unidades Educativas son designados por las y los Directores Distritales." },
+          { "texto": "La o el Director Departamental de Educación", "correcta": false, "porQue": "El Director Departamental designa a los Directores Distritales (Art. 79, num. 2), no a los de Unidad Educativa." },
+          { "texto": "El Ministerio de Educación", "correcta": false, "porQue": "El Ministerio designa a los Directores y Subdirectores Departamentales (Art. 79, num. 1)." },
+          { "texto": "La o el Director de Núcleo, de quien depende la Unidad Educativa", "correcta": false, "porQue": "Confunde dependencia con designación: la Unidad Educativa depende de la Dirección de Núcleo (Art. 78, num. 5), pero quien designa es el Director Distrital." }
+        ],
+        "explicacion": "La Ley 070 escalona las designaciones: el Ministerio designa a las autoridades departamentales, el Director Departamental a los distritales, y el Director Distrital a los directores de Núcleo y de Unidad Educativa, siempre como resultado de concurso de méritos y examen de competencia.",
+        "citaTextual": "Las y los Directores de Núcleo y Unidades Educativas serán designados por las y los Directores Distritales de Educación",
+        "referencia": "Ley 070, Art. 79, num. 3, pág. 32",
+        "etiquetas": ["designación", "gestión educativa", "directores"]
+      },
+      {
+        "tipo": "OPCION_MULTIPLE",
+        "dificultad": "DIFICIL",
+        "nivelBloom": "ANALIZAR",
+        "enunciado": "¿Cuál de las siguientes afirmaciones sobre la designación de autoridades educativas es CORRECTA según el Art. 79 de la Ley 070?",
+        "opciones": [
+          { "texto": "Las y los Subdirectores Departamentales son designados por el Ministerio de Educación, como resultado de concurso de méritos y examen de competencia.", "correcta": true, "porQue": "Así lo dispone el Art. 79, num. 1, junto con los Directores Departamentales." },
+          { "texto": "Las y los Directores Distritales son designados por el Ministerio de Educación, previo concurso de méritos.", "correcta": false, "porQue": "A los Directores Distritales los designan los Directores Departamentales (Art. 79, num. 2)." },
+          { "texto": "Las y los Directores de Núcleo son designados por el Director Departamental, a propuesta del Distrital.", "correcta": false, "porQue": "Los Directores de Núcleo son designados por los Directores Distritales (Art. 79, num. 3); no existe la figura de propuesta." },
+          { "texto": "Las designaciones son de carácter indefinido mientras la autoridad mantenga una evaluación de desempeño favorable.", "correcta": false, "porQue": "El Art. 79, num. 4 señala que las designaciones son de carácter periódico sobre la base de reglamento específico." }
+        ],
+        "explicacion": "El Ministerio designa a Directores y Subdirectores Departamentales; los Departamentales, a los Distritales; los Distritales, a los de Núcleo y Unidad Educativa. Todas las designaciones son periódicas y resultan de concurso de méritos y examen de competencia.",
+        "citaTextual": "Las y los Directores y Subdirectores Departamentales serán designados por el Ministerio de Educación, como resultado de concurso de méritos y examen de competencia",
+        "referencia": "Ley 070, Art. 79, num. 1 y 4, pág. 32",
+        "etiquetas": ["designación", "institucionalización"]
+      }
+    ]
+  },
+  {
+    "fragmentoRef": "ley070-art78",
+    "preguntas": [
+      {
+        "tipo": "OPCION_MULTIPLE",
+        "dificultad": "DIFICIL",
+        "nivelBloom": "COMPRENDER",
+        "enunciado": "En la estructura del nivel departamental de gestión del Sistema Educativo Plurinacional, la Dirección de Unidad Educativa depende directamente de:",
+        "opciones": [
+          { "texto": "La Dirección de Núcleo", "correcta": true, "porQue": "El Art. 78, num. 5 señala que las Direcciones de Unidad Educativa son dependientes de las Direcciones de Núcleo." },
+          { "texto": "La Dirección Distrital Educativa", "correcta": false, "porQue": "La Dirección Distrital designa al director de Unidad Educativa (Art. 79), pero de ella dependen directamente las Direcciones de Núcleo (Art. 78, num. 4)." },
+          { "texto": "La Subdirección de Educación Regular de la Dirección Departamental", "correcta": false, "porQue": "Las Subdirecciones dependen de la Dirección Departamental (Art. 78, num. 2); no son la instancia inmediata de la Unidad Educativa." },
+          { "texto": "El Gobierno Autónomo Municipal de su jurisdicción", "correcta": false, "porQue": "El municipio tiene atribuciones de dotación y financiamiento (Art. 80), pero no es una instancia de dependencia en la gestión educativa." }
+        ],
+        "explicacion": "La cadena de dependencia es: Dirección Departamental → Dirección Distrital → Dirección de Núcleo → Dirección de Unidad Educativa. No hay que confundirla con la cadena de designación, en la que el Distrital designa directamente al director de Unidad Educativa.",
+        "citaTextual": "Direcciones de Unidad Educativa, dependiente de las Direcciones de Núcleo",
+        "referencia": "Ley 070, Art. 78, num. 5, pág. 32",
+        "etiquetas": ["estructura", "gestión educativa"]
+      },
+      {
+        "tipo": "OPCION_MULTIPLE",
+        "dificultad": "DIFICIL",
+        "nivelBloom": "RECORDAR",
+        "enunciado": "Según la Ley 070, ¿qué subdirecciones están bajo la dependencia de cada Dirección Departamental de Educación?",
+        "opciones": [
+          { "texto": "Educación Regular; Educación Superior de Formación Profesional; Educación Alternativa y Especial", "correcta": true, "porQue": "Son las tres subdirecciones que enumera el Art. 78, num. 2." },
+          { "texto": "Educación Regular; Educación Alternativa; Educación Especial", "correcta": false, "porQue": "Alternativa y Especial conforman una sola subdirección, y falta la de Educación Superior de Formación Profesional." },
+          { "texto": "Educación Regular; Educación Alternativa y Especial; Gestión Administrativa y Financiera", "correcta": false, "porQue": "La ley no crea una subdirección administrativa-financiera; la tercera es la de Educación Superior de Formación Profesional." },
+          { "texto": "Educación Inicial y Primaria; Educación Secundaria; Educación Alternativa y Especial", "correcta": false, "porQue": "Inicial, Primaria y Secundaria son niveles del Subsistema Regular, no subdirecciones departamentales." }
+        ],
+        "explicacion": "Cada DDE tiene tres subdirecciones, una por subsistema: Regular, Superior de Formación Profesional, y Alternativa y Especial.",
+        "citaTextual": "Cada Dirección Departamental tendrá bajo su dependencia la: i. Subdirección de Educación Regular. ii. Subdirección de Educación Superior de Formación Profesional. iii. Subdirección Educación Alternativa y Especial.",
+        "referencia": "Ley 070, Art. 78, num. 2, pág. 31",
+        "etiquetas": ["estructura", "DDE"]
+      }
+    ]
+  },
+  {
+    "fragmentoRef": "ley070-art80",
+    "preguntas": [
+      {
+        "tipo": "OPCION_MULTIPLE",
+        "dificultad": "DIFICIL",
+        "nivelBloom": "APLICAR",
+        "enunciado": "La directora de un Centro de Educación Alternativa fiscal necesita mobiliario y equipamiento para nuevos ambientes. Según el Art. 80 de la Ley 070, ¿qué instancia es responsable de dotarlos, financiarlos y garantizarlos?",
+        "opciones": [
+          { "texto": "El Gobierno Autónomo Municipal de su jurisdicción", "correcta": true, "porQue": "El Art. 80, num. 2, inc. a) asigna a los Gobiernos Municipales la dotación de infraestructura, mobiliario y equipamiento de las unidades de Educación Regular, Alternativa y Especial." },
+          { "texto": "El Gobierno Autónomo Departamental", "correcta": false, "porQue": "Los Gobiernos Departamentales asumen esa responsabilidad para los Institutos Técnicos y Tecnológicos (Art. 80, num. 1, inc. a))." },
+          { "texto": "La Dirección Departamental de Educación, como administradora de los recursos de su jurisdicción", "correcta": false, "porQue": "La DDE administra recursos y gestión educativa (Art. 78), pero la dotación de infraestructura y equipamiento es atribución autonómica." },
+          { "texto": "El Ministerio de Educación, a través de sus entidades desconcentradas", "correcta": false, "porQue": "El nivel central define políticas (Art. 77); la dotación a las unidades educativas corresponde al nivel autonómico municipal." }
+        ],
+        "explicacion": "La ley distingue: los municipios equipan Unidades Educativas de Regular, Alternativa y Especial y las Direcciones Distritales y de Núcleo; los Gobiernos Departamentales, los Institutos Técnicos y Tecnológicos.",
+        "citaTextual": "Responsables de dotar, financiar y garantizar los servicios básicos, infraestructura, mobiliario, material educativo y equipamiento de las Unidades Educativas de Educación Regular, Educación Alternativa y Especial, así como de las Direcciones Distritales y de Núcleo, en su jurisdicción.",
+        "referencia": "Ley 070, Art. 80, num. 2, inc. a), pág. 32",
+        "etiquetas": ["nivel autonómico", "gobiernos municipales", "infraestructura"]
+      },
+      {
+        "tipo": "OPCION_MULTIPLE",
+        "dificultad": "DIFICIL",
+        "nivelBloom": "ANALIZAR",
+        "enunciado": "Según el Art. 80 de la Ley 070, ¿cuál de las siguientes atribuciones corresponde a las Autonomías Indígena Originaria Campesinas y NO a los Gobiernos Municipales?",
+        "opciones": [
+          { "texto": "Garantizar recursos económicos para la alimentación complementaria y, en casos justificados, el transporte escolar", "correcta": true, "porQue": "Figura solo entre las competencias de las Autonomías IOC (Art. 80, num. 3, inc. e))." },
+          { "texto": "Dotar mobiliario y equipamiento a las Direcciones Distritales y de Núcleo", "correcta": false, "porQue": "Es atribución de los Gobiernos Municipales (Art. 80, num. 2, inc. a))." },
+          { "texto": "Apoyar programas educativos con recursos establecidos en las normas en vigencia", "correcta": false, "porQue": "Es atribución común a Gobiernos Departamentales y Municipales (Art. 80, num. 1 y 2, inc. b))." },
+          { "texto": "Dotar infraestructura a los Institutos Técnicos y Tecnológicos de su jurisdicción", "correcta": false, "porQue": "Corresponde a los Gobiernos Departamentales (Art. 80, num. 1, inc. a))." }
+        ],
+        "explicacion": "Las Autonomías IOC tienen un catálogo más amplio: formular planes de educación en el marco del currículo regionalizado, organizar la gestión participativa, hacer seguimiento curricular, dotar infraestructura, garantizar alimentación complementaria y transporte escolar, apoyar la participación social y promover formación continua.",
+        "citaTextual": "Garantizar recursos económicos para la atención de alimentación complementaria y en los casos justificados del transporte escolar.",
+        "referencia": "Ley 070, Art. 80, num. 3, inc. e), pág. 33",
+        "etiquetas": ["nivel autonómico", "autonomías IOC"]
+      }
+    ]
+  },
+  {
+    "fragmentoRef": "ley070-art23",
+    "preguntas": [
+      {
+        "tipo": "OPCION_MULTIPLE",
+        "dificultad": "DIFICIL",
+        "nivelBloom": "COMPRENDER",
+        "enunciado": "Según la Ley 070, la Educación de Personas Jóvenes y Adultas (EPJA) se caracteriza por ser:",
+        "opciones": [
+          { "texto": "De carácter técnico-humanístico, destinada a personas mayores a quince años y de oferta sistemática", "correcta": true, "porQue": "Es la definición literal del Art. 23, parágrafo I." },
+          { "texto": "De carácter técnico-humanístico, destinada a toda la población y no escolarizada", "correcta": false, "porQue": "\"Toda la población\" y \"no escolarizada\" describen a la Educación Permanente (Art. 24), no a la EPJA." },
+          { "texto": "De carácter humanístico-productivo, destinada a personas mayores de dieciocho años", "correcta": false, "porQue": "La ley fija el carácter técnico-humanístico y la edad de más de quince años." },
+          { "texto": "De carácter técnico-tecnológico, destinada a jóvenes de catorce a dieciocho años rezagados del Subsistema Regular", "correcta": false, "porQue": "Ni el carácter ni el rango de edad coinciden con el Art. 23." }
+        ],
+        "explicacion": "La EPJA es sistemática, de carácter técnico-humanístico y para mayores de quince años. Se distingue de la Educación Permanente, que es no escolarizada y está destinada a toda la población.",
+        "citaTextual": "La Educación de Personas Jóvenes y Adultas es de carácter técnico-humanístico, está destinada a las personas mayores a quince años, ofrece una educación sistemática.",
+        "referencia": "Ley 070, Art. 23, par. I, pág. 15",
+        "etiquetas": ["educación alternativa", "EPJA"]
+      },
+      {
+        "tipo": "OPCION_MULTIPLE",
+        "dificultad": "DIFICIL",
+        "nivelBloom": "RECORDAR",
+        "enunciado": "Al concluir la totalidad de las etapas de la Educación Secundaria de Personas Jóvenes y Adultas, ¿qué acredita la certificación que se entrega, según la Ley 070?",
+        "opciones": [
+          { "texto": "Bachiller Técnico-Humanístico y, de manera gradual, Técnico Medio", "correcta": true, "porQue": "Así lo establece el Art. 23, parágrafo III." },
+          { "texto": "Bachiller Técnico-Humanístico y Técnico Superior", "correcta": false, "porQue": "El nivel técnico que se otorga de manera gradual es el de Técnico Medio, no Técnico Superior." },
+          { "texto": "Bachiller en Humanidades, con habilitación directa a la formación de maestros", "correcta": false, "porQue": "La ley habla de Bachiller Técnico-Humanístico y de la continuidad en el nivel superior, sin habilitación directa a una carrera." },
+          { "texto": "Técnico Medio solamente; el bachillerato se obtiene en el Subsistema Regular", "correcta": false, "porQue": "La EPJA sí otorga el título de Bachiller Técnico-Humanístico." }
+        ],
+        "explicacion": "La certificación de la EPJA secundaria acredita como Bachiller Técnico-Humanístico y, gradualmente, como Técnico Medio, y habilita para continuar en el nivel superior y para incorporarse al sector productivo.",
+        "citaTextual": "se entregará una certificación que los acreditará como Bachiller Técnico-Humanístico, y de manera gradual como Técnico Medio",
+        "referencia": "Ley 070, Art. 23, par. III, pág. 15",
+        "etiquetas": ["educación alternativa", "certificación", "EPJA"]
+      }
+    ]
+  },
+  {
+    "fragmentoRef": "ley070-art24",
+    "preguntas": [
+      {
+        "tipo": "OPCION_MULTIPLE",
+        "dificultad": "DIFICIL",
+        "nivelBloom": "ANALIZAR",
+        "enunciado": "Una organización de productores solicita al CEA un curso corto no escolarizado y pide que sea certificado. Según el Art. 24 de la Ley 070, ¿cuál es la afirmación correcta sobre la Educación Permanente?",
+        "opciones": [
+          { "texto": "Sus procesos formativos se certifican previo cumplimiento de requisitos establecidos por el Ministerio de Educación", "correcta": true, "porQue": "El Art. 24, num. 2 prevé la certificación previo cumplimiento de los requisitos del Ministerio." },
+          { "texto": "No puede certificarse, porque al ser no escolarizada carece de valor académico", "correcta": false, "porQue": "La ley sí prevé la certificación de los procesos formativos permanentes." },
+          { "texto": "Solo puede certificarse si el participante es mayor a quince años y concluye la secundaria", "correcta": false, "porQue": "Confunde con la EPJA (Art. 23); la Educación Permanente está destinada a toda la población." },
+          { "texto": "La certifica el Gobierno Municipal, por ser responsable del equipamiento del CEA", "correcta": false, "porQue": "La acreditación corresponde a una institución especializada dependiente del Ministerio (Art. 24, num. 3)." }
+        ],
+        "explicacion": "La Educación Permanente es no escolarizada, está destinada a toda la población y responde a las necesidades de organizaciones, comunidades, familias y personas. Sus procesos se certifican cumpliendo los requisitos del Ministerio, y su capacitación y acreditación está a cargo de una institución especializada dependiente de él.",
+        "citaTextual": "serán certificados los procesos formativos, previo cumplimiento de requisitos establecidos por el Ministerio de Educación",
+        "referencia": "Ley 070, Art. 24, num. 2, pág. 15",
+        "etiquetas": ["educación permanente", "certificación"]
+      },
+      {
+        "tipo": "OPCION_MULTIPLE",
+        "dificultad": "DIFICIL",
+        "nivelBloom": "RECORDAR",
+        "enunciado": "Según la Ley 070, ¿quién se encarga de la capacitación y acreditación de los procesos educativos permanentes no escolarizados dirigidos a organizaciones, comunidades, familias y personas?",
+        "opciones": [
+          { "texto": "Una institución especializada dependiente del Ministerio de Educación", "correcta": true, "porQue": "El Art. 24, num. 3 dispone constituir esa institución especializada." },
+          { "texto": "Los Centros de Educación Alternativa, bajo supervisión de la Dirección Distrital", "correcta": false, "porQue": "La ley no asigna la acreditación a los CEA, sino a una institución especializada del Ministerio." },
+          { "texto": "La Subdirección de Educación Alternativa y Especial de cada Dirección Departamental", "correcta": false, "porQue": "Las subdirecciones departamentales implementan políticas, pero la ley crea una institución especializada para esa función." },
+          { "texto": "Las universidades públicas, mediante convenio con el Ministerio", "correcta": false, "porQue": "No hay ninguna mención a universidades en el Art. 24." }
+        ],
+        "explicacion": "El Art. 24, num. 3 crea una institución especializada dependiente del Ministerio de Educación para capacitar y acreditar los procesos de Educación Permanente; su funcionamiento lo reglamenta el propio Ministerio.",
+        "citaTextual": "Se constituirá una institución especializada dependiente del Ministerio de Educación, para la capacitación y acreditación de los procesos educativos permanentes no escolarizados",
+        "referencia": "Ley 070, Art. 24, num. 3, pág. 16",
+        "etiquetas": ["educación permanente", "acreditación"]
+      }
+    ]
+  },
+  {
+    "fragmentoRef": "ley070-art17",
+    "preguntas": [
+      {
+        "tipo": "OPCION_MULTIPLE",
+        "dificultad": "DIFICIL",
+        "nivelBloom": "COMPRENDER",
+        "enunciado": "Según el Art. 17 de la Ley 070, el objetivo de democratizar el acceso y la permanencia en una educación adecuada en lo cultural y relevante en lo social está dirigido principalmente a:",
+        "opciones": [
+          { "texto": "Las personas mayores a quince años que requieren iniciar o continuar sus estudios", "correcta": true, "porQue": "Es la población que nombra el Art. 17, num. 1." },
+          { "texto": "Las personas con discapacidad en edad escolar", "correcta": false, "porQue": "A las personas con discapacidad se refiere otro objetivo (num. 3), centrado en la educación inclusiva." },
+          { "texto": "Las y los adolescentes de catorce a dieciocho años excluidos del Subsistema Regular", "correcta": false, "porQue": "La ley no fija ese rango; habla de personas mayores a quince años." },
+          { "texto": "Las organizaciones de productores, mediante programas escolarizados", "correcta": false, "porQue": "El num. 2 se refiere a movimientos y organizaciones con programas no escolarizados, y su fin es la formación integral y la conciencia crítica." }
+        ],
+        "explicacion": "El primer objetivo de la Educación Alternativa y Especial busca democratizar el acceso y la permanencia, principalmente de mayores de quince años que inician o continúan estudios, con procesos pertinentes a las necesidades de personas, familias, comunidades y organizaciones.",
+        "citaTextual": "principalmente de las personas mayores a quince años que requieren iniciar o continuar sus estudios",
+        "referencia": "Ley 070, Art. 17, num. 1, pág. 13",
+        "etiquetas": ["educación alternativa", "objetivos"]
+      }
+    ]
+  },
+  {
+    "fragmentoRef": "ley070-art92",
+    "preguntas": [
+      {
+        "tipo": "OPCION_MULTIPLE",
+        "dificultad": "DIFICIL",
+        "nivelBloom": "ANALIZAR",
+        "enunciado": "Respecto de las instancias de Participación Social Comunitaria del Art. 92 de la Ley 070, ¿cuál de las siguientes afirmaciones es CORRECTA?",
+        "opciones": [
+          { "texto": "El Congreso Plurinacional de Educación es la instancia máxima de participación y lo convoca el Ministerio de Educación cada cinco años.", "correcta": true, "porQue": "Así lo establece el Art. 92, num. 1." },
+          { "texto": "El Congreso Plurinacional de Educación propone proyectos de políticas educativas de consenso y evalúa el cumplimiento de sus propias conclusiones.", "correcta": false, "porQue": "Esa es la función del Consejo Educativo Plurinacional (Art. 92, num. 2)." },
+          { "texto": "El Consejo Educativo Plurinacional es convocado cada cuatro años por la Asamblea Legislativa Plurinacional.", "correcta": false, "porQue": "La ley no fija esa periodicidad ni esa autoridad; la convocatoria quinquenal corresponde al Congreso y la hace el Ministerio." },
+          { "texto": "Los Consejos Consultivos son la instancia máxima de definición de los lineamientos de la política educativa.", "correcta": false, "porQue": "Los Consejos Consultivos son instancias de consulta y coordinación del Ministerio (Art. 92, num. 5)." }
+        ],
+        "explicacion": "Congreso Plurinacional: instancia máxima, define lineamientos, convocado por el Ministerio cada cinco años. Consejo Educativo Plurinacional: propone políticas y evalúa las conclusiones del Congreso. Consejos Consultivos: consulta y coordinación.",
+        "citaTextual": "Congreso Plurinacional de Educación: Es la instancia máxima de participación de todos los sectores de la sociedad, para la formulación y definición de lineamientos de la política plurinacional de educación. Será convocado por el Ministerio de Educación cada cinco años.",
+        "referencia": "Ley 070, Art. 92, num. 1, pág. 36",
+        "etiquetas": ["participación social comunitaria"]
+      },
+      {
+        "tipo": "OPCION_MULTIPLE",
+        "dificultad": "DIFICIL",
+        "nivelBloom": "APLICAR",
+        "enunciado": "En el ámbito de una Unidad Educativa, ¿qué instancia de Participación Social Comunitaria participa en la gestión educativa según el Art. 92 de la Ley 070?",
+        "opciones": [
+          { "texto": "El Consejo Educativo Social Comunitario de la Unidad Educativa", "correcta": true, "porQue": "El Art. 92, num. 4 prevé Consejos Educativos Social Comunitarios a nivel Departamental, Regional, Distrital, de Núcleo y de Unidades Educativas." },
+          { "texto": "El Consejo Educativo de naciones y pueblos indígena originario campesinos", "correcta": false, "porQue": "Estos consejos tienen representación nacional, regional y transterritorial (num. 3); no son la instancia propia de cada unidad." },
+          { "texto": "El Consejo Consultivo del Ministerio de Educación", "correcta": false, "porQue": "Es una instancia de consulta y coordinación del Ministerio (num. 5)." },
+          { "texto": "El Consejo Educativo Plurinacional, a través de su delegado distrital", "correcta": false, "porQue": "El Consejo Educativo Plurinacional actúa a nivel plurinacional (num. 2) y la ley no le asigna delegados distritales." }
+        ],
+        "explicacion": "En cada Unidad Educativa (y en los niveles Departamental, Regional, Distrital y de Núcleo), la participación se organiza en Consejos Educativos Social Comunitarios, que participan en la gestión según su ámbito y la reglamentación específica.",
+        "citaTextual": "Consejos Educativos Social Comunitarios, a nivel Departamental, Regional, Distrital, de Núcleo y Unidades Educativas: Participan en la gestión educativa",
+        "referencia": "Ley 070, Art. 92, num. 4, pág. 37",
+        "etiquetas": ["participación social comunitaria", "gestión institucional"]
+      }
+    ]
+  },
+  {
+    "fragmentoRef": "ley070-art91",
+    "preguntas": [
+      {
+        "tipo": "OPCION_MULTIPLE",
+        "dificultad": "DIFICIL",
+        "nivelBloom": "APLICAR",
+        "enunciado": "Los miembros del Consejo Educativo Social Comunitario de una Unidad Educativa exigen decidir por sí mismos la evaluación del desempeño de un maestro. Considerando los objetivos de la Participación Social Comunitaria (Art. 91 de la Ley 070), ¿cuál es el criterio que debe orientar la respuesta del director?",
+        "opciones": [
+          { "texto": "La participación comprende la planificación, el control, el seguimiento y la evaluación del proceso educativo, respetando las atribuciones específicas de los actores educativos.", "correcta": true, "porQue": "El Art. 91, num. 6 reconoce esa participación con el límite de respetar las atribuciones específicas, entre ellas las técnico-docentes (num. 2)." },
+          { "texto": "El Consejo puede asumir atribuciones técnico-docentes cuando lo decide por consenso de todos sus miembros.", "correcta": false, "porQue": "El num. 2 manda garantizar el respeto a las atribuciones administrativo-jerárquicas y técnico-docentes; el consenso no las transfiere." },
+          { "texto": "El Consejo solo puede ejercer control social sobre la transparencia administrativa, sin intervenir en la planificación.", "correcta": false, "porQue": "Además del control social (num. 7), la ley incluye participar en la planificación, el seguimiento y la evaluación (num. 6)." },
+          { "texto": "La Participación Social Comunitaria se limita a la formulación de políticas a nivel plurinacional.", "correcta": false, "porQue": "Incluye también la planificación y la evaluación del proceso educativo en su delimitación territorial (num. 6)." }
+        ],
+        "explicacion": "La Participación Social Comunitaria participa y hace control social, pero dentro de la delimitación de roles: debe respetar las atribuciones administrativo-jerárquicas, técnico-docentes, educativo-estudiantiles y de participación social que fijan las normas.",
+        "citaTextual": "Participar en la planificación, control, seguimiento y evaluación del proceso educativo, respetando las atribuciones específicas de los actores educativos",
+        "referencia": "Ley 070, Art. 91, num. 2 y 6, págs. 35-36",
+        "etiquetas": ["participación social comunitaria", "gestión institucional", "caso"]
+      }
+    ]
+  }
+]

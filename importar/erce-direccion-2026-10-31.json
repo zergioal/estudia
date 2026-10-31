@@ -1,0 +1,140 @@
+[
+  {
+    "fragmentoRef": "erce-b003",
+    "preguntas": [
+      {
+        "tipo": "OPCION_MULTIPLE",
+        "dificultad": "DIFICIL",
+        "nivelBloom": "RECORDAR",
+        "enunciado": "Según el informe del ERCE 2019, ¿cuál fue la situación de Bolivia en esa evaluación?",
+        "opciones": [
+          { "texto": "No participó de la evaluación, al igual que Chile, por factores del contexto socioeconómico y político que impidieron aplicar los instrumentos en 2019", "correcta": true, "porQue": "Es lo que señala el informe." },
+          { "texto": "Participó en 3° y 6° grado y recibió su reporte nacional junto con los resultados regionales", "correcta": false, "porQue": "Bolivia no aplicó los instrumentos del ERCE 2019." },
+          { "texto": "Participó solo en 6° grado, en Lectura y Matemática", "correcta": false, "porQue": "Bolivia no participó en ningún grado." },
+          { "texto": "No participó porque no es país integrante del LLECE", "correcta": false, "porQue": "Bolivia sí integra el LLECE; no participó por factores de contexto." }
+        ],
+        "explicacion": "El ERCE 2019 evaluó a 16 países. Bolivia y Chile, aunque integran el LLECE, no participaron por factores socioeconómicos y políticos que impidieron la aplicación en 2019.",
+        "citaTextual": "Bolivia y Chile no participaron de la evaluación del ERCE 2019 debido a factores del contexto socioeconómico y político que impidieron la aplicación de los instrumentos durante 2019.",
+        "referencia": "ERCE 2019 (LLECE-UNESCO), Antecedentes, págs. 9-11",
+        "etiquetas": ["ERCE 2019", "Bolivia", "evaluación"]
+      },
+      {
+        "tipo": "OPCION_MULTIPLE",
+        "dificultad": "DIFICIL",
+        "nivelBloom": "COMPRENDER",
+        "enunciado": "Para el indicador 4.1.1 del ODS 4, el informe ERCE 2019 alinea el Nivel Mínimo de Competencias (MPL) con qué niveles de desempeño:",
+        "opciones": [
+          { "texto": "Nivel II en Lectura y Matemática de 3° grado, y Nivel III en Lectura y Matemática de 6° grado", "correcta": true, "porQue": "Es la alineación que establece el informe." },
+          { "texto": "Nivel I en 3° grado y Nivel II en 6° grado", "correcta": false, "porQue": "Los niveles son II (3°) y III (6°)." },
+          { "texto": "Nivel III en ambos grados", "correcta": false, "porQue": "En 3° grado el MPL es el Nivel II." },
+          { "texto": "Nivel II en ambos grados, incluyendo Ciencias", "correcta": false, "porQue": "En 6° grado es el Nivel III, y la alineación se refiere a Lectura y Matemática." }
+        ],
+        "explicacion": "El MPL (nivel básico de conocimiento en un dominio) se alinea al Nivel II en 3° grado y al Nivel III en 6° grado, para Lectura y Matemática. El informe usa esos niveles como competencias mínimas.",
+        "citaTextual": "este MPL se encuentra alineado al Nivel II en las pruebas de Lectura y Matemática en 3° grado, y al Nivel III en las pruebas de Lectura y Matemática en 6° grado",
+        "referencia": "ERCE 2019 (LLECE-UNESCO), Antecedentes, págs. 9-11",
+        "etiquetas": ["ERCE 2019", "niveles de desempeño", "ODS 4"]
+      },
+      {
+        "tipo": "OPCION_MULTIPLE",
+        "dificultad": "DIFICIL",
+        "nivelBloom": "RECORDAR",
+        "enunciado": "¿En qué escala se presentan los puntajes del ERCE 2019?",
+        "opciones": [
+          { "texto": "En la escala establecida en el TERCE 2013, con promedio regional de 700 puntos y desviación estándar de 100 puntos", "correcta": true, "porQue": "Es la escala que describe el informe." },
+          { "texto": "En una escala nueva del ERCE 2019, con promedio de 500 puntos y desviación estándar de 100", "correcta": false, "porQue": "La escala viene del TERCE 2013 y su promedio es 700." },
+          { "texto": "En la escala del TERCE 2013, con promedio de 700 puntos y desviación estándar de 50", "correcta": false, "porQue": "La desviación estándar es de 100 puntos." },
+          { "texto": "En porcentajes de respuestas correctas, de 0 a 100", "correcta": false, "porQue": "El ERCE reporta en una escala de puntajes, no en porcentajes." }
+        ],
+        "explicacion": "Usar la escala del TERCE 2013 (promedio 700, DE 100) hace comparables los resultados de 2013 y 2019.",
+        "citaTextual": "se presentan en la escala de puntajes que fue establecida en el TERCE 2013, donde se fijó el promedio regional en 700 puntos con una desviación estándar de 100 puntos",
+        "referencia": "ERCE 2019 (LLECE-UNESCO), Antecedentes, págs. 9-11",
+        "etiquetas": ["ERCE 2019", "escala de puntajes", "TERCE"]
+      },
+      {
+        "tipo": "OPCION_MULTIPLE",
+        "dificultad": "DIFICIL",
+        "nivelBloom": "RECORDAR",
+        "enunciado": "Según el informe ERCE 2019, ¿cuántos cuestionarios de contexto se aplicaron y a quiénes?",
+        "opciones": [
+          { "texto": "Cinco: estudiantes de 3° grado, estudiantes de 6° grado, familias, docentes y directores", "correcta": true, "porQue": "Son los cinco cuestionarios que describe el informe." },
+          { "texto": "Cuatro: estudiantes, familias, docentes y directores", "correcta": false, "porQue": "Hay un cuestionario distinto para 3° y otro para 6° grado: son cinco." },
+          { "texto": "Cinco: estudiantes de 3° y 6° grado, docentes, directores y ministerios de educación", "correcta": false, "porQue": "El quinto destinatario son las familias, no los ministerios." },
+          { "texto": "Tres: estudiantes, docentes y directores", "correcta": false, "porQue": "Faltan las familias y la distinción por grado." }
+        ],
+        "explicacion": "Los cuestionarios de contexto recogen los factores asociados al logro. Además, en 6° grado se aplicó un cuestionario de habilidades socioemocionales.",
+        "citaTextual": "uno para estudiantes de 3° grado, otro para estudiantes de 6° grado, uno más para las familias de los estudiantes, otro para docentes y, finalmente, uno para los directores de las escuelas",
+        "referencia": "ERCE 2019 (LLECE-UNESCO), Antecedentes, págs. 9-11",
+        "etiquetas": ["ERCE 2019", "factores asociados", "instrumentos"]
+      },
+      {
+        "tipo": "OPCION_MULTIPLE",
+        "dificultad": "DIFICIL",
+        "nivelBloom": "RECORDAR",
+        "enunciado": "¿Qué habilidades socioemocionales estudió el ERCE 2019 en los estudiantes de 6° grado?",
+        "opciones": [
+          { "texto": "Empatía, autorregulación escolar y apertura a la diversidad", "correcta": true, "porQue": "Son las tres habilidades del cuestionario socioemocional." },
+          { "texto": "Empatía, resiliencia y trabajo en equipo", "correcta": false, "porQue": "Solo coincide la empatía." },
+          { "texto": "Autoestima, autorregulación escolar y convivencia pacífica", "correcta": false, "porQue": "Solo coincide la autorregulación escolar." },
+          { "texto": "Apertura a la diversidad, liderazgo y pensamiento crítico", "correcta": false, "porQue": "Solo coincide la apertura a la diversidad." }
+        ],
+        "explicacion": "Por primera vez desde la creación del LLECE (1994), el ERCE incorporó un módulo socioemocional en 6° grado: empatía, autorregulación escolar y apertura a la diversidad.",
+        "citaTextual": "un cuestionario para estudiar algunas habilidades socioemocionales (empatía, autorregulación escolar y apertura a la diversidad)",
+        "referencia": "ERCE 2019 (LLECE-UNESCO), Antecedentes, págs. 9-11",
+        "etiquetas": ["ERCE 2019", "habilidades socioemocionales"]
+      },
+      {
+        "tipo": "OPCION_MULTIPLE",
+        "dificultad": "DIFICIL",
+        "nivelBloom": "COMPRENDER",
+        "enunciado": "El ERCE 2019 es parte de los insumos para reportar qué indicador del ODS 4:",
+        "opciones": [
+          { "texto": "El indicador 4.1.1, proporción de niños y jóvenes que alcanzan al menos el nivel mínimo de competencia en lectura y matemáticas", "correcta": true, "porQue": "El informe lo señala expresamente." },
+          { "texto": "El indicador 4.6.1, competencias de alfabetización funcional de jóvenes y adultos", "correcta": false, "porQue": "El ERCE evalúa a estudiantes de 3° y 6° grado, no a jóvenes y adultos." },
+          { "texto": "El indicador 4.2.1, desarrollo infantil de menores de cinco años", "correcta": false, "porQue": "El ERCE no evalúa a la primera infancia." },
+          { "texto": "El indicador 4.c.1, proporción de docentes calificados", "correcta": false, "porQue": "El ERCE mide logros de aprendizaje, no la calificación docente." }
+        ],
+        "explicacion": "El ERCE monitorea la meta 4.1 y aporta al indicador 4.1.1 (nivel mínimo de competencia en lectura y matemáticas en los grados 2/3 y al final de primaria).",
+        "citaTextual": "este estudio es parte de los insumos que permiten el reporte del indicador 4.1.1",
+        "referencia": "ERCE 2019 (LLECE-UNESCO), Antecedentes, págs. 9-11",
+        "etiquetas": ["ERCE 2019", "ODS 4", "indicadores"]
+      },
+      {
+        "tipo": "OPCION_MULTIPLE",
+        "dificultad": "DIFICIL",
+        "nivelBloom": "RECORDAR",
+        "enunciado": "Según el informe, ¿cuál fue la cobertura aproximada del ERCE 2019?",
+        "opciones": [
+          { "texto": "16 países, unos 160.000 estudiantes de 3° y 6° grado y alrededor de 4.000 escuelas", "correcta": true, "porQue": "Son las cifras del informe." },
+          { "texto": "18 países, unos 160.000 estudiantes y alrededor de 4.000 escuelas", "correcta": false, "porQue": "El LLECE tiene 18 países, pero participaron 16 (Bolivia y Chile no aplicaron)." },
+          { "texto": "16 países, unos 60.000 estudiantes y alrededor de 1.600 escuelas", "correcta": false, "porQue": "Las cifras de estudiantes y escuelas no corresponden." },
+          { "texto": "16 países, unos 160.000 estudiantes de 3°, 6° y 8° grado", "correcta": false, "porQue": "El ERCE evalúa solo 3° y 6° grado." }
+        ],
+        "explicacion": "Participaron 16 de los 18 países del LLECE, con una muestra representativa de unos 160.000 estudiantes de 3° y 6° grado en alrededor de 4.000 escuelas.",
+        "citaTextual": "Aproximadamente 160.000 estudiantes de 3° y 6° grado respondieron las pruebas durante 2019, en una muestra representativa de alrededor de 4.000 escuelas",
+        "referencia": "ERCE 2019 (LLECE-UNESCO), Antecedentes, págs. 9-11",
+        "etiquetas": ["ERCE 2019", "muestra"]
+      }
+    ]
+  },
+  {
+    "fragmentoRef": "erce-b002",
+    "preguntas": [
+      {
+        "tipo": "OPCION_MULTIPLE",
+        "dificultad": "DIFICIL",
+        "nivelBloom": "RECORDAR",
+        "enunciado": "En el ERCE 2019, ¿qué áreas se evaluaron en cada grado?",
+        "opciones": [
+          { "texto": "Lectura, Escritura y Matemática en 3° y 6° grado; Ciencias solo en 6° grado", "correcta": true, "porQue": "Es la distribución que describe el informe." },
+          { "texto": "Lectura, Escritura, Matemática y Ciencias en 3° y 6° grado", "correcta": false, "porQue": "Ciencias se evalúa solo en 6° grado." },
+          { "texto": "Lectura y Matemática en 3° grado; Lectura, Matemática y Ciencias en 6° grado, sin Escritura", "correcta": false, "porQue": "Escritura se evalúa en ambos grados (sus resultados se reportan en informes nacionales)." },
+          { "texto": "Lectura, Matemática y Ciencias en 3° grado; Escritura solo en 6° grado", "correcta": false, "porQue": "Invierte la regla: Ciencias es la que se evalúa solo en 6°." }
+        ],
+        "explicacion": "En 3° y 6° grado se evalúan Lectura, Escritura y Matemática; Ciencias solo en 6°. Los resultados de Escritura se reportan en informes individualizados por país.",
+        "citaTextual": "En 3° y 6° grado se evalúan las áreas de Lectura, Escritura y Matemática, mientras que Ciencias se evalúa solo en 6° grado",
+        "referencia": "ERCE 2019 (LLECE-UNESCO), Antecedentes, págs. 4-9",
+        "etiquetas": ["ERCE 2019", "áreas evaluadas"]
+      }
+    ]
+  }
+]

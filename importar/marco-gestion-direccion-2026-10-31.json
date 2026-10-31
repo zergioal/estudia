@@ -1,0 +1,177 @@
+[
+  {
+    "fragmentoRef": "marco-gestion-b019",
+    "preguntas": [
+      {
+        "tipo": "OPCION_MULTIPLE",
+        "dificultad": "DIFICIL",
+        "nivelBloom": "COMPRENDER",
+        "enunciado": "Según el Marco para la Gestión y el Liderazgo Educativo Local, el Modelo de Desarrollo de Capacidades para el Apoyo Técnico-Pedagógico (DEP, 2022) concibe ese apoyo como:",
+        "opciones": [
+          { "texto": "Un proceso de acompañamiento diseñado para fortalecer las capacidades que permiten a las comunidades enfrentar sus necesidades de mejora", "correcta": true, "porQue": "Es la definición del modelo citada en el Marco." },
+          { "texto": "El traspaso de conocimiento especializado desde el nivel intermedio hacia los establecimientos", "correcta": false, "porQue": "El Marco dice expresamente que el apoyo NO puede verse como traspaso de conocimiento." },
+          { "texto": "La asesoría de un experto externo que diagnostica y prescribe soluciones a cada establecimiento", "correcta": false, "porQue": "El Marco descarta expresamente la figura de la asesoría de un experto externo." },
+          { "texto": "La supervisión del cumplimiento de los planes de mejoramiento mediante rúbricas de desempeño", "correcta": false, "porQue": "Las rúbricas de niveles de logro corresponden a los Estándares Indicativos de Desempeño, no al modelo de apoyo." }
+        ],
+        "explicacion": "El apoyo técnico-pedagógico se entiende como acompañamiento para desarrollar capacidades propias de las comunidades educativas, no como transmisión vertical de conocimiento ni como consultoría externa.",
+        "citaTextual": "dicho apoyo no puede ser visto como el traspaso de conocimiento o la asesoría de un experto externo, sino como un proceso de acompañamiento diseñado para fortalecer las capacidades que permiten a las comunidades enfrentar sus necesidades de mejora y alcanzar sus propósitos",
+        "referencia": "Marco para la Gestión y el Liderazgo Educativo Local, cap. 3, págs. 41-43",
+        "etiquetas": ["apoyo técnico-pedagógico", "acompañamiento", "desarrollo de capacidades"]
+      },
+      {
+        "tipo": "OPCION_MULTIPLE",
+        "dificultad": "DIFICIL",
+        "nivelBloom": "ANALIZAR",
+        "enunciado": "El Marco distingue dos dimensiones relevantes del apoyo técnico-pedagógico que el nivel intermedio brinda a los establecimientos. ¿Cuáles son?",
+        "opciones": [
+          { "texto": "Promover la alineación pedagógica de los equipos dentro y entre establecimientos, y promover relaciones horizontales con espacios de reflexión pedagógica, liberando carga administrativa", "correcta": true, "porQue": "Son las dos dimensiones que menciona el Marco." },
+          { "texto": "Promover la alineación pedagógica entre establecimientos y ejercer un control vertical de la planificación docente", "correcta": false, "porQue": "La primera parte es correcta, pero el Marco pide relaciones horizontales y confianza, no control vertical." },
+          { "texto": "Supervisar la cobertura curricular y aplicar evaluaciones estandarizadas de resultados", "correcta": false, "porQue": "El Marco no plantea la supervisión ni la estandarización como dimensiones del apoyo." },
+          { "texto": "Capacitar externamente al profesorado y dotar de recursos tecnológicos a los establecimientos", "correcta": false, "porQue": "El Marco advierte que la profesionalización no se reduce a cursos externos, y la dotación de recursos no es una dimensión del apoyo pedagógico." }
+        ],
+        "explicacion": "El apoyo combina alineación pedagógica (definiciones conjuntas de los aprendizajes esperados) con relaciones horizontales: espacios de reflexión, menos carga administrativa, confianza, colaboración y liderazgo distribuido.",
+        "citaTextual": "promover la alineación pedagógica de los equipos al interior y entre los establecimientos",
+        "referencia": "Marco para la Gestión y el Liderazgo Educativo Local, cap. 3, págs. 41-43",
+        "etiquetas": ["apoyo técnico-pedagógico", "liderazgo distribuido"]
+      },
+      {
+        "tipo": "OPCION_MULTIPLE",
+        "dificultad": "DIFICIL",
+        "nivelBloom": "COMPRENDER",
+        "enunciado": "Según el Marco, ¿qué diferencia la trayectoria educativa de la trayectoria escolar?",
+        "opciones": [
+          { "texto": "La educativa incluye todos los aprendizajes en todos los contextos posibles, dentro y fuera del sistema oficial; la escolar se refiere a los procesos y resultados de aprendizaje que se materializan en el avance por ese camino", "correcta": true, "porQue": "Es la distinción que hace el Marco, citando a UNICEF (2019) y a la OEI (2015)." },
+          { "texto": "La escolar abarca todos los contextos de aprendizaje a lo largo de la vida; la educativa se limita al sistema oficial", "correcta": false, "porQue": "Invierte los conceptos: la trayectoria educativa es la más amplia." },
+          { "texto": "La educativa corresponde a la educación regular y la escolar a la educación de jóvenes y adultos", "correcta": false, "porQue": "El Marco no distingue las trayectorias por subsistema." },
+          { "texto": "Son sinónimos; el Marco solo distingue entre trayectoria esperada y trayectoria real", "correcta": false, "porQue": "El Marco sí diferencia ambos conceptos; la trayectoria esperada es una noción adicional." }
+        ],
+        "explicacion": "La trayectoria educativa (UNICEF, 2019) es el recorrido completo de aprendizaje de niños, jóvenes y adultos, dentro y fuera del sistema. La trayectoria escolar (OEI, 2015) es más específica: los procesos y resultados que se materializan en el avance por el sistema escolar.",
+        "citaTextual": "La trayectoria educativa es el recorrido que realizan las personas para consolidar, fortalecer y transformar sus aprendizajes, incluyendo todos los aprendizajes en todos los contextos posibles",
+        "referencia": "Marco para la Gestión y el Liderazgo Educativo Local, cap. 3, págs. 41-43",
+        "etiquetas": ["trayectorias educativas"]
+      },
+      {
+        "tipo": "OPCION_MULTIPLE",
+        "dificultad": "DIFICIL",
+        "nivelBloom": "RECORDAR",
+        "enunciado": "Según el Marco, ¿qué factores interrumpen o hacen perder definitivamente la trayectoria esperada?",
+        "opciones": [
+          { "texto": "El ingreso tardío al sistema, las inasistencias prolongadas, los retiros y/o la repitencia", "correcta": true, "porQue": "Son exactamente los cuatro factores que enumera el Marco." },
+          { "texto": "El ingreso tardío al sistema, el cambio de establecimiento, los retiros y la promoción anticipada", "correcta": false, "porQue": "El cambio de establecimiento y la promoción anticipada no figuran entre los factores." },
+          { "texto": "Las inasistencias prolongadas, el bajo rendimiento en evaluaciones estandarizadas, la migración y la repitencia", "correcta": false, "porQue": "El bajo rendimiento estandarizado y la migración no aparecen en la enumeración del Marco." },
+          { "texto": "La repitencia, la rotación docente, los retiros y la falta de infraestructura", "correcta": false, "porQue": "La rotación docente y la infraestructura no figuran como causas de pérdida de la trayectoria." }
+        ],
+        "explicacion": "La trayectoria esperada se interrumpe por ingreso tardío, inasistencias prolongadas, retiros y/o repitencia. Por eso el nivel intermedio debe prevenir la baja asistencia, la repetición y la falta de apoyo.",
+        "citaTextual": "por ingreso tardío al sistema, inasistencias prolongadas, retiros y/o repitencia, se interrumpe o pierde definitivamente la trayectoria esperada",
+        "referencia": "Marco para la Gestión y el Liderazgo Educativo Local, cap. 3, págs. 41-43",
+        "etiquetas": ["trayectorias educativas", "permanencia"]
+      }
+    ]
+  },
+  {
+    "fragmentoRef": "marco-gestion-b020",
+    "preguntas": [
+      {
+        "tipo": "OPCION_MULTIPLE",
+        "dificultad": "DIFICIL",
+        "nivelBloom": "RECORDAR",
+        "enunciado": "Según el Marco (que remite a DEP, 2022), ¿cuáles son las capacidades basales que deben desarrollarse en todos los niveles del sistema?",
+        "opciones": [
+          { "texto": "Reflexión crítica, colaboración profesional, confianza relacional y liderazgo distribuido", "correcta": true, "porQue": "Son las cuatro capacidades basales que nombra el Marco." },
+          { "texto": "Reflexión crítica, autonomía docente, evaluación del desempeño y liderazgo directivo", "correcta": false, "porQue": "Solo coincide la reflexión crítica; las demás no figuran como capacidades basales." },
+          { "texto": "Confianza relacional, liderazgo transformacional, innovación y planificación estratégica", "correcta": false, "porQue": "El Marco habla de liderazgo distribuido, no transformacional; innovación y planificación no son capacidades basales." },
+          { "texto": "Colaboración profesional, rendición de cuentas, uso de datos y liderazgo instruccional", "correcta": false, "porQue": "Solo la colaboración profesional coincide con la enumeración del Marco." }
+        ],
+        "explicacion": "El sistema de desarrollo de capacidades busca recursos personales e interpersonales; las capacidades basales son la reflexión crítica, la colaboración profesional, la confianza relacional y el liderazgo distribuido.",
+        "citaTextual": "aquellas capacidades basales relativas a la reflexión crítica, la colaboración profesional, la confianza relacional y el liderazgo distribuido",
+        "referencia": "Marco para la Gestión y el Liderazgo Educativo Local, cap. 3, págs. 43-46",
+        "etiquetas": ["desarrollo de capacidades", "liderazgo distribuido"]
+      },
+      {
+        "tipo": "OPCION_MULTIPLE",
+        "dificultad": "DIFICIL",
+        "nivelBloom": "APLICAR",
+        "enunciado": "Un programa de apoyo implementado en varias unidades educativas consume recursos y tiempo docente, pero la evidencia recogida muestra que no aporta significativamente a las metas de aprendizaje. Según el Marco, ¿cuál es la decisión de gestión que corresponde?",
+        "opciones": [
+          { "texto": "Priorizar los recursos para las opciones vinculadas con las metas estratégicas y suspender el programa por no ser efectivo", "correcta": true, "porQue": "El Marco pide priorizar recursos según las metas y suspender los programas que no son efectivos." },
+          { "texto": "Mantener el programa hasta el final de la gestión para no afectar la continuidad de los procesos", "correcta": false, "porQue": "El Marco hace de la evidencia el criterio para decidir la continuidad o la reorientación, no el calendario de gestión." },
+          { "texto": "Reforzar el programa con más recursos para que alcance el impacto esperado", "correcta": false, "porQue": "Asignar más recursos a lo que la evidencia muestra inefectivo contradice el criterio de priorizar lo comprobadamente efectivo." },
+          { "texto": "Redistribuir sus recursos en partes iguales entre todos los establecimientos del territorio", "correcta": false, "porQue": "El Marco no pide reparto igualitario: pide asignar según las metas y la evidencia de efectividad." }
+        ],
+        "explicacion": "La gestión de recursos debe estar al servicio de lo pedagógico y alineada con los planes de mejoramiento. La evidencia es el criterio fundamental para asignar y priorizar recursos, y los líderes deben ser capaces de suspender lo que no funciona.",
+        "citaTextual": "ser capaces de suspender programas que no son efectivos o no aportan significativamente a ellas",
+        "referencia": "Marco para la Gestión y el Liderazgo Educativo Local, cap. 3, págs. 43-46",
+        "etiquetas": ["gestión de recursos", "uso de evidencia", "caso"]
+      },
+      {
+        "tipo": "OPCION_MULTIPLE",
+        "dificultad": "DIFICIL",
+        "nivelBloom": "COMPRENDER",
+        "enunciado": "Según el Marco, ¿de qué depende principalmente el funcionamiento de las redes entre agentes del sistema educativo?",
+        "opciones": [
+          { "texto": "De la participación, las relaciones y los niveles de confianza que los agentes mantienen a lo largo del tiempo, es decir, de su capital social", "correcta": true, "porQue": "Es lo que señala el Marco al describir el trabajo en redes." },
+          { "texto": "De la normativa que regula su conformación y de la jerarquía formal de sus integrantes", "correcta": false, "porQue": "El Marco pone el acento en lo relacional, no en lo normativo-jerárquico." },
+          { "texto": "De los recursos económicos que el nivel intermedio asigna a cada red", "correcta": false, "porQue": "Los recursos no aparecen como el factor del que depende el funcionamiento de la red." },
+          { "texto": "De la homogeneidad de resultados entre los establecimientos que la integran", "correcta": false, "porQue": "Las redes se definen por propósitos comunes y trabajo colaborativo, no por resultados similares." }
+        ],
+        "explicacion": "Las redes son espacios de acción y reflexión colectiva con propósitos comunes. Su funcionamiento depende del capital social (participación, relaciones y confianza), y su horizonte es mejorar las unidades educativas y el sistema.",
+        "citaTextual": "Su funcionamiento depende de la participación, las relaciones y los niveles de confianza que los agentes de la red mantienen a lo largo del tiempo, es decir, de su capital social.",
+        "referencia": "Marco para la Gestión y el Liderazgo Educativo Local, cap. 3, págs. 43-46",
+        "etiquetas": ["trabajo en redes", "capital social"]
+      },
+      {
+        "tipo": "OPCION_MULTIPLE",
+        "dificultad": "DIFICIL",
+        "nivelBloom": "APLICAR",
+        "enunciado": "Un director planifica el desarrollo profesional de su equipo docente para la gestión. Según el Marco, ¿qué criterio debe orientar ese apoyo a la profesionalización?",
+        "opciones": [
+          { "texto": "Que no se realice solo con cursos externos, sino también dentro del centro educativo y mediante redes orientadas a construir comunidades de aprendizaje", "correcta": true, "porQue": "El Marco lo señala expresamente para directivos, educadores y docentes." },
+          { "texto": "Que se priorice la inscripción en cursos externos certificados, por su mayor rigor académico", "correcta": false, "porQue": "El Marco advierte justamente que la profesionalización no se reduce a cursos externos." },
+          { "texto": "Que sea un programa estandarizado, igual para todos los establecimientos del territorio", "correcta": false, "porQue": "El Marco pide programas que respondan a las necesidades específicas de cada establecimiento y territorio." },
+          { "texto": "Que quede a iniciativa individual de cada docente, para respetar su autonomía profesional", "correcta": false, "porQue": "El Marco plantea un trabajo coordinado, con expectativas claras alineadas a los objetivos del territorio." }
+        ],
+        "explicacion": "El desarrollo de capacidades combina expectativas claras y exigentes, programas ajustados a las necesidades de cada establecimiento y formación situada (en el centro y en redes, como comunidades de aprendizaje), atendiendo también a las condiciones laborales.",
+        "citaTextual": "no se realiza sólo a través de cursos externos, sino también al interior de los centros educativos y mediante un trabajo de redes orientado a la construcción de comunidades de aprendizaje",
+        "referencia": "Marco para la Gestión y el Liderazgo Educativo Local, cap. 3, págs. 43-46",
+        "etiquetas": ["desarrollo profesional", "comunidades de aprendizaje", "caso"]
+      }
+    ]
+  },
+  {
+    "fragmentoRef": "marco-gestion-b021",
+    "preguntas": [
+      {
+        "tipo": "OPCION_MULTIPLE",
+        "dificultad": "DIFICIL",
+        "nivelBloom": "ANALIZAR",
+        "enunciado": "¿En qué se diferencia el Marco para la Gestión y el Liderazgo Educativo Local de los Estándares Indicativos de Desempeño (EID)?",
+        "opciones": [
+          { "texto": "El Marco es específico para un nivel y sector del sistema y contempla prácticas y recursos personales; los EID abarcan lineamientos más generales y rígidos, mediante rúbricas de niveles de logro", "correcta": true, "porQue": "Es la comparación que hace el propio Marco." },
+          { "texto": "El Marco establece rúbricas de niveles de logro, y los EID describen prácticas y recursos personales", "correcta": false, "porQue": "Invierte las características: las rúbricas son propias de los EID." },
+          { "texto": "El Marco es prescriptivo y trae instrumentos de implementación; los EID son orientaciones generales sin instrumentos", "correcta": false, "porQue": "El Marco aclara que no es prescriptivo ni contiene instrumentos concretos de implementación." },
+          { "texto": "Ambos son rúbricas: el Marco evalúa a los docentes de aula y los EID a los equipos directivos", "correcta": false, "porQue": "El Marco no es una rúbrica y se dirige a los equipos directivos del nivel intermedio." }
+        ],
+        "explicacion": "El Marco orienta las prácticas y los recursos personales de los equipos del nivel intermedio de forma flexible y contextualizable. Los EID son lineamientos más generales y rígidos, con rúbricas de logro para distintas modalidades y niveles de liderazgo.",
+        "citaTextual": "Se diferencia, por ejemplo, de los Estándares Indicativos de Desempeño (EID), que abarcan lineamientos más generales y rígidos, a través de rúbricas que establecen niveles de logro y desempeño",
+        "referencia": "Marco para la Gestión y el Liderazgo Educativo Local, cap. 4, págs. 46-51",
+        "etiquetas": ["marco de liderazgo", "estándares"]
+      },
+      {
+        "tipo": "OPCION_MULTIPLE",
+        "dificultad": "DIFICIL",
+        "nivelBloom": "COMPRENDER",
+        "enunciado": "Sobre la naturaleza y el alcance del Marco para la Gestión y el Liderazgo Educativo Local, ¿cuál de las siguientes afirmaciones es CORRECTA?",
+        "opciones": [
+          { "texto": "Define seis dimensiones de prácticas y no es un documento prescriptivo ni contiene instrumentos concretos para su implementación", "correcta": true, "porQue": "El Marco define seis dimensiones y aclara que no es prescriptivo ni trae instrumentos." },
+          { "texto": "Define seis dimensiones de prácticas e incluye los instrumentos de evaluación que deben aplicar los equipos", "correcta": false, "porQue": "Los instrumentos serán desarrollados por las instituciones responsables (DEG, DEP y otras); el Marco no los contiene." },
+          { "texto": "Es un documento prescriptivo que debe aplicarse sin ajustes, para garantizar la equidad territorial", "correcta": false, "porQue": "El Marco recomienda ajustar sus objetivos y contenidos a cada contexto y realidad." },
+          { "texto": "Define cinco dimensiones de prácticas, cada una con su rúbrica de niveles de logro", "correcta": false, "porQue": "Son seis dimensiones, y las rúbricas de logro son propias de los EID." }
+        ],
+        "explicacion": "El Marco define seis dimensiones con sus prácticas, además de principios, conocimientos profesionales y habilidades sociales e interpersonales. Es flexible y contextualizable, y no es prescriptivo.",
+        "citaTextual": "no es un documento prescriptivo, y tampoco contiene instrumentos específicos o concretos para su implementación",
+        "referencia": "Marco para la Gestión y el Liderazgo Educativo Local, cap. 4, págs. 46-51",
+        "etiquetas": ["marco de liderazgo", "dimensiones"]
+      }
+    ]
+  }
+]

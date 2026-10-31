@@ -1,0 +1,209 @@
+[
+  {
+    "fragmentoRef": "lidei2022-b003",
+    "preguntas": [
+      {
+        "tipo": "OPCION_MULTIPLE",
+        "dificultad": "DIFICIL",
+        "nivelBloom": "COMPRENDER",
+        "enunciado": "Según LIDEI 2022, la OEI (2020, citando a Leithwood) propone el modelo de liderazgo pedagógico, inclusivo y distribuido sobre la base de dos modelos dominantes. ¿Cuáles son?",
+        "opciones": [
+          { "texto": "El liderazgo pedagógico, centrado en la enseñanza, el aprendizaje y el rendimiento, y el liderazgo de transformación, basado en una visión sistémica e integrada del centro", "correcta": true, "porQue": "Son los dos modelos que menciona el texto." },
+          { "texto": "El liderazgo instruccional, centrado en el currículo, y el liderazgo situacional, adaptado a cada contexto", "correcta": false, "porQue": "El liderazgo situacional aparece en LIDEI como respuesta de los directores en la pandemia, no como base del modelo." },
+          { "texto": "El liderazgo distribuido, centrado en compartir el poder, y el liderazgo transaccional, basado en incentivos", "correcta": false, "porQue": "El distribuido es un rasgo del modelo resultante, no uno de sus dos modelos base, y el transaccional no se menciona." },
+          { "texto": "El liderazgo pedagógico y el liderazgo de servicio, centrado en las necesidades de la comunidad", "correcta": false, "porQue": "El segundo modelo dominante es el liderazgo de transformación, no el de servicio." }
+        ],
+        "explicacion": "La OEI revisa el liderazgo escolar bajo los principios de inclusión, interculturalidad, responsabilidad y sostenibilidad. Combina el liderazgo pedagógico (enseñanza, aprendizaje, rendimiento) con el de transformación (visión sistémica e integrada).",
+        "citaTextual": "el liderazgo pedagógico, centrado en la enseñanza y el aprendizaje, así como en el rendimiento de los alumnos y profesores; y el liderazgo de transformación, basado en una visión sistémica e integrada de los procesos que ocurren en el centro educativo",
+        "referencia": "LIDEI 2022 (OEI), cap. 1, págs. 10-12",
+        "etiquetas": ["modelos de liderazgo", "OEI", "Leithwood"]
+      },
+      {
+        "tipo": "OPCION_MULTIPLE",
+        "dificultad": "DIFICIL",
+        "nivelBloom": "RECORDAR",
+        "enunciado": "¿Cuáles son las tres claves esenciales para el ejercicio del liderazgo que presenta Fullan (2016), según LIDEI 2022?",
+        "opciones": [
+          { "texto": "Aprender a liderar; actuar en la escuela y el sistema, mirando hacia fuera para mejorar dentro; y convertirse en un agente de cambio", "correcta": true, "porQue": "Son las tres claves de Fullan citadas en el texto." },
+          { "texto": "Aprender a liderar; distribuir el poder de decisión; y rendir cuentas de los resultados", "correcta": false, "porQue": "Solo coincide la primera clave." },
+          { "texto": "Construir una visión compartida; desarrollar a las personas; y rediseñar la organización", "correcta": false, "porQue": "Son categorías de prácticas asociadas a otros autores, no las tres claves de Fullan citadas en LIDEI." },
+          { "texto": "Actuar en contexto; innovar en el currículo; y evaluar el desempeño docente", "correcta": false, "porQue": "Solo \"actuar en contexto\" se parece a una de las claves; las otras no son de Fullan." }
+        ],
+        "explicacion": "Fullan resume el liderazgo en tres claves: aprender a liderar, actuar en contexto (mirar hacia fuera para mejorar dentro) y convertirse en agente de cambio.",
+        "citaTextual": "aprender a liderar; actuar en la escuela y el sistema educativo, mirando hacia fuera para mejorar dentro; y convertirse en un agente de cambio",
+        "referencia": "LIDEI 2022 (OEI), cap. 1, págs. 10-12",
+        "etiquetas": ["Fullan", "agente de cambio"]
+      },
+      {
+        "tipo": "OPCION_MULTIPLE",
+        "dificultad": "DIFICIL",
+        "nivelBloom": "ANALIZAR",
+        "enunciado": "Tian (2016) propone un modelo de liderazgo escolar basado en el concepto de poder vinculado al contexto sociocultural. ¿Cómo denomina su modelo, según LIDEI 2022?",
+        "opciones": [
+          { "texto": "Modelo de dualidad recurso-agencia", "correcta": true, "porQue": "Es el nombre que Tian da a su modelo: el liderazgo como recurso (perspectiva organizacional) y como agente de cambio (perspectiva individual)." },
+          { "texto": "Modelo de dualidad estructura-acción", "correcta": false, "porQue": "Es la dualidad a la que se refieren tanto Tian como Imants y Van der Wal, pero no el nombre del modelo de Tian." },
+          { "texto": "Modelo de agencia contexto-práctica", "correcta": false, "porQue": "El énfasis en la agencia que vincula contexto y práctica individual corresponde a Imants y Van der Wal (2020)." },
+          { "texto": "Modelo de capital profesional", "correcta": false, "porQue": "El capital profesional es un concepto de Hargreaves y Fullan (2012)." }
+        ],
+        "explicacion": "En el modelo de dualidad recurso-agencia de Tian, el liderazgo surge de las acciones e interacciones impulsadas por el propósito, desde una perspectiva organizacional (recurso) y otra individual (agente de cambio).",
+        "citaTextual": "El autor lo denomina modelo de dualidad recurso-agencia, en el que el liderazgo surge de las acciones e interacciones impulsadas por el propósito.",
+        "referencia": "LIDEI 2022 (OEI), cap. 1, págs. 10-12",
+        "etiquetas": ["Tian", "agencia", "modelos de liderazgo"]
+      },
+      {
+        "tipo": "OPCION_MULTIPLE",
+        "dificultad": "DIFICIL",
+        "nivelBloom": "ANALIZAR",
+        "enunciado": "Según LIDEI 2022, el liderazgo es simultáneamente distribuido, pedagógico e inclusivo. ¿Con qué concepto se vincula su dimensión pedagógica?",
+        "opciones": [
+          { "texto": "Con el concepto de capital profesional (Hargreaves y Fullan, 2012)", "correcta": true, "porQue": "El texto dice que el liderazgo es pedagógico en su dimensión de aprendizaje, presente en el concepto de capital profesional." },
+          { "texto": "Con la concepción teórica de Spillane (2006)", "correcta": false, "porQue": "Spillane fundamenta la dimensión distribuida, no la pedagógica." },
+          { "texto": "Con los propósitos personales y sociales de la Agenda 2030 (UN, 2015)", "correcta": false, "porQue": "La Agenda 2030 fundamenta la dimensión inclusiva." },
+          { "texto": "Con la noción de agencia de los estudiantes de la OCDE (2019)", "correcta": false, "porQue": "La agencia estudiantil aparece en otro pasaje, sobre la cultura del aprendizaje." }
+        ],
+        "explicacion": "El liderazgo es distribuido por su concepción teórica (Spillane, 2006), pedagógico por su dimensión de aprendizaje (capital profesional, Hargreaves y Fullan, 2012) e inclusivo por sus propósitos personales y sociales (UN, 2015).",
+        "citaTextual": "pedagógico en su dimensión de aprendizaje, presente en el concepto de capital profesional (Hargreaves y Fullan, 2012)",
+        "referencia": "LIDEI 2022 (OEI), cap. 1, págs. 10-12",
+        "etiquetas": ["liderazgo distribuido", "capital profesional"]
+      },
+      {
+        "tipo": "OPCION_MULTIPLE",
+        "dificultad": "DIFICIL",
+        "nivelBloom": "COMPRENDER",
+        "enunciado": "De los marcos de análisis de Lessard y Carpentier (2016) que destaca LIDEI 2022, ¿qué sostiene la teoría comprensiva del cambio sobre la política educativa?",
+        "opciones": [
+          { "texto": "Que la política real es la que los agentes escolares construyen en el plano de sus interacciones", "correcta": true, "porQue": "Así se describe la teoría comprensiva del cambio." },
+          { "texto": "Que la política real es la que fija la normativa nacional, con una lógica centralizada y determinista", "correcta": false, "porQue": "Esa lógica centralizada y determinista corresponde a la teoría normativa del cambio." },
+          { "texto": "Que la política real la definen los organismos transnacionales mediante la regulación conceptual", "correcta": false, "porQue": "La regulación transnacional es un nivel del contexto del liderazgo, no la tesis de la teoría comprensiva." },
+          { "texto": "Que la política real se deduce de los resultados de las evaluaciones estandarizadas", "correcta": false, "porQue": "El texto no vincula la teoría comprensiva con evaluaciones estandarizadas." }
+        ],
+        "explicacion": "Lessard y Carpentier contrastan la teoría normativa del cambio (centralizada y determinista) con la comprensiva, que busca entender cómo los agentes escolares construyen significados: la política real es la que construyen en sus interacciones.",
+        "citaTextual": "la política real es la que los agentes construyen en el plano de sus interacciones",
+        "referencia": "LIDEI 2022 (OEI), cap. 1, págs. 10-12",
+        "etiquetas": ["políticas educativas", "teorías del cambio"]
+      }
+    ]
+  },
+  {
+    "fragmentoRef": "lidei2022-b004",
+    "preguntas": [
+      {
+        "tipo": "OPCION_MULTIPLE",
+        "dificultad": "DIFICIL",
+        "nivelBloom": "RECORDAR",
+        "enunciado": "Según LIDEI 2022, se ha reconocido que la innovación es un proceso que abarca tres fases interconectadas. ¿Cuáles son?",
+        "opciones": [
+          { "texto": "El cambio externo, el cambio interno y la personalización del cambio", "correcta": true, "porQue": "Son las tres fases citadas (Pacheco, 2019; Fullan, 2015; Goodson, 2008)." },
+          { "texto": "El cambio externo, el cambio interno y la institucionalización del cambio", "correcta": false, "porQue": "La tercera fase es la personalización del cambio, no su institucionalización." },
+          { "texto": "La iniciación, la implementación y la institucionalización", "correcta": false, "porQue": "Es una secuencia clásica de otros autores, no la que recoge LIDEI." },
+          { "texto": "El diagnóstico, la planificación y la evaluación del cambio", "correcta": false, "porQue": "Son etapas de gestión de proyectos, no las fases de la innovación del texto." }
+        ],
+        "explicacion": "La innovación resulta de distintos niveles de regulación y también del compromiso personal: cambio externo, cambio interno y personalización del cambio.",
+        "citaTextual": "el cambio externo, el cambio interno y la personalización del cambio",
+        "referencia": "LIDEI 2022 (OEI), cap. 1, págs. 12-14",
+        "etiquetas": ["innovación", "cambio educativo"]
+      },
+      {
+        "tipo": "OPCION_MULTIPLE",
+        "dificultad": "DIFICIL",
+        "nivelBloom": "RECORDAR",
+        "enunciado": "Según LIDEI 2022, la cultura del aprendizaje se desarrolla a partir de la intervención de tres factores. ¿Cuáles?",
+        "opciones": [
+          { "texto": "El profesorado en su desarrollo profesional, el alumnado en su tarea de formación y educación, y la escuela a través de la autoevaluación institucional", "correcta": true, "porQue": "Son los tres factores que nombra el texto." },
+          { "texto": "El profesorado, el alumnado y las familias, mediante la participación comunitaria", "correcta": false, "porQue": "El tercer factor es la escuela mediante la autoevaluación institucional, no las familias." },
+          { "texto": "El currículo, la evaluación y la gestión directiva", "correcta": false, "porQue": "No son los factores que enumera LIDEI para la cultura del aprendizaje." },
+          { "texto": "El profesorado en su formación inicial, el alumnado en sus resultados académicos y el Estado mediante la normativa", "correcta": false, "porQue": "Distorsiona los factores: el texto habla de desarrollo profesional, formación y educación, y autoevaluación institucional." }
+        ],
+        "explicacion": "La cultura del aprendizaje articula el desarrollo profesional docente, la formación del alumnado y la autoevaluación institucional de la escuela.",
+        "citaTextual": "el profesorado en su desarrollo profesional (Imants y Van der Wal, 2020; Zeichner, 2013); el alumnado en su tarea de formación y educación; y la escuela, a través de los procesos de autoevaluación institucional",
+        "referencia": "LIDEI 2022 (OEI), cap. 1, págs. 12-14",
+        "etiquetas": ["cultura del aprendizaje", "autoevaluación institucional"]
+      },
+      {
+        "tipo": "OPCION_MULTIPLE",
+        "dificultad": "DIFICIL",
+        "nivelBloom": "ANALIZAR",
+        "enunciado": "Según LIDEI 2022, ¿qué valora más el liderazgo distribuido en su esencia pedagógica e inclusiva?",
+        "opciones": [
+          { "texto": "A las personas y su aprendizaje, más que la eficacia de los resultados, aunque el compromiso de la dirección sea siempre mejorar el éxito de los alumnos", "correcta": true, "porQue": "Es lo que afirma el texto sobre el liderazgo distribuido." },
+          { "texto": "La eficacia de los resultados medidos en evaluaciones externas, como garantía de calidad", "correcta": false, "porQue": "El texto dice lo contrario: valora más a las personas que la eficacia de los resultados." },
+          { "texto": "La valoración de los resultados de los alumnos como criterio central de la dirección", "correcta": false, "porQue": "LIDEI señala que ese enfoque centrado en resultados está dando paso a un liderazgo que fomenta competencias." },
+          { "texto": "El cumplimiento normativo como condición previa del aprendizaje", "correcta": false, "porQue": "El texto critica el control burocrático del cumplimiento normativo." }
+        ],
+        "explicacion": "LIDEI describe un tránsito desde el liderazgo centrado en la valoración de resultados hacia uno que fomenta competencias (Agenda 2030). El liderazgo distribuido, pedagógico e inclusivo prioriza a las personas y su aprendizaje.",
+        "citaTextual": "el liderazgo distribuido –en su esencia pedagógica e inclusiva– valora más a las personas y su aprendizaje que la eficacia de los resultados",
+        "referencia": "LIDEI 2022 (OEI), cap. 1, págs. 12-14",
+        "etiquetas": ["liderazgo distribuido", "resultados de aprendizaje"]
+      },
+      {
+        "tipo": "OPCION_MULTIPLE",
+        "dificultad": "DIFICIL",
+        "nivelBloom": "APLICAR",
+        "enunciado": "Un director quiere implementar la autoevaluación institucional en su centro. Según el enfoque de LIDEI 2022, ¿cómo debe concebirla?",
+        "opciones": [
+          { "texto": "Como una práctica dirigida a la mejora de la calidad y fuente de información para la toma de decisiones, no tanto como ejercicio burocrático de control del cumplimiento normativo", "correcta": true, "porQue": "Es la concepción de autoevaluación que defiende el texto." },
+          { "texto": "Como un mecanismo de verificación del cumplimiento normativo para informar a la autoridad superior", "correcta": false, "porQue": "El texto se aparta expresamente del control burocrático y la verificación normativa." },
+          { "texto": "Como una evaluación externa del desempeño docente a cargo de inspectores", "correcta": false, "porQue": "La autoevaluación es interna e institucional; la evaluación docente externa es otro proceso." },
+          { "texto": "Como un ejercicio limitado a la dimensión pedagógica, sin abordar lo organizativo", "correcta": false, "porQue": "La autoevaluación cuestiona las prácticas en las dimensiones organizativa, curricular y pedagógica." }
+        ],
+        "explicacion": "La autoevaluación institucional es un ejercicio de cuestionamiento de las prácticas en las dimensiones organizativa, curricular y pedagógica, orientado a la mejora de la calidad y a la toma de decisiones.",
+        "citaTextual": "prácticas de autoevaluación dirigidas a la mejora de la calidad y no tanto para el ejercicio burocrático de control y verificación del cumplimiento normativo",
+        "referencia": "LIDEI 2022 (OEI), cap. 1, págs. 12-14",
+        "etiquetas": ["autoevaluación institucional", "toma de decisiones", "caso"]
+      }
+    ]
+  },
+  {
+    "fragmentoRef": "lidei2022-b005",
+    "preguntas": [
+      {
+        "tipo": "OPCION_MULTIPLE",
+        "dificultad": "DIFICIL",
+        "nivelBloom": "RECORDAR",
+        "enunciado": "El modelo de evaluación orientada a la toma de decisiones de Stufflebeam (2003), citado en LIDEI 2022, considera cuatro variables interdependientes. ¿Cuáles son?",
+        "opciones": [
+          { "texto": "Contexto, insumos, proceso y resultados", "correcta": true, "porQue": "Son las cuatro variables del modelo, conocido como CIPP." },
+          { "texto": "Contexto, insumos, productos e impacto", "correcta": false, "porQue": "\"Impacto\" no es una de las cuatro variables del modelo citado." },
+          { "texto": "Diagnóstico, insumos, proceso y resultados", "correcta": false, "porQue": "La primera variable es el contexto, no el diagnóstico." },
+          { "texto": "Contexto, clima escolar, proceso y resultados", "correcta": false, "porQue": "El clima escolar lo mencionan Sanders y Davidson (2003) dentro de las variables de contexto; no es una variable de Stufflebeam." }
+        ],
+        "explicacion": "Stufflebeam propone evaluar contexto, insumos, proceso y resultados, y aplica el modelo a la evaluación institucional con estándares profesionales y una visión holística.",
+        "citaTextual": "cuatro variables interdependientes: contexto, insumos, proceso y resultados (Stufflebeam, 2003)",
+        "referencia": "LIDEI 2022 (OEI), cap. 1, págs. 14-15",
+        "etiquetas": ["evaluación institucional", "Stufflebeam"]
+      },
+      {
+        "tipo": "OPCION_MULTIPLE",
+        "dificultad": "DIFICIL",
+        "nivelBloom": "COMPRENDER",
+        "enunciado": "Según LIDEI 2022, en el liderazgo escolar amplio y distribuido, la dimensión pedagógica (entendida en muchos textos como liderazgo instruccional) pone el foco en:",
+        "opciones": [
+          { "texto": "El aprendizaje del alumnado y no en la administración y gestión de la escuela", "correcta": true, "porQue": "Es la definición que da el texto (Rodrigues y Lima, 2021)." },
+          { "texto": "La administración eficiente de los recursos y la gestión de la escuela", "correcta": false, "porQue": "Es justamente lo que el liderazgo instruccional deja de priorizar." },
+          { "texto": "La inclusión e integración del alumnado según los ODS", "correcta": false, "porQue": "Esa es la otra dimensión del liderazgo amplio y distribuido (inclusión e integración), no la pedagógica." },
+          { "texto": "El uso del poder para asignar recursos y gestionar conflictos", "correcta": false, "porQue": "Esto describe los modelos de origen político (Berkovich y Benoliel, 2020)." }
+        ],
+        "explicacion": "El liderazgo amplio y distribuido tiene una dimensión pedagógica (foco en el aprendizaje del alumnado) y otra de inclusión e integración del alumnado, reconocida en los ODS.",
+        "citaTextual": "en la que el foco del liderazgo está en el aprendizaje del alumnado y no en la administración y gestión de la escuela",
+        "referencia": "LIDEI 2022 (OEI), cap. 1, págs. 14-15",
+        "etiquetas": ["liderazgo instruccional", "liderazgo pedagógico"]
+      },
+      {
+        "tipo": "OPCION_MULTIPLE",
+        "dificultad": "DIFICIL",
+        "nivelBloom": "COMPRENDER",
+        "enunciado": "Según el estudio de Brown et al. (2021) citado en LIDEI 2022, durante la pandemia los directores sintieron la necesidad de recurrir, pese a los beneficios del liderazgo distribuido, a:",
+        "opciones": [
+          { "texto": "El liderazgo situacional", "correcta": true, "porQue": "El estudio indica que los directores recurrieron al liderazgo situacional para enfrentar los desafíos." },
+          { "texto": "El liderazgo transaccional basado en incentivos", "correcta": false, "porQue": "El texto no menciona el liderazgo transaccional." },
+          { "texto": "Un liderazgo distribuido basado en el consenso", "correcta": false, "porQue": "Ese es el enfoque cuyos beneficios se reconocen, pero los directores sintieron la necesidad de recurrir a otro modo." },
+          { "texto": "El liderazgo moral, centrado en valores consensuados", "correcta": false, "porQue": "Los modelos de origen moral se mencionan en otro pasaje (Berkovich y Benoliel, 2020), no como respuesta a la pandemia." }
+        ],
+        "explicacion": "Ante la multitud de desafíos de la pandemia, los directores combinaron el liderazgo distribuido con un liderazgo situacional.",
+        "citaTextual": "los propios directores sienten la necesidad de recurrir a otros modos de liderazgo en forma de liderazgo situacional",
+        "referencia": "LIDEI 2022 (OEI), cap. 1, págs. 14-15",
+        "etiquetas": ["liderazgo situacional", "pandemia"]
+      }
+    ]
+  }
+]
