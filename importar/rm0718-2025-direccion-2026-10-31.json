@@ -1,0 +1,254 @@
+[
+  { "fragmentoRef": "rm0718-2025-reg-art01", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según la RM 0718/2025, ¿qué busca garantizar el Reglamento para la Implementación de Maestros Itinerantes en Atención Multigrado?",
+      "opciones": [
+        { "texto": "El acceso, la permanencia y la conclusión de estudios de las poblaciones de fronteras, riberas de río y zonas de difícil acceso, en Primaria y Secundaria de Personas Jóvenes y Adultas", "correcta": true, "porQue": "Es el objeto del Art. 1." },
+        { "texto": "La formación técnica de nivel Técnico Medio en comunidades rurales", "correcta": false, "porQue": "El reglamento se refiere a la Primaria y la Secundaria de la EPJA (formación humanística)." },
+        { "texto": "La educación inicial en familia comunitaria", "correcta": false, "porQue": "No corresponde a Educación Alternativa." },
+        { "texto": "La educación especial de personas con discapacidad en el área urbana", "correcta": false, "porQue": "El ámbito son la EPJA y los contextos dispersos." }
+      ],
+      "explicacion": "Los maestros itinerantes llevan la EPJA humanística a fronteras, riberas de río y zonas de difícil acceso.",
+      "citaTextual": "garantizando el acceso, la permanencia y la conclusión de estudios de las poblaciones ubicadas en fronteras, riberas de río y zonas de difícil acceso",
+      "referencia": "RM 0718/2025, Reglamento, Art. 1, pág. 7", "etiquetas": ["maestros itinerantes", "multigrado"] }
+  ]},
+  { "fragmentoRef": "rm0718-2025-reg-art03", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Según el alcance de la RM 0718/2025, ¿a qué comunidades responde la implementación de maestros itinerantes en atención multigrado?",
+      "opciones": [
+        { "texto": "A poblaciones y comunidades que no cuentan con un Centro de Educación Alternativa, en áreas con baja densidad de participantes", "correcta": true, "porQue": "Es el alcance del Art. 3." },
+        { "texto": "A comunidades urbanas con sobrepoblación en sus CEA", "correcta": false, "porQue": "Está dirigida a áreas con baja densidad de participantes." },
+        { "texto": "A cualquier CEA que quiera ampliar su horario", "correcta": false, "porQue": "Responde a comunidades sin CEA, en contextos específicos." },
+        { "texto": "A unidades educativas regulares sin maestros", "correcta": false, "porQue": "Se refiere a la EPJA de Educación Alternativa." }
+      ],
+      "explicacion": "Es una estrategia para llegar a quien no tiene un CEA cercano: fronteras, riberas de río y zonas de difícil acceso con pocos participantes.",
+      "citaTextual": "responde alas necesidades de poblaciones y comunidades que no cuentan con un Centro",
+      "referencia": "RM 0718/2025, Reglamento, Art. 3, págs. 7-8", "etiquetas": ["alcance", "caso"] }
+  ]},
+  { "fragmentoRef": "rm0718-2025-reg-art05", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "En las definiciones de la RM 0718/2025, ¿a quiénes está destinada la Educación Secundaria de Personas Jóvenes y Adultas?",
+      "opciones": [
+        { "texto": "A personas mayores de diecisiete años que no hayan concluido la secundaria en Educación Regular", "correcta": true, "porQue": "Es la definición del Art. 5, inc. b) del reglamento." },
+        { "texto": "A personas mayores de quince años", "correcta": false, "porQue": "Mayores de quince es la definición de la Primaria EPJA en este reglamento." },
+        { "texto": "A personas mayores de dieciocho años", "correcta": false, "porQue": "Más de 18 años es el requisito del reconocimiento de saberes en Secundaria (RM 0872)." },
+        { "texto": "A personas de cualquier edad", "correcta": false, "porQue": "El reglamento fija una edad." }
+      ],
+      "explicacion": "Este reglamento define la Primaria EPJA (mayores de 15, etapas Elementales y Avanzados) y la Secundaria EPJA (mayores de 17).",
+      "citaTextual": "destinado a personas mayores de diecisiete años que no hayan concluido la educación secundaria",
+      "referencia": "RM 0718/2025, Reglamento, Art. 5, inc. b), pág. 8", "etiquetas": ["definiciones", "EPJA"] }
+  ]},
+  { "fragmentoRef": "rm0718-2025-reg-art10", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Un director de CEA quiere implementar maestros itinerantes en una comunidad ribereña. Según la RM 0718/2025, ¿cuándo debe realizarse el diagnóstico de factibilidad?",
+      "opciones": [
+        { "texto": "Durante un semestre antes, para garantizar su operatividad en el semestre siguiente", "correcta": true, "porQue": "Lo dispone el Art. 10, par. II." },
+        { "texto": "Durante la primera semana del semestre en que se implementa", "correcta": false, "porQue": "Se hace un semestre antes." },
+        { "texto": "Al concluir el primer año de funcionamiento", "correcta": false, "porQue": "Es un diagnóstico previo." },
+        { "texto": "No se requiere diagnóstico si la Distrital lo autoriza", "correcta": false, "porQue": "El diagnóstico es obligatorio y es un requisito (Art. 11)." }
+      ],
+      "explicacion": "El director del CEA lo realiza en coordinación con los maestros, las autoridades comunitarias y territoriales, los representantes de participantes y el Director Distrital.",
+      "citaTextual": "El diagnóstico se desarrollará durante un semestre antes, garantizando su operatividad para el siguiente semestre.",
+      "referencia": "RM 0718/2025, Reglamento, Art. 10, pág. 10", "etiquetas": ["diagnóstico", "planificación", "caso"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según la RM 0718/2025, ¿quién realiza el diagnóstico de factibilidad para implementar maestros itinerantes?",
+      "opciones": [
+        { "texto": "El Director del CEA, en coordinación con maestros, autoridades comunitarias y territoriales, representantes de participantes y el Director Distrital", "correcta": true, "porQue": "Es lo que dispone el Art. 10, par. I." },
+        { "texto": "El Director Departamental, por sí solo", "correcta": false, "porQue": "Lo realiza el director del CEA, de forma coordinada." },
+        { "texto": "Los maestros itinerantes, sin participación del director", "correcta": false, "porQue": "Lo encabeza el director del CEA." },
+        { "texto": "El Gobierno Municipal", "correcta": false, "porQue": "No es quien realiza el diagnóstico." }
+      ],
+      "explicacion": "El diagnóstico es participativo y lo encabeza el director del CEA.",
+      "citaTextual": "El Director del Centro de Educación Alternativa, en coordinación con los maestros, autoridades comunitarias y territoriales, representantes de los estudiantes/participantes y el Director Distrital de Educación, realizará un diagnóstico de factibilidad",
+      "referencia": "RM 0718/2025, Reglamento, Art. 10, pág. 10", "etiquetas": ["diagnóstico"] }
+  ]},
+  { "fragmentoRef": "rm0718-2025-reg-art11", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según la RM 0718/2025, ¿ante quién presenta el Director del CEA la documentación para implementar el servicio de maestros itinerantes?",
+      "opciones": [
+        { "texto": "Ante la Dirección Distrital de Educación", "correcta": true, "porQue": "Lo dispone el Art. 11." },
+        { "texto": "Directamente ante la Subdirección de Educación Alternativa y Especial", "correcta": false, "porQue": "La Subdirección revisa lo que remite la Distrital (Art. 13)." },
+        { "texto": "Ante la Unidad de Asuntos Jurídicos de la DDE", "correcta": false, "porQue": "Jurídicos emite la Resolución Administrativa con el expediente que remite la Subdirección." },
+        { "texto": "Ante el Viceministerio", "correcta": false, "porQue": "El trámite empieza en la Distrital." }
+      ],
+      "explicacion": "Flujo: director del CEA → Distrital → Subdirección de EAyE (revisa) → Asuntos Jurídicos (Resolución Administrativa).",
+      "citaTextual": "el Director del Centro de Educación Alternativa deberá presentar ante la Dirección Distrital de Educación la siguiente documentación",
+      "referencia": "RM 0718/2025, Reglamento, Art. 11, págs. 10-11", "etiquetas": ["trámite", "requisitos"] }
+  ]},
+  { "fragmentoRef": "rm0718-2025-reg-art13-b", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según la RM 0718/2025, si el trámite de maestros itinerantes presenta observaciones, la Subdirección de Educación Alternativa y Especial lo devuelve a la Distrital para que se subsane en un plazo máximo de:",
+      "opciones": [
+        { "texto": "Cinco (5) días hábiles", "correcta": true, "porQue": "Es el plazo del Art. 13, num. 3." },
+        { "texto": "Diez (10) días hábiles", "correcta": false, "porQue": "El plazo es de 5 días hábiles." },
+        { "texto": "Cuarenta y ocho horas", "correcta": false, "porQue": "El plazo es de 5 días hábiles." },
+        { "texto": "Un semestre", "correcta": false, "porQue": "El plazo es de 5 días hábiles." }
+      ],
+      "explicacion": "La DDE, mediante la Subdirección, revisa, remite a Jurídicos si el expediente está completo o devuelve con un informe para subsanar en 5 días hábiles.",
+      "citaTextual": "con un informe fundamentado para su subsanación en un plazo máximo de cinco (5) días hábi",
+      "referencia": "RM 0718/2025, Reglamento, Art. 13, pág. 11", "etiquetas": ["plazos"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según la RM 0718/2025, ¿qué instancia de la DDE emite la Resolución Administrativa que autoriza a los maestros itinerantes, con el expediente que cumple los requisitos?",
+      "opciones": [
+        { "texto": "La Unidad de Asuntos Jurídicos, a la que la Subdirección de EAyE remite el expediente", "correcta": true, "porQue": "Es lo que dispone el Art. 13, num. 2." },
+        { "texto": "La Subdirección de EAyE directamente", "correcta": false, "porQue": "La Subdirección revisa y remite a Jurídicos." },
+        { "texto": "La Unidad de Asuntos Administrativos", "correcta": false, "porQue": "La Resolución Administrativa la emite Jurídicos." },
+        { "texto": "La Dirección Distrital", "correcta": false, "porQue": "La Distrital remite el trámite; no emite la resolución." }
+      ],
+      "explicacion": "La Subdirección de EAyE revisa y la Unidad de Asuntos Jurídicos emite la Resolución Administrativa.",
+      "citaTextual": "Remitir a la Unidad de Asuntos Jurídicos el expediente que cumpla con los requisitos establecidos, para la emisión de la Resolución Administrativa correspondiente.",
+      "referencia": "RM 0718/2025, Reglamento, Art. 13, pág. 11", "etiquetas": ["resolución administrativa"] }
+  ]},
+  { "fragmentoRef": "rm0718-2025-reg-art14", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según la RM 0718/2025, ¿qué vigencia tiene la Resolución Administrativa del servicio de maestros itinerantes?",
+      "opciones": [
+        { "texto": "Tres (3) años, y puede ser revocada por la DDE por causales establecidas", "correcta": true, "porQue": "Es lo que dispone el Art. 14." },
+        { "texto": "Diez años, como el certificado de registro del CEA", "correcta": false, "porQue": "Diez años es la vigencia del registro del centro (RM 0092)." },
+        { "texto": "Un semestre, renovable", "correcta": false, "porQue": "La vigencia es de tres años." },
+        { "texto": "Indefinida, mientras exista la comunidad", "correcta": false, "porQue": "Tiene vigencia definida y es revocable." }
+      ],
+      "explicacion": "La Resolución Administrativa del servicio itinerante dura 3 años y la DDE puede revocarla.",
+      "citaTextual": "La Resolución Administrativa tendrá una vigencia de tres (3) años, y podrá ser revocada por la Dirección Departamental de Educación",
+      "referencia": "RM 0718/2025, Reglamento, Art. 14, págs. 11-12", "etiquetas": ["vigencia"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Los informes de seguimiento muestran inasistencia reiterada e injustificada del maestro itinerante a sus comunidades. Según la RM 0718/2025, ¿qué puede hacer la DDE?",
+      "opciones": [
+        { "texto": "Revocar la Resolución Administrativa del servicio, por ser causal de revocatoria", "correcta": true, "porQue": "La inasistencia reiterada e injustificada es la causal 1 del Art. 14." },
+        { "texto": "Nada, hasta que venza el plazo de tres años", "correcta": false, "porQue": "La resolución puede revocarse antes por causales." },
+        { "texto": "Solo amonestar verbalmente al maestro", "correcta": false, "porQue": "La norma prevé la revocatoria del servicio." },
+        { "texto": "Trasladar el servicio a una unidad educativa regular", "correcta": false, "porQue": "No es una medida prevista." }
+      ],
+      "explicacion": "Causales de revocatoria: inasistencia reiterada e injustificada (del maestro o de los participantes), incumplimiento de la carga horaria, entre otras.",
+      "citaTextual": "inasistencia reiterada e injustificada del maestro itinerante o de los estudiantes/participantes a las actividades educativas",
+      "referencia": "RM 0718/2025, Reglamento, Art. 14, págs. 11-12", "etiquetas": ["revocatoria", "caso"] }
+  ]},
+  { "fragmentoRef": "rm0718-2025-reg-art15", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según la RM 0718/2025, ¿quién elabora el cronograma semestral de rotación entre comunidades de los maestros itinerantes?",
+      "opciones": [
+        { "texto": "El Director del CEA, en coordinación con los maestros itinerantes, garantizando la continuidad pedagógica/andragógica", "correcta": true, "porQue": "Lo dispone el Art. 15, par. I." },
+        { "texto": "Las autoridades comunitarias, por sí solas", "correcta": false, "porQue": "Lo elabora el director con los maestros." },
+        { "texto": "El Director Distrital", "correcta": false, "porQue": "No le corresponde según el Art. 15." },
+        { "texto": "Cada participante, según su disponibilidad", "correcta": false, "porQue": "El cronograma de trabajo se consensúa con los participantes (Art. 11), pero la rotación la planifican el director y los maestros." }
+      ],
+      "explicacion": "La planificación es contextualizada: articula los Campos de Saberes con las potencialidades productivas, y los módulos emergentes responden al diagnóstico comunitario.",
+      "citaTextual": "elaborará un cronograma semestral de rotación entre comunidades, garantizando la continuidad pedagógica/andragógica",
+      "referencia": "RM 0718/2025, Reglamento, Art. 15, pág. 12", "etiquetas": ["planificación"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según la RM 0718/2025, ¿a qué deben responder los módulos integrados emergentes del servicio itinerante?",
+      "opciones": [
+        { "texto": "A los diagnósticos comunitarios, asegurando la pertinencia cultural y lingüística", "correcta": true, "porQue": "Lo establece el Art. 15, par. III." },
+        { "texto": "A un programa nacional único para todas las comunidades", "correcta": false, "porQue": "Deben ser contextualizados." },
+        { "texto": "A los resultados de pruebas estandarizadas", "correcta": false, "porQue": "No es el criterio del reglamento." },
+        { "texto": "A la preferencia del maestro itinerante", "correcta": false, "porQue": "Se basan en el diagnóstico comunitario." }
+      ],
+      "explicacion": "Los módulos emergentes parten de los temas generadores del diagnóstico comunitario y del Proyecto Sociocomunitario Productivo.",
+      "citaTextual": "Los módulos integrados emergentes responderán a los diagnósticos comunitarios, asegurando la pertinencia cultural y lingúística.",
+      "referencia": "RM 0718/2025, Reglamento, Art. 15, pág. 12", "etiquetas": ["módulos emergentes", "pertinencia"] }
+  ]},
+  { "fragmentoRef": "rm0718-2025-reg-art18", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según la RM 0718/2025, ¿qué carga horaria mensual cumple el maestro itinerante en la formación humanística y cuántas comunidades atiende?",
+      "opciones": [
+        { "texto": "Ochenta (80) horas, distribuidas en la atención de dos comunidades", "correcta": true, "porQue": "Es la carga del Art. 18, par. I." },
+        { "texto": "Cien horas, en tres comunidades", "correcta": false, "porQue": "Son 80 horas y dos comunidades." },
+        { "texto": "Cuarenta horas, en una comunidad", "correcta": false, "porQue": "Son 80 horas y dos comunidades." },
+        { "texto": "Ochenta horas, en cuatro comunidades", "correcta": false, "porQue": "Son dos comunidades." }
+      ],
+      "explicacion": "El maestro alterna semanalmente entre las comunidades A y B, con sesiones presenciales, hasta sumar 80 horas al mes.",
+      "citaTextual": "cumplirá una carga horaria mensual de ochenta (80) horas para la formación humanística, distribuidas en la atención de dos comunidades",
+      "referencia": "RM 0718/2025, Reglamento, Art. 18, págs. 13-14", "etiquetas": ["carga horaria"] }
+  ]},
+  { "fragmentoRef": "rm0718-2025-reg-art16", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "¿Cuál de las siguientes es una función del Director del CEA en el servicio de maestros itinerantes, según la RM 0718/2025?",
+      "opciones": [
+        { "texto": "Gestionar recursos logísticos y educativos para el funcionamiento del servicio itinerante", "correcta": true, "porQue": "Es una función del Art. 16, num. 2." },
+        { "texto": "Emitir la Resolución Administrativa del servicio", "correcta": false, "porQue": "La emite la DDE, a través de Jurídicos." },
+        { "texto": "Registrar personalmente las calificaciones en el SIE", "correcta": false, "porQue": "Registrar las calificaciones es función de los maestros itinerantes (Art. 17)." },
+        { "texto": "Elaborar los informes semestrales de avance curricular de cada comunidad", "correcta": false, "porQue": "Los elaboran los maestros itinerantes (Art. 17) y los presentan al director (Art. 27)." }
+      ],
+      "explicacion": "Director: supervisar, gestionar recursos, garantizar los planes y programas, coordinar con la comunidad y encargarse de la inscripción. Maestro itinerante: desarrollar procesos, elaborar informes, desarrollar módulos y registrar calificaciones.",
+      "citaTextual": "Gestionar recursos logísticos y educativos para el funcionamiento del servicio itinerante.",
+      "referencia": "RM 0718/2025, Reglamento, Art. 16, págs. 12-13", "etiquetas": ["funciones del director", "caso"] }
+  ]},
+  { "fragmentoRef": "rm0718-2025-reg-art17", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según la RM 0718/2025, ¿quién registra en el SIE las calificaciones de los participantes atendidos por el servicio itinerante?",
+      "opciones": [
+        { "texto": "Los maestros itinerantes", "correcta": true, "porQue": "Es la función del Art. 17, num. 4." },
+        { "texto": "El Director Distrital", "correcta": false, "porQue": "No le corresponde." },
+        { "texto": "La Subdirección de EAyE", "correcta": false, "porQue": "No le corresponde." },
+        { "texto": "Las autoridades comunitarias", "correcta": false, "porQue": "No tienen acceso ni esa función." }
+      ],
+      "explicacion": "El maestro itinerante desarrolla los procesos, elabora informes semestrales, desarrolla módulos emergentes y registra las calificaciones en el SIE.",
+      "citaTextual": "Registrar en el Sistema de Información Educativa (SIE) las calificaciones, de los estudiantes/participantes.",
+      "referencia": "RM 0718/2025, Reglamento, Art. 17, pág. 13", "etiquetas": ["funciones del maestro itinerante"] }
+  ]},
+  { "fragmentoRef": "rm0718-2025-reg-art25", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según la RM 0718/2025, ¿qué caracteriza la atención multigrado con maestros itinerantes?",
+      "opciones": [
+        { "texto": "Atender simultáneamente a participantes de diferentes etapas en un mismo espacio formativo", "correcta": true, "porQue": "Es la definición del Art. 25." },
+        { "texto": "Atender cada etapa en un aula y un horario separados", "correcta": false, "porQue": "Eso es lo contrario de la atención multigrado." },
+        { "texto": "Atender solo a una etapa por comunidad", "correcta": false, "porQue": "Se atienden varias etapas a la vez." },
+        { "texto": "Impartir clases exclusivamente a distancia", "correcta": false, "porQue": "Las sesiones son presenciales y obligatorias (Art. 22)." }
+      ],
+      "explicacion": "La atención multigrado se adapta a las características demográficas y organizativas del entorno.",
+      "citaTextual": "atendiendo simultáneamente a estudiantes/participantes de diferentes etapas en un mismo espacio formativo",
+      "referencia": "RM 0718/2025, Reglamento, Art. 25, pág. 15", "etiquetas": ["multigrado"] }
+  ]},
+  { "fragmentoRef": "rm0718-2025-reg-art20", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según la RM 0718/2025, ¿a qué normas se sujetan los periodos de inscripción del servicio de maestros itinerantes?",
+      "opciones": [
+        { "texto": "A los plazos y requisitos de las Normas Generales para la Gestión Educativa del Subsistema de Educación Alternativa y Especial (RM 0001 de cada gestión)", "correcta": true, "porQue": "Lo dispone el Art. 20, par. I." },
+        { "texto": "A un calendario propio, distinto del de los CEA", "correcta": false, "porQue": "Se remite a la RM 0001 de cada gestión." },
+        { "texto": "A lo que decida cada comunidad", "correcta": false, "porQue": "Los periodos son normativos." },
+        { "texto": "Al calendario del Subsistema de Educación Regular", "correcta": false, "porQue": "Se aplican las normas de Educación Alternativa y Especial." }
+      ],
+      "explicacion": "El servicio itinerante sigue el calendario y las edades mínimas de la RM 0001 de cada gestión (por ejemplo, 15 años para Elementales y 17 para Aplicados).",
+      "citaTextual": "Los períodos de inscripción se sujetarán a los plazos y requisitos establecidos en las Normas Generales para la Gestión Educativa del Subsistema de Educación Alternativa y Especial",
+      "referencia": "RM 0718/2025, Reglamento, Art. 20, pág. 14", "etiquetas": ["inscripciones", "RM 0001"] }
+  ]},
+  { "fragmentoRef": "rm0718-2025-reg-art28", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según la RM 0718/2025, al inicio de cada semestre, ¿qué deben presentar los maestros itinerantes a los participantes y al Director del CEA?",
+      "opciones": [
+        { "texto": "La planificación de aprendizajes esperados, con los objetivos holísticos y los contenidos esenciales, en el marco de los Lineamientos Curriculares de la EPJA", "correcta": true, "porQue": "Lo dispone el Art. 28, par. I." },
+        { "texto": "Solo la lista de asistencia del semestre anterior", "correcta": false, "porQue": "Se presenta la planificación de aprendizajes." },
+        { "texto": "El informe de impacto anual", "correcta": false, "porQue": "El informe anual lo elaboran las DDE, las Distritales y los directores (Disposición Final Tercera)." },
+        { "texto": "La evaluación modular final", "correcta": false, "porQue": "La evaluación modular la hace el director (par. II)." }
+      ],
+      "explicacion": "Inicio de semestre: el maestro presenta la planificación. Durante el proceso: el director realiza una evaluación modular del logro de aprendizajes y del perfil de salida.",
+      "citaTextual": "Al inicio de cada semestre, los maestros itinerantes presentarán a los estudiantes/participantes y al Director del Centro de Educación Alternativa la planificación de aprendizajes esperados",
+      "referencia": "RM 0718/2025, Reglamento, Art. 28, pág. 16", "etiquetas": ["evaluación de aprendizajes"] }
+  ]},
+  { "fragmentoRef": "rm0718-2025-reg-df03", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según la RM 0718/2025, ¿a quién deben presentar las DDE, las Distritales y los directores de CEA el informe anual sobre el impacto del servicio de maestros itinerantes?",
+      "opciones": [
+        { "texto": "A la Dirección General de Educación Alternativa", "correcta": true, "porQue": "Lo dispone la Disposición Final Tercera." },
+        { "texto": "Al Consejo Educativo Social Comunitario", "correcta": false, "porQue": "No es el destinatario." },
+        { "texto": "A la Asamblea Legislativa Plurinacional", "correcta": false, "porQue": "No es el destinatario." },
+        { "texto": "Al Gobierno Autónomo Departamental", "correcta": false, "porQue": "No es el destinatario." }
+      ],
+      "explicacion": "El informe de impacto es anual y se dirige a la DGEA; las modificaciones del reglamento se proponen al VEAE mediante la DGEA.",
+      "citaTextual": "elaborarán un informe anual sobre el impacto de la Implementación de Maestros Itinerantes",
+      "referencia": "RM 0718/2025, Reglamento, Disposición Final Tercera, pág. 17", "etiquetas": ["informe de impacto"] }
+  ]},
+  { "fragmentoRef": "rm0718-2025-reg-df01", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según la RM 0718/2025, ¿cómo se modifica el Reglamento de maestros itinerantes?",
+      "opciones": [
+        { "texto": "Proponiendo la modificación al Viceministerio de EAyE, a través de la DGEA, para que la evalúe y apruebe el Ministerio de Educación", "correcta": true, "porQue": "Es lo que dispone la Disposición Final Primera." },
+        { "texto": "Por resolución de cada Dirección Departamental", "correcta": false, "porQue": "La modificación la aprueba el Ministerio." },
+        { "texto": "Por acuerdo de los directores de CEA del distrito", "correcta": false, "porQue": "No es la vía prevista." },
+        { "texto": "Mediante un instructivo de la Dirección Distrital", "correcta": false, "porQue": "No es la vía prevista." }
+      ],
+      "explicacion": "Modificaciones: propuesta al VEAE mediante la DGEA y aprobación del Ministerio. Situaciones no previstas: instructivo del VEAE con informe técnico de la DGEA.",
+      "citaTextual": "Cualquier modificación a este Reglamento deberá ser propuesta ante el Viceministerio de Educación Alternativa y Especial, a través de la Dirección General de Educación Alternativa, para ser evaluada y aprobada por el Ministerio de Educación.",
+      "referencia": "RM 0718/2025, Reglamento, Disposición Final Primera, págs. 16-17", "etiquetas": ["modificación normativa"] }
+  ]}
+]
