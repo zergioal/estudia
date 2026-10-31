@@ -1,0 +1,117 @@
+[
+  { "fragmentoRef": "rm0679-2025-reg4-art12", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Concluido el proceso formativo técnico, el CEA generó el CUT-ETTP y registró la solicitud en certificacionalt.sie.gob.bo. Según la RM 0679/2025, ¿en qué plazo y a quién debe remitir las carpetas individuales?",
+      "opciones": [
+        { "texto": "A la Dirección Distrital Educativa, organizadas por carrera, en un plazo máximo de 72 horas", "correcta": true, "porQue": "Art. 12, num. 1." },
+        { "texto": "A la Dirección Departamental, en 10 días hábiles", "correcta": false, "porQue": "10 días hábiles es el plazo de reimpresión (Art. 28); las carpetas van primero a la Distrital." },
+        { "texto": "Al Ministerio de Educación, en 24 horas", "correcta": false, "porQue": "No coincide con la RM." },
+        { "texto": "A la Dirección Distrital, en 15 días", "correcta": false, "porQue": "Capciosa: la instancia es correcta, pero el plazo es de 72 horas." }
+      ],
+      "explicacion": "Después, la Distrital revisa la documentación y la valida en el sistema.",
+      "citaTextual": "remitirá las carpetas individuales de las y los estudiantes/participantes, organizadas por carrera, ala Dirección Distrital Educativa, dentro de un plazo máximo de 72 horas",
+      "referencia": "RM 0679/2025, Reglamento, Art. 12, págs. 10-11", "etiquetas": ["certificación técnica", "plazos", "caso"] }
+  ]},
+  { "fragmentoRef": "rm0679-2025-reg5-art28", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según la RM 0679/2025, ¿cuál es el costo total del trámite de anulación y reimpresión de certificados técnicos y cómo se distribuye?",
+      "opciones": [
+        { "texto": "Bs 100: Bs 30 a la cuenta de la Dirección Departamental y Bs 70 a la cuenta del Ministerio de Educación", "correcta": true, "porQue": "Art. 28, par. II." },
+        { "texto": "Bs 100: Bs 70 a la Departamental y Bs 30 al Ministerio", "correcta": false, "porQue": "Capciosa: la distribución está invertida." },
+        { "texto": "Bs 50, íntegros al Ministerio", "correcta": false, "porQue": "No coincide." },
+        { "texto": "Es gratuito", "correcta": false, "porQue": "Tiene un costo de Bs 100." }
+      ],
+      "explicacion": "La Departamental emite el nuevo certificado en un plazo máximo de 10 días hábiles.",
+      "citaTextual": "tiene un costo total de Bs 100 (cien 00/100 Bolivianos)",
+      "referencia": "RM 0679/2025, Reglamento, Art. 28, págs. 18-19", "etiquetas": ["costos", "memorística", "capciosa"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según la RM 0679/2025, ¿en qué plazo debe la Dirección Departamental emitir el nuevo certificado tras la anulación?",
+      "opciones": [
+        { "texto": "En un máximo de diez (10) días hábiles desde que recibe el comprobante de pago y la Resolución Administrativa", "correcta": true, "porQue": "Art. 28, par. I." },
+        { "texto": "En 72 horas", "correcta": false, "porQue": "72 horas es el plazo de remisión de carpetas a la Distrital (Art. 12)." },
+        { "texto": "En 30 días calendario", "correcta": false, "porQue": "No coincide." },
+        { "texto": "En 10 días calendario desde la solicitud", "correcta": false, "porQue": "Capciosa: son días hábiles y se cuentan desde que recibe el pago y la Resolución." }
+      ],
+      "explicacion": "Memorística sobre plazos.",
+      "citaTextual": "deberá emitir el nuevo certificado o título en un plazo máximo de diez (10) días hábiles",
+      "referencia": "RM 0679/2025, Reglamento, Art. 28, págs. 18-19", "etiquetas": ["plazos", "capciosa"] }
+  ]},
+  { "fragmentoRef": "rm0679-2025-reg4-art07", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según la RM 0679/2025, ¿qué instancia está autorizada para DISEÑAR los formatos de los certificados de Técnico Básico, Técnico Auxiliar y del Título de Técnico Medio?",
+      "opciones": [
+        { "texto": "El Ministerio de Educación, a través de la Unidad de Comunicación Social, en coordinación con el VEAE", "correcta": true, "porQue": "Art. 7, par. I." },
+        { "texto": "La Unidad de Gestión de Personal del SEP y Sistemas Informáticos", "correcta": false, "porQue": "Esa unidad hace los ajustes en el sistema para imprimir (par. II), no el diseño." },
+        { "texto": "Cada Dirección Departamental", "correcta": false, "porQue": "No es lo que dispone la RM." },
+        { "texto": "Cada CEA", "correcta": false, "porQue": "No es lo que dispone la RM." }
+      ],
+      "explicacion": "Capciosa: hay que distinguir quién diseña los formatos de quién ajusta el sistema de impresión.",
+      "citaTextual": "a través de la Unidad de Comunicación Social, es la instancia autorizada para diseñar los formatos de los certificados",
+      "referencia": "RM 0679/2025, Reglamento, Art. 7, pág. 9", "etiquetas": ["formatos", "capciosa"] }
+  ]},
+  { "fragmentoRef": "rm0679-2025-reg4-art14", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Un egresado del CEA necesita regularizar la emisión de su certificado de Técnico Auxiliar. Según la RM 0679/2025, ¿ante quién presenta la solicitud?",
+      "opciones": [
+        { "texto": "Ante la Dirección Departamental de Educación, por sí o mediante apoderado, con los requisitos del Art. 11", "correcta": true, "porQue": "Art. 14, par. I." },
+        { "texto": "Ante el CEA donde estudió, exclusivamente", "correcta": false, "porQue": "La regularización se presenta ante la Departamental." },
+        { "texto": "Ante la Dirección Distrital", "correcta": false, "porQue": "Confusión de instancia." },
+        { "texto": "Ante el Ministerio de Trabajo", "correcta": false, "porQue": "No corresponde." }
+      ],
+      "explicacion": "La Departamental emite los certificados a través de su Unidad de Asuntos Administrativos.",
+      "citaTextual": "presentando los requisitos establecidos en el Artículo 11 del presente Reglamento ante la E Dirección Departamental de Educación",
+      "referencia": "RM 0679/2025, Reglamento, Art. 14, págs. 11-12", "etiquetas": ["regularización", "caso"] }
+  ]},
+  { "fragmentoRef": "rm0679-2025-reg5-art19", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según la RM 0679/2025, ¿en qué casos se emite el Certificado Supletorio del Título de Técnico Medio?",
+      "opciones": [
+        { "texto": "En casos de extravío, hurto, robo o deterioro, a solicitud del interesado y previo cumplimiento de requisitos", "correcta": true, "porQue": "Art. 19." },
+        { "texto": "Solo por extravío", "correcta": false, "porQue": "Incluye también hurto, robo y deterioro." },
+        { "texto": "De oficio, cada cinco años", "correcta": false, "porQue": "Se emite a solicitud del interesado." },
+        { "texto": "Cuando el titular cambia de residencia", "correcta": false, "porQue": "No es un supuesto de la RM." }
+      ],
+      "explicacion": "Compárese con el certificado de competencias (RM 0531), que exige denuncia en la FELCC y dos publicaciones.",
+      "citaTextual": "se emitirá en casos de extravío, hurto, robo o deterioro",
+      "referencia": "RM 0679/2025, Reglamento, Art. 19, pág. 15", "etiquetas": ["certificado supletorio"] }
+  ]},
+  { "fragmentoRef": "rm0679-2025-reg5-art24", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "¿Cuál de los siguientes NO es un requisito para la legalización de certificados técnicos según el Art. 24 de la RM 0679/2025?",
+      "opciones": [
+        { "texto": "Certificado de antecedentes policiales", "correcta": true, "porQue": "No figura entre los requisitos." },
+        { "texto": "Fotocopia simple de la cédula de identidad", "correcta": false, "porQue": "Sí es un requisito." },
+        { "texto": "Original y fotocopia del certificado o título a legalizar", "correcta": false, "porQue": "Sí es un requisito." },
+        { "texto": "Comprobante original del depósito bancario por la legalización", "correcta": false, "porQue": "Sí es un requisito." }
+      ],
+      "explicacion": "Si el trámite lo hace un apoderado, se adjunta una fotocopia simple del poder notariado, que se verifica con el original.",
+      "citaTextual": "Fotocopia simple de la Cédula de Identidad. 2. Original y fotocopia del certificado y/o título a legalizar.",
+      "referencia": "RM 0679/2025, Reglamento, Art. 24, pág. 17", "etiquetas": ["legalización", "EXCEPTO"] }
+  ]},
+  { "fragmentoRef": "rm0679-2025-reg4-art05", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según la RM 0679/2025, ¿qué es la firma electrónica?",
+      "opciones": [
+        { "texto": "El equivalente electrónico de la firma manuscrita, por el que una persona acepta y valida un contenido electrónico a través de un medio electrónico legítimo y permitido", "correcta": true, "porQue": "Art. 5, inc. b)." },
+        { "texto": "Una imagen escaneada de la firma manuscrita", "correcta": false, "porQue": "No es la definición." },
+        { "texto": "Una representación gráfica del nombre como prueba de identidad", "correcta": false, "porQue": "Esa es la definición de firma manuscrita (inc. c)." },
+        { "texto": "Una contraseña personal", "correcta": false, "porQue": "No es la definición." }
+      ],
+      "explicacion": "La RM 180/2024 autoriza reproducir la firma electrónica del Ministro.",
+      "citaTextual": "Es el equivalente electrónico de la firma manuscrita, donde una persona acepta y valida el contenido electrónico",
+      "referencia": "RM 0679/2025, Reglamento, Art. 5, pág. 8", "etiquetas": ["firma electrónica", "capciosa"] }
+  ]},
+  { "fragmentoRef": "rm0679-2025-reg3-art03", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "En el marco normativo de la RM 0679/2025, ¿qué resolución autoriza la reproducción de la firma electrónica de la o el Ministro de Educación?",
+      "opciones": [
+        { "texto": "La RM 180/2024, de 8 de marzo de 2024", "correcta": true, "porQue": "Art. 3, inc. g)." },
+        { "texto": "La RM 183/2024", "correcta": false, "porQue": "Aprueba los Reglamentos de Evaluación de la EPJA y de la Educación Permanente." },
+        { "texto": "La RM 1040/2022", "correcta": false, "porQue": "Aprueba los lineamientos curriculares." },
+        { "texto": "El DS 813", "correcta": false, "porQue": "Es el reglamento de las Direcciones Departamentales." }
+      ],
+      "explicacion": "Capciosa: la RM 180 y la RM 183 son casi idénticas en número y fecha.",
+      "citaTextual": "Resolución Ministerial N” 180/2024, de fecha 8 de marzo de 2024 que autoriza la reproducción de la firma electrónica",
+      "referencia": "RM 0679/2025, Reglamento, Art. 3, pág. 7", "etiquetas": ["marco normativo", "capciosa"] }
+  ]}
+]

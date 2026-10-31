@@ -1,0 +1,119 @@
+[
+  { "fragmentoRef": "rm0531-2023-reg-art25", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Un CEA de Educación Permanente recibe 75 postulantes para certificar la ocupación de albañil. Según el Reglamento de la RM 0531/2023, ¿cuántos evaluadores necesita como mínimo?",
+      "opciones": [
+        { "texto": "Tres, porque la proporción es de un evaluador por cada 30 postulantes como máximo", "correcta": true, "porQue": "Art. 25, par. II: 75 ÷ 30 = 2,5, es decir, 3 evaluadores." },
+        { "texto": "Dos, uno por cada 50 postulantes", "correcta": false, "porQue": "La proporción es de 1 por 30." },
+        { "texto": "Uno, porque basta un experto", "correcta": false, "porQue": "Excede el máximo de 30 por evaluador." },
+        { "texto": "Ocho, uno por cada 10 postulantes", "correcta": false, "porQue": "10 es el número mínimo de expertos para el taller de mapeo (Art. 40)." }
+      ],
+      "explicacion": "El director designa a los evaluadores por memorándum, y la Subdirección rubrica la nota de agradecimiento.",
+      "citaTextual": "será proporcional de un (1) evaluador/a por cada treinta (30) postulantes como máximo",
+      "referencia": "RM 0531/2023, Reglamento, Art. 25, pág. 26", "etiquetas": ["evaluadores", "cálculo", "caso"] }
+  ]},
+  { "fragmentoRef": "rm0531-2023-reg-art37", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Al revisar las carpetas de certificación de competencias, el director del CEA detecta firmas faltantes subsanables. Según el Reglamento de la RM 0531/2023, ¿qué corresponde?",
+      "opciones": [
+        { "texto": "Devolver la carpeta al supervisor designado, que debe regularizarla en un plazo máximo de 10 días hábiles", "correcta": true, "porQue": "Art. 37, par. II." },
+        { "texto": "Anular el proceso de evaluación", "correcta": false, "porQue": "Lo subsanable se regulariza; no se anula." },
+        { "texto": "Devolverla al postulante para que la corrija en 30 días", "correcta": false, "porQue": "Se devuelve al supervisor, y el plazo es de 10 días hábiles." },
+        { "texto": "Remitirla a la Subdirección para que la regularice en 15 días", "correcta": false, "porQue": "15 días es el plazo para el mapeo de un estándar ocupacional (Art. 40)." }
+      ],
+      "explicacion": "Las carpetas sin observaciones siguen el proceso de certificación.",
+      "citaTextual": "se devolverá la carpeta al supervisor designado al proceso de evaluación, quien tiene la obligación de regularizar la o las carpetas(s), en un plazo máximo de 10 días hábiles",
+      "referencia": "RM 0531/2023, Reglamento, Art. 37, pág. 30", "etiquetas": ["carpetas", "plazos", "caso"] }
+  ]},
+  { "fragmentoRef": "rm0531-2023-reg-art40", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Si no existe el estándar ocupacional requerido en el Sistema de Certificaciones, según el Art. 40 del Reglamento de la RM 0531/2023, ¿en qué plazo se realiza el mapeo y caracterización, y cuántos expertos se convocan?",
+      "opciones": [
+        { "texto": "En un plazo máximo de 15 días, con un taller de dos días y al menos 10 expertos", "correcta": true, "porQue": "Art. 40, par. II." },
+        { "texto": "En 10 días hábiles, con al menos 30 expertos", "correcta": false, "porQue": "Mezcla el plazo de subsanación de carpetas y la proporción de evaluadores." },
+        { "texto": "En 30 días, con 5 expertos", "correcta": false, "porQue": "No coincide." },
+        { "texto": "En 15 días, con al menos 3 expertos", "correcta": false, "porQue": "Capciosa: el plazo es correcto, pero son al menos 10 expertos." }
+      ],
+      "explicacion": "La Subdirección verifica la existencia del estándar y ejecuta el mapeo a través de los CEA acreditados.",
+      "citaTextual": "en un plazo máximo de 15 días, procederán a realizar el mapeo y caracterización del rubro requerido",
+      "referencia": "RM 0531/2023, Reglamento, Art. 40, pág. 32", "etiquetas": ["estándar ocupacional", "memorística", "capciosa"] }
+  ]},
+  { "fragmentoRef": "rm0531-2023-reg-art54", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Un trabajador perdió su Certificado de Competencias. Según el Reglamento de la RM 0531/2023, ¿qué debe adjuntar a su carta a la MAE del Ministerio de Educación para pedir el certificado supletorio?",
+      "opciones": [
+        { "texto": "La denuncia de extravío ante la FELCC departamental y dos publicaciones en prensa escrita de circulación nacional", "correcta": true, "porQue": "Art. 54, par. I." },
+        { "texto": "Solo una declaración jurada notariada", "correcta": false, "porQue": "No es lo que exige el reglamento." },
+        { "texto": "Una publicación en un periódico local", "correcta": false, "porQue": "Capciosa: son dos publicaciones de circulación nacional." },
+        { "texto": "La firma de dos testigos", "correcta": false, "porQue": "No es lo que exige el reglamento." }
+      ],
+      "explicacion": "También se paga el arancel oficial, y la Unidad de Asuntos Jurídicos emite la Resolución Administrativa.",
+      "citaTextual": "Denuncia de extravío ante la Dirección Departamental de Fuerza Especial de Lucha Contra el Crimen. 2. Dos publicaciones en medios de prensa escrita de circulación nacional.",
+      "referencia": "RM 0531/2023, Reglamento, Art. 54, págs. 35-36", "etiquetas": ["certificado supletorio", "caso"] }
+  ]},
+  { "fragmentoRef": "rm0531-2023-reg-art60", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según el Art. 60 del Reglamento de la RM 0531/2023, ¿cuánto tiempo pueden custodiar los CEA acreditados las carpetas cuyos certificados no fueron entregados?",
+      "opciones": [
+        { "texto": "Un máximo de tres meses; vencido el plazo, se devuelven a la Subdirección de Educación Alternativa y Especial", "correcta": true, "porQue": "Art. 60, par. II." },
+        { "texto": "Nueve meses", "correcta": false, "porQue": "Nueve meses es el plazo máximo de custodia de la Subdirección (par. III)." },
+        { "texto": "Un año", "correcta": false, "porQue": "No coincide." },
+        { "texto": "Indefinidamente", "correcta": false, "porQue": "Hay un plazo máximo." }
+      ],
+      "explicacion": "Los files de certificados ya entregados pasan a Memoria Institucional del Ministerio, en formato físico y digital.",
+      "citaTextual": "quedarán en custodia de los Centros de Educación Alternativa del área de Educación Permanente No Escolarizada acreditados por el tiempo máximo de tres meses",
+      "referencia": "RM 0531/2023, Reglamento, Art. 60, pág. 38", "etiquetas": ["archivos", "plazos", "capciosa"] }
+  ]},
+  { "fragmentoRef": "rm0531-2023-reg-art16", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según el Reglamento de la RM 0531/2023, ¿a quién le corresponde imprimir oportunamente los Certificados de Competencias con las firmas de las autoridades?",
+      "opciones": [
+        { "texto": "A las Direcciones Departamentales de Educación", "correcta": true, "porQue": "Art. 16, num. 2." },
+        { "texto": "A las Subdirecciones de Educación Alternativa y Especial", "correcta": false, "porQue": "Las Subdirecciones realizan los actos de entrega (Art. 17)." },
+        { "texto": "A los CEA acreditados", "correcta": false, "porQue": "Los CEA elaboran el cronograma y arman las carpetas (Art. 20)." },
+        { "texto": "A los coordinadores del SPCC", "correcta": false, "porQue": "Los coordinadores aprueban el cronograma de evaluación (Art. 18)." }
+      ],
+      "explicacion": "Capciosa: hay que distinguir quién imprime, quién entrega y quién organiza.",
+      "citaTextual": "Imprimir oportunamente los Certificados de Competencias con las firmas correspondientes de las autoridades.",
+      "referencia": "RM 0531/2023, Reglamento, Art. 16, págs. 19-20", "etiquetas": ["competencias institucionales", "capciosa"] }
+  ]},
+  { "fragmentoRef": "rm0531-2023-reg-art18", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según el Reglamento de la RM 0531/2023, ¿quién aprueba el cronograma de evaluación de los CEA del área de Educación Permanente No Escolarizada?",
+      "opciones": [
+        { "texto": "El coordinador/a del SPCC, dependiente de la Subdirección de Educación Alternativa y Especial", "correcta": true, "porQue": "Art. 18, num. 3." },
+        { "texto": "El director del CEA", "correcta": false, "porQue": "El CEA lo elabora (Art. 20); no lo aprueba." },
+        { "texto": "La Dirección Distrital", "correcta": false, "porQue": "No coincide con el reglamento." },
+        { "texto": "La Dirección General de Educación Alternativa", "correcta": false, "porQue": "No coincide con el reglamento." }
+      ],
+      "explicacion": "El CEA elabora el cronograma y el coordinador del SPCC lo aprueba.",
+      "citaTextual": "Aprobar el cronograma de evaluación de los Centros de Educación Alternativa del área de Educación Permanente No Escolarizada.",
+      "referencia": "RM 0531/2023, Reglamento, Art. 18, págs. 21-22", "etiquetas": ["SPCC", "capciosa"] }
+  ]},
+  { "fragmentoRef": "rm0531-2023-reg-art20", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Un CEA acreditado va a certificar la ocupación de soldador. Según el Art. 20 del Reglamento de la RM 0531/2023, ¿a quién debe invitar como evaluador?",
+      "opciones": [
+        { "texto": "A expertos de la ocupación, para ese proceso de evaluación", "correcta": true, "porQue": "Art. 20, num. 4." },
+        { "texto": "Solo a maestros de humanidades", "correcta": false, "porQue": "Se invita a expertos de la ocupación." },
+        { "texto": "A los propios postulantes", "correcta": false, "porQue": "No es lo que dispone el reglamento." },
+        { "texto": "Al director distrital", "correcta": false, "porQue": "No es lo que dispone el reglamento." }
+      ],
+      "explicacion": "El CEA también designa maestros como supervisores del proceso (num. 3).",
+      "citaTextual": "Invitar a expertas/os de la ocupación en calidad de Evaluadoras/ es para un determinado procesos de evaluación.",
+      "referencia": "RM 0531/2023, Reglamento, Art. 20, págs. 22-24", "etiquetas": ["evaluadores", "caso"] }
+  ]},
+  { "fragmentoRef": "rm0531-2023-reg-art08", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según el marco jurídico del Reglamento de la RM 0531/2023, ¿qué RM dispuso el cambio de dependencia del Sistema Plurinacional de Certificación de Competencias a la Dirección General de Educación Alternativa?",
+      "opciones": [
+        { "texto": "La RM 0035/2023, de 13 de enero de 2023", "correcta": true, "porQue": "Art. 8, num. 4." },
+        { "texto": "El DS 4857", "correcta": false, "porQue": "El DS 4857 trata de la Estructura Organizativa del Órgano Ejecutivo." },
+        { "texto": "La RM 1040/2022", "correcta": false, "porQue": "Aprobó los lineamientos curriculares." },
+        { "texto": "La RM 0001/2023", "correcta": false, "porQue": "Son normas generales de gestión." }
+      ],
+      "explicacion": "Memorística, con normas del mismo marco como distractores.",
+      "citaTextual": "Resolución Ministerial No. 0035/2023 de 13 de enero de 2023, de cambio de dependencia a la Dirección General de Educación Alternativa",
+      "referencia": "RM 0531/2023, Reglamento, Art. 8, pág. 13", "etiquetas": ["marco jurídico", "memorística"] }
+  ]}
+]
