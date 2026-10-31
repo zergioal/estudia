@@ -1,0 +1,98 @@
+[
+  { "fragmentoRef": "ods4-b018", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según el Marco de Acción (meta 4.6), ¿en qué se basa el enfoque actual de la alfabetización?",
+      "opciones": [
+        { "texto": "En una idea de continuidad entre los niveles de competencia, y ya no en la simple dicotomía entre alfabetismo y analfabetismo", "correcta": true, "porQue": "Es lo que plantea el texto." },
+        { "texto": "En la dicotomía alfabetizado/analfabeto", "correcta": false, "porQue": "Capciosa: es precisamente el enfoque que se supera." },
+        { "texto": "En la capacidad de firmar documentos", "correcta": false, "porQue": "Es una visión mínima." },
+        { "texto": "Solo en la lectura, sin el cálculo", "correcta": false, "porQue": "La matemática básica debe formar parte de los programas." }
+      ],
+      "explicacion": "Se presta atención al idioma materno y a programas bilingües e interculturales adaptados al contexto.",
+      "citaTextual": "ya no reposa en una simple dicotomía entre “alfabetismo” y “analfabetismo”, sino en una idea de continuidad entre los niveles de competencia",
+      "referencia": "Marco de Acción Educación 2030, meta 4.6, págs. 45-47", "etiquetas": ["alfabetización", "capciosa"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Un CEA diseña su programa de alfabetización para adultos aymaras. Según el Marco de Acción, ¿qué deben incluir los programas?",
+      "opciones": [
+        { "texto": "Atención al idioma materno, programas bilingües e interculturales adaptados al contexto y la matemática básica", "correcta": true, "porQue": "Es lo que plantea la meta 4.6." },
+        { "texto": "Solo lectura en castellano", "correcta": false, "porQue": "Debe considerar el idioma materno e incluir la matemática." },
+        { "texto": "Solo cálculo para el comercio", "correcta": false, "porQue": "Es incompleto." },
+        { "texto": "Contenidos idénticos a los del área urbana", "correcta": false, "porQue": "Debe adaptarse al contexto." }
+      ],
+      "explicacion": "Las TIC, sobre todo las móviles, pueden acelerar el progreso hacia esta meta.",
+      "citaTextual": "poniendo en marcha programas de alfabetización bilingües e interculturales adaptados al contexto y enmarcados en el aprendizaje a lo largo de la vida",
+      "referencia": "Marco de Acción Educación 2030, meta 4.6, págs. 45-47", "etiquetas": ["alfabetización", "caso"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según la UNESCO (2006), citada en el Marco de Acción, ¿cuándo está alfabetizada funcionalmente una persona?",
+      "opciones": [
+        { "texto": "Cuando puede realizar todas las actividades en las que la alfabetización es necesaria para el funcionamiento eficaz de su grupo o comunidad, y seguir usando la lectura, la escritura y el cálculo para su desarrollo y el de la comunidad", "correcta": true, "porQue": "Es la definición citada." },
+        { "texto": "Cuando sabe escribir su nombre", "correcta": false, "porQue": "Es una definición mínima, no funcional." },
+        { "texto": "Cuando concluyó la primaria", "correcta": false, "porQue": "La definición no depende del nivel concluido." },
+        { "texto": "Cuando domina una lengua extranjera", "correcta": false, "porQue": "No es la definición." }
+      ],
+      "explicacion": "De aquí a 2030, jóvenes y adultos deben alcanzar niveles equivalentes a la educación básica completa.",
+      "citaTextual": "Está alfabetizada funcionalmente toda persona que puede realizar todas las actividades en las que es necesaria la alfabetización",
+      "referencia": "Marco de Acción Educación 2030, meta 4.6, págs. 45-47", "etiquetas": ["alfabetización funcional"] }
+  ]},
+  { "fragmentoRef": "ods4-b021", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según el Marco de Acción (meta 4.c), ¿cuántos docentes adicionales se requerirán de aquí a 2030 para universalizar la primaria y el ciclo inicial de secundaria?",
+      "opciones": [
+        { "texto": "3,2 millones para primaria y 5,1 millones para el ciclo inicial de secundaria", "correcta": true, "porQue": "Son los datos del texto." },
+        { "texto": "5,1 millones para primaria y 3,2 millones para secundaria", "correcta": false, "porQue": "Capciosa: las cifras están invertidas." },
+        { "texto": "21 millones en total", "correcta": false, "porQue": "21 millones es la cifra de niños no escolarizados en zonas de conflicto." },
+        { "texto": "1 millón en total", "correcta": false, "porQue": "No coincide con el texto." }
+      ],
+      "explicacion": "Además, hay que reemplazar a los docentes que se jubilen entre 2015 y 2030.",
+      "citaTextual": "se requerirán 3,2 millones de docentes adicionales para lograr la universalidad de la educación primaria [xl] y 5,1 millones más",
+      "referencia": "Marco de Acción Educación 2030, meta 4.c, págs. 51-53", "etiquetas": ["docentes", "memorística"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según el Marco de Acción, ¿cuáles son los principales factores que empobrecen la calidad de los resultados del aprendizaje en relación con los docentes?",
+      "opciones": [
+        { "texto": "La falta o inadecuación de un desarrollo profesional continuo y de apoyo para los docentes, y la falta de normas nacionales para la profesión docente", "correcta": true, "porQue": "Es lo que señala el texto." },
+        { "texto": "El exceso de formación docente", "correcta": false, "porQue": "Es lo contrario." },
+        { "texto": "La sindicalización docente", "correcta": false, "porQue": "El Marco pide fortalecer el diálogo con las organizaciones docentes." },
+        { "texto": "La autonomía de los docentes", "correcta": false, "porQue": "Se pide conferirles independencia." }
+      ],
+      "explicacion": "En un tercio de los países con datos, menos del 75% de los maestros de primaria fueron capacitados según las normas nacionales.",
+      "citaTextual": "La falta y/o inadecuación de un desarrollo profesional continuo y de apoyo para los docentes, así como de normas nacionales para la profesión docente",
+      "referencia": "Marco de Acción Educación 2030, meta 4.c, págs. 51-53", "etiquetas": ["docentes", "calidad"] }
+  ]},
+  { "fragmentoRef": "ods4-b023", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Una fundación privada ofrece financiar un programa en el CEA, pero solo para los participantes que paguen una cuota. Según el Marco de Acción, ¿qué condición incumple esa contribución?",
+      "opciones": [
+        { "texto": "Las contribuciones del sector privado deben respetar la educación como derecho humano y no agravar las desigualdades", "correcta": true, "porQue": "Es la condición que señala el texto." },
+        { "texto": "Ninguna, porque todo aporte privado es bienvenido", "correcta": false, "porQue": "Los aportes privados están condicionados." },
+        { "texto": "Solo incumple si la fundación es extranjera", "correcta": false, "porQue": "El origen de la fundación no es el criterio." },
+        { "texto": "Solo incumple si no paga impuestos", "correcta": false, "porQue": "Pagar impuestos justos es otra contribución esperada; no agota la condición." }
+      ],
+      "explicacion": "Los aportes deben ser transparentes, ajustarse a las prioridades locales y nacionales y fortalecer la educación pública.",
+      "citaTextual": "respeten la educación como un derecho humano y no agraven las desigualdades",
+      "referencia": "Marco de Acción Educación 2030, págs. 56-58", "etiquetas": ["sector privado", "caso"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según el Marco de Acción, ¿qué papel tienen los docentes y sus organizaciones en las políticas educativas?",
+      "opciones": [
+        { "texto": "Son asociados fundamentales por derecho propio y deben participar en todas las fases de la formulación de políticas, el planeamiento, la aplicación y el seguimiento", "correcta": true, "porQue": "Es lo que dice el texto." },
+        { "texto": "Solo deben aplicar las políticas", "correcta": false, "porQue": "Participan en todas las fases." },
+        { "texto": "Solo se les consulta en la evaluación", "correcta": false, "porQue": "Participan en todas las fases." },
+        { "texto": "No tienen papel en las políticas", "correcta": false, "porQue": "Son asociados fundamentales." }
+      ],
+      "explicacion": "Llevan la realidad de las aulas al diálogo sobre políticas y tienden un puente entre la política y la práctica.",
+      "citaTextual": "son asociados fundamentales por derecho propio y deben participar en todas las fases de la formulación de políticas",
+      "referencia": "Marco de Acción Educación 2030, págs. 56-58", "etiquetas": ["docentes", "participación"] }
+  ]},
+  { "fragmentoRef": "ods4-b026", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según el Marco de Acción Educación 2030, ¿en qué se convertirá el Informe de Seguimiento de la EPT en el Mundo?",
+      "opciones": [
+        { "texto": "En el Informe de Seguimiento de la Educación en el Mundo (Informe GEM), elaborado por un equipo independiente y publicado por la UNESCO", "correcta": true, "porQue": "Es lo que dice el texto." },
+        { "texto": "En el Informe PISA de la OCDE", "correcta": false, "porQue": "No es lo que dice el texto." },
+        { "texto": "En el Informe ERCE del LLECE", "correcta": false, "porQue": "El ERCE es un estudio regional distinto." },
+        { "texto": "Desaparecerá", "correcta": false, "porQue": "Se transforma en el Informe GEM." }
+      ],
+      "explicacion": "El IEU (Instituto de Estadística de la UNESCO) es la fuente oficial de datos comparables, para más de 200 países.",
+      "citaTextual": "El Informe de Seguimiento de la EPT en el Mundo se convertirá en el Informe de Seguimiento de la Educación en el Mundo (Informe GEM",
+      "referencia": "Marco de Acción Educación 2030, págs. 63-64", "etiquetas": ["seguimiento", "GEM"] }
+  ]}
+]

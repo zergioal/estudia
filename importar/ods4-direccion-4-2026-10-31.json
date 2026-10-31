@@ -1,0 +1,144 @@
+[
+  { "fragmentoRef": "ods4-b012", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Tras una inundación que afecta a la comunidad del CEA, el director debe planificar. Según el Marco de Acción Educación 2030, ¿qué normas internacionales deben guiar la planificación y la respuesta educativa en emergencias?",
+      "opciones": [
+        { "texto": "Las Normas Mínimas de la Red Interinstitucional para la Educación en Situaciones de Emergencia (INEE), con los principios de prevención, preparación y respuesta", "correcta": true, "porQue": "Es lo que señala el texto." },
+        { "texto": "Las Normas ISO 9001 de calidad", "correcta": false, "porQue": "No son las citadas." },
+        { "texto": "Los estándares PISA de la OCDE", "correcta": false, "porQue": "No son las citadas." },
+        { "texto": "Ninguna: en emergencia se suspende la educación", "correcta": false, "porQue": "Hay que mantener la educación en todas las fases." }
+      ],
+      "explicacion": "La educación en emergencias tiene un efecto protector inmediato y brinda apoyo psicosocial.",
+      "citaTextual": "como las Normas Mínimas de la Red Interinstitucional para la Educación en Situaciones de Emergencia (INEE), deberán guiar la planificación y la respuesta",
+      "referencia": "Marco de Acción Educación 2030, págs. 32-34", "etiquetas": ["emergencias", "caso"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según el Marco de Acción, ¿qué se espera de los gobiernos respecto de las metas mundiales del ODS 4?",
+      "opciones": [
+        { "texto": "Que las conviertan en metas nacionales realistas según sus prioridades, planes, sistemas, capacidad institucional y recursos, con indicadores intermedios (p. ej., para 2020 y 2025)", "correcta": true, "porQue": "Es lo que plantea el texto." },
+        { "texto": "Que las apliquen sin adaptación", "correcta": false, "porQue": "Deben contextualizarse." },
+        { "texto": "Que las ignoren si no tienen recursos", "correcta": false, "porQue": "No es lo que plantea." },
+        { "texto": "Que deleguen su cumplimiento a la UNESCO", "correcta": false, "porQue": "El cambio lo impulsan los esfuerzos de cada país." }
+      ],
+      "explicacion": "Las metas son concretas y cuantificables, y se aplican a todos los países considerando sus realidades.",
+      "citaTextual": "Se espera que los gobiernos conviertan las metas mundiales en metas nacionales realistas",
+      "referencia": "Marco de Acción Educación 2030, págs. 32-34", "etiquetas": ["metas nacionales"] }
+  ]},
+  { "fragmentoRef": "ods4-b014", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según el Marco de Acción Educación 2030 (meta 4.2), ¿cuánta educación preescolar gratuita y obligatoria se aconseja impartir como mínimo?",
+      "opciones": [
+        { "texto": "Por lo menos un año, de calidad, impartido por educadores debidamente formados", "correcta": true, "porQue": "Es lo que dice el texto." },
+        { "texto": "Por lo menos tres años", "correcta": false, "porQue": "Es un año." },
+        { "texto": "Nueve años", "correcta": false, "porQue": "Nueve años es el mínimo obligatorio de primaria y secundaria (meta 4.1)." },
+        { "texto": "Ninguno: la preescolar es optativa", "correcta": false, "porQue": "Se aconseja al menos un año gratuito y obligatorio." }
+      ],
+      "explicacion": "La AEPI abarca salud, nutrición, estimulación, protección frente a la violencia y desarrollo integral.",
+      "citaTextual": "Se aconseja impartir por lo menos un año de educación preescolar gratuita y obligatoria de calidad, por parte de educadores debidamente formados.",
+      "referencia": "Marco de Acción Educación 2030, meta 4.2, págs. 37-38", "etiquetas": ["AEPI", "memorística"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "La meta 4.3 del ODS 4 busca, de aquí a 2030:",
+      "opciones": [
+        { "texto": "Asegurar el acceso igualitario de todos los hombres y las mujeres a una formación técnica, profesional y superior de calidad, incluida la enseñanza universitaria", "correcta": true, "porQue": "Es el texto de la meta 4.3." },
+        { "texto": "Eliminar las disparidades de género y asegurar el acceso de las personas vulnerables", "correcta": false, "porQue": "Esa es la meta 4.5." },
+        { "texto": "Aumentar las becas para países en desarrollo", "correcta": false, "porQue": "Esa es la meta 4.b." },
+        { "texto": "Asegurar la conclusión de la primaria y la secundaria", "correcta": false, "porQue": "Esa es la meta 4.1." }
+      ],
+      "explicacion": "Las metas 4.3 y 4.4 están estrechamente relacionadas.",
+      "citaTextual": "asegurar el acceso igualitario de todos los hombres y las mujeres a una formación técnica, profesional y superior de calidad, incluida la enseñanza universitaria",
+      "referencia": "Marco de Acción Educación 2030, meta 4.3, págs. 37-38", "etiquetas": ["metas", "capciosa"] }
+  ]},
+  { "fragmentoRef": "ods4-b016", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según el Marco de Acción, ¿qué riesgo tiene una formación técnica y profesional (EFTP) centrada casi exclusivamente en aptitudes específicas para un puesto de trabajo?",
+      "opciones": [
+        { "texto": "Reduce la capacidad de los diplomados de adaptarse a las exigencias cambiantes del mercado laboral", "correcta": true, "porQue": "Es la advertencia del texto." },
+        { "texto": "Aumenta en exceso la empleabilidad", "correcta": false, "porQue": "No es el riesgo señalado." },
+        { "texto": "Encarece la formación", "correcta": false, "porQue": "No es el riesgo señalado." },
+        { "texto": "Elimina la necesidad de certificación", "correcta": false, "porQue": "No es el riesgo señalado." }
+      ],
+      "explicacion": "Se requieren también aptitudes transferibles: resolución de problemas, pensamiento crítico, creatividad, trabajo en equipo, comunicación y resolución de conflictos.",
+      "citaTextual": "Un enfoque centrado en gran medida en aptitudes específicas para el trabajo reduce la capacidad de los diplomados de adaptarse",
+      "referencia": "Marco de Acción Educación 2030, meta 4.4, págs. 41-43", "etiquetas": ["EFTP", "aptitudes transferibles"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Un participante del CEA aprendió electricidad trabajando y viendo tutoriales en Internet. Según el Marco de Acción, ¿qué deben hacer los sistemas de EFTP?",
+      "opciones": [
+        { "texto": "Reconocer y valorar las aptitudes adquiridas con la experiencia o en entornos no formales e informales, en particular en el trabajo y por Internet", "correcta": true, "porQue": "Es lo que plantea el texto." },
+        { "texto": "Exigirle cursar todo el programa desde cero", "correcta": false, "porQue": "Contradice el reconocimiento del aprendizaje previo." },
+        { "texto": "Reconocer solo lo aprendido en instituciones formales", "correcta": false, "porQue": "Capciosa: se reconoce también lo no formal e informal." },
+        { "texto": "Derivarlo al nivel superior universitario", "correcta": false, "porQue": "No es lo que plantea el texto." }
+      ],
+      "explicacion": "Esto coincide con la certificación de competencias de la RM 0531/2023 en Educación Alternativa.",
+      "citaTextual": "Los sistemas de EFTP deben reconocer y valorar las aptitudes adquiridas con la experiencia o en entornos no formales e informales, en particular en el lugar de trabajo y por Internet.",
+      "referencia": "Marco de Acción Educación 2030, meta 4.4, págs. 41-43", "etiquetas": ["reconocimiento de saberes", "caso"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "La meta 4.5 del ODS 4 busca, de aquí a 2030:",
+      "opciones": [
+        { "texto": "Eliminar las disparidades de género y asegurar el acceso igualitario a todos los niveles para las personas vulnerables, incluidas las personas con discapacidad, los pueblos indígenas y los niños vulnerables", "correcta": true, "porQue": "Es el texto de la meta 4.5." },
+        { "texto": "Asegurar el acceso a la formación técnica y superior", "correcta": false, "porQue": "Esa es la meta 4.3." },
+        { "texto": "Asegurar la alfabetización de jóvenes y adultos", "correcta": false, "porQue": "Esa es la meta 4.6." },
+        { "texto": "Construir instalaciones seguras", "correcta": false, "porQue": "Esa es la meta 4.a." }
+      ],
+      "explicacion": "La desigualdad de género en la educación refleja las normas y la discriminación de género de la sociedad.",
+      "citaTextual": "eliminar las disparidades de género en la educación y asegurar el acceso igualitario a todos los niveles de la enseñanza y la formación profesional para las personas vulnerables",
+      "referencia": "Marco de Acción Educación 2030, meta 4.5, págs. 41-43", "etiquetas": ["metas", "equidad"] }
+  ]},
+  { "fragmentoRef": "ods4-b017", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según el Marco de Acción, en 2012, ¿qué porcentaje de los niños no escolarizados del mundo vivía en zonas afectadas por conflictos?",
+      "opciones": [
+        { "texto": "El 36% (unos 21 millones), frente al 30% en 2000", "correcta": true, "porQue": "Son los datos del texto." },
+        { "texto": "El 30%, frente al 36% en 2000", "correcta": false, "porQue": "Capciosa: los años están invertidos; el porcentaje aumentó." },
+        { "texto": "El 50%", "correcta": false, "porQue": "No coincide con el texto." },
+        { "texto": "El 246%", "correcta": false, "porQue": "246 millones es la cifra de niños que sufren acoso escolar cada año." }
+      ],
+      "explicacion": "Hay que mantener la educación en emergencias y atender a los desplazados internos y a los refugiados.",
+      "citaTextual": "Aproximadamente 21 millones de los niños de todo el mundo que no asisten a la escuela, es decir el 36%, vivían en 2012 en zonas afectadas por conflictos",
+      "referencia": "Marco de Acción Educación 2030, págs. 43-45", "etiquetas": ["conflictos", "memorística"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según el Marco de Acción, ¿cuándo son más eficaces las políticas orientadas a acabar con la desigualdad de género en la educación?",
+      "opciones": [
+        { "texto": "Cuando forman parte de medidas más amplias que promuevan también la salud, la justicia, la buena gobernanza y la abolición del trabajo infantil", "correcta": true, "porQue": "Es lo que plantea el texto." },
+        { "texto": "Cuando se aplican aisladas en el ámbito escolar", "correcta": false, "porQue": "Es lo contrario." },
+        { "texto": "Cuando benefician solo a las niñas", "correcta": false, "porQue": "Hay contextos en los que los varones son los desfavorecidos." },
+        { "texto": "Cuando prescinden del presupuesto", "correcta": false, "porQue": "Se requieren inversión y refuerzo de capacidades." }
+      ],
+      "explicacion": "Entre los grupos vulnerables figuran las personas con discapacidad, los pueblos indígenas, las minorías étnicas y los pobres.",
+      "citaTextual": "son más eficaces cuando forman parte de una serie más amplia de medidas encaminadas también a promover la salud, la justicia, la buena gobernanza y la abolición del trabajo infantil",
+      "referencia": "Marco de Acción Educación 2030, págs. 43-45", "etiquetas": ["género", "intersectorial"] }
+  ]},
+  { "fragmentoRef": "ods4-b019", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según el Marco de Acción, ¿qué porcentaje de los Estados Miembros de la UNESCO indicaba haber integrado la Educación para el Desarrollo Sostenible (EDS) en sus políticas?",
+      "opciones": [
+        { "texto": "Solo el 50%", "correcta": true, "porQue": "Es el dato del texto." },
+        { "texto": "El 90%", "correcta": false, "porQue": "No coincide con el texto." },
+        { "texto": "El 36%", "correcta": false, "porQue": "36% es el porcentaje de niños no escolarizados en zonas de conflicto." },
+        { "texto": "El 15%", "correcta": false, "porQue": "No coincide con el texto." }
+      ],
+      "explicacion": "La EDS y la ECM forman parte de la meta 4.7.",
+      "citaTextual": "solo el 50% de los Estados Miembros de la UNESCO indican, por ejemplo, haber integrado la EDS en políticas pertinentes",
+      "referencia": "Marco de Acción Educación 2030, meta 4.7, págs. 47-49", "etiquetas": ["EDS", "memorística"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "¿Cuál de las siguientes NO es una de las competencias centrales de la Educación para la Ciudadanía Mundial (ECM) según la UNESCO (2013)?",
+      "opciones": [
+        { "texto": "La especialización técnica en un oficio específico", "correcta": true, "porQue": "No figura entre las competencias de la ECM." },
+        { "texto": "Un conocimiento a fondo de cuestiones mundiales y valores universales como la justicia, la igualdad, la dignidad y el respeto", "correcta": false, "porQue": "Es la competencia a)." },
+        { "texto": "Habilidades cognitivas para un pensamiento crítico, sistémico y creativo", "correcta": false, "porQue": "Es la competencia b)." },
+        { "texto": "Capacidades de comportamiento para actuar de forma colaborativa y responsable, y perseguir el bien colectivo", "correcta": false, "porQue": "Es la competencia d)." }
+      ],
+      "explicacion": "La competencia c) son las habilidades no cognitivas: empatía, resolución de conflictos y comunicación.",
+      "citaTextual": "capacidades de comportamiento para actuar de forma colaborativa y responsable, y perseguir el bien colectivo",
+      "referencia": "Marco de Acción Educación 2030, meta 4.7, págs. 47-49", "etiquetas": ["ECM", "EXCEPTO"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según el Marco de Acción, ¿qué abarca la Educación para la Ciudadanía Mundial (ECM)?",
+      "opciones": [
+        { "texto": "La educación para la paz y los derechos humanos, la educación intercultural y la educación para el entendimiento internacional", "correcta": true, "porQue": "Es lo que dice el texto." },
+        { "texto": "Solo la enseñanza de idiomas extranjeros", "correcta": false, "porQue": "No es lo que dice el texto." },
+        { "texto": "Solo la educación cívica nacional", "correcta": false, "porQue": "Es más amplia." },
+        { "texto": "La preparación para emigrar", "correcta": false, "porQue": "No es lo que dice el texto." }
+      ],
+      "explicacion": "La EDS busca la justicia social para las generaciones actuales y futuras.",
+      "citaTextual": "que abarca la educación para la paz y los derechos humanos, así como la educación intercultural y la educación para el entendimiento internacional",
+      "referencia": "Marco de Acción Educación 2030, meta 4.7, págs. 47-49", "etiquetas": ["ECM"] }
+  ]}
+]

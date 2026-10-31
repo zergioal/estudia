@@ -1,0 +1,131 @@
+[
+  { "fragmentoRef": "ods4-b003", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según la Declaración de Incheon, ¿qué objetivos de referencia internacionales se instan a cumplir para el financiamiento de la educación?",
+      "opciones": [
+        { "texto": "Asignar a la educación al menos entre un 4% y un 6% del PIB, o al menos entre un 15% y un 20% del total del gasto público", "correcta": true, "porQue": "Es el texto de la Declaración." },
+        { "texto": "Al menos el 0,7% del PIB", "correcta": false, "porQue": "0,7% es la meta de asistencia oficial para el desarrollo (AOD) sobre el PNB de los países desarrollados." },
+        { "texto": "Entre un 15% y un 20% del PIB", "correcta": false, "porQue": "Capciosa: el 15-20% se refiere al gasto público total, no al PIB." },
+        { "texto": "Al menos el 10% del PIB", "correcta": false, "porQue": "No coincide con la Declaración." }
+      ],
+      "explicacion": "Hay que distinguir el 4-6% del PIB, el 15-20% del gasto público y el 0,7% del PNB para AOD.",
+      "citaTextual": "al menos entre un 4% y un 6% del producto interno bruto o al menos entre un 15% y un 20% del total del gasto público",
+      "referencia": "Declaración de Incheon, págs. 8-10", "etiquetas": ["financiamiento", "memorística", "capciosa"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según la Declaración de Incheon, ¿qué plataforma se recomienda que forme parte del futuro mecanismo de coordinación mundial de la agenda Educación 2030?",
+      "opciones": [
+        { "texto": "La Alianza Mundial para la Educación, como plataforma de financiación de múltiples interesados", "correcta": true, "porQue": "Es lo que recomienda la Declaración." },
+        { "texto": "El Banco Mundial, de forma exclusiva", "correcta": false, "porQue": "No es lo que dice el texto." },
+        { "texto": "La OEI", "correcta": false, "porQue": "No es lo que dice el texto." },
+        { "texto": "El Fondo Monetario Internacional", "correcta": false, "porQue": "No es lo que dice el texto." }
+      ],
+      "explicacion": "La UNESCO lidera y coordina la agenda como organismo especializado en educación de las Naciones Unidas.",
+      "citaTextual": "Reconociendo que la Alianza Mundial para la Educación es una plataforma de financiación de múltiples interesados",
+      "referencia": "Declaración de Incheon, págs. 8-10", "etiquetas": ["coordinación", "UNESCO"] }
+  ]},
+  { "fragmentoRef": "ods4-b009", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según los principios del Marco de Acción Educación 2030, la educación es un bien público cuyo principal garante es:",
+      "opciones": [
+        { "texto": "El Estado, aunque la sociedad civil, los docentes, el sector privado, las comunidades y las familias cumplen funciones clave", "correcta": true, "porQue": "Es el principio del texto." },
+        { "texto": "El sector privado", "correcta": false, "porQue": "El principal garante es el Estado." },
+        { "texto": "La familia, de forma exclusiva", "correcta": false, "porQue": "No es lo que plantea el principio." },
+        { "texto": "La UNESCO", "correcta": false, "porQue": "No es el garante del derecho en cada país." }
+      ],
+      "explicacion": "La participación del Estado es esencial para establecer y regular estándares y normas.",
+      "citaTextual": "La educación es un bien público, cuyo principal garante es el Estado.",
+      "referencia": "Marco de Acción Educación 2030, págs. 25-28", "etiquetas": ["bien público", "principios"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "¿Cuál es el objetivo global del ODS 4?",
+      "opciones": [
+        { "texto": "Garantizar una educación inclusiva y equitativa de calidad y promover oportunidades de aprendizaje permanente para todos", "correcta": true, "porQue": "Es el texto del objetivo global." },
+        { "texto": "Lograr la enseñanza primaria universal", "correcta": false, "porQue": "Era el ODM 2, el objetivo anterior." },
+        { "texto": "Erradicar el analfabetismo para 2030", "correcta": false, "porQue": "Es parte de la meta 4.6, no el objetivo global." },
+        { "texto": "Garantizar la gratuidad de la educación superior", "correcta": false, "porQue": "No es el objetivo global." }
+      ],
+      "explicacion": "Capciosa: hay que distinguir el objetivo global de sus metas específicas.",
+      "citaTextual": "Garantizar una educación inclusiva y equitativa de calidad y promover oportunidades de aprendizaje permanente para todos",
+      "referencia": "Marco de Acción Educación 2030, págs. 25-28", "etiquetas": ["ODS 4", "memorística"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según el Marco de Acción, ¿por qué es crucial crear sistemas educativos más resilientes?",
+      "opciones": [
+        { "texto": "Porque muchas de las mayores desigualdades educativas tienen su origen en situaciones de conflicto y emergencia, y hay que mantener la educación en esas situaciones", "correcta": true, "porQue": "Es el argumento del texto." },
+        { "texto": "Porque reducen el gasto público", "correcta": false, "porQue": "No es el argumento del texto." },
+        { "texto": "Porque eliminan la necesidad de docentes", "correcta": false, "porQue": "No es el argumento del texto." },
+        { "texto": "Porque permiten suspender la educación durante las crisis", "correcta": false, "porQue": "Es lo contrario." }
+      ],
+      "explicacion": "Una mejor educación también ayuda a prevenir conflictos y a promover la paz.",
+      "citaTextual": "Muchas de las mayores desigualdades en materia de educación tienen su origen en situaciones de conflicto y emergencia.",
+      "referencia": "Marco de Acción Educación 2030, págs. 25-28", "etiquetas": ["resiliencia", "emergencias"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "¿Qué artículo de la Declaración Universal de Derechos Humanos es una de las fuentes de los principios del Marco de Acción Educación 2030?",
+      "opciones": [
+        { "texto": "El Artículo 26", "correcta": true, "porQue": "Es el artículo sobre el derecho a la educación, citado en el texto." },
+        { "texto": "El Artículo 1", "correcta": false, "porQue": "No es el citado." },
+        { "texto": "El Artículo 19", "correcta": false, "porQue": "Trata de la libertad de expresión." },
+        { "texto": "El Artículo 17", "correcta": false, "porQue": "Confusión con el Art. 17 de la CPE boliviana (derecho a la educación)." }
+      ],
+      "explicacion": "Otras fuentes: la Convención sobre los Derechos del Niño, la CEDAW, la Convención sobre los derechos de las personas con discapacidad y la Convención sobre el Estatuto de los Refugiados.",
+      "citaTextual": "incluidos el Artículo 26 de la Declaración Universal de Derechos Humanos",
+      "referencia": "Marco de Acción Educación 2030, págs. 25-28", "etiquetas": ["fuentes", "capciosa"] }
+  ]},
+  { "fragmentoRef": "ods4-b011", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Varias participantes de un CEA nocturno dejan de asistir por inseguridad en el camino de regreso a sus casas. Según el Marco de Acción Educación 2030, ¿qué medida corresponde?",
+      "opciones": [
+        { "texto": "Aplicar medidas especiales para velar por la seguridad personal de niñas y mujeres en los establecimientos y en el trayecto entre el hogar y el centro", "correcta": true, "porQue": "Es lo que plantea el texto." },
+        { "texto": "Suspender el turno nocturno", "correcta": false, "porQue": "Reduciría el acceso." },
+        { "texto": "Exigir que asistan acompañadas por un familiar varón", "correcta": false, "porQue": "Reforzaría estereotipos." },
+        { "texto": "Considerarlo un problema ajeno a la educación", "correcta": false, "porQue": "El Marco lo incluye expresamente." }
+      ],
+      "explicacion": "Hay que tomar medidas expresas contra los prejuicios y la violencia de género.",
+      "citaTextual": "Deberán aplicarse medidas especiales para velar por la seguridad personal de las niñas y las mujeres en los establecimientos educativos y el trayecto del hogar a la escuela y viceversa",
+      "referencia": "Marco de Acción Educación 2030, págs. 30-32", "etiquetas": ["género", "seguridad", "caso"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según el Marco de Acción, ¿cómo deben ser los enfoques pedagógicos que apliquen los docentes y educadores?",
+      "opciones": [
+        { "texto": "Centrados en el educando, dinámicos y de colaboración", "correcta": true, "porQue": "Es lo que plantea el texto." },
+        { "texto": "Centrados en el docente y en la transmisión de contenidos", "correcta": false, "porQue": "Es lo contrario." },
+        { "texto": "Estandarizados para todos los contextos", "correcta": false, "porQue": "Los materiales deben adaptarse al contexto." },
+        { "texto": "Basados exclusivamente en la tecnología", "correcta": false, "porQue": "No es lo que plantea el texto." }
+      ],
+      "explicacion": "Los materiales y recursos no deben ser discriminatorios y deben adaptarse al contexto.",
+      "citaTextual": "deberán aplicar enfoques pedagógicos centrados en el educando, dinámicos y de colaboración",
+      "referencia": "Marco de Acción Educación 2030, págs. 30-32", "etiquetas": ["calidad", "pedagogía"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según el Marco de Acción, ¿qué deben comprender los sistemas de evaluación de la calidad del aprendizaje?",
+      "opciones": [
+        { "texto": "El examen de insumos, entornos, procesos y resultados", "correcta": true, "porQue": "Es lo que plantea el texto." },
+        { "texto": "Solo los resultados de pruebas estandarizadas", "correcta": false, "porQue": "Capciosa: es una visión reduccionista." },
+        { "texto": "Solo los insumos financieros", "correcta": false, "porQue": "Es incompleto." },
+        { "texto": "Solo la percepción de las familias", "correcta": false, "porQue": "Es incompleto." }
+      ],
+      "explicacion": "Los resultados del aprendizaje, cognitivos y no cognitivos, deben evaluarse de forma continua.",
+      "citaTextual": "que comprendan el examen de insumos, entornos, procesos y resultados",
+      "referencia": "Marco de Acción Educación 2030, págs. 30-32", "etiquetas": ["evaluación", "capciosa"] }
+  ]},
+  { "fragmentoRef": "ods4-b015", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según el Marco de Acción Educación 2030, la educación terciaria deberá hacerse:",
+      "opciones": [
+        { "texto": "Gratuita progresivamente, de conformidad con los acuerdos internacionales existentes", "correcta": true, "porQue": "Es lo que dice el texto." },
+        { "texto": "Gratuita y obligatoria de inmediato", "correcta": false, "porQue": "La gratuidad es progresiva y no se habla de obligatoriedad." },
+        { "texto": "Privada en su totalidad", "correcta": false, "porQue": "No es lo que dice el texto." },
+        { "texto": "Gratuita solo para los menores de 25 años", "correcta": false, "porQue": "Se pide además acceso para adultos mayores." }
+      ],
+      "explicacion": "Hay que crear oportunidades de acceso a la universidad para adultos mayores y grupos vulnerables.",
+      "citaTextual": "La educación terciaria deberá hacerse gratuita progresivamente, de conformidad con los acuerdos internacionales existentes.",
+      "referencia": "Marco de Acción Educación 2030, meta 4.3, págs. 39-40", "etiquetas": ["educación terciaria", "capciosa"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según el Marco de Acción, para promover el aprendizaje a lo largo de la vida se necesita un enfoque sectorial que englobe:",
+      "opciones": [
+        { "texto": "El aprendizaje formal, no formal e informal de personas de todas las edades, en especial la educación y formación de adultos", "correcta": true, "porQue": "Es lo que plantea el texto." },
+        { "texto": "Solo la educación formal escolarizada", "correcta": false, "porQue": "Incluye lo no formal y lo informal." },
+        { "texto": "Solo la formación profesional para el empleo", "correcta": false, "porQue": "Es más amplio." },
+        { "texto": "Solo la educación universitaria", "correcta": false, "porQue": "Es más amplio." }
+      ],
+      "explicacion": "Es un concepto clave para la Educación Alternativa y Permanente en Bolivia.",
+      "citaTextual": "es necesario un enfoque sectorial que englobe el aprendizaje formal, no formal e informal de personas de todas las edades",
+      "referencia": "Marco de Acción Educación 2030, págs. 39-40", "etiquetas": ["aprendizaje a lo largo de la vida"] }
+  ]}
+]
