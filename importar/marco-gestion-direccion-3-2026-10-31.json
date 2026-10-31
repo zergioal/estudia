@@ -1,0 +1,109 @@
+[
+  { "fragmentoRef": "marco-gestion-b003", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según el Marco para la gestión y el liderazgo educativo, ¿cuántos SLEP habrá en total en Chile y a cuántas autoridades educativas municipales sustituirán?",
+      "opciones": [
+        { "texto": "70 SLEP, que sustituirán gradualmente a 345 autoridades municipales", "correcta": true, "porQue": "Es el dato del texto." },
+        { "texto": "345 SLEP, que sustituirán a 70 autoridades regionales", "correcta": false, "porQue": "Capciosa: las cifras están invertidas." },
+        { "texto": "16 SLEP, uno por región", "correcta": false, "porQue": "Son 70." },
+        { "texto": "70 SLEP, que sustituirán de inmediato a todos los municipios", "correcta": false, "porQue": "La sustitución es gradual." }
+      ],
+      "explicacion": "Los SLEP son organismos descentralizados, con personalidad jurídica y patrimonio propio.",
+      "citaTextual": "En total, serán 70 en todo el país, que sustituirán de manera gradual a las 345 autoridades educativas municipales.",
+      "referencia": "Marco para la gestión y el liderazgo educativo, págs. 8-11", "etiquetas": ["SLEP", "memorística"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según Hargreaves y Ainscow (2015), citados en el Marco, ¿qué significa «liderar desde el medio»?",
+      "opciones": [
+        { "texto": "Que el conjunto de líderes educativos de un sistema se convierten en impulsores y catalizadores colectivos del cambio y la mejora", "correcta": true, "porQue": "Es la definición del texto." },
+        { "texto": "Que el director asume una posición neutral entre docentes y familias", "correcta": false, "porQue": "No es el concepto." },
+        { "texto": "Que el nivel central transmite órdenes al nivel local sin mediación", "correcta": false, "porQue": "Es la visión tradicional que se busca superar." },
+        { "texto": "Que se elimina el nivel intermedio", "correcta": false, "porQue": "Es lo contrario: se fortalece." }
+      ],
+      "explicacion": "Supone una gobernanza colaborativa, basada en redes, confianza e interdependencia.",
+      "citaTextual": "donde el conjunto de líderes educativos de un sistema se convierten en impulsores y catalizadores colectivos del cambio y la mejora",
+      "referencia": "Marco para la gestión y el liderazgo educativo, págs. 8-11", "etiquetas": ["liderar desde el medio"] }
+  ]},
+  { "fragmentoRef": "marco-gestion-b008", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según el Marco, ¿a través de qué instancia se da la coordinación entre los SLEP y el Ministerio de Educación?",
+      "opciones": [
+        { "texto": "A través de la Dirección de Educación Pública (DEP), servicio público especializado dependiente del Ministerio", "correcta": true, "porQue": "Lo establece la Ley 21.040, según el texto." },
+        { "texto": "A través de la Agencia de Calidad de la Educación", "correcta": false, "porQue": "La Agencia realiza la Visita Integral de Evaluación y Orientación a los SLEP." },
+        { "texto": "A través de los municipios", "correcta": false, "porQue": "Los SLEP sustituyen a los municipios." },
+        { "texto": "A través de la SEREMI exclusivamente", "correcta": false, "porQue": "La SEREMI apoya y facilita el traspaso, pero la coordinación es a través de la DEP." }
+      ],
+      "explicacion": "El MINEDUC es el órgano rector del sistema (Ley 20.529).",
+      "citaTextual": "la coordinación entre los SLEP y el MINEDUC se da a través de la DEP (Ley 21.040), como servicio público especializado dependiente del Ministerio",
+      "referencia": "Marco para la gestión y el liderazgo educativo, págs. 18-20", "etiquetas": ["institucionalidad", "capciosa"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según el Marco, ¿qué rol clave cumple la SEREMI en relación con los SLEP?",
+      "opciones": [
+        { "texto": "Además de fortalecer la coordinación, es clave en los procesos de traspaso de los centros educativos desde los municipios a los SLEP", "correcta": true, "porQue": "Es lo que dice el texto." },
+        { "texto": "Dirigir directamente los establecimientos", "correcta": false, "porQue": "No es su rol." },
+        { "texto": "Evaluar el desempeño docente individual", "correcta": false, "porQue": "No es lo que dice el texto." },
+        { "texto": "Reemplazar a la DEP en la conducción estratégica", "correcta": false, "porQue": "La conducción estratégica corresponde a la DEP." }
+      ],
+      "explicacion": "La SEREMI y el DEPROV son agentes de apoyo permanente al liderazgo intermedio.",
+      "citaTextual": "es clave en los procesos de traspaso de los centros educativos desde los municipios a los SLEP",
+      "referencia": "Marco para la gestión y el liderazgo educativo, págs. 18-20", "etiquetas": ["institucionalidad"] }
+  ]},
+  { "fragmentoRef": "marco-gestion-b010", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según Rincón-Gallardo (2018), citado en el Marco, el liderazgo de nivel intermedio que se ejerce «lateralmente» consiste en:",
+      "opciones": [
+        { "texto": "Conectar desde el medio, colaborando entre pares", "correcta": true, "porQue": "Es la dirección lateral." },
+        { "texto": "Apoyar y liderar junto con las unidades educativas el cambio del núcleo pedagógico", "correcta": false, "porQue": "Esa es la dirección hacia abajo." },
+        { "texto": "Influir en la política, como socio eficaz e implementador local", "correcta": false, "porQue": "Esa es la dirección hacia arriba." },
+        { "texto": "Supervisar y sancionar a los directores", "correcta": false, "porQue": "No es una de las tres direcciones." }
+      ],
+      "explicacion": "La influencia del nivel intermedio va en tres direcciones: hacia abajo, lateralmente y hacia arriba.",
+      "citaTextual": "Lateralmente: Conectando desde el medio, colaborando entre pares.",
+      "referencia": "Marco para la gestión y el liderazgo educativo, págs. 21-24", "etiquetas": ["Rincón-Gallardo", "capciosa"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según el Marco, ¿cómo ha evolucionado la comprensión del rol del nivel intermedio en la mejora escolar?",
+      "opciones": [
+        { "texto": "De administrador y transmisor de orientaciones centrales, a mediador, intérprete e implementador de políticas en el nivel local", "correcta": true, "porQue": "Es la evolución que describe el texto." },
+        { "texto": "De mediador a simple ejecutor de órdenes", "correcta": false, "porQue": "Es al revés." },
+        { "texto": "De supervisor a inspector sancionador", "correcta": false, "porQue": "No es lo que describe el texto." },
+        { "texto": "Se ha mantenido como administrador financiero", "correcta": false, "porQue": "No se ha mantenido." }
+      ],
+      "explicacion": "Los Estándares Indicativos de Desempeño definen al sostenedor como el responsable último de los resultados de sus establecimientos.",
+      "citaTextual": "ha pasado desde una comprensión de administrador y transmisor de orientaciones centrales, a una de mediador, intérprete e implementador de políticas en el nivel local de educación",
+      "referencia": "Marco para la gestión y el liderazgo educativo, págs. 21-24", "etiquetas": ["nivel intermedio"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según los Estándares Indicativos de Desempeño (EID) citados en el Marco, el sostenedor educativo es:",
+      "opciones": [
+        { "texto": "El responsable último de los resultados de los establecimientos a su cargo, de su viabilidad y de generar y fortalecer alianzas y redes", "correcta": true, "porQue": "Es la definición citada." },
+        { "texto": "El propietario del inmueble escolar", "correcta": false, "porQue": "No es la definición de los EID." },
+        { "texto": "El director de cada establecimiento", "correcta": false, "porQue": "El sostenedor debe delimitar su rol frente a los directores." },
+        { "texto": "El representante de los padres de familia", "correcta": false, "porQue": "No es la definición." }
+      ],
+      "explicacion": "El liderazgo intermedio diseña los procedimientos generales para el buen funcionamiento de los establecimientos.",
+      "citaTextual": "el responsable último de los resultados de los establecimientos a su cargo, de la viabilidad de estos y de la generación y el fortalecimiento de alianzas y redes",
+      "referencia": "Marco para la gestión y el liderazgo educativo, págs. 21-24", "etiquetas": ["sostenedor", "EID"] }
+  ]},
+  { "fragmentoRef": "marco-gestion-b015", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según el Marco, ¿qué tres aspectos considera la dimensión política educativa de la gestión y el liderazgo local?",
+      "opciones": [
+        { "texto": "Organización y coherencia del sistema educativo; gobernanza local y autonomía; y participación y responsabilidad por los resultados", "correcta": true, "porQue": "Son los tres aspectos de la figura 1." },
+        { "texto": "Gobernanza, territorialidad y vinculación", "correcta": false, "porQue": "Son desafíos estratégicos del liderazgo intermedio (Uribe et al., 2019)." },
+        { "texto": "Hacia abajo, lateralmente y hacia arriba", "correcta": false, "porQue": "Son las direcciones de influencia." },
+        { "texto": "Visión, capacidades y convivencia", "correcta": false, "porQue": "No coinciden con la figura 1." }
+      ],
+      "explicacion": "El nivel intermedio forma parte de un ecosistema educativo.",
+      "citaTextual": "Organización y coherencia del sistema educativo. • Gobernanza local y autonomía. • Participación y responsabilidad por los resultados.",
+      "referencia": "Marco para la gestión y el liderazgo educativo, págs. 31-35", "etiquetas": ["dimensión política", "memorística"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según el Marco (Global Education Futures, 2018), un ecosistema educativo es:",
+      "opciones": [
+        { "texto": "Una red interconectada de espacios educativos, entre individuos y con instituciones, que ofrece experiencias de aprendizaje a lo largo de todo el ciclo de vida", "correcta": true, "porQue": "Es la definición citada." },
+        { "texto": "El conjunto de escuelas de un mismo municipio", "correcta": false, "porQue": "Es una definición más restringida que la citada." },
+        { "texto": "El entorno natural de la escuela", "correcta": false, "porQue": "No es el concepto." },
+        { "texto": "Una plataforma digital de aprendizaje", "correcta": false, "porQue": "No es el concepto." }
+      ],
+      "explicacion": "Requiere un liderazgo con enfoque sistémico y colaboración entre unidades educativas.",
+      "citaTextual": "red interconectada de espacios educativos, entre individuos y de estos con diversas instituciones y organizaciones",
+      "referencia": "Marco para la gestión y el liderazgo educativo, págs. 31-35", "etiquetas": ["ecosistema educativo"] }
+  ]}
+]

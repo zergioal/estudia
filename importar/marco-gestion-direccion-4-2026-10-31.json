@@ -1,0 +1,142 @@
+[
+  { "fragmentoRef": "marco-gestion-b017", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según el Marco (Aziz, 2018; González et al., 2015), ¿en qué se basa la relación colaborativa y de confianza entre los líderes intermedios y los equipos directivos?",
+      "opciones": [
+        { "texto": "En el respeto, la benevolencia, la honestidad, la integridad, la apertura, la competencia y la previsibilidad", "correcta": true, "porQue": "Es la lista del texto." },
+        { "texto": "En la jerarquía, la obediencia y el control", "correcta": false, "porQue": "Es lo contrario a una relación de confianza." },
+        { "texto": "En la evaluación estandarizada y los incentivos económicos", "correcta": false, "porQue": "No es lo que dice el texto." },
+        { "texto": "En la gobernanza, la territorialidad y la vinculación", "correcta": false, "porQue": "Son desafíos estratégicos, no las bases de la confianza." }
+      ],
+      "explicacion": "El acompañamiento se acuerda en conjunto y parte del contexto de cada establecimiento.",
+      "citaTextual": "basado en el respeto, la benevolencia, la honestidad, la integridad, la apertura, la competencia y la previsibilidad",
+      "referencia": "Marco para la gestión y el liderazgo educativo, págs. 37-40", "etiquetas": ["confianza", "memorística"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "¿Cuál de las siguientes NO es una de las tres condiciones de base que distingue el Marco para un funcionamiento apropiado de la gestión y el liderazgo intermedio?",
+      "opciones": [
+        { "texto": "Autonomía financiera total de cada establecimiento", "correcta": true, "porQue": "No figura entre las condiciones de base." },
+        { "texto": "Roles claros y definidos", "correcta": false, "porQue": "Sí es una condición de base." },
+        { "texto": "Capacidades profesionales", "correcta": false, "porQue": "Sí es una condición de base." },
+        { "texto": "Establecer quién decide, sobre qué temas y a quién se rinde cuentas", "correcta": false, "porQue": "Forma parte de la condición de roles claros." }
+      ],
+      "explicacion": "Hay que regular las funciones de cada nivel (central, intermedio y micro).",
+      "citaTextual": "quién decide y sobre qué temas, a quién se rinde cuentas, cómo se hace, cuándo y por qué",
+      "referencia": "Marco para la gestión y el liderazgo educativo, págs. 37-40", "etiquetas": ["condiciones de base", "EXCEPTO"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Un equipo del nivel intermedio impone a todas las unidades educativas el mismo plan de acompañamiento, sin consultar a los directivos. Según el Marco, este enfoque contradice que la construcción del sistema local debe ser:",
+      "opciones": [
+        { "texto": "Intencionada, continua y colaborativa, con estrategias de acompañamiento acordadas en conjunto, a partir del contexto e intereses de cada establecimiento", "correcta": true, "porQue": "Es la condición del punto 3 del texto." },
+        { "texto": "Uniforme y estandarizada para garantizar la equidad", "correcta": false, "porQue": "El Marco exige partir del contexto de cada establecimiento." },
+        { "texto": "Diseñada solo por el nivel central", "correcta": false, "porQue": "No es lo que plantea el Marco." },
+        { "texto": "Opcional para los directivos", "correcta": false, "porQue": "No es lo que plantea el Marco." }
+      ],
+      "explicacion": "La colaboración genera un ambiente positivo y reflexivo.",
+      "citaTextual": "a través de estrategias de acompañamiento acordadas en conjunto, tomando como punto de partida el contexto y los intereses propios de cada establecimiento",
+      "referencia": "Marco para la gestión y el liderazgo educativo, págs. 37-40", "etiquetas": ["acompañamiento", "caso"] }
+  ]},
+  { "fragmentoRef": "marco-gestion-b023", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "¿Cuántas dimensiones de prácticas tiene el Marco para la gestión y el liderazgo educativo del nivel intermedio, y cuál es la primera?",
+      "opciones": [
+        { "texto": "Seis; la primera es «Construyendo una visión compartida para el diseño y la implementación de una estrategia educativa territorial»", "correcta": true, "porQue": "Es la estructura del Marco." },
+        { "texto": "Cinco; la primera es «Construyendo e implementando una visión estratégica compartida»", "correcta": false, "porQue": "Capciosa: esas son las cinco dimensiones del Marco chileno para la Buena Dirección escolar (MINEDUC 2015)." },
+        { "texto": "Seis; la primera es «Gestionando los recursos y condiciones institucionales»", "correcta": false, "porQue": "Esa es la sexta." },
+        { "texto": "Cuatro; la primera es «Gobernanza»", "correcta": false, "porQue": "No coincide con el Marco." }
+      ],
+      "explicacion": "Las otras dimensiones son: participación y trabajo colaborativo, liderazgo pedagógico para el aprendizaje profundo, desarrollo de capacidades, bienestar, inclusión y ciudadanía, y recursos.",
+      "citaTextual": "Las seis dimensiones de prácticas del Marco son las siguientes: 1. Construyendo una visión compartida para el diseño y la implementación de una estrategia educativa territorial.",
+      "referencia": "Marco para la gestión y el liderazgo educativo, págs. 53-56", "etiquetas": ["dimensiones", "capciosa"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según la Dimensión 1 del Marco, ¿cómo debe ser reconocida por la comunidad la visión de la educación pública en el nivel local?",
+      "opciones": [
+        { "texto": "Convocante, desafiante y movilizadora", "correcta": true, "porQue": "Es lo que dice el desafío de la Dimensión 1." },
+        { "texto": "Técnica, neutral y estandarizada", "correcta": false, "porQue": "No es lo que dice el texto." },
+        { "texto": "Obligatoria, uniforme y jerárquica", "correcta": false, "porQue": "No es lo que dice el texto." },
+        { "texto": "Inspiradora solo para los directivos", "correcta": false, "porQue": "Debe reconocerla toda la comunidad." }
+      ],
+      "explicacion": "La visión debe generar identidad, sello territorial, apropiación y orgullo por la educación pública.",
+      "citaTextual": "La visión de la educación pública en el nivel local debe ser reconocida por la comunidad como convocante, desafiante y movilizadora.",
+      "referencia": "Marco para la gestión y el liderazgo educativo, Dimensión 1, págs. 53-56", "etiquetas": ["visión compartida"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Al diseñar la estrategia educativa territorial, un equipo se concentra solo en los estudiantes matriculados. Según la Dimensión 1 del Marco, ¿qué está omitiendo?",
+      "opciones": [
+        { "texto": "Integrar a quienes hayan sido excluidos del sistema en el territorio, además de favorecer las trayectorias desde la educación inicial a la superior", "correcta": true, "porQue": "Es lo que exige la descripción de la Dimensión 1." },
+        { "texto": "Los resultados de las pruebas nacionales", "correcta": false, "porQue": "No es la omisión señalada." },
+        { "texto": "El presupuesto municipal", "correcta": false, "porQue": "No es la omisión señalada." },
+        { "texto": "La opinión exclusiva del nivel central", "correcta": false, "porQue": "No es la omisión señalada." }
+      ],
+      "explicacion": "Esto es especialmente pertinente para la Educación Alternativa (CEA), que atiende a jóvenes y adultos excluidos del sistema.",
+      "citaTextual": "pero también integrar a quienes hayan sido excluidos del sistema en el territorio",
+      "referencia": "Marco para la gestión y el liderazgo educativo, Dimensión 1, págs. 53-56", "etiquetas": ["inclusión", "caso"] }
+  ]},
+  { "fragmentoRef": "marco-gestion-b025", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Un CEA detecta que muchos participantes abandonan a mitad de semestre. Según las prácticas del Marco, ¿qué deben promover los equipos del nivel intermedio junto con la unidad educativa?",
+      "opciones": [
+        { "texto": "Estrategias de detección temprana de deserción, identificando riesgos de exclusión, nivelación y monitoreo de estudiantes con rezagos", "correcta": true, "porQue": "Es la práctica n.º 12." },
+        { "texto": "Dar de baja a los participantes con inasistencias", "correcta": false, "porQue": "Contradice el resguardo de las trayectorias." },
+        { "texto": "Esperar al cierre de gestión para evaluar", "correcta": false, "porQue": "Se pide detección temprana." },
+        { "texto": "Trasladar a los participantes a otro centro", "correcta": false, "porQue": "No es la práctica que propone el Marco." }
+      ],
+      "explicacion": "Las trayectorias escolares positivas se promueven con trabajo colaborativo entre docentes y profesionales de apoyo.",
+      "citaTextual": "apoyando que las unidades educativas apliquen estrategias de detección temprana de deserción, identificando riesgos de exclusión educativa",
+      "referencia": "Marco para la gestión y el liderazgo educativo, págs. 59-60", "etiquetas": ["deserción", "caso"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según el Marco, ¿cómo debe diseñarse el modelo de apoyo técnico-pedagógico del nivel intermedio?",
+      "opciones": [
+        { "texto": "Con ciclos iterativos de mejoramiento, contextualizando los modelos del sistema según las características de cada establecimiento y con foco en el desarrollo de capacidades colectivas e individuales", "correcta": true, "porQue": "Es la práctica n.º 3." },
+        { "texto": "Como un modelo único, sin adaptaciones, para todos", "correcta": false, "porQue": "Debe contextualizarse." },
+        { "texto": "Solo a partir de los resultados de las pruebas externas", "correcta": false, "porQue": "No es lo que plantea el Marco." },
+        { "texto": "Sin intervención de los equipos directivos", "correcta": false, "porQue": "Se define en acuerdo con los líderes de las unidades educativas." }
+      ],
+      "explicacion": "Los programas de apoyo se definen a partir de diagnósticos de las áreas críticas de cada comunidad.",
+      "citaTextual": "Diseñan un modelo de apoyo técnico pedagógico, con ciclos iterativos de mejoramiento",
+      "referencia": "Marco para la gestión y el liderazgo educativo, págs. 59-60", "etiquetas": ["apoyo técnico-pedagógico"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Para fortalecer la formación técnica de un CEA, ¿qué propone el Marco que se resguarde?",
+      "opciones": [
+        { "texto": "La vinculación con los sectores productivos y con instituciones de formación terciaria, para la formación en alternancia, las prácticas profesionales y las competencias docentes", "correcta": true, "porQue": "Es la práctica n.º 10, sobre la modalidad técnico-profesional." },
+        { "texto": "Aislar la formación técnica del mercado laboral", "correcta": false, "porQue": "Es lo contrario." },
+        { "texto": "Eliminar las prácticas profesionales", "correcta": false, "porQue": "Se busca fortalecerlas." },
+        { "texto": "Reducir la formación técnica a contenidos teóricos", "correcta": false, "porQue": "No es lo que plantea el Marco." }
+      ],
+      "explicacion": "Esto coincide con el enfoque técnico-humanístico productivo de la EPJA boliviana.",
+      "citaTextual": "resguardando su vinculación con los sectores productivos, así como instituciones de formación terciaria, para fortalecer los procesos de formación en alternancia",
+      "referencia": "Marco para la gestión y el liderazgo educativo, págs. 59-60", "etiquetas": ["técnico-profesional", "caso"] }
+  ]},
+  { "fragmentoRef": "marco-gestion-b029", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según el Marco, la justicia socioeducativa se describe como:",
+      "opciones": [
+        { "texto": "Un imperativo ético, político y jurídico que se concreta en las relaciones humanas en cada territorio y establecimiento, y que es un indicador del desarrollo democrático", "correcta": true, "porQue": "Es la descripción del texto." },
+        { "texto": "Un procedimiento disciplinario escolar", "correcta": false, "porQue": "No es el concepto." },
+        { "texto": "La distribución igualitaria del presupuesto sin considerar las necesidades", "correcta": false, "porQue": "No es el concepto." },
+        { "texto": "Una competencia exclusiva del Poder Judicial", "correcta": false, "porQue": "Compromete a toda la comunidad educativa." }
+      ],
+      "explicacion": "Trasciende el concepto tradicional de justicia, porque se refiere a la igualdad de oportunidades y a los derechos humanos.",
+      "citaTextual": "La justicia socioeducativa es un imperativo ético, político y jurídico que se concreta, en cada territorio y establecimiento educativo, en las relaciones humanas",
+      "referencia": "Marco para la gestión y el liderazgo educativo, págs. 68-71", "etiquetas": ["justicia socioeducativa"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Una directora intenta mejorar sola los resultados de su centro, sin coordinar con otros centros ni con el nivel intermedio. Según la habilidad de «pensamiento sistémico» del Marco:",
+      "opciones": [
+        { "texto": "Los esfuerzos individuales de mejora son insuficientes si no van acompañados de acciones coordinadas que vinculen al ecosistema educativo en su conjunto", "correcta": true, "porQue": "Es lo que plantea la descripción del pensamiento sistémico." },
+        { "texto": "Es lo ideal, porque garantiza la autonomía", "correcta": false, "porQue": "El Marco sostiene que el esfuerzo aislado no basta." },
+        { "texto": "Es correcto si cuenta con recursos propios", "correcta": false, "porQue": "No es lo que plantea el Marco." },
+        { "texto": "Es irrelevante para el pensamiento sistémico", "correcta": false, "porQue": "Es precisamente su punto central." }
+      ],
+      "explicacion": "El núcleo del sistema educativo está en la interacción social dentro de las unidades educativas y entre ellas.",
+      "citaTextual": "los esfuerzos individuales de mejora son insuficientes si no van acompañados de acciones coordinadas que vinculen al ecosistema educativo en su conjunto",
+      "referencia": "Marco para la gestión y el liderazgo educativo, págs. 68-71", "etiquetas": ["pensamiento sistémico", "caso"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según el Marco, ¿qué es la «reflexión» como habilidad de los líderes intermedios?",
+      "opciones": [
+        { "texto": "La capacidad base del aprendizaje individual y colectivo: un proceso mental que estructura y reestructura una experiencia a partir de problematizar la realidad", "correcta": true, "porQue": "Es la descripción del texto." },
+        { "texto": "La capacidad de memorizar la normativa vigente", "correcta": false, "porQue": "No es el concepto." },
+        { "texto": "La evaluación de los docentes mediante rúbricas", "correcta": false, "porQue": "No es el concepto." },
+        { "texto": "La vocación de servicio público", "correcta": false, "porQue": "Es otro principio del Marco." }
+      ],
+      "explicacion": "La reflexión crítica crea nuevo conocimiento y mejora la práctica.",
+      "citaTextual": "puede entenderse como un proceso mental que estructura y reestructura una experiencia, a partir de la problematización de la realidad",
+      "referencia": "Marco para la gestión y el liderazgo educativo, págs. 68-71", "etiquetas": ["reflexión", "habilidades"] }
+  ]}
+]

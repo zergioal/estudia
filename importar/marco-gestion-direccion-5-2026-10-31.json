@@ -1,0 +1,155 @@
+[
+  { "fragmentoRef": "marco-gestion-b013", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según el Marco (MINEDUC, 2020b), ¿qué porcentaje de los establecimientos de Chile son escuelas rurales y qué característica tienen en su mayoría?",
+      "opciones": [
+        { "texto": "Un 30%, en su mayoría multigrado", "correcta": true, "porQue": "Es el dato del texto." },
+        { "texto": "Un 25,5%, en su mayoría de jornada completa", "correcta": false, "porQue": "25,5% es la proporción de chilenos que vive en comunas mayoritariamente rurales." },
+        { "texto": "Un 83%, en su mayoría unidocentes", "correcta": false, "porQue": "83% es la proporción del territorio que ocupan esas comunas." },
+        { "texto": "Un 10%, en su mayoría técnicas", "correcta": false, "porQue": "No coincide con el texto." }
+      ],
+      "explicacion": "Según el Marco, lo rural no está desapareciendo, sino que ha sido invisibilizado.",
+      "citaTextual": "Un 30% de los establecimientos del país corresponde a escuelas rurales, en su mayoría multigrado",
+      "referencia": "Marco para la gestión y el liderazgo educativo, págs. 28-30", "etiquetas": ["ruralidad", "memorística"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según la Agenda Educación 2030 citada en el Marco, ¿qué requiere la equidad de género en la educación?",
+      "opciones": [
+        { "texto": "Que niñas y niños no solo accedan y cursen con éxito los niveles de enseñanza, sino que adquieran las mismas competencias en la educación y mediante ella", "correcta": true, "porQue": "Es la idea del texto." },
+        { "texto": "Solo la paridad en la matrícula", "correcta": false, "porQue": "El acceso no basta." },
+        { "texto": "Escuelas separadas por sexo", "correcta": false, "porQue": "No es lo que plantea." },
+        { "texto": "Cuotas de docentes mujeres", "correcta": false, "porQue": "No es lo que plantea." }
+      ],
+      "explicacion": "Ninguna meta educativa debería considerarse lograda a menos que se haya logrado para todos.",
+      "citaTextual": "sino que adquieran las mismas competencias en la educación y mediante ella",
+      "referencia": "Marco para la gestión y el liderazgo educativo, págs. 28-30", "etiquetas": ["género", "equidad"] }
+  ]},
+  { "fragmentoRef": "marco-gestion-b022", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según el Marco, ¿en cuántas dimensiones se agrupan las prácticas y en qué ámbitos los recursos personales?",
+      "opciones": [
+        { "texto": "Las prácticas en 6 dimensiones; los recursos personales en tres ámbitos: principios, habilidades y conocimientos", "correcta": true, "porQue": "Es la estructura del Marco." },
+        { "texto": "Las prácticas en 5 dimensiones; los recursos personales en principios y valores", "correcta": false, "porQue": "Son 6 dimensiones y tres ámbitos." },
+        { "texto": "Las prácticas en 4 dimensiones; los recursos personales en competencias", "correcta": false, "porQue": "No coincide con el Marco." },
+        { "texto": "Las prácticas en 6 dimensiones; los recursos personales en actitudes y aptitudes", "correcta": false, "porQue": "Capciosa: el número de dimensiones es correcto, pero los ámbitos no." }
+      ],
+      "explicacion": "El Marco prioriza prácticas seleccionadas a partir de la evidencia y la experiencia; no contempla todas las posibles.",
+      "citaTextual": "Las prácticas se agrupan en 6 dimensiones y los recursos personales en tres ámbitos (principios, habilidades y conocimientos).",
+      "referencia": "Marco para la gestión y el liderazgo educativo, págs. 51-53", "etiquetas": ["estructura", "memorística"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "El director de un CEA convoca a docentes, participantes y organizaciones para elaborar juntos el plan anual. Según el Marco, ¿por qué esta práctica potencia su contribución?",
+      "opciones": [
+        { "texto": "Porque integra la gestión (planificar) con el liderazgo (invitar a participar a toda la comunidad), y cuando una actividad integra ambas su contribución es superior", "correcta": true, "porQue": "Es el ejemplo que da el propio Marco." },
+        { "texto": "Porque reduce el tiempo de planificación", "correcta": false, "porQue": "No es el argumento del Marco." },
+        { "texto": "Porque traslada la responsabilidad a la comunidad", "correcta": false, "porQue": "No es el argumento del Marco." },
+        { "texto": "Porque cumple un requisito formal de la Dirección Distrital", "correcta": false, "porQue": "No es el argumento del Marco." }
+      ],
+      "explicacion": "El Marco define las prácticas como actividades de un grupo con expectativas de resultados compartidos.",
+      "citaTextual": "se planifica (gestión) a partir de un proceso en que se invita a participar a todas y todos los integrantes de la comunidad educativa (liderazgo)",
+      "referencia": "Marco para la gestión y el liderazgo educativo, págs. 51-53", "etiquetas": ["gestión y liderazgo", "caso"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según el Marco, ¿cómo se define la gestión educativa de nivel intermedio?",
+      "opciones": [
+        { "texto": "Como la capacidad de movilizar y articular a profesionales e instituciones en función de objetivos estratégicos y operacionales, asegurando recursos y ambientes para el buen funcionamiento de todos los establecimientos", "correcta": true, "porQue": "Es la definición del Marco." },
+        { "texto": "Como la administración contable de los recursos", "correcta": false, "porQue": "Es una visión parcial." },
+        { "texto": "Como el control disciplinario de los directores", "correcta": false, "porQue": "No es la definición del Marco." },
+        { "texto": "Como la transmisión de normas del nivel central", "correcta": false, "porQue": "Es la visión que el Marco supera." }
+      ],
+      "explicacion": "El liderazgo intermedio se mueve, ante todo, por creencias y enfoques, como que todos los estudiantes pueden aprender.",
+      "citaTextual": "es la capacidad del equipo de los SLEP para movilizar y articular a profesionales e instituciones del sistema escolar y el territorio",
+      "referencia": "Marco para la gestión y el liderazgo educativo, págs. 51-53", "etiquetas": ["gestión"] }
+  ]},
+  { "fragmentoRef": "marco-gestion-b024", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "El centro de estudiantes de un CEA funciona sin apoyo y casi nadie participa. Según la Dimensión 2 del Marco, ¿qué práctica corresponde al nivel intermedio?",
+      "opciones": [
+        { "texto": "Apoyar el trabajo, el desarrollo democrático y la autonomía de los centros de estudiantes y de padres para lograr una participación efectiva", "correcta": true, "porQue": "Es la práctica n.º 4 de la Dimensión 2." },
+        { "texto": "Disolver el centro de estudiantes por ineficaz", "correcta": false, "porQue": "Contradice la Dimensión 2." },
+        { "texto": "Designar directamente a sus dirigentes", "correcta": false, "porQue": "Vulneraría su autonomía." },
+        { "texto": "Reemplazarlo por un comité de docentes", "correcta": false, "porQue": "No es la práctica que propone el Marco." }
+      ],
+      "explicacion": "La Dimensión 2 se titula: Desarrollando una cultura de participación, trabajo colaborativo y articulación.",
+      "citaTextual": "Apoyan el trabajo, el desarrollo democrático y autonomía de los centros de estudiantes y los centros de padres, madres y apoderados",
+      "referencia": "Marco para la gestión y el liderazgo educativo, Dimensión 2, págs. 56-59", "etiquetas": ["participación", "caso"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según la Dimensión 2 del Marco, ¿hacia dónde debe orientarse la gobernanza y gestión del nivel intermedio?",
+      "opciones": [
+        { "texto": "A implementar políticas que garanticen la participación, la articulación y la convivencia democrática, convocando a la comunidad a los espacios de representación legales", "correcta": true, "porQue": "Es lo que dice la descripción." },
+        { "texto": "A centralizar las decisiones en el director ejecutivo", "correcta": false, "porQue": "No es lo que dice la descripción." },
+        { "texto": "A reducir la participación para ganar eficiencia", "correcta": false, "porQue": "Es lo contrario." },
+        { "texto": "A uniformar las culturas del territorio", "correcta": false, "porQue": "Se deben reconocer las diversas culturas que conviven en el territorio." }
+      ],
+      "explicacion": "Hay que distinguir niveles, realidades urbanas y rurales, y articular el trabajo en red.",
+      "citaTextual": "debe orientarse a implementar políticas que garanticen la participación, articulación y convivencia democrática",
+      "referencia": "Marco para la gestión y el liderazgo educativo, Dimensión 2, págs. 56-59", "etiquetas": ["gobernanza"] }
+  ]},
+  { "fragmentoRef": "marco-gestion-b026", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Se designa a una directora novel en un CEA rural. Según las prácticas del Marco para el desarrollo de capacidades, ¿qué debe ofrecerle el nivel intermedio?",
+      "opciones": [
+        { "texto": "Procesos de inducción, acompañamiento y/o modelamiento en terreno, según las necesidades detectadas, para fortalecer su liderazgo", "correcta": true, "porQue": "Es la práctica n.º 4." },
+        { "texto": "Solo el envío de la normativa por correo", "correcta": false, "porQue": "No es el acompañamiento en terreno que propone el Marco." },
+        { "texto": "Una evaluación sancionatoria a los tres meses", "correcta": false, "porQue": "No es lo que propone el Marco." },
+        { "texto": "Nada, hasta que cumpla un año en el cargo", "correcta": false, "porQue": "No es lo que propone el Marco." }
+      ],
+      "explicacion": "También se promueve la colaboración entre directivos.",
+      "citaTextual": "Desarrollan procesos de inducción, acompañamiento y/o modelamiento en terreno a los directivos noveles y en servicio",
+      "referencia": "Marco para la gestión y el liderazgo educativo, págs. 61-63", "etiquetas": ["inducción", "caso"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según el Marco, en la fase de instalación de los SLEP, las nuevas prácticas del equipo del servicio deben evidenciar:",
+      "opciones": [
+        { "texto": "No solo un cambio de administración, sino conocimiento y comprensión de los desafíos organizacionales y pedagógicos de las unidades educativas", "correcta": true, "porQue": "Es la práctica n.º 2." },
+        { "texto": "Únicamente el cambio de dependencia administrativa", "correcta": false, "porQue": "Capciosa: el Marco exige más que un cambio administrativo." },
+        { "texto": "La continuidad de las prácticas municipales", "correcta": false, "porQue": "No es lo que plantea el Marco." },
+        { "texto": "La reducción del personal docente", "correcta": false, "porQue": "No es lo que plantea el Marco." }
+      ],
+      "explicacion": "Se trata de cumplir con el sello y los objetivos de la NEP.",
+      "citaTextual": "no sólo un cambio de administración, sino conocimiento y comprensión de los distintos desafíos organizacionales y pedagógicos",
+      "referencia": "Marco para la gestión y el liderazgo educativo, págs. 61-63", "etiquetas": ["instalación", "capciosa"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según el Marco, ¿qué hacen los equipos del nivel intermedio respecto de los convenios de desempeño de los directores?",
+      "opciones": [
+        { "texto": "Acompañan, monitorean y retroalimentan el cumplimiento de sus metas para lograr los objetivos", "correcta": true, "porQue": "Es la práctica n.º 11." },
+        { "texto": "Los redactan sin participación de los directores", "correcta": false, "porQue": "No es lo que plantea el Marco." },
+        { "texto": "Los usan solo como instrumento de despido", "correcta": false, "porQue": "No es lo que plantea el Marco." },
+        { "texto": "No intervienen en ellos", "correcta": false, "porQue": "Sí intervienen." }
+      ],
+      "explicacion": "Los convenios de desempeño de directores figuran entre los instrumentos de gestión de la NEP.",
+      "citaTextual": "Acompañan, monitorean y retroalimentan el cumplimiento de las metas de los convenios de desempeño de directores/as",
+      "referencia": "Marco para la gestión y el liderazgo educativo, págs. 61-63", "etiquetas": ["convenios de desempeño"] }
+  ]},
+  { "fragmentoRef": "marco-gestion-b031", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según el Marco, ¿qué usos de la evaluación debe distinguir el equipo de nivel intermedio en el ámbito pedagógico?",
+      "opciones": [
+        { "texto": "Evaluación para el aprendizaje, evaluación del aprendizaje y evaluación como aprendizaje", "correcta": true, "porQue": "Es la distinción del texto." },
+        { "texto": "Evaluación diagnóstica, formativa y sumativa únicamente", "correcta": false, "porQue": "Es otra clasificación (por momento), no la que cita el texto." },
+        { "texto": "Evaluación interna y externa", "correcta": false, "porQue": "Es una distinción por origen, no por uso." },
+        { "texto": "Autoevaluación, coevaluación y heteroevaluación", "correcta": false, "porQue": "Es una distinción por agente." }
+      ],
+      "explicacion": "Los equipos también deben saber interpretar las evaluaciones externas nacionales e internacionales.",
+      "citaTextual": "evaluaciones para el aprendizaje, evaluación del aprendizaje o evaluación como aprendizaje",
+      "referencia": "Marco para la gestión y el liderazgo educativo, págs. 74-76", "etiquetas": ["evaluación", "capciosa"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según el Marco, ¿a qué alude la «trayectoria educativa»?",
+      "opciones": [
+        { "texto": "Al desempeño de los estudiantes a lo largo de su escolaridad, año a año, observando su punto de partida, procesos y resultados", "correcta": true, "porQue": "Es la definición del texto." },
+        { "texto": "A la carrera profesional del docente", "correcta": false, "porQue": "Eso es el desarrollo profesional." },
+        { "texto": "Al historial disciplinario del estudiante", "correcta": false, "porQue": "No es el concepto." },
+        { "texto": "A la antigüedad del establecimiento", "correcta": false, "porQue": "No es el concepto." }
+      ],
+      "explicacion": "El liderazgo intermedio potencia trayectorias positivas e integra a quienes fueron excluidos del sistema.",
+      "citaTextual": "Trayectoria educativa alude al desempeño de las y los estudiantes a lo largo de su escolaridad, año a año",
+      "referencia": "Marco para la gestión y el liderazgo educativo, págs. 74-76", "etiquetas": ["trayectoria educativa"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Un equipo técnico debe asesorar a la vez a escuelas urbanas, rurales multigrado y un CEA de adultos. Según el conocimiento «Procesos de aprendizaje» del Marco, ¿qué necesita?",
+      "opciones": [
+        { "texto": "Una visión propia de los procesos de enseñanza-aprendizaje en los distintos niveles y realidades del territorio (ruralidad, aprendizaje de adultos, etc.)", "correcta": true, "porQue": "Es lo que plantea la descripción." },
+        { "texto": "Un único modelo pedagógico para todos", "correcta": false, "porQue": "Debe atender a la diversidad de realidades." },
+        { "texto": "Delegar la asesoría a cada director", "correcta": false, "porQue": "No es lo que plantea el Marco." },
+        { "texto": "Priorizar solo la educación media", "correcta": false, "porQue": "No es lo que plantea el Marco." }
+      ],
+      "explicacion": "Incluye las dimensiones cognitiva y metacognitiva, y la promoción de la innovación.",
+      "citaTextual": "en las distintas realidades del territorio (ruralidad, aprendizaje de adultos, etc.)",
+      "referencia": "Marco para la gestión y el liderazgo educativo, págs. 74-76", "etiquetas": ["procesos de aprendizaje", "caso"] }
+  ]}
+]
