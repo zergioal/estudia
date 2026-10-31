@@ -78,6 +78,10 @@ Todas bajo `/api/v1`. Errores: `{ error: { codigo, mensaje, detalles? } }`.
 | POST | `/admin/documentos/:id/procesar` (re-extraer), `/admin/documentos/:id/fragmentar` (rehacer cortes) | ADMIN |
 | DELETE | `/admin/documentos/:id` | ADMIN |
 | POST | `/admin/contenidos/:id/exportar` | ADMIN |
+| GET | `/me/panel`, `/me/estudio` (árbol con preguntas aprobadas) | autenticado |
+| POST | `/quizzes` `{ contenidoIds, temaIds, dificultades, cantidad: 10\|20\|50\|100 }` | autenticado |
+| GET | `/quizzes/:id`, `/quizzes/:id/resumen` | dueño del quiz |
+| POST | `/quizzes/:id/respuestas` `{ preguntaId, opcionIds, segundos?, confianza? }`, `/quizzes/:id/finalizar` | dueño del quiz |
 
 ## Ingesta de PDF
 

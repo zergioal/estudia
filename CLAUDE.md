@@ -77,19 +77,34 @@ VERDADERO_FALSO 2 opciones con 1 correcta, CASO 1 correcta, COMPLETAR ≥1 respu
 - Normativa → un fragmento por artículo con temas Parte/Reglamento › Título › Capítulo › Sección › Subsección.
   Libros/guías → bloques de ~900 palabras con temas por rango de 20 páginas.
 
+## Examen objetivo: institucionalización de cargos directivos (Convocatoria Pública 0001/2026)
+Según el Reglamento de la Convocatoria 0001/2026 (Arts. 6, 11, 12, 14): examen de competencia escrito de
+**100 preguntas en 150 minutos** (~90 s por pregunta), contenido **35% Normativa General y Específica y 65%
+Contenidos Técnico-Pedagógicos**, nota mínima **51/100** (Regular, Alternativa y Especial; 61 en Superior); el examen
+pondera 65% y los méritos 35%. La bibliografía del usuario (`fuentes/examenDireccion/`) apunta a director/a de
+**Educación Alternativa (CEA)**: la normativa específica son RM del VEAE.
+
 ## Generar preguntas (cuando el usuario lo pida en esta sesión)
 1. Leer `fuentes/<clave>/_indice.md` para ubicar los fragmentos y luego `fuentes/<clave>/<ref>.md`.
-2. Generar las preguntas pedidas siguiendo el contrato; distractores plausibles basados en confusiones
-   reales (artículos vecinos, plazos o cifras cambiadas, normas parecidas). Nada inventado fuera del fragmento.
-   Usar EXACTAMENTE `contenido`, `tema` y `fragmentoRef` del encabezado del .md (así cae en el tema correcto y se
-   verifica la cita). `citaTextual` copiada literal del texto; `referencia` con artículo y página del encabezado.
-3. Guardar en `importar/<clave>-<ref>-<fecha>.json`.
-4. Ejecutar `npm run importar -- <archivo>` (desde la raíz) y reportar cuántas se importaron, rechazaron o quedaron como duplicadas.
+2. Política de preguntas (pedido del usuario):
+   - Solo `OPCION_MULTIPLE`, **4 opciones, 1 correcta**, `dificultad: "DIFICIL"`; Bloom de preferencia APLICAR/ANALIZAR
+     (casos de un director/a de CEA o UE: "¿qué debe hacer?", "¿quién es competente?"), también RECORDAR de datos finos.
+   - Rebuscadas pero inequívocas: distractores de confusiones reales — instancia vecina (Distrital vs Departamental vs
+     Núcleo), quién designa vs de quién depende, cifras/plazos/fechas/edades de la misma norma, listas con un solo
+     elemento cambiado, conceptos de otro autor/meta/artículo, "NO corresponde/EXCEPTO". Sin "todas/ninguna las
+     anteriores"; opciones de largo similar. Cada `porQue` explica el error citando artículo/autor.
+   - Nada inventado fuera del fragmento. `citaTextual` copiada literal del texto; `referencia` con artículo/sección
+     y página del encabezado.
+3. Lote mínimo: basta `{ "fragmentoRef": "...", "preguntas": [...] }` (contenido y tema salen del fragmento). Un archivo
+   puede ser un arreglo de lotes. Guardar en `importar/<clave>-<tema o ref>-<fecha>.json`.
+4. Ejecutar `npm run importar -- <archivo>` (desde la raíz) y reportar cuántas se importaron, rechazaron o quedaron
+   como duplicadas. Quedan en BORRADOR: el usuario las aprueba en la bandeja (solo APROBADAS entran a los quizzes,
+   y solo de tipo OPCION_MULTIPLE).
 
 ## Hoja de ruta (marcar al completar)
 - [x] Hito 0 — Base: monorepo, Docker (pgvector), Prisma con esquema núcleo, seed de admin, login
 - [x] Hito 1 — Banco e importador: CRUD Colección/Contenido/Tema, importador JSON con Zod, bandeja de revisión
-- [ ] Hito 2 — Quiz mínimo: crear quiz por filtros y cantidad (10/20/50/100), modo Práctica, resumen, XP
+- [x] Hito 2 — Quiz mínimo: crear quiz por filtros y cantidad (10/20/50/100), modo Práctica, resumen, XP
 - [x] Hito 3 — Ingesta PDF: extracción por página, OCR, fragmentación por artículos, exportar a `fuentes/`
 - [ ] Hito 4 — Repetición espaciada con confianza, repaso del día, cuaderno de errores, dominio por tema
 - [ ] Hito 5 — Embeddings, deduplicación, validador automático, estadísticas de preguntas
