@@ -1,0 +1,285 @@
+[
+  { "fragmentoRef": "ley548-art05", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según el Código Niña, Niño y Adolescente (Ley 548), ¿cuáles son las etapas de desarrollo de los sujetos de derechos?",
+      "opciones": [
+        { "texto": "Niñez, desde la concepción hasta los 12 años cumplidos; adolescencia, desde los 12 hasta los 18 años cumplidos", "correcta": true, "porQue": "Son las etapas del Art. 5." },
+        { "texto": "Niñez, desde el nacimiento hasta los 14 años; adolescencia, de los 14 a los 18", "correcta": false, "porQue": "La niñez comienza en la concepción y termina a los 12 años." },
+        { "texto": "Niñez, desde la concepción hasta los 10 años; adolescencia, de los 10 a los 18", "correcta": false, "porQue": "El límite entre etapas es a los 12 años." },
+        { "texto": "Niñez, hasta los 12 años; adolescencia, de los 12 a los 21 años", "correcta": false, "porQue": "Los sujetos de derechos del Código llegan hasta los 18 años cumplidos." }
+      ],
+      "explicacion": "La Ley 548 protege a los seres humanos hasta los 18 años cumplidos: niñez (concepción a 12) y adolescencia (12 a 18).",
+      "citaTextual": "Niñez, desde la concepción hasta los doce (12) años cumplidos; y b) Adolescencia, desde los doce (12) años hasta los dieciocho (18) años cumplidos.",
+      "referencia": "Ley 548, Art. 5, pág. 12", "etiquetas": ["sujetos de derechos", "etapas"] }
+  ]},
+  { "fragmentoRef": "ley548-art117", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "El director va a sancionar a un adolescente por una falta al reglamento de convivencia. Según el Art. 117 de la Ley 548, ¿qué debe garantizar ANTES de imponer la sanción?",
+      "opciones": [
+        { "texto": "El ejercicio de sus derechos a opinar y a la defensa, y su derecho a impugnar ante una autoridad superior e imparcial", "correcta": true, "porQue": "Lo exige el inc. c) antes de cualquier amonestación o sanción." },
+        { "texto": "Solo la notificación a los padres", "correcta": false, "porQue": "Informar a los padres no sustituye el derecho a opinar y a defenderse." },
+        { "texto": "La aprobación previa de la Dirección Distrital", "correcta": false, "porQue": "La ley exige un debido proceso interno con opinión y defensa." },
+        { "texto": "Nada, si la sanción está prevista en el reglamento", "correcta": false, "porQue": "Aunque esté prevista, deben garantizarse la opinión, la defensa y la impugnación." }
+      ],
+      "explicacion": "La disciplina escolar exige reglamentos conocidos por los estudiantes, faltas, sanciones y procedimiento definidos, derecho a opinar, a defenderse y a impugnar, y prohíbe las sanciones corporales.",
+      "citaTextual": "Antes de la imposición de cualquier amonestación y/o sanción, debe garantizarse a todas las niñas, niños y adolescentes, el ejercicio de los derechos a opinar y a la defensa",
+      "referencia": "Ley 548, Art. 117, inc. c), pág. 41", "etiquetas": ["disciplina escolar", "debido proceso", "caso"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según el Art. 117 de la Ley 548, ¿dónde deben establecerse los hechos susceptibles de amonestación y sanción, las sanciones y el procedimiento para aplicarlas?",
+      "opciones": [
+        { "texto": "En el reglamento de convivencia pacífica y armónica de las Unidades Educativas", "correcta": true, "porQue": "Lo dispone el inc. b)." },
+        { "texto": "En una circular anual de la Dirección Distrital", "correcta": false, "porQue": "Deben constar en el reglamento de convivencia de cada unidad." },
+        { "texto": "En el contrato de inscripción firmado por los padres", "correcta": false, "porQue": "La ley remite al reglamento de convivencia." },
+        { "texto": "Solo en el Código Penal", "correcta": false, "porQue": "La disciplina escolar se rige por el reglamento de convivencia." }
+      ],
+      "explicacion": "El reglamento de convivencia debe tipificar las faltas, las sanciones y el procedimiento, y los estudiantes deben conocerlo.",
+      "citaTextual": "Deberán establecerse en el reglamento de convivencia pacífica y armónica de las Unidades Educativas los hechos que son susceptibles de amonestación, sanción y las sanciones, así como el procedimiento para aplicarlas",
+      "referencia": "Ley 548, Art. 117, inc. b), pág. 41", "etiquetas": ["reglamento de convivencia"] }
+  ]},
+  { "fragmentoRef": "ley548-art118", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Una estudiante soltera queda embarazada y algunos padres piden su retiro del centro. Según la Ley 548, ¿qué debe hacer la autoridad educativa?",
+      "opciones": [
+        { "texto": "No puede rechazarla ni expulsarla, y debe promover políticas de inclusión y protección para su permanencia hasta que culmine sus estudios", "correcta": true, "porQue": "El Art. 118 prohíbe expulsar a las estudiantes embarazadas, cualquiera sea su estado civil." },
+        { "texto": "Puede trasladarla a otro turno sin su consentimiento", "correcta": false, "porQue": "Sería una forma de exclusión contraria al deber de inclusión." },
+        { "texto": "Puede suspenderla hasta el nacimiento", "correcta": false, "porQue": "La ley prohíbe rechazarla y obliga a garantizar su permanencia." },
+        { "texto": "Debe consultar a la asamblea de padres y acatar su decisión", "correcta": false, "porQue": "La prohibición es legal y no está sujeta a votación." }
+      ],
+      "explicacion": "Está prohibido rechazar o expulsar a las estudiantes embarazadas y a los estudiantes por su orientación sexual, discapacidad o VIH/SIDA.",
+      "citaTextual": "Se prohíbe a las autoridades del Sistema Educativo Plurinacional, rechazar o expulsar a las estudiantes embarazadas, sea cualquiera su estado civil",
+      "referencia": "Ley 548, Art. 118, pág. 41", "etiquetas": ["prohibición de expulsión", "caso"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "¿Cuál de las siguientes causas NO está expresamente mencionada en la prohibición de expulsión del Art. 118 de la Ley 548?",
+      "opciones": [
+        { "texto": "El bajo rendimiento académico", "correcta": true, "porQue": "El Art. 118 menciona el embarazo, la orientación sexual, la discapacidad y el VIH/SIDA; el rendimiento no está en esa lista." },
+        { "texto": "El embarazo", "correcta": false, "porQue": "Está mencionado expresamente." },
+        { "texto": "La orientación sexual", "correcta": false, "porQue": "Está mencionada expresamente." },
+        { "texto": "Vivir con VIH/SIDA", "correcta": false, "porQue": "Está mencionado expresamente." }
+      ],
+      "explicacion": "El Art. 118 protege explícitamente cuatro situaciones: embarazo, orientación sexual, discapacidad y VIH/SIDA.",
+      "citaTextual": "a causa de su orientación sexual, en situación de discapacidad o con VIH/SIDA",
+      "referencia": "Ley 548, Art. 118, pág. 41", "etiquetas": ["prohibición de expulsión"] }
+  ]},
+  { "fragmentoRef": "ley548-art116", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Un estudiante considera que un maestro lo evaluó con criterios distintos de los establecidos por la autoridad competente. Según las garantías del Art. 116 de la Ley 548, el estudiante puede:",
+      "opciones": [
+        { "texto": "Impugnar los criterios de evaluación, pudiendo recurrir a las instancias superiores", "correcta": true, "porQue": "Es la garantía del inc. f)." },
+        { "texto": "Solo pedir una revisión verbal al mismo maestro, sin otra instancia", "correcta": false, "porQue": "La ley le permite recurrir a las instancias superiores." },
+        { "texto": "Nada, porque la evaluación es atribución exclusiva del maestro", "correcta": false, "porQue": "Los criterios deben ajustarse a los de la autoridad competente y son impugnables." },
+        { "texto": "Denunciarlo penalmente por incumplimiento de deberes", "correcta": false, "porQue": "La vía prevista es la impugnación de la evaluación." }
+      ],
+      "explicacion": "Entre las garantías del sistema educativo están la educación sin violencia ni discriminación, los recursos no sexistas, la participación en la gestión y la impugnación de las evaluaciones.",
+      "citaTextual": "Impugnación de los criterios de evaluación cuando éstos no se ajusten a los establecidos por la autoridad competente, pudiendo recurrir a las instancias superiores",
+      "referencia": "Ley 548, Art. 116, inc. f), págs. 40-41", "etiquetas": ["evaluación", "garantías", "caso"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según el Art. 116 de la Ley 548, ¿quiénes tienen derecho a acceder a la información del proceso pedagógico y de la gestión educativa?",
+      "opciones": [
+        { "texto": "La o el estudiante y su madre, padre, guardadora o guardador, tutora o tutor", "correcta": true, "porQue": "Es la garantía del inc. h)." },
+        { "texto": "Solo los padres, porque los estudiantes son menores de edad", "correcta": false, "porQue": "El inc. h) incluye expresamente al estudiante." },
+        { "texto": "Solo las autoridades distritales", "correcta": false, "porQue": "La garantía es para el estudiante y su familia." },
+        { "texto": "Solo el Consejo Educativo Social Comunitario", "correcta": false, "porQue": "La garantía es para el estudiante y su familia." }
+      ],
+      "explicacion": "El estudiante y su familia acceden a la información pedagógica y de gestión, y el estudiante puede participar en la gestión educativa (inc. g)).",
+      "citaTextual": "Acceso a la información del proceso pedagógico y de la gestión educativa para la y el estudiante y su madre, padre, guardadora o guardador, tutora o tutor",
+      "referencia": "Ley 548, Art. 116, inc. h), págs. 40-41", "etiquetas": ["acceso a la información"] }
+  ]},
+  { "fragmentoRef": "ley548-art129", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según la Ley 548, ¿cuál es la edad mínima para trabajar y qué excepciones puede autorizar la Defensoría de la Niñez y Adolescencia?",
+      "opciones": [
+        { "texto": "14 años; excepcionalmente, trabajo por cuenta propia de 10 a 14 años y por cuenta ajena de 12 a 14 años, sin menoscabo de la educación", "correcta": true, "porQue": "Es lo que establece el Art. 129." },
+        { "texto": "16 años; excepcionalmente, desde los 14 por cuenta propia", "correcta": false, "porQue": "La edad mínima es 14 y las excepciones bajan a 10 y 12 años." },
+        { "texto": "14 años; excepcionalmente, trabajo por cuenta ajena desde los 10 años", "correcta": false, "porQue": "El trabajo por cuenta ajena se autoriza desde los 12 años; desde los 10 es por cuenta propia." },
+        { "texto": "18 años, sin excepciones", "correcta": false, "porQue": "La edad mínima es 14 y hay excepciones autorizables." }
+      ],
+      "explicacion": "Edad mínima: 14 años. Por excepción: cuenta propia de 10 a 14 y cuenta ajena de 12 a 14, con autorización de la Defensoría y sin afectar la educación.",
+      "citaTextual": "la actividad laboral por cuenta propia realizada por niñas, niños o adolescentes de diez (10) a catorce (14) años, y la actividad laboral por cuenta ajena de adolescentes de doce (12) a catorce (14) años",
+      "referencia": "Ley 548, Art. 129, pág. 44", "etiquetas": ["trabajo adolescente", "edad mínima"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según la Ley 548, ¿en qué plazo debe responder la Defensoría de la Niñez y Adolescencia una solicitud de autorización de actividad laboral?",
+      "opciones": [
+        { "texto": "En setenta y dos (72) horas desde su recepción, previa valoración socioeconómica", "correcta": true, "porQue": "Es el plazo del Art. 129, par. III." },
+        { "texto": "En cinco días hábiles", "correcta": false, "porQue": "El plazo es de 72 horas." },
+        { "texto": "En cuarenta y ocho horas, sin valoración previa", "correcta": false, "porQue": "Son 72 horas y requiere valoración socioeconómica." },
+        { "texto": "En treinta días calendario", "correcta": false, "porQue": "El plazo es de 72 horas." }
+      ],
+      "explicacion": "La autorización se responde en 72 horas, previa valoración socioeconómica, y se registra en el SINNA.",
+      "citaTextual": "La solicitud deberá tener respuesta en el plazo de setenta y dos (72) horas computables a partir de su recepción, previa valoración socio-económica",
+      "referencia": "Ley 548, Art. 129, par. III, pág. 44", "etiquetas": ["Defensoría de la Niñez", "plazos"] }
+  ]},
+  { "fragmentoRef": "ley548-art133", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según la Ley 548, ¿hasta qué hora puede extenderse la actividad laboral por cuenta propia de niñas, niños y adolescentes de 10 a 14 años?",
+      "opciones": [
+        { "texto": "No debe exceder las diez de la noche", "correcta": true, "porQue": "Es el límite del Art. 133, par. III." },
+        { "texto": "No debe exceder las ocho de la noche", "correcta": false, "porQue": "El límite es las 22:00." },
+        { "texto": "No debe exceder la medianoche", "correcta": false, "porQue": "El límite es las 22:00." },
+        { "texto": "No tiene límite horario si cuenta con autorización", "correcta": false, "porQue": "La ley fija un límite expreso." }
+      ],
+      "explicacion": "Para el trabajo por cuenta propia de 10 a 14 años, la familia debe garantizar el acceso y la permanencia en el sistema educativo, un horario especial y descanso, y la jornada no puede pasar de las 22:00.",
+      "citaTextual": "no deberá exceder de las diez (10) de la noche",
+      "referencia": "Ley 548, Art. 133, par. III, págs. 46-47", "etiquetas": ["trabajo adolescente"] }
+  ]},
+  { "fragmentoRef": "ley548-art146", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Un maestro hace permanecer de pie y en el patio, como corrección, a un estudiante que no hizo la tarea, frente a sus compañeros. Según la Ley 548, esa práctica:",
+      "opciones": [
+        { "texto": "Está prohibida, porque los educadores deben emplear métodos no violentos y se prohíbe cualquier castigo físico, violento o humillante", "correcta": true, "porQue": "El Art. 146, par. II lo prohíbe expresamente." },
+        { "texto": "Es válida si está prevista en el reglamento interno", "correcta": false, "porQue": "Ningún reglamento puede habilitar castigos humillantes; el Art. 117 prohíbe además las sanciones corporales." },
+        { "texto": "Es válida porque no hay contacto físico", "correcta": false, "porQue": "La prohibición alcanza también al castigo humillante." },
+        { "texto": "Solo es reprochable si la denuncian los padres", "correcta": false, "porQue": "La prohibición rige con independencia de la denuncia." }
+      ],
+      "explicacion": "El derecho al buen trato prohíbe cualquier castigo físico, violento o humillante en la crianza y la educación.",
+      "citaTextual": "Se prohíbe cualquier tipo de castigo físico, violento o humillante.",
+      "referencia": "Ley 548, Art. 146, par. II, pág. 53", "etiquetas": ["buen trato", "caso"] }
+  ]},
+  { "fragmentoRef": "ley548-art151", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Una madre de familia hostiga con insultos y amenazas, dentro del centro, a un estudiante que no es su hijo. Según la clasificación del Art. 151 de la Ley 548, ¿qué tipo de violencia en el sistema educativo es?",
+      "opciones": [
+        { "texto": "Violencia entre no pares", "correcta": true, "porQue": "El inc. b) incluye la violencia con abuso de poder de madres, padres, maestros, administrativos y otros contra los estudiantes." },
+        { "texto": "Violencia entre pares", "correcta": false, "porQue": "La violencia entre pares ocurre entre estudiantes." },
+        { "texto": "Violencia cibernética", "correcta": false, "porQue": "La cibernética se produce por medios tecnológicos." },
+        { "texto": "Violencia en razón de la situación económica", "correcta": false, "porQue": "Esta se basa en la situación económica de la víctima." }
+      ],
+      "explicacion": "Pares: entre estudiantes. No pares: de adultos (padres, maestros, personal) contra estudiantes. También hay violencia verbal, discriminación, de género, económica y cibernética.",
+      "citaTextual": "Violencia Entre no Pares. Cualquier tipo de violencia con ejercicio y/o abuso de poder de madres, padres, maestras, maestros, personal administrativo, de servicio y profesionales",
+      "referencia": "Ley 548, Art. 151, inc. b), págs. 55-56", "etiquetas": ["tipos de violencia escolar", "caso"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Un grupo de estudiantes crea un grupo de mensajería para humillar y difamar a una compañera, causándole angustia. Según la Ley 548, se trata de:",
+      "opciones": [
+        { "texto": "Violencia cibernética en el sistema educativo, considerada infracción mientras no constituya delito", "correcta": true, "porQue": "Es la definición del inc. g); el par. II la considera infracción si no es delito." },
+        { "texto": "Una conducta privada ajena al sistema educativo, por ocurrir fuera del aula", "correcta": false, "porQue": "La ley la incluye entre las formas de violencia en el sistema educativo." },
+        { "texto": "Violencia mediática de la Ley 348", "correcta": false, "porQue": "La mediática se refiere a medios masivos de comunicación; aquí es violencia cibernética entre miembros de la comunidad educativa." },
+        { "texto": "Solo violencia verbal, porque no hay contacto físico", "correcta": false, "porQue": "Al usar tecnologías de la información, el tipo específico es la violencia cibernética." }
+      ],
+      "explicacion": "El hostigamiento, el acoso o la difamación dolosa por redes, mensajería o internet entre miembros de la comunidad educativa es violencia cibernética.",
+      "citaTextual": "Violencia Cibernética en el Sistema Educativo. Se presenta cuando una o un miembro de la comunidad educativa es hostigada u hostigado, amenazada o amenazado, acosada o acosado, difamada o difamado, humillada o humillado, de forma dolosa",
+      "referencia": "Ley 548, Art. 151, inc. g), págs. 55-56", "etiquetas": ["violencia cibernética", "caso"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según el Art. 151, par. II, de la Ley 548, ¿qué naturaleza tienen los tipos de violencia en el sistema educativo?",
+      "opciones": [
+        { "texto": "Son infracciones mientras no constituyan delitos", "correcta": true, "porQue": "Es lo que dispone el par. II." },
+        { "texto": "Siempre son delitos penales", "correcta": false, "porQue": "Solo lo son si están tipificados como delitos; si no, son infracciones." },
+        { "texto": "Son faltas disciplinarias que solo sanciona la unidad educativa", "correcta": false, "porQue": "Son infracciones que conoce la jurisdicción especializada (Art. 147)." },
+        { "texto": "No tienen sanción, son solo orientaciones pedagógicas", "correcta": false, "porQue": "Son infracciones sancionables." }
+      ],
+      "explicacion": "Si constituyen delito, las sanciona el juez penal; si no, son infracciones que sanciona el Juez Público de la Niñez y Adolescencia.",
+      "citaTextual": "Los tipos de violencia descritos en el presente Artículo, serán considerados infracciones mientras no constituyan delitos.",
+      "referencia": "Ley 548, Art. 151, par. II, pág. 56", "etiquetas": ["infracciones"] }
+  ]},
+  { "fragmentoRef": "ley548-art152", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Una directora quiere redactar sola el Plan de Convivencia pacífica y armónica de su centro. Según el Art. 152 de la Ley 548, ¿cómo debe elaborarse?",
+      "opciones": [
+        { "texto": "Es obligatorio y lo elaboran las autoridades superiores en un proceso abierto, participativo y plural que convoque obligatoriamente a todos los miembros de la comunidad educativa", "correcta": true, "porQue": "Es lo que dispone el par. II." },
+        { "texto": "Es opcional y puede redactarlo solo la dirección", "correcta": false, "porQue": "Es obligatorio y exige un proceso participativo." },
+        { "texto": "Lo elabora la Dirección Distrital y se aplica igual en todas las unidades", "correcta": false, "porQue": "Debe responder a la realidad de cada unidad o centro (par. I, inc. d))." },
+        { "texto": "Lo elaboran solo los estudiantes, por ser los destinatarios", "correcta": false, "porQue": "Debe convocar a todos los miembros de la comunidad educativa." }
+      ],
+      "explicacion": "El Plan de Convivencia es obligatorio, contextualizado y participativo, y forma parte de las acciones colectivas contra la violencia, la agresión y el acoso.",
+      "citaTextual": "El Plan de Convivencia pacífi ca y armónica tendrá carácter obligatorio para cada una de las unidades educativas y/o centros, y deberá ser elaborado por las autoridades superiores, en un proceso abierto participativo y plural",
+      "referencia": "Ley 548, Art. 152, par. II, págs. 56-57", "etiquetas": ["plan de convivencia", "caso"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Entre las acciones colectivas que la comunidad educativa debe adoptar según el Art. 152 de la Ley 548, ¿cuál apunta a \"romper la cultura del silencio y del miedo\"?",
+      "opciones": [
+        { "texto": "Denunciar conductas y actos de cualquier tipo de violencia", "correcta": true, "porQue": "El inc. c) vincula esa ruptura con la denuncia." },
+        { "texto": "Resolver los conflictos internamente, sin informar a terceros", "correcta": false, "porQue": "Es lo contrario de romper el silencio." },
+        { "texto": "Expulsar a los agresores reincidentes", "correcta": false, "porQue": "La ley no prevé la expulsión como medida." },
+        { "texto": "Instalar cámaras de vigilancia en las aulas", "correcta": false, "porQue": "No figura entre las acciones del Art. 152." }
+      ],
+      "explicacion": "Las acciones colectivas son: medidas de no violencia, cultura de convivencia, denuncia, Plan de Convivencia, difusión de normas, y denuncia de los casos graves y de las denuncias falsas.",
+      "citaTextual": "Romper la cultura del silencio y del miedo denunciando conductas y actos de cualquier tipo de violencia",
+      "referencia": "Ley 548, Art. 152, par. I, inc. c), págs. 56-57", "etiquetas": ["prevención", "denuncia"] }
+  ]},
+  { "fragmentoRef": "ley548-art147", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según el Art. 147 de la Ley 548, ¿quién sanciona las formas de violencia contra niñas, niños y adolescentes que NO están tipificadas como delito?",
+      "opciones": [
+        { "texto": "La Jueza o el Juez Público de la Niñez y Adolescencia, como infracciones", "correcta": true, "porQue": "Lo establece el par. III." },
+        { "texto": "La Jueza o el Juez Penal", "correcta": false, "porQue": "El juez penal sanciona la violencia tipificada como delito (par. II)." },
+        { "texto": "La Dirección Distrital de Educación", "correcta": false, "porQue": "No es la autoridad sancionadora según el Art. 147." },
+        { "texto": "La Defensoría de la Niñez, que impone la sanción directamente", "correcta": false, "porQue": "La Defensoría denuncia (Art. 153), pero sanciona el juez." }
+      ],
+      "explicacion": "Violencia que es delito → juez penal. Violencia que no es delito → infracción, sancionada por el Juez Público de la Niñez y Adolescencia a denuncia de la Defensoría.",
+      "citaTextual": "constituyen infracciones y serán sancionadas por la Jueza o Juez Público de la Niñez y Adolescencia",
+      "referencia": "Ley 548, Art. 147, par. III, pág. 53", "etiquetas": ["infracciones", "jurisdicción"] }
+  ]},
+  { "fragmentoRef": "ley548-art153", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Unos padres hacen participar a su hijo de 13 años en un bloqueo para presionar a las autoridades por un conflicto social. Según el Art. 153 de la Ley 548, esa conducta:",
+      "opciones": [
+        { "texto": "Es una infracción por violencia: utilizar al adolescente como objeto de presión o chantaje en conflictos sociales e instigarlo a medidas de hecho", "correcta": true, "porQue": "El inc. e) la tipifica como infracción." },
+        { "texto": "Es lícita, porque los padres ejercen la autoridad parental", "correcta": false, "porQue": "La autoridad parental no habilita usar al hijo como instrumento de presión." },
+        { "texto": "Solo es infracción si el adolescente resulta herido", "correcta": false, "porQue": "La infracción existe sin necesidad de lesiones." },
+        { "texto": "Es un delito de acción privada", "correcta": false, "porQue": "Es una infracción que conoce el Juez de la Niñez y Adolescencia a denuncia de la Defensoría." }
+      ],
+      "explicacion": "Las infracciones por violencia incluyen castigos físicos o degradantes, abandono emocional, falta de provisión, uso del niño en conflictos familiares o sociales, entre otras.",
+      "citaTextual": "Utilización de la niña, niño o adolescente, como objeto de presión o chantaje en conflictos sociales, así como la instigación a participar en cualquier tipo de medidas de hecho",
+      "referencia": "Ley 548, Art. 153, inc. e), pág. 58", "etiquetas": ["infracciones", "caso"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según el Art. 153 de la Ley 548, el sometimiento a castigos físicos \"a título de medidas disciplinarias o educativas\" es:",
+      "opciones": [
+        { "texto": "Una infracción por violencia, salvo que se trate de lesiones tipificadas en la normativa penal", "correcta": true, "porQue": "Es lo que establece el inc. a)." },
+        { "texto": "Lícito, si su finalidad es educativa", "correcta": false, "porQue": "La ley sanciona el castigo físico aunque se invoque una finalidad disciplinaria o educativa." },
+        { "texto": "Siempre un delito penal", "correcta": false, "porQue": "Es una infracción, salvo que constituya lesiones tipificadas como delito." },
+        { "texto": "Una falta leve que se resuelve con una disculpa", "correcta": false, "porQue": "Es una infracción sancionable por el juez." }
+      ],
+      "explicacion": "El propósito \"educativo\" no justifica el castigo físico ni las formas degradantes.",
+      "citaTextual": "Sometimiento a castigos físicos u otras formas que degraden o afecten la dignidad de la niña, niño o adolescente, así sea a título de medidas disciplinarías o educativas",
+      "referencia": "Ley 548, Art. 153, inc. a), pág. 58", "etiquetas": ["castigo físico"] }
+  ]},
+  { "fragmentoRef": "ley548-art157", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Ante un caso de violencia contra un estudiante, el director propone que la familia del agresor \"llegue a un acuerdo económico\" con la víctima para cerrar el caso. Según la Ley 548:",
+      "opciones": [
+        { "texto": "Está prohibida toda forma de conciliación o transacción en casos de niñas, niños o adolescentes víctimas de violencia", "correcta": true, "porQue": "El Art. 157, par. IV lo prohíbe expresamente." },
+        { "texto": "Es válido si los padres de la víctima aceptan", "correcta": false, "porQue": "La prohibición es absoluta." },
+        { "texto": "Es válido si se trata de la primera vez", "correcta": false, "porQue": "A diferencia de la Ley 348 (Art. 46, par. IV), aquí no hay excepción por única vez." },
+        { "texto": "Solo está prohibido si la violencia fue sexual", "correcta": false, "porQue": "La prohibición alcanza a toda violencia contra niños, niñas y adolescentes." }
+      ],
+      "explicacion": "Hay que contrastar: la Ley 348 admite excepcionalmente la conciliación a iniciativa de la víctima mujer adulta; la Ley 548 prohíbe toda conciliación o transacción en casos de violencia contra niñas, niños y adolescentes.",
+      "citaTextual": "Se prohíbe toda forma de conciliación o transacción en casos de niñas, niños o adolescentes víctimas de violencia.",
+      "referencia": "Ley 548, Art. 157, par. IV, págs. 59-60", "etiquetas": ["prohibición de conciliar", "caso"] }
+  ]},
+  { "fragmentoRef": "ley548-art149", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Entre las medidas de la Ley 548 contra la violencia sexual, las personas con sentencia ejecutoriada por delitos sexuales contra niñas, niños o adolescentes, una vez cumplida la pena:",
+      "opciones": [
+        { "texto": "Tienen prohibido vivir, trabajar o permanecer cerca de unidades educativas, parques y lugares de concurrencia de esta población", "correcta": true, "porQue": "Es la medida del par. I, inc. c)." },
+        { "texto": "Pueden trabajar en unidades educativas si aprueban una evaluación psicológica", "correcta": false, "porQue": "La ley prohíbe incluso permanecer cerca de esos lugares." },
+        { "texto": "Quedan libres de toda medida al cumplir la pena", "correcta": false, "porQue": "La ley prevé control, seguimiento, tratamiento y prohibiciones posteriores." },
+        { "texto": "Solo tienen prohibido trabajar en el sector público", "correcta": false, "porQue": "La prohibición es territorial y laboral en general, no solo en el sector público." }
+      ],
+      "explicacion": "Las medidas incluyen control y seguimiento, tratamiento psicológico o psiquiátrico incluso después de la pena, y prohibición de acercarse a lugares frecuentados por niños.",
+      "citaTextual": "vivan, trabajen o se mantengan cerca de parques, centros de esparcimiento y recreación para niñas, niños y adolescentes, unidades educativas",
+      "referencia": "Ley 548, Art. 149, par. I, inc. c), págs. 54-55", "etiquetas": ["violencia sexual", "medidas preventivas"] }
+  ]},
+  { "fragmentoRef": "ley548-art136", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según el Art. 136 de la Ley 548, ¿cuál de los siguientes trabajos está prohibido para niñas, niños y adolescentes por su NATURALEZA?",
+      "opciones": [
+        { "texto": "El trabajo del hogar bajo la modalidad cama adentro", "correcta": true, "porQue": "Figura en el par. II (prohibiciones según su naturaleza)." },
+        { "texto": "El comercio fuera del horario establecido", "correcta": false, "porQue": "Está prohibido según su condición (par. III), no por su naturaleza." },
+        { "texto": "Las actividades agrícolas fuera del ámbito familiar", "correcta": false, "porQue": "Están prohibidas según su condición (par. III)." },
+        { "texto": "El modelaje que implique erotización de la imagen", "correcta": false, "porQue": "Está prohibido según su condición (par. III)." }
+      ],
+      "explicacion": "Por su naturaleza se prohíben, entre otros: zafra, minería, ladrillería, expendio de alcohol, limpieza de hospitales, seguridad, trabajo del hogar cama adentro y yesería. Por su condición: agricultura y ganadería fuera del ámbito familiar, comercio fuera de horario, modelaje erotizado, etc.",
+      "citaTextual": "Trabajo del hogar bajo modalidad cama adentro",
+      "referencia": "Ley 548, Art. 136, par. II, inc. j), págs. 48-49", "etiquetas": ["trabajos prohibidos"] }
+  ]},
+  { "fragmentoRef": "ley548-art115", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según el Art. 115 de la Ley 548, la educación de niñas, niños y adolescentes debe ser:",
+      "opciones": [
+        { "texto": "Gratuita, integral y de calidad; de calidad y calidez, intracultural, intercultural y plurilingüe, y debe cualificarlos para el trabajo", "correcta": true, "porQue": "Reúne las características de los pars. I y II." },
+        { "texto": "Gratuita solo hasta el nivel primario", "correcta": false, "porQue": "La ley no limita la gratuidad al nivel primario." },
+        { "texto": "Monolingüe en castellano, para garantizar la unidad nacional", "correcta": false, "porQue": "La ley exige una educación plurilingüe." },
+        { "texto": "Orientada solo al rendimiento académico", "correcta": false, "porQue": "Debe orientarse al desarrollo integral, a la ciudadanía, a los derechos humanos, al medio ambiente y al trabajo." }
+      ],
+      "explicacion": "El derecho a la educación de la Ley 548 coincide con los principios de la CPE y la Ley 070: integral, intercultural, plurilingüe y productiva.",
+      "citaTextual": "Las niñas, niños y adolescentes tienen derecho a la educación gratuita, integral y de calidad",
+      "referencia": "Ley 548, Art. 115, pág. 40", "etiquetas": ["derecho a la educación"] }
+  ]}
+]
