@@ -12,9 +12,50 @@ import { api, mensajeDeError } from '../api/cliente';
 import { useSesion } from '../auth/sesion';
 
 const POR_PAGINA = 20;
-const ESTADOS = ['BORRADOR', 'APROBADA', 'DESCARTADA'] as const;
+const ESTADOS = ['BORRADOR', 'VALIDADA', 'DUPLICADA', 'APROBADA', 'DESCARTADA'] as const;
+const NOMBRE_ESTADO: Record<(typeof ESTADOS)[number], string> = {
+  BORRADOR: 'Borrador (con alertas o sin validar)',
+  VALIDADA: 'Validada (pasó las reglas)',
+  DUPLICADA: 'Duplicada',
+  APROBADA: 'Aprobada',
+  DESCARTADA: 'Descartada',
+};
 
-export function Revision() {
+export function Revision({ id }: { id?: string }) {
+  return id ? <PreguntaSuelta id={id} /> : <Bandeja />;
+}
+
+/** Una sola pregunta (#/revision/<id>), para llegar desde Calidad o desde un duplicado. */
+function PreguntaSuelta({ id }: { id: string }) {
+  const cliente = useQueryClient();
+  const p = useQuery({ queryKey: ['pregunta', id], queryFn: () => api<PreguntaRevision>(`/admin/preguntas/${id}`) });
+  return (
+    <section className="space-y-3">
+      <button className="text-sm text-indigo-700 hover:underline" onClick={() => history.back()}>
+        ← Volver
+      </button>
+      {p.isLoading && <p className="text-slate-500">Cargando…</p>}
+      {p.error && <p className="text-red-700">{mensajeDeError(p.error)}</p>}
+      {p.data && (
+        <ul>
+          <TarjetaPregunta
+            pregunta={p.data}
+            seleccionable={false}
+            seleccionada={false}
+            onSeleccionar={() => {}}
+            onCambio={() => {
+              cliente.invalidateQueries({ queryKey: ['pregunta', id] });
+              cliente.invalidateQueries({ queryKey: ['revision'] });
+              cliente.invalidateQueries({ queryKey: ['calidad'] });
+            }}
+          />
+        </ul>
+      )}
+    </section>
+  );
+}
+
+function Bandeja() {
   const { usuario } = useSesion();
   const puedeAprobar = usuario?.rol === 'ADMIN' || usuario?.rol === 'REVISOR';
   const cliente = useQueryClient();
@@ -48,7 +89,7 @@ export function Revision() {
     mutationFn: () =>
       api<{ aprobadas: number }>('/admin/preguntas/aprobar-todas', {
         metodo: 'POST',
-        cuerpo: contenidoId ? { contenidoId } : {},
+        cuerpo: { estado: estado as 'BORRADOR' | 'VALIDADA', ...(contenidoId && { contenidoId }) },
       }),
     onSuccess: (r) => {
       setSeleccion(new Set());
@@ -70,6 +111,7 @@ export function Revision() {
     onError: (e) => alert(mensajeDeError(e)),
   });
 
+  const pendiente = estado === 'BORRADOR' || estado === 'VALIDADA';
   const items = lista.data?.items ?? [];
   const total = lista.data?.total ?? 0;
   const paginas = Math.max(1, Math.ceil(total / POR_PAGINA));
@@ -91,7 +133,9 @@ export function Revision() {
           <span className="etiqueta">Estado</span>
           <select className="campo" value={estado} onChange={(e) => (setEstado(e.target.value as typeof estado), setPagina(1))}>
             {ESTADOS.map((e) => (
-              <option key={e}>{e}</option>
+              <option key={e} value={e}>
+                {NOMBRE_ESTADO[e]}
+              </option>
             ))}
           </select>
         </label>
@@ -110,7 +154,7 @@ export function Revision() {
         )}
       </div>
 
-      {puedeAprobar && estado === 'BORRADOR' && items.length > 0 && (
+      {puedeAprobar && pendiente && items.length > 0 && (
         <div className="sticky top-14 z-[5] flex flex-wrap items-center gap-3 rounded-xl bg-indigo-50 px-4 py-2 text-sm">
           <label className="flex items-center gap-2">
             <input
@@ -134,7 +178,8 @@ export function Revision() {
             onClick={() => {
               const doc = contenidos.find((c) => c.id === contenidoId)?.titulo;
               const alcance = doc ? `del documento "${doc}"` : 'de todos los documentos';
-              if (confirm(`¿Aprobar las ${total} preguntas en borrador ${alcance}?`)) aprobarTodas.mutate();
+              const aviso = estado === 'BORRADOR' ? ' Ojo: las de borrador tienen alertas o no pasaron por el validador.' : '';
+              if (confirm(`¿Aprobar las ${total} preguntas en ${estado} ${alcance}?${aviso}`)) aprobarTodas.mutate();
             }}
           >
             {aprobarTodas.isPending ? 'Aprobando…' : `✓✓ Aprobar todas (${total})`}
@@ -145,7 +190,7 @@ export function Revision() {
       {lista.isLoading && <p className="text-slate-500">Cargando…</p>}
       {lista.error && <p className="text-red-700">{mensajeDeError(lista.error)}</p>}
       {lista.data && items.length === 0 && (
-        <p className="rounded-lg bg-white p-6 text-center text-slate-500 shadow-sm">No hay preguntas en {estado}.</p>
+        <p className="rounded-lg bg-white p-6 text-center text-slate-500 shadow-sm">No hay preguntas en {NOMBRE_ESTADO[estado].toLowerCase()}.</p>
       )}
 
       <ul className="space-y-3">
@@ -153,7 +198,7 @@ export function Revision() {
           <TarjetaPregunta
             key={p.id}
             pregunta={p}
-            seleccionable={puedeAprobar && estado === 'BORRADOR'}
+            seleccionable={puedeAprobar && pendiente}
             seleccionada={seleccion.has(p.id)}
             onSeleccionar={() => alternar(p.id)}
             onCambio={refrescar}
@@ -223,7 +268,33 @@ function TarjetaPregunta(props: {
         <span className="text-slate-500">
           {p.tema.contenido.titulo} › {p.tema.nombre}
         </span>
+        {p.estado === 'VALIDADA' && <span className="rounded bg-emerald-50 px-1.5 py-0.5 font-medium text-emerald-700">✓ pasó el validador</span>}
+        {p.reportesAbiertos > 0 && (
+          <span className="rounded bg-red-50 px-1.5 py-0.5 font-medium text-red-700">⚑ {p.reportesAbiertos} reporte(s)</span>
+        )}
       </div>
+
+      {p.duplicadaDe && (
+        <div className="mb-3 rounded-lg bg-violet-50 p-3 text-sm text-violet-900">
+          <p className="font-semibold">
+            Se parece {p.duplicadaDe.similitud ? `al ${Math.round(p.duplicadaDe.similitud * 100)} %` : ''} a una pregunta {p.duplicadaDe.estado.toLowerCase()}:
+          </p>
+          <a className="underline" href={`#/revision/${p.duplicadaDe.id}`}>
+            {p.duplicadaDe.enunciado}
+          </a>
+          <p className="mt-1 text-xs">Si en realidad pregunta algo distinto, usa "Volver a borrador".</p>
+        </div>
+      )}
+      {p.alertas.length > 0 && (
+        <ul className="mb-3 list-disc space-y-0.5 rounded-lg bg-amber-50 py-2 pl-7 pr-3 text-sm text-amber-900">
+          {p.alertas.map((a) => (
+            <li key={a}>{a}</li>
+          ))}
+        </ul>
+      )}
+      {p.ciega?.coincide && !p.ciega.ambigua && (
+        <p className="mb-3 text-xs text-emerald-700">✓ Resuelta a ciegas por {p.ciega.modelo}: eligió la correcta.</p>
+      )}
 
       <p className="mb-3 font-medium">{p.enunciado}</p>
 

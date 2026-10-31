@@ -1,15 +1,19 @@
 /**
  * Importa uno o más lotes JSON de preguntas al banco (estado BORRADOR).
- * Uso desde la raíz: npm run importar -- importar/ejemplo.json [otro.json ...]
+ * Uso desde la raíz: npm run importar -- importar/ejemplo.json [otro.json ...] [--sin-calidad]
+ * Al terminar pasa el análisis de calidad (embeddings, duplicados, validador) salvo con --sin-calidad.
  */
 import { readFile } from 'node:fs/promises';
 import path from 'node:path';
 import { prisma } from '../src/db';
 import { ErrorApp } from '../src/errores';
+import { analizar } from '../src/modulos/calidad/servicio';
 import { importarLote } from '../src/modulos/preguntas/servicio';
 
 async function main() {
-  const archivos = process.argv.slice(2);
+  const argumentos = process.argv.slice(2);
+  const sinCalidad = argumentos.includes('--sin-calidad');
+  const archivos = argumentos.filter((a) => !a.startsWith('--'));
   if (archivos.length === 0) {
     console.error('Uso: npm run importar -- <archivo.json> [más archivos]');
     process.exit(1);
@@ -48,6 +52,11 @@ async function main() {
         console.error('  ✖', e);
       }
     }
+  }
+  if (!sinCalidad) {
+    console.log('\n▶ Calidad (embeddings, duplicados y validador)…');
+    const r = await analizar();
+    console.log(`  ${r.duplicadas} marcadas DUPLICADA, ${r.validadas} VALIDADA sin alertas, ${r.conAlertas} con alertas (ver bandeja)`);
   }
   await prisma.$disconnect();
   if (huboError) process.exit(1);

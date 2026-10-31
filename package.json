@@ -14,7 +14,8 @@
     "importar": "npm run importar -w @estudia/api --",
     "ingestar": "npm run ingestar -w @estudia/api --",
     "refragmentar": "npm run refragmentar -w @estudia/api --",
-    "guias": "npm run guias -w @estudia/api --"
+    "guias": "npm run guias -w @estudia/api --",
+    "calidad": "npm run calidad -w @estudia/api --"
   },
   "devDependencies": {
     "concurrently": "^9.1.0",

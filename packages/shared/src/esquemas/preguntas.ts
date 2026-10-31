@@ -130,7 +130,7 @@ export const revisionFiltroSchema = z.object({
 export type RevisionFiltro = z.infer<typeof revisionFiltroSchema>;
 
 /** Estados que se pueden asignar a mano desde la bandeja. */
-export const ESTADOS_REVISION = ['BORRADOR', 'APROBADA', 'DESCARTADA'] as const;
+export const ESTADOS_REVISION = ['BORRADOR', 'VALIDADA', 'APROBADA', 'DESCARTADA'] as const;
 
 export const preguntaEditarSchema = z.object({
   estado: z.enum(ESTADOS_REVISION).optional(),
@@ -152,6 +152,8 @@ export type AprobarLote = z.infer<typeof aprobarLoteSchema>;
 
 /** Aprueba de una vez todas las BORRADOR/VALIDADA que cumplan el filtro (sin filtro: todo el banco). */
 export const aprobarTodasSchema = z.object({
+  /** Solo las de este estado (por defecto, BORRADOR y VALIDADA). */
+  estado: z.enum(['BORRADOR', 'VALIDADA']).optional(),
   contenidoId: z.string().min(1).optional(),
   temaId: z.string().min(1).optional(),
 });
@@ -181,6 +183,14 @@ export interface PreguntaRevision {
   creadoEn: string;
   tema: { id: string; nombre: string; contenido: { id: string; titulo: string } };
   opciones: OpcionRevision[];
+  /** Avisos del validador automático (vacío = pasó las reglas). */
+  alertas: string[];
+  validada: boolean;
+  /** Resultado del validador "a ciegas", si se corrió. */
+  ciega: { respuesta: string; coincide: boolean; ambigua: boolean; motivo: string; modelo: string } | null;
+  /** Si es DUPLICADA: la pregunta a la que se parece. */
+  duplicadaDe: { id: string; enunciado: string; estado: string; similitud: number | null } | null;
+  reportesAbiertos: number;
 }
 
 export interface Paginado<T> {

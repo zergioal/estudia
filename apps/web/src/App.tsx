@@ -2,6 +2,7 @@ import { useEffect, useState } from 'react';
 import type { Rol } from '@estudia/shared';
 import { useSesion } from './auth/sesion';
 import { SelectorTema } from './componentes/SelectorTema';
+import { Calidad } from './paginas/Calidad';
 import { Contenidos } from './paginas/Contenidos';
 import { Documentos } from './paginas/Documentos';
 import { Estudiar } from './paginas/Estudiar';
@@ -21,6 +22,7 @@ const PAGINAS = {
   contenidos: { titulo: 'Contenidos', roles: ['ADMIN'] },
   documentos: { titulo: 'Documentos', roles: ['ADMIN'] },
   revision: { titulo: 'Revisión', roles: ['ADMIN', 'REVISOR'] },
+  calidad: { titulo: 'Calidad', roles: ['ADMIN', 'REVISOR'] },
 } satisfies Record<string, { titulo: string; roles: Rol[] }>;
 type Pagina = keyof typeof PAGINAS;
 
@@ -58,7 +60,8 @@ export function App() {
   else if (actual === 'guias') contenido = <Guias id={hash.id} />;
   else if (actual === 'contenidos') contenido = <Contenidos />;
   else if (actual === 'documentos') contenido = <Documentos />;
-  else if (actual === 'revision') contenido = <Revision />;
+  else if (actual === 'calidad') contenido = <Calidad />;
+  else if (actual === 'revision') contenido = <Revision key={hash.id ?? ''} id={hash.id} />;
   else contenido = <Estudiar key={hash.id ?? ''} preseleccion={hash.ruta === 'estudiar' ? hash.id : undefined} />;
 
   return (

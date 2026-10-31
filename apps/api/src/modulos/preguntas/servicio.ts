@@ -1,4 +1,4 @@
-import type { Prisma } from '@prisma/client';
+import { Prisma } from '@prisma/client';
 import { prisma } from '../../db';
 import { ErrorApp, conflicto, issuesZod, noEncontrado } from '../../errores';
 import { SEPARADOR_TEMA, asegurarRutaTema } from '../contenidos/servicio';
@@ -167,6 +167,8 @@ async function obtenerOCrearRutaTema(tx: Prisma.TransactionClient, contenidoId: 
 const incluirRevision = {
   tema: { select: { id: true, nombre: true, contenido: { select: { id: true, titulo: true } } } },
   opciones: { orderBy: { orden: 'asc' } },
+  duplicadaDe: { select: { id: true, enunciado: true, estado: true } },
+  _count: { select: { reportes: { where: { resuelto: false } } } },
 } satisfies Prisma.PreguntaInclude;
 
 type PreguntaConRelaciones = Prisma.PreguntaGetPayload<{ include: typeof incluirRevision }>;
@@ -188,6 +190,11 @@ function aRevision(p: PreguntaConRelaciones): PreguntaRevision {
     creadoEn: p.creadoEn.toISOString(),
     tema: p.tema,
     opciones: p.opciones.map(({ id, texto, correcta, porQue, orden }) => ({ id, texto, correcta, porQue, orden })),
+    alertas: p.alertas,
+    validada: p.validadoEn !== null,
+    ciega: (p.ciega as PreguntaRevision['ciega']) ?? null,
+    duplicadaDe: p.duplicadaDe ? { ...p.duplicadaDe, similitud: p.similitud } : null,
+    reportesAbiertos: p._count.reportes,
   };
 }
 
@@ -219,7 +226,7 @@ export async function obtenerPregunta(id: string): Promise<PreguntaRevision> {
 export async function editarPregunta(id: string, datos: PreguntaEditar): Promise<PreguntaRevision> {
   const actual = await prisma.pregunta.findUnique({
     where: { id },
-    select: { tipo: true, _count: { select: { respuestas: true } } },
+    select: { tipo: true, estado: true, _count: { select: { respuestas: true } } },
   });
   if (!actual) throw noEncontrado('La pregunta');
 
@@ -247,12 +254,25 @@ export async function editarPregunta(id: string, datos: PreguntaEditar): Promise
         })),
       });
     }
-    await tx.pregunta.update({ where: { id }, data: campos });
+    // Cambió lo que se valida: vuelve a pasar por embeddings y validador (y deja de estar VALIDADA).
+    const cambioContenido = opciones || campos.enunciado || campos.citaTextual || campos.referencia;
+    const estado = campos.estado ?? (cambioContenido && actual.estado === 'VALIDADA' ? 'BORRADOR' : undefined);
+    await tx.pregunta.update({
+      where: { id },
+      data: {
+        ...campos,
+        ...(estado && { estado }),
+        // Restaurar una DUPLICADA la desliga de su original.
+        ...(actual.estado === 'DUPLICADA' && estado && { duplicadaDeId: null, similitud: null }),
+        ...(cambioContenido && { validadoEn: null, alertas: [], ciega: Prisma.DbNull }),
+      },
+    });
+    if (cambioContenido) await tx.$executeRaw`UPDATE "Pregunta" SET embedding = NULL WHERE id = ${id}`;
   });
   return obtenerPregunta(id);
 }
 
-/** Aprueba en bloque las preguntas indicadas que estén en BORRADOR o VALIDADA. */
+/** Aprueba en bloque las preguntas indicadas que estén en BORRADOR o VALIDADA (nunca las DUPLICADA). */
 export async function aprobarLote(ids: string[]) {
   const unicos = [...new Set(ids)];
   const { count } = await prisma.pregunta.updateMany({
@@ -266,7 +286,7 @@ export async function aprobarLote(ids: string[]) {
 export async function aprobarTodas(filtro: AprobarTodas) {
   const { count } = await prisma.pregunta.updateMany({
     where: {
-      estado: { in: ['BORRADOR', 'VALIDADA'] },
+      estado: filtro.estado ?? { in: ['BORRADOR', 'VALIDADA'] },
       ...(filtro.temaId && { temaId: filtro.temaId }),
       ...(filtro.contenidoId && { tema: { contenidoId: filtro.contenidoId } }),
     },

@@ -2,6 +2,7 @@ import { useEffect, useRef, useState } from 'react';
 import { useMutation, useQuery, useQueryClient } from '@tanstack/react-query';
 import type { Feedback, PreguntaQuiz, QuizEstado, RespuestaEnviar, ResumenQuiz } from '@estudia/shared';
 import { api, mensajeDeError } from '../api/cliente';
+import { ReportarPregunta } from '../componentes/ReportarPregunta';
 import { ir } from '../navegacion';
 
 const LETRAS = ['A', 'B', 'C', 'D', 'E', 'F'];
@@ -241,6 +242,7 @@ function TarjetaPregunta(props: {
           <button className="btn-primario w-full py-3" onClick={props.onSiguiente} disabled={props.finalizando}>
             {props.esUltima ? 'Ver resultado' : 'Siguiente →'}
           </button>
+          <ReportarPregunta key={p.id} preguntaId={p.id} />
         </div>
       )}
     </div>

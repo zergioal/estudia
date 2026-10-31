@@ -58,6 +58,7 @@ model Usuario {
   ultimoEstudio DateTime?
   activo        Boolean         @default(true)
   intentos      Intento[]
+  reportes      Reporte[]
   estados       EstadoEstudio[]
   asignaciones  Asignacion[]
   creadoEn      DateTime        @default(now())
@@ -149,7 +150,7 @@ model Fragmento {
   palabras    Int                          @default(0)
   paginaDesde Int
   paginaHasta Int
-  embedding   Unsupported("vector(1024)")?
+  embedding   Unsupported("vector(384)")?
   preguntas   Pregunta[]
 
   @@index([documentoId, orden])
@@ -176,7 +177,15 @@ model Pregunta {
   trabajoId       String?
   vecesRespondida Int                          @default(0)
   vecesAcertada   Int                          @default(0)
-  embedding       Unsupported("vector(1024)")?
+  embedding       Unsupported("vector(384)")?
+  alertas         String[]                     @default([]) // del validador automático; vacío = pasó
+  validadoEn      DateTime? // null = falta pasar por el validador (o se editó)
+  ciega           Json? // resultado del validador "a ciegas": { respuesta, coincide, ambigua, motivo, modelo }
+  duplicadaDeId   String?
+  duplicadaDe     Pregunta?                    @relation("Duplicados", fields: [duplicadaDeId], references: [id], onDelete: SetNull)
+  duplicados      Pregunta[]                   @relation("Duplicados")
+  similitud       Float? // coseno con duplicadaDe
+  reportes        Reporte[]
   opciones        Opcion[]
   respuestas      Respuesta[]
   estados         EstadoEstudio[]
@@ -269,4 +278,21 @@ model GuiaEstudio {
   opcional      Json // [{ parte, titulo, porQue }]
   consejos      String[]
   actualizadoEn DateTime  @updatedAt
+}
+
+/** Problema reportado por un estudiante en una pregunta (respuesta errada, ambigua, mal redactada…). */
+model Reporte {
+  id         String    @id @default(cuid())
+  preguntaId String
+  pregunta   Pregunta  @relation(fields: [preguntaId], references: [id], onDelete: Cascade)
+  usuarioId  String
+  usuario    Usuario   @relation(fields: [usuarioId], references: [id])
+  motivo     String // RESPUESTA_ERRADA, AMBIGUA, REDACCION, DESACTUALIZADA, OTRO
+  comentario String?
+  resuelto   Boolean   @default(false)
+  creadoEn   DateTime  @default(now())
+  resueltoEn DateTime?
+
+  @@index([resuelto, creadoEn])
+  @@index([preguntaId])
 }

@@ -139,13 +139,29 @@ pondera 65% y los méritos 35%. La bibliografía del usuario (`fuentes/examenDir
   `preguntaIds` exactas; 409 `SIN_ERRORES`). API: `GET /api/v1/me/repaso-hoy`, `/me/errores?contenidoId=`, `/me/progreso`.
 - Web: botón "Repaso de hoy" y tarjeta "Cuaderno de errores" en Estudiar; pestaña Mi progreso (`#/progreso`).
 
+## Calidad automática
+- Embeddings locales (`apps/api/src/modulos/calidad/embeddings.ts`): `Xenova/multilingual-e5-small`, 384 dim, sin API;
+  se descarga a `storage/modelos`. Pregunta = enunciado + respuesta correcta ("query: "); fragmento = "passage: ".
+  En tests `EMBEDDINGS=prueba` (bolsa de palabras determinista).
+- `npm run importar` analiza al terminar (salvo `--sin-calidad`); `npm run calidad [-- --fragmentos --ciego --todas]`
+  o el botón de la pestaña Calidad. Pasos: embeddings → duplicados → validador.
+- Duplicado: coseno ≥ 0,97 (`UMBRAL_DUPLICADO`) con una aprobada o pendiente más antigua del mismo documento → la
+  nueva queda DUPLICADA con `duplicadaDeId`. Con este modelo, 0,95-0,96 ya son preguntas distintas del mismo tema:
+  esas solo se listan (`GET /admin/calidad/similares`) para revisar a mano.
+- Validador (`validador.ts`): BORRADOR sin alertas → VALIDADA (aprobables en bloque); con alertas sigue en BORRADOR.
+  Editar enunciado/opciones/cita/referencia borra embedding y validación. El pase "a ciegas" (`ciego.ts`, Claude con
+  salida estructurada) solo corre si hay `ANTHROPIC_API_KEY` y se pide; no repite las ya resueltas.
+- Preguntas rotas: `GET /admin/estadisticas/preguntas` (acierto < 15 %, > 98 % o distractor más elegido que la correcta).
+  Reportes: `POST /preguntas/:id/reportes` (cualquier usuario, desde el feedback del quiz); `GET/PATCH /admin/reportes`.
+- Búsqueda semántica en fuentes: `GET /admin/fragmentos/buscar?q=` (requiere `npm run calidad -- --fragmentos`).
+
 ## Hoja de ruta (marcar al completar)
 - [x] Hito 0 — Base: monorepo, Docker (pgvector), Prisma con esquema núcleo, seed de admin, login
 - [x] Hito 1 — Banco e importador: CRUD Colección/Contenido/Tema, importador JSON con Zod, bandeja de revisión
 - [x] Hito 2 — Quiz mínimo: crear quiz por filtros y cantidad (10/20/50/100), modo Práctica, resumen, XP
 - [x] Hito 3 — Ingesta PDF: extracción por página, OCR, fragmentación por artículos, exportar a `fuentes/`
 - [x] Hito 4 — Repetición espaciada con confianza, repaso del día, cuaderno de errores, dominio por tema
-- [ ] Hito 5 — Embeddings, deduplicación, validador automático, estadísticas de preguntas
+- [x] Hito 5 — Embeddings, deduplicación, validador automático, estadísticas de preguntas
 - [ ] Hito 6 — Servidor MCP (listar_fragmentos, guardar_preguntas, ver_estadisticas)
 - [ ] Hito 7 — Multiusuario, asignaciones, reportes, despliegue
 - [ ] Hito 8 — Modos Examen y Simulacro, PWA offline, generación por API desde el panel

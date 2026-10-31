@@ -44,4 +44,19 @@ export const config = {
   get maxMbPdf() {
     return Number(process.env.MAX_MB_PDF ?? 100);
   },
+  /** Modelo local de embeddings (Hugging Face, ONNX). Debe dar vectores de 384 dimensiones. */
+  get modeloEmbeddings() {
+    return process.env.MODELO_EMBEDDINGS ?? 'Xenova/multilingual-e5-small';
+  },
+  /** Similitud de coseno a partir de la cual una pregunta nueva se marca DUPLICADA. */
+  get umbralDuplicado() {
+    return Number(process.env.UMBRAL_DUPLICADO ?? 0.97);
+  },
+  /** Validador "a ciegas": solo si hay credenciales de la API de Claude. */
+  get validadorCiegoDisponible() {
+    return Boolean(process.env.ANTHROPIC_API_KEY || process.env.ANTHROPIC_AUTH_TOKEN);
+  },
+  get modeloValidador() {
+    return process.env.MODELO_VALIDADOR ?? 'claude-opus-5-5';
+  },
 };

@@ -20,6 +20,7 @@ export default defineConfig({
       DATABASE_URL: urlTest,
       JWT_SECRET: 'secreto-de-tests',
       COLA_MODO: 'inline',
+      EMBEDDINGS: 'prueba',
       STORAGE_DIR: path.join(dirTemporal, 'storage'),
       FUENTES_DIR: path.join(dirTemporal, 'fuentes'),
     },

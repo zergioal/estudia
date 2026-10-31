@@ -3,6 +3,7 @@ import express from 'express';
 import { config } from './config';
 import { manejadorErrores, rutaNoEncontrada } from './errores';
 import { rutasAuth } from './modulos/auth/rutas';
+import { rutasCalidad } from './modulos/calidad/rutas';
 import { rutasContenidos } from './modulos/contenidos/rutas';
 import { rutasGuias } from './modulos/guias/rutas';
 import { rutasIngesta } from './modulos/ingesta/rutas';
@@ -22,6 +23,7 @@ export function crearApp() {
   v1.use('/auth', rutasAuth);
   v1.use(rutasQuiz);
   v1.use(rutasGuias);
+  v1.use(rutasCalidad);
   // Preguntas antes que contenidos: rutasContenidos aplica requiereRol('ADMIN') a todo lo que recibe,
   // y la revisión también admite REVISOR.
   v1.use('/admin', rutasPreguntas);
