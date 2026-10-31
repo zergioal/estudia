@@ -1,0 +1,132 @@
+[
+  { "fragmentoRef": "ley1178-art09", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según la Ley 1178, ¿qué sistema determina los puestos de trabajo efectivamente necesarios, los requisitos para proveerlos y los regímenes de evaluación y retribución?",
+      "opciones": [
+        { "texto": "El Sistema de Administración de Personal", "correcta": true, "porQue": "Art. 9." },
+        { "texto": "El Sistema de Organización Administrativa", "correcta": false, "porQue": "Ese sistema evita la duplicidad de objetivos y atribuciones (Art. 7)." },
+        { "texto": "El Sistema de Programación de Operaciones", "correcta": false, "porQue": "Ese sistema traduce los objetivos en resultados y tareas (Art. 6)." },
+        { "texto": "El Sistema de Presupuesto", "correcta": false, "porQue": "Ese sistema prevé los montos y las fuentes de recursos (Art. 8)." }
+      ],
+      "explicacion": "El sistema también desarrolla las capacidades de los servidores y fija los procedimientos para su retiro.",
+      "citaTextual": "determinará los puestos de trabajo efectivamente necesarios, los requisitos y mecanismos para proveerlos",
+      "referencia": "Ley 1178, Art. 9, pág. 6", "etiquetas": ["SAP", "sistemas", "capciosa"] }
+  ]},
+  { "fragmentoRef": "ley1178-art06", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Al elaborar el POA del CEA, el director traduce los objetivos estratégicos en resultados concretos, tareas, procedimientos y recursos en el tiempo. Según la Ley 1178, ¿qué sistema aplica?",
+      "opciones": [
+        { "texto": "El Sistema de Programación de Operaciones", "correcta": true, "porQue": "Art. 6." },
+        { "texto": "El Sistema de Contabilidad Integrada", "correcta": false, "porQue": "Ese sistema registra las transacciones (Art. 12)." },
+        { "texto": "El Sistema de Tesorería y Crédito Público", "correcta": false, "porQue": "Ese sistema maneja los ingresos y los pagos (Art. 11)." },
+        { "texto": "El Sistema de Administración de Bienes y Servicios", "correcta": false, "porQue": "Ese sistema regula las contrataciones (Art. 10)." }
+      ],
+      "explicacion": "La programación es integral: incluye funcionamiento, preinversión e inversión.",
+      "citaTextual": "en resultados concretos a alcanzar en el corto y mediano plazo; en tareas específicas a ejecutar; en procedimientos a emplear y en medios y recursos a utilizar",
+      "referencia": "Ley 1178, Art. 6, pág. 5", "etiquetas": ["SPO", "POA", "caso"] }
+  ]},
+  { "fragmentoRef": "ley1178-art08", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Una entidad educativa financiada con transferencias del Tesoro quiere usar recursos de inversión para pagar gastos de funcionamiento. Según el Art. 8 de la Ley 1178:",
+      "opciones": [
+        { "texto": "No puede transferir gastos de inversión a funcionamiento", "correcta": true, "porQue": "Art. 8, inc. a)." },
+        { "texto": "Puede hacerlo si lo aprueba la MAE", "correcta": false, "porQue": "La prohibición es legal." },
+        { "texto": "Puede hacerlo hasta un 20%", "correcta": false, "porQue": "La ley no prevé ese margen." },
+        { "texto": "Puede hacerlo al cierre de gestión", "correcta": false, "porQue": "La prohibición rige en todo momento." }
+      ],
+      "explicacion": "Los gastos totales se sujetan a la disponibilidad de recursos y a los límites legales del presupuesto.",
+      "citaTextual": "no pudiendo transferir gastos de inversión a funcionamiento",
+      "referencia": "Ley 1178, Art. 8, inc. a), págs. 5-6", "etiquetas": ["presupuesto", "caso"] }
+  ]},
+  { "fragmentoRef": "ley1178-art10", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según el Art. 10 de la Ley 1178, ¿qué exige previamente el Sistema de Administración de Bienes y Servicios antes de una contratación?",
+      "opciones": [
+        { "texto": "La disponibilidad de los fondos que se comprometen, o la definición de las condiciones de financiamiento", "correcta": true, "porQue": "Art. 10, inc. a)." },
+        { "texto": "La aprobación de la Contraloría", "correcta": false, "porQue": "No es un requisito previo del Art. 10." },
+        { "texto": "Tres cotizaciones notariadas", "correcta": false, "porQue": "No es lo que dispone la ley." },
+        { "texto": "La autorización del Concejo Municipal", "correcta": false, "porQue": "No es lo que dispone la ley." }
+      ],
+      "explicacion": "También diferencia las atribuciones de solicitar, autorizar el inicio y llevar a cabo la contratación.",
+      "citaTextual": "Previamente exigirá la disponibilidad de los fondos que compromete o definirá las condiciones de financiamiento requeridas",
+      "referencia": "Ley 1178, Art. 10, inc. a), pág. 6", "etiquetas": ["SABS", "contrataciones"] }
+  ]},
+  { "fragmentoRef": "ley1178-art07", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según el Art. 7 de la Ley 1178, ¿qué se centraliza en la entidad cabeza de sector y qué se desconcentra o descentraliza?",
+      "opciones": [
+        { "texto": "Se centralizan las funciones de adoptar políticas, emitir normas y vigilar su cumplimiento; se desconcentra o descentraliza la ejecución de políticas y el manejo de los sistemas de administración", "correcta": true, "porQue": "Art. 7, inc. a)." },
+        { "texto": "Se centraliza la ejecución y se descentraliza la normativa", "correcta": false, "porQue": "Capciosa: es al revés." },
+        { "texto": "Se centraliza todo", "correcta": false, "porQue": "La ejecución se desconcentra o descentraliza." },
+        { "texto": "Se descentraliza todo", "correcta": false, "porQue": "La normativa se centraliza." }
+      ],
+      "explicacion": "El Sistema de Organización Administrativa se ajusta según la Programación de Operaciones.",
+      "citaTextual": "las funciones de adoptar políticas, emitir normas y vigilar su ejecución y cumplimiento; y se desconcentrará o descentralizará la ejecución de las políticas",
+      "referencia": "Ley 1178, Art. 7, pág. 5", "etiquetas": ["SOA", "capciosa"] }
+  ]},
+  { "fragmentoRef": "ley1178-art05", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Una ONG privada recibe recursos del Estado para un programa de alfabetización en convenio con el CEA. Según el Art. 5 de la Ley 1178, ¿qué obligación tiene?",
+      "opciones": [
+        { "texto": "Informar a la entidad pública competente sobre el destino, forma y resultados del manejo de los recursos, y presentar estados financieros debidamente auditados", "correcta": true, "porQue": "Art. 5." },
+        { "texto": "Ninguna, por ser una entidad privada", "correcta": false, "porQue": "Capciosa: la obligación alcanza a toda persona que reciba recursos del Estado." },
+        { "texto": "Solo presentar facturas al final", "correcta": false, "porQue": "Se exigen informes y estados financieros auditados." },
+        { "texto": "Someterse a todos los sistemas de la Ley 1178 como entidad pública", "correcta": false, "porQue": "Solo debe informar y rendir cuentas de los recursos recibidos." }
+      ],
+      "explicacion": "También puede exigírsele una opinión calificada e independiente sobre sus sistemas de control.",
+      "citaTextual": "informará a la entidad pública competente sobre el destino, forma y resultados del manejo de los recursos y privilegios públicos y le presentará estados financieros debidamente auditados",
+      "referencia": "Ley 1178, Art. 5, pág. 5", "etiquetas": ["recursos públicos", "caso", "capciosa"] }
+  ]},
+  { "fragmentoRef": "ley1178-art20", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "¿Cuál de las siguientes NO es una atribución básica de los órganos rectores de los sistemas de la Ley 1178 (Art. 20)?",
+      "opciones": [
+        { "texto": "Ejecutar directamente las operaciones de cada entidad", "correcta": true, "porQue": "No figura; la ejecución es descentralizada." },
+        { "texto": "Emitir las normas y reglamentos básicos para cada sistema", "correcta": false, "porQue": "Es el inciso a)." },
+        { "texto": "Compatibilizar o evaluar las disposiciones específicas de cada entidad", "correcta": false, "porQue": "Es el inciso c)." },
+        { "texto": "Vigilar el funcionamiento adecuado de los sistemas específicos", "correcta": false, "porQue": "Es el inciso d)." }
+      ],
+      "explicacion": "También fijan los plazos y condiciones para elaborar las normas secundarias.",
+      "citaTextual": "Emitir las normas y reglamentos básicos para cada sistema",
+      "referencia": "Ley 1178, Art. 20, pág. 9", "etiquetas": ["órganos rectores", "EXCEPTO"] }
+  ]},
+  { "fragmentoRef": "ley1178-art32", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según el Art. 32 de la Ley 1178, si una entidad estatal es condenada judicialmente a pagar daños y perjuicios, debe:",
+      "opciones": [
+        { "texto": "Repetir el pago contra la autoridad responsable de los actos o hechos que motivaron la sanción", "correcta": true, "porQue": "Art. 32." },
+        { "texto": "Asumir el pago con su presupuesto sin otra acción", "correcta": false, "porQue": "Debe repetir contra el responsable." },
+        { "texto": "Pedir la condonación al Tesoro", "correcta": false, "porQue": "No es lo que dispone la ley." },
+        { "texto": "Trasladar la deuda a la gestión siguiente", "correcta": false, "porQue": "No es lo que dispone la ley." }
+      ],
+      "explicacion": "Coincide con la acción de repetición del Art. 113 de la CPE.",
+      "citaTextual": "repetirá el pago contra la autoridad que resultare responsable de los actos o hechos que motivaron la sanción",
+      "referencia": "Ley 1178, Art. 32, pág. 13", "etiquetas": ["repetición", "responsabilidad"] }
+  ]},
+  { "fragmentoRef": "ley1178-art34", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según la Ley 1178, ¿cuándo es penal la responsabilidad de un servidor público o de un particular?",
+      "opciones": [
+        { "texto": "Cuando su acción u omisión está tipificada en el Código Penal", "correcta": true, "porQue": "Art. 34." },
+        { "texto": "Cuando contraviene el ordenamiento jurídico administrativo", "correcta": false, "porQue": "Eso es la responsabilidad administrativa (Art. 29)." },
+        { "texto": "Cuando causa daño al Estado valuable en dinero", "correcta": false, "porQue": "Eso es la responsabilidad civil (Art. 31)." },
+        { "texto": "Cuando incumple el POA", "correcta": false, "porQue": "Eso es la responsabilidad ejecutiva o administrativa." }
+      ],
+      "explicacion": "Los cuatro tipos de responsabilidad son administrativa, ejecutiva, civil y penal.",
+      "citaTextual": "La responsabilidad es penal cuando la acción u omisión del servidor público y de los particulares, se encuentra tipificada en el Código Penal.",
+      "referencia": "Ley 1178, Art. 34, pág. 13", "etiquetas": ["responsabilidad penal", "capciosa"] }
+  ]},
+  { "fragmentoRef": "ley1178-art12", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según el Art. 12 de la Ley 1178, ¿qué transacciones incorpora el Sistema de Contabilidad Integrada en un sistema común?",
+      "opciones": [
+        { "texto": "Las transacciones presupuestarias, financieras y patrimoniales", "correcta": true, "porQue": "Art. 12." },
+        { "texto": "Solo las transacciones de caja", "correcta": false, "porQue": "Es más amplio." },
+        { "texto": "Solo las presupuestarias", "correcta": false, "porQue": "Incluye las financieras y las patrimoniales." },
+        { "texto": "Las transacciones de personal y de bienes", "correcta": false, "porQue": "Corresponden a otros sistemas." }
+      ],
+      "explicacion": "Genera información útil para la toma de decisiones e identifica el costo de las acciones del Estado.",
+      "citaTextual": "incorporará las transacciones presupuestarias, financieras y patrimoniales en un sistema común, oportuno y confiable",
+      "referencia": "Ley 1178, Art. 12, pág. 7", "etiquetas": ["contabilidad integrada"] }
+  ]}
+]

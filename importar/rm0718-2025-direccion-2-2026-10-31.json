@@ -1,0 +1,126 @@
+[
+  { "fragmentoRef": "rm0718-2025-reg-art07", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según el Reglamento de la RM 0718/2025, ¿en qué contextos se aplica la atención multigrado de los maestros itinerantes de los CEA?",
+      "opciones": [
+        { "texto": "En contextos de fronteras, riberas de río y zonas de difícil acceso", "correcta": true, "porQue": "Art. 7 del Reglamento." },
+        { "texto": "Solo en las capitales de departamento", "correcta": false, "porQue": "Es lo contrario: zonas alejadas." },
+        { "texto": "En cárceles y hospitales exclusivamente", "correcta": false, "porQue": "No coincide con el ámbito del reglamento." },
+        { "texto": "En todo el territorio, sin distinción", "correcta": false, "porQue": "Capciosa: se aplica a contextos específicos." }
+      ],
+      "explicacion": "Benefician a jóvenes y adultos mayores de quince años que cursen Primaria o Secundaria en CEA autorizados (Art. 8).",
+      "citaTextual": "en los contextos de fronteras, riberas de río y zonas de difícil acceso",
+      "referencia": "RM 0718/2025, Reglamento, Art. 7, págs. 9-10", "etiquetas": ["maestros itinerantes", "memorística"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Un director de CEA quiere abrir atención itinerante en una comunidad ribereña. Según el Art. 9 del Reglamento de la RM 0718/2025, ¿con quién debe coordinar para identificar a las poblaciones que requieren el servicio?",
+      "opciones": [
+        { "texto": "Con el Gobierno Autónomo Municipal correspondiente", "correcta": true, "porQue": "Art. 9, par. I del Reglamento." },
+        { "texto": "Con la Gobernación departamental", "correcta": false, "porQue": "Confusión de nivel de gobierno." },
+        { "texto": "Con la Defensoría del Pueblo", "correcta": false, "porQue": "No es la instancia del reglamento." },
+        { "texto": "Con las Fuerzas Armadas", "correcta": false, "porQue": "No es la instancia del reglamento." }
+      ],
+      "explicacion": "La identificación de la comunidad es el primer paso para autorizar la implementación.",
+      "citaTextual": "El Director del Centro de Educación Alternativa coordinará con el Gobierno Autónomo Municipal correspondiente para identificar poblaciones",
+      "referencia": "RM 0718/2025, Reglamento, Art. 9, págs. 9-10", "etiquetas": ["maestros itinerantes", "caso"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según el Reglamento de la RM 0718/2025, ¿quiénes son la población beneficiaria de la atención de maestros itinerantes?",
+      "opciones": [
+        { "texto": "Personas jóvenes y adultas mayores de quince años que cursen Primaria o Secundaria en CEA autorizados", "correcta": true, "porQue": "Art. 8 del Reglamento." },
+        { "texto": "Niños de 6 a 12 años sin escuela", "correcta": false, "porQue": "La EPJA atiende a mayores de quince años." },
+        { "texto": "Mayores de dieciocho años exclusivamente", "correcta": false, "porQue": "Capciosa: desde los quince." },
+        { "texto": "Solo personas con discapacidad", "correcta": false, "porQue": "No coincide con el reglamento." }
+      ],
+      "explicacion": "Coincide con el Art. 23 de la Ley 070: la EPJA es para mayores de quince años.",
+      "citaTextual": "Serán beneficiarias todas las Personas Jóvenes y",
+      "referencia": "RM 0718/2025, Reglamento, Art. 8, págs. 9-10", "etiquetas": ["población", "capciosa"] }
+  ]},
+  { "fragmentoRef": "rm0718-2025-reg-art02", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "¿Cuál de las siguientes normas NO figura en el marco legal del Reglamento de Maestros Itinerantes (RM 0718/2025)?",
+      "opciones": [
+        { "texto": "La Ley 1178 (SAFCO)", "correcta": true, "porQue": "No figura en el Art. 2 del Reglamento." },
+        { "texto": "El Decreto Supremo 813, Reglamento de las Direcciones Departamentales de Educación", "correcta": false, "porQue": "Sí figura." },
+        { "texto": "La RM 1040/2022, de Lineamientos Curriculares de la EPJA", "correcta": false, "porQue": "Sí figura." },
+        { "texto": "La RM 183/2024, Reglamento de Evaluación de la EPJA", "correcta": false, "porQue": "Sí figura." }
+      ],
+      "explicacion": "El marco legal también incluye la CPE y la Ley 070.",
+      "citaTextual": "Reglamento de la Estructura, Composición y Funciones de las Direcciones Departamentales de Educación",
+      "referencia": "RM 0718/2025, Reglamento, Art. 2, pág. 7", "etiquetas": ["marco legal", "EXCEPTO"] }
+  ]},
+  { "fragmentoRef": "rm0718-2025-reg-art21", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Un participante atendido por un maestro itinerante concluye la secundaria. Según el Reglamento de la RM 0718/2025, ¿quiénes deben coordinar y gestionar los requisitos para su Diploma de Bachiller?",
+      "opciones": [
+        { "texto": "El Director del CEA y los maestros itinerantes", "correcta": true, "porQue": "Art. 21, par. II del Reglamento." },
+        { "texto": "Solo el participante, por su cuenta", "correcta": false, "porQue": "Es una responsabilidad institucional." },
+        { "texto": "Solo la Dirección Departamental", "correcta": false, "porQue": "No es lo que dispone el reglamento." },
+        { "texto": "El Gobierno Municipal", "correcta": false, "porQue": "No es lo que dispone el reglamento." }
+      ],
+      "explicacion": "Las libretas electrónicas se entregan al concluir el semestre, según el reglamento vigente.",
+      "citaTextual": "El Director del Centro de Educación Alternativa y los maestros itinerantes deberán",
+      "referencia": "RM 0718/2025, Reglamento, Art. 21, págs. 14-15", "etiquetas": ["diploma de bachiller", "caso"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según el Art. 22 del Reglamento de la RM 0718/2025, la asistencia de los participantes a las sesiones presenciales es:",
+      "opciones": [
+        { "texto": "Obligatoria, de acuerdo con el calendario y los horarios establecidos", "correcta": true, "porQue": "Art. 22 del Reglamento." },
+        { "texto": "Voluntaria, por tratarse de atención itinerante", "correcta": false, "porQue": "Capciosa: aun siendo itinerante, la asistencia es obligatoria." },
+        { "texto": "Opcional si el participante trabaja", "correcta": false, "porQue": "No es lo que dispone el reglamento." },
+        { "texto": "Reemplazable por tareas a distancia", "correcta": false, "porQue": "No es lo que dispone el reglamento." }
+      ],
+      "explicacion": "Se refiere a las sesiones presenciales programadas.",
+      "citaTextual": "deberán asistir j Ue 1 obligatoriamente a las sesiones presenciales",
+      "referencia": "RM 0718/2025, Reglamento, Art. 22, págs. 14-15", "etiquetas": ["asistencia", "capciosa"] }
+  ]},
+  { "fragmentoRef": "rm0718-2025-reg-art23", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según el Art. 23 del Reglamento de la RM 0718/2025, ¿a partir de qué se elaboran los módulos integrados emergentes?",
+      "opciones": [
+        { "texto": "De los temas generadores identificados en el diagnóstico comunitario, según las necesidades formativas y las potencialidades productivas de la región", "correcta": true, "porQue": "Art. 23, par. II del Reglamento." },
+        { "texto": "Del libro de texto nacional", "correcta": false, "porQue": "No es lo que dispone el reglamento." },
+        { "texto": "De las preferencias del maestro itinerante", "correcta": false, "porQue": "Parten del diagnóstico comunitario." },
+        { "texto": "De los resultados de pruebas estandarizadas", "correcta": false, "porQue": "No es lo que dispone el reglamento." }
+      ],
+      "explicacion": "La estructura curricular se organiza por campos de saberes y áreas.",
+      "citaTextual": "Los módulos integrados emergentes se elaborarán a partir de los temas generadores identificados en el diagnóstico comunitario",
+      "referencia": "RM 0718/2025, Reglamento, Art. 23, pág. 15", "etiquetas": ["currículo", "módulos emergentes"] }
+  ]},
+  { "fragmentoRef": "rm0718-2025-reg-art26", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Al concluir el semestre, un maestro itinerante entrega al director del CEA solo una lista de notas. Según el Art. 27 del Reglamento de la RM 0718/2025, ¿qué debe incluir su informe de fin de semestre?",
+      "opciones": [
+        { "texto": "El informe de las actividades realizadas y el cuaderno andragógico, entre otros elementos", "correcta": true, "porQue": "Art. 27 del Reglamento." },
+        { "texto": "Solo la lista de calificaciones", "correcta": false, "porQue": "Es insuficiente." },
+        { "texto": "Solo los recibos de viáticos", "correcta": false, "porQue": "No es lo que dispone el reglamento." },
+        { "texto": "Nada, porque el informe es anual", "correcta": false, "porQue": "Capciosa: el informe es semestral." }
+      ],
+      "explicacion": "Además, el maestro elabora su planificación semestral, modular y de aula-taller después del diagnóstico (Art. 26).",
+      "citaTextual": "Informe de actividades realizadas. dl b. Cuaderno andragógico.",
+      "referencia": "RM 0718/2025, Reglamento, Arts. 26-27, págs. 15-16", "etiquetas": ["informe semestral", "caso"] }
+  ]},
+  { "fragmentoRef": "rm0718-2025-reg-df04", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Surge una situación no prevista en el Reglamento de Maestros Itinerantes. Según la Disposición Final Cuarta de la RM 0718/2025, ¿cómo se resuelve?",
+      "opciones": [
+        { "texto": "Lo resuelve el Ministerio de Educación mediante un instructivo del VEAE, con base en el informe técnico de la Dirección General de Educación Alternativa", "correcta": true, "porQue": "Disposición Final Cuarta." },
+        { "texto": "La resuelve el director del CEA a su criterio", "correcta": false, "porQue": "No es la vía prevista." },
+        { "texto": "La resuelve la Dirección Distrital mediante resolución", "correcta": false, "porQue": "No es la vía prevista." },
+        { "texto": "Se aplica supletoriamente el Código Civil", "correcta": false, "porQue": "No es la vía prevista." }
+      ],
+      "explicacion": "Hay que distinguir quién emite el instructivo (VEAE) de quién elabora el informe técnico (DGEA).",
+      "citaTextual": "serán resueltas por el Ministerio de Educación mediante instructivo emitido por el Viceministerio de Educación Alternativa y Especial, sobre la base del informe técnico elaborado por la Dirección General de Educación Alternativa",
+      "referencia": "RM 0718/2025, Disposición Final Cuarta, pág. 17", "etiquetas": ["situaciones no previstas", "capciosa"] }
+  ]},
+  { "fragmentoRef": "rm0718-2025-reg-dt01", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según las Disposiciones Transitorias del Reglamento de la RM 0718/2025, ¿qué ocurre con los procesos pendientes iniciados bajo la normativa anterior?",
+      "opciones": [
+        { "texto": "Serán reasignados o adaptados conforme a este reglamento", "correcta": true, "porQue": "Disposición Transitoria Segunda." },
+        { "texto": "Se anulan", "correcta": false, "porQue": "No es lo que dispone el reglamento." },
+        { "texto": "Continúan con la normativa anterior hasta su conclusión", "correcta": false, "porQue": "Capciosa: se adaptan al nuevo reglamento." },
+        { "texto": "Se archivan sin trámite", "correcta": false, "porQue": "No es lo que dispone el reglamento." }
+      ],
+      "explicacion": "La Disposición Transitoria Primera prevé la capacitación progresiva de maestros y directores.",
+      "citaTextual": "Los procesos pendientes bajo la normativa anterior Ó N serán reasignados o adaptados conforme a este reglamento.",
+      "referencia": "RM 0718/2025, Disposiciones Transitorias, pág. 16", "etiquetas": ["transitorias", "capciosa"] }
+  ]}
+]
