@@ -1,0 +1,132 @@
+[
+  { "fragmentoRef": "ley004-art33", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Al asumir el cargo, un director de CEA omite declarar un inmueble en su declaración jurada de bienes y rentas. Según el Art. 33 de la Ley 004, ¿qué sanción le corresponde?",
+      "opciones": [
+        { "texto": "Privación de libertad de uno a cuatro años y multa de cincuenta a doscientos días", "correcta": true, "porQue": "Art. 33." },
+        { "texto": "De tres a ocho años", "correcta": false, "porQue": "Es la pena del favorecimiento al enriquecimiento ilícito (Art. 29) o de la obstrucción de la justicia (Art. 32)." },
+        { "texto": "De cinco a diez años", "correcta": false, "porQue": "Es la pena del cohecho activo transnacional (Art. 30)." },
+        { "texto": "Solo una sanción administrativa", "correcta": false, "porQue": "Es un delito." }
+      ],
+      "explicacion": "La declaración jurada se presenta antes, durante y después del cargo (CPE, Art. 235).",
+      "citaTextual": "incurrirá en privación de libertad de uno a cuatro años y multa de cincuenta a doscientos días",
+      "referencia": "Ley 004, Art. 33, pág. 8", "etiquetas": ["declaración jurada", "caso", "penas"] }
+  ]},
+  { "fragmentoRef": "ley004-art32", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Un servidor amenaza a una secretaria del CEA para que no declare como testigo en un proceso por corrupción. Según el Art. 32 de la Ley 004, ¿qué delito comete?",
+      "opciones": [
+        { "texto": "Obstrucción de la justicia, sancionada con tres a ocho años de privación de libertad y multa", "correcta": true, "porQue": "Art. 32." },
+        { "texto": "Cohecho pasivo transnacional", "correcta": false, "porQue": "Ese delito requiere un funcionario extranjero (Art. 31)." },
+        { "texto": "Favorecimiento al enriquecimiento ilícito", "correcta": false, "porQue": "Se refiere a ocultar un incremento patrimonial (Art. 29)." },
+        { "texto": "Ninguno: es una falta disciplinaria", "correcta": false, "porQue": "Es un delito." }
+      ],
+      "explicacion": "La pena se agrava en una mitad si la amenaza se dirige a jueces, fiscales o policías anticorrupción.",
+      "citaTextual": "para inducir a una persona a prestar falso testimonio u obstaculizar la prestación de testimonio o la aportación de pruebas en procesos por delitos de corrupción",
+      "referencia": "Ley 004, Art. 32, pág. 8", "etiquetas": ["obstrucción", "caso"] }
+  ]},
+  { "fragmentoRef": "ley004-art29", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "El cuñado de un director investigado presta su nombre para registrar a su favor bienes adquiridos con un incremento patrimonial injustificado del director. Según la Ley 004, el cuñado comete:",
+      "opciones": [
+        { "texto": "Favorecimiento al enriquecimiento ilícito", "correcta": true, "porQue": "Art. 29: facilitar su nombre para ocultar el incremento patrimonial." },
+        { "texto": "Enriquecimiento ilícito de particulares", "correcta": false, "porQue": "Capciosa: ese delito supone el propio incremento patrimonial mediante actividad privada (Art. 28)." },
+        { "texto": "Obstrucción de la justicia", "correcta": false, "porQue": "No es la conducta descrita." },
+        { "texto": "Ningún delito, por no ser servidor público", "correcta": false, "porQue": "El tipo penal alcanza a cualquiera que facilite su nombre." }
+      ],
+      "explicacion": "Se sanciona con tres a ocho años de privación de libertad, inhabilitación y multa.",
+      "citaTextual": "facilitare su nombre o participare en actividades económicas, financieras y comerciales",
+      "referencia": "Ley 004, Art. 29, pág. 8", "etiquetas": ["enriquecimiento ilícito", "caso", "capciosa"] }
+  ]},
+  { "fragmentoRef": "ley004-art39", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según la modificación del Art. 1502 del Código Civil introducida por la Ley 004, ¿contra qué deudas no corre la prescripción?",
+      "opciones": [
+        { "texto": "Contra las deudas por daños económicos causados al Estado", "correcta": true, "porQue": "Art. 39 (CC Art. 1502, num. 6)." },
+        { "texto": "Contra todas las deudas comerciales", "correcta": false, "porQue": "No es lo que dispone la norma." },
+        { "texto": "Contra las deudas tributarias menores", "correcta": false, "porQue": "No es lo que dispone la norma." },
+        { "texto": "Contra las deudas entre empresas", "correcta": false, "porQue": "No es lo que dispone la norma." }
+      ],
+      "explicacion": "Es coherente con la imprescriptibilidad de los delitos contra el patrimonio del Estado (CPE, Art. 112).",
+      "citaTextual": "En cuanto a las deudas por daños económicos causados al Estado.",
+      "referencia": "Ley 004, Art. 39, págs. 14-15", "etiquetas": ["prescripción"] }
+  ]},
+  { "fragmentoRef": "ley004-art177", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según el Art. 177 del Código Penal, modificado por la Ley 004, ¿qué sanción corresponde al funcionario judicial o administrativo que retarda o incumple los términos para pronunciarse (negativa o retardo de justicia)?",
+      "opciones": [
+        { "texto": "Privación de libertad de cinco a diez años", "correcta": true, "porQue": "Art. 177 del CP." },
+        { "texto": "De uno a cuatro años", "correcta": false, "porQue": "Es la pena de la falsedad en la declaración jurada." },
+        { "texto": "Solo una amonestación", "correcta": false, "porQue": "No coincide." },
+        { "texto": "Multa de 30 días", "correcta": false, "porQue": "No coincide." }
+      ],
+      "explicacion": "La legitimación de ganancias ilícitas (Art. 185 bis) también se sanciona con cinco a diez años.",
+      "citaTextual": "será sancionado con privación de libertad de cinco a diez años",
+      "referencia": "Ley 004, Art. 34 (CP Art. 177), pág. 11", "etiquetas": ["retardo de justicia", "memorística"] }
+  ]},
+  { "fragmentoRef": "ley004-art38", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según el Art. 38 de la Ley 004, ¿qué régimen procesal se aplica a la investigación y el juzgamiento de los delitos de corrupción?",
+      "opciones": [
+        { "texto": "El Código de Procedimiento Penal, en todo lo que no contravenga la Ley 004", "correcta": true, "porQue": "Art. 38." },
+        { "texto": "Un código anticorrupción independiente", "correcta": false, "porQue": "No existe; se aplica el CPP." },
+        { "texto": "El procedimiento administrativo de la Ley 2341", "correcta": false, "porQue": "No es lo que dispone la ley." },
+        { "texto": "La jurisdicción coactiva fiscal", "correcta": false, "porQue": "La coactiva fiscal es para la responsabilidad civil (Ley 1178)." }
+      ],
+      "explicacion": "Juzgan los Tribunales y Juzgados Anticorrupción.",
+      "citaTextual": "se acogerán en su procedimiento de investigación y juzgamiento a lo establecido en el Código de Procedimiento Penal",
+      "referencia": "Ley 004, Art. 38, pág. 14", "etiquetas": ["procedimiento"] }
+  ]},
+  { "fragmentoRef": "ley223-art22", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según el Art. 22 de la Ley 223, ¿cómo se aplican los deberes de las personas con discapacidad?",
+      "opciones": [
+        { "texto": "De acuerdo al grado de discapacidad", "correcta": true, "porQue": "Art. 22." },
+        { "texto": "No tienen deberes, solo derechos", "correcta": false, "porQue": "Capciosa: la ley establece deberes." },
+        { "texto": "Igual que a cualquier persona, sin considerar el grado", "correcta": false, "porQue": "Se consideran según el grado de discapacidad." },
+        { "texto": "Solo si son mayores de 60 años", "correcta": false, "porQue": "No es lo que dispone la ley." }
+      ],
+      "explicacion": "Entre los deberes: cumplir la CPE, respetar los derechos humanos, promover los valores y preservar el medio ambiente.",
+      "citaTextual": "son deberes de las personas de acuerdo al grado de discapacidad",
+      "referencia": "Ley 223, Art. 22, pág. 8", "etiquetas": ["deberes", "capciosa"] }
+  ]},
+  { "fragmentoRef": "ley223-art32", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según el Art. 32 de la Ley 223, ¿cuándo otorga el Estado gratuitamente medicamentos e insumos de necesidad permanente relacionados con la discapacidad?",
+      "opciones": [
+        { "texto": "Cuando la persona con discapacidad no cuenta con otros mecanismos de provisión, sujeto a reglamento", "correcta": true, "porQue": "Art. 32, par. II." },
+        { "texto": "Siempre y a todas las personas, sin condición", "correcta": false, "porQue": "Capciosa: aplica cuando no hay otros mecanismos de provisión." },
+        { "texto": "Solo a quienes tienen seguro privado", "correcta": false, "porQue": "No coincide." },
+        { "texto": "Nunca: se compran en farmacias", "correcta": false, "porQue": "No coincide." }
+      ],
+      "explicacion": "Los equipos multidisciplinarios de calificación los mantienen el Ministerio de Salud y las ETA.",
+      "citaTextual": "cuando no cuenten con otros mecanismos de provisión, sujeto a reglamento",
+      "referencia": "Ley 223, Art. 32, págs. 10-11", "etiquetas": ["salud", "capciosa"] }
+  ]},
+  { "fragmentoRef": "ley223-art48", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "El CEA necesita una rampa y señalización accesible. Según el Art. 48 de la Ley 223, ¿quiénes dictan las normas técnicas de accesibilidad en las construcciones públicas?",
+      "opciones": [
+        { "texto": "Los Gobiernos Autónomos Departamentales y Municipales (sus Asambleas y Concejos)", "correcta": true, "porQue": "Art. 48." },
+        { "texto": "El Ministerio de Educación de forma exclusiva", "correcta": false, "porQue": "No es lo que dispone la ley." },
+        { "texto": "El director del CEA", "correcta": false, "porQue": "No tiene competencia normativa." },
+        { "texto": "La Defensoría del Pueblo", "correcta": false, "porQue": "No es lo que dispone la ley." }
+      ],
+      "explicacion": "Incluye vías peatonales sin barreras, señalización en formatos accesibles y símbolos convencionales.",
+      "citaTextual": "dictarán normas sobre condiciones y especificaciones técnicas de diseño y elaboración de proyectos y obras de edificación, en construcciones públicas",
+      "referencia": "Ley 223, Art. 48, pág. 14", "etiquetas": ["accesibilidad", "caso"] }
+  ]},
+  { "fragmentoRef": "ley223-art40", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según el Art. 40 de la Ley 223, ¿qué trámite es gratuito para las personas con discapacidad que lo requieran?",
+      "opciones": [
+        { "texto": "El trámite de la libreta de servicio militar", "correcta": true, "porQue": "Art. 40." },
+        { "texto": "El pasaporte", "correcta": false, "porQue": "No es lo que dispone el artículo." },
+        { "texto": "La licencia de conducir", "correcta": false, "porQue": "No es lo que dispone el artículo." },
+        { "texto": "El título universitario", "correcta": false, "porQue": "No es lo que dispone el artículo." }
+      ],
+      "explicacion": "Dato fino de la ley.",
+      "citaTextual": "Se establece la gratuidad del trámite de la libreta de servicio militar para las personas con discapacidad",
+      "referencia": "Ley 223, Art. 40, pág. 12", "etiquetas": ["gratuidad", "memorística"] }
+  ]}
+]

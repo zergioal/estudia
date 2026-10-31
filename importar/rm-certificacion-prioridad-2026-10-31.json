@@ -1,0 +1,98 @@
+[
+  { "fragmentoRef": "rm0531-2023-reg-art09", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según el Reglamento de la RM 0531/2023, ¿qué es el Certificado de Competencias?",
+      "opciones": [
+        { "texto": "El documento que evidencia las competencias adquiridas a lo largo de la vida en un rubro ocupacional, según el estándar ocupacional, y da por cumplidas las etapas y requisitos de la certificación", "correcta": true, "porQue": "Art. 9, num. 1." },
+        { "texto": "Un título académico de Técnico Medio", "correcta": false, "porQue": "Capciosa: el título de Técnico Medio es otra certificación (RM 0679)." },
+        { "texto": "Un diploma de bachiller técnico", "correcta": false, "porQue": "No es la definición." },
+        { "texto": "Una constancia de asistencia a un curso", "correcta": false, "porQue": "No es la definición." }
+      ],
+      "explicacion": "La competencia ocupacional parte de una cosmovisión biocéntrica y comunitaria.",
+      "citaTextual": "Es el documento que evidencia las competencias adquiridas a lo largo de la vida en un determinado rubro ocupacional por medio del estándar ocupacional/laboral",
+      "referencia": "RM 0531/2023, Reglamento, Art. 9, págs. 13-16", "etiquetas": ["definiciones", "capciosa"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "En la Matriz Ocupacional de la RM 0531/2023, ¿qué dimensión permite enfrentar situaciones de conflicto que requieren tomar decisiones en el ejercicio de la ocupación?",
+      "opciones": [
+        { "texto": "El Decidir", "correcta": true, "porQue": "Art. 9." },
+        { "texto": "El Hacer", "correcta": false, "porQue": "El Hacer demuestra en la práctica los saberes y habilidades." },
+        { "texto": "El Ser", "correcta": false, "porQue": "El Ser identifica principios y valores." },
+        { "texto": "El Saber", "correcta": false, "porQue": "El Saber refleja los conocimientos adquiridos o apropiados en la práctica." }
+      ],
+      "explicacion": "Las cuatro dimensiones del modelo se aplican también a la certificación de competencias.",
+      "citaTextual": "Decidir: Es la dimensión del ser humano que permite enfrentarse a situaciones de conflicto en las que se requiere la toma de decisiones",
+      "referencia": "RM 0531/2023, Reglamento, Art. 9, págs. 13-16", "etiquetas": ["dimensiones"] }
+  ]},
+  { "fragmentoRef": "rm0531-2023-reg-art15", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según el Reglamento de la RM 0531/2023, ¿qué instancia coordina con las Direcciones Departamentales la acreditación de los CEA del área de Educación Permanente que realizarán la certificación de competencias?",
+      "opciones": [
+        { "texto": "La Dirección General de Educación Alternativa, mediante el equipo del SPCC", "correcta": true, "porQue": "Art. 15, num. 6." },
+        { "texto": "La Dirección Distrital", "correcta": false, "porQue": "No es lo que dispone el reglamento." },
+        { "texto": "El propio CEA", "correcta": false, "porQue": "No es lo que dispone el reglamento." },
+        { "texto": "El Ministerio de Trabajo", "correcta": false, "porQue": "No es lo que dispone el reglamento." }
+      ],
+      "explicacion": "La DGEA también valida la formación complementaria a partir de los estándares ocupacionales.",
+      "citaTextual": "Coordinar con las Direcciones Departamentales de Educación, la acreditación de Centros de Educación Alternativa fiscales y de convenio",
+      "referencia": "RM 0531/2023, Reglamento, Art. 15, págs. 17-19", "etiquetas": ["acreditación"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según el Reglamento de la RM 0531/2023, ¿a quién le corresponde validar los procesos de formación complementaria con base en los estándares ocupacionales?",
+      "opciones": [
+        { "texto": "A la Dirección General de Educación Alternativa", "correcta": true, "porQue": "Art. 15, num. 7." },
+        { "texto": "A la Subdirección", "correcta": false, "porQue": "Capciosa: la Subdirección entrega los certificados y gestiona el presupuesto (Art. 17)." },
+        { "texto": "Al coordinador del SPCC", "correcta": false, "porQue": "El coordinador aprueba los cronogramas de evaluación." },
+        { "texto": "Al CEA", "correcta": false, "porQue": "El CEA organiza la evaluación." }
+      ],
+      "explicacion": "Capciosa: hay que distinguir las funciones de cada instancia.",
+      "citaTextual": "Validar los procesos de formación complementaria, con base a los estándares ocupacionales/laborales.",
+      "referencia": "RM 0531/2023, Reglamento, Art. 15, págs. 17-19", "etiquetas": ["formación complementaria", "capciosa"] }
+  ]},
+  { "fragmentoRef": "rm0679-2025-reg5-art18", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "El CEA recibe de la Distrital los títulos de Técnico Medio de sus egresados. Según la RM 0679/2025, ¿qué debe hacer después de entregarlos?",
+      "opciones": [
+        { "texto": "Registrar la entrega en el módulo habilitado y remitir a la Distrital el Reporte de Registro de Entrega y el Formulario de Entrega y Recepción, incluidos los no entregados", "correcta": true, "porQue": "Art. 18, inc. a), nums. 5 y 6." },
+        { "texto": "Archivar los no entregados en el CEA indefinidamente", "correcta": false, "porQue": "Deben reportarse a la Distrital." },
+        { "texto": "Devolver todos a la Departamental", "correcta": false, "porQue": "No es lo que dispone la RM." },
+        { "texto": "Nada más", "correcta": false, "porQue": "Hay obligaciones de registro y reporte." }
+      ],
+      "explicacion": "La Distrital elabora un informe de los certificados entregados y no entregados para la Departamental.",
+      "citaTextual": "Remitir a la Dirección Distrital Educativa el Reporte de Registro de Entrega y el Formulario de Entrega y Recepción de Certificados y Títulos, incluyendo aquellos no entregados.",
+      "referencia": "RM 0679/2025, Reglamento, Art. 18, págs. 13-15", "etiquetas": ["entrega de títulos", "caso"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según el Art. 18 de la RM 0679/2025, ¿qué instancia valida la documentación de los participantes enviada por el CEA y la remite a la Departamental?",
+      "opciones": [
+        { "texto": "La Dirección Distrital Educativa", "correcta": true, "porQue": "Art. 18, inc. b), nums. 1 y 2." },
+        { "texto": "La Subdirección de Educación Alternativa y Especial", "correcta": false, "porQue": "Capciosa: la Subdirección elabora el cronograma de impresión." },
+        { "texto": "El propio CEA", "correcta": false, "porQue": "El CEA recibe, verifica y remite." },
+        { "texto": "El Ministerio", "correcta": false, "porQue": "No es lo que dispone la RM." }
+      ],
+      "explicacion": "La cadena es CEA, Distrital (valida), Departamental (emite), Distrital, CEA y participante.",
+      "citaTextual": "Validar la documentación presentada por las y los estudiantes/participantes, enviada por los centros de educación alternativa",
+      "referencia": "RM 0679/2025, Reglamento, Art. 18, págs. 13-15", "etiquetas": ["validación", "capciosa"] }
+  ]},
+  { "fragmentoRef": "rm0679-2025-reg5-art26", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según la RM 0679/2025, ¿en qué plazos revisan la solicitud de anulación y reimpresión de un título técnico la Subdirección y la Unidad de Asuntos Jurídicos?",
+      "opciones": [
+        { "texto": "La Subdirección, en un máximo de 5 días hábiles; Asuntos Jurídicos, en hasta 3 días hábiles", "correcta": true, "porQue": "Art. 27, nums. 2 y 3." },
+        { "texto": "La Subdirección en 3 y Asuntos Jurídicos en 5", "correcta": false, "porQue": "Capciosa: está invertido." },
+        { "texto": "Ambas en 10 días hábiles", "correcta": false, "porQue": "10 días hábiles es el plazo de reimpresión (Art. 28)." },
+        { "texto": "Ambas en 72 horas", "correcta": false, "porQue": "No coincide." }
+      ],
+      "explicacion": "La solicitud se presenta en la Ventanilla Única de la Dirección Departamental.",
+      "citaTextual": "revisará la documentación y los requisitos en un plazo máximo de cinco (5) días hábiles",
+      "referencia": "RM 0679/2025, Reglamento, Art. 27, págs. 17-18", "etiquetas": ["plazos", "capciosa"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Un egresado necesita corregir su apellido en el título de Técnico Medio tras una rectificación en el SERECI. Según la RM 0679/2025, ¿qué documento debe adjuntar para acreditar la corrección?",
+      "opciones": [
+        { "texto": "Una fotocopia legalizada de la Resolución Administrativa del SERECI, junto con su CI y el título original", "correcta": true, "porQue": "Art. 26, num. 3, inc. b)." },
+        { "texto": "Solo una carta del CEA", "correcta": false, "porQue": "Se exigen documentos que acrediten legalmente la corrección." },
+        { "texto": "Dos testigos", "correcta": false, "porQue": "No es lo que dispone la RM." },
+        { "texto": "Una publicación en la prensa", "correcta": false, "porQue": "No es lo que dispone la RM." }
+      ],
+      "explicacion": "También se aceptan una resolución judicial ejecutoriada, una resolución del SEGIP o el original del certificado de nacimiento.",
+      "citaTextual": "Fotocopia legalizada de la Resolución Administrativa del Servicio de Registro Cívico (SERECI).",
+      "referencia": "RM 0679/2025, Reglamento, Art. 26, págs. 17-18", "etiquetas": ["reimpresión", "caso"] }
+  ]}
+]
