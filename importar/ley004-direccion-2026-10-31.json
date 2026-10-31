@@ -1,0 +1,286 @@
+[
+  { "fragmentoRef": "ley004-art144", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "El director de un CEA usa los fondos asignados a material educativo para pagar el agasajo de aniversario del centro, sin apropiarse de nada. Según el Código Penal modificado por la Ley 004, ¿qué delito se configura?",
+      "opciones": [
+        { "texto": "Malversación: dar a los caudales que administra una aplicación distinta de aquella a la que estaban destinados", "correcta": true, "porQue": "Es el tipo del Art. 144: cambio de destino sin apropiación." },
+        { "texto": "Peculado", "correcta": false, "porQue": "El peculado (Art. 142) exige apropiarse de dinero, valores o bienes." },
+        { "texto": "Uso indebido de bienes y servicios públicos", "correcta": false, "porQue": "Ese tipo (Art. 26 de la Ley 004) se refiere a bienes, derechos y acciones, no a caudales administrados." },
+        { "texto": "Beneficios en razón del cargo", "correcta": false, "porQue": "Ese tipo (Art. 147) sanciona aceptar regalos en consideración al cargo." }
+      ],
+      "explicacion": "Malversación: aplicación distinta de los caudales (3 a 8 años); se agrava en un tercio si daña o entorpece el servicio. Peculado: apropiación (5 a 10 años).",
+      "citaTextual": "diere a los caudales que administra, percibe o custodia, una aplicación distinta de aquella a que estuvieren destinados",
+      "referencia": "Ley 004, Art. 34 (CP Art. 144), pág. 9", "etiquetas": ["malversación", "delitos de corrupción", "caso"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "En el delito de malversación (Art. 144 del CP, según la Ley 004), ¿qué ocurre si del hecho resulta daño o entorpecimiento para el servicio público?",
+      "opciones": [
+        { "texto": "La sanción se agrava en un tercio", "correcta": true, "porQue": "Lo dispone el último párrafo del Art. 144." },
+        { "texto": "La sanción se agrava en una mitad", "correcta": false, "porQue": "El agravante es de un tercio." },
+        { "texto": "Se convierte en peculado", "correcta": false, "porQue": "El daño agrava la malversación, pero no cambia el tipo penal." },
+        { "texto": "Se duplica la multa, sin aumentar la privación de libertad", "correcta": false, "porQue": "Lo que se agrava es la sanción, en un tercio." }
+      ],
+      "explicacion": "La malversación básica se sanciona con 3 a 8 años y multa de 100 a 250 días; con daño o entorpecimiento del servicio, se agrava en un tercio.",
+      "citaTextual": "Si del hecho resultare daño o entorpecimiento para el servicio público, la sanción será agravada en un tercio.",
+      "referencia": "Ley 004, Art. 34 (CP Art. 144), pág. 9", "etiquetas": ["malversación", "agravantes"] }
+  ]},
+  { "fragmentoRef": "ley004-art142", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según el Art. 142 del CP (peculado), modificado por la Ley 004, ¿qué sanción corresponde al servidor público que se apropia del dinero cuya custodia tiene a su cargo?",
+      "opciones": [
+        { "texto": "Privación de libertad de cinco a diez años y multa de doscientos a quinientos días", "correcta": true, "porQue": "Es la pena del peculado." },
+        { "texto": "Privación de libertad de tres a ocho años y multa de cien a doscientos cincuenta días", "correcta": false, "porQue": "Esa es la pena de la malversación (Art. 144)." },
+        { "texto": "Privación de libertad de uno a cuatro años", "correcta": false, "porQue": "Es la pena de otros tipos, como el incumplimiento de deberes." },
+        { "texto": "Multa de treinta días", "correcta": false, "porQue": "Es la sanción por omitir la declaración de bienes y rentas (Art. 149)." }
+      ],
+      "explicacion": "El peculado es la apropiación de dinero, valores o bienes que el servidor administra, cobra o custodia: 5 a 10 años y multa de 200 a 500 días.",
+      "citaTextual": "será sancionado con privación de libertad de cinco a diez años y multa de doscientos a quinientos días",
+      "referencia": "Ley 004, Art. 34 (CP Art. 142), pág. 9", "etiquetas": ["peculado", "penas"] }
+  ]},
+  { "fragmentoRef": "ley004-art147", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Al cierre de gestión, un grupo de padres regala a la directora un electrodoméstico \"por ser la directora\", sin pedirle nada a cambio. Si ella lo acepta, ¿qué tipo penal de la Ley 004 encuadra mejor?",
+      "opciones": [
+        { "texto": "Beneficios en razón del cargo", "correcta": true, "porQue": "El Art. 147 sanciona admitir regalos en consideración al cargo, aunque no haya contraprestación." },
+        { "texto": "Cohecho pasivo propio", "correcta": false, "porQue": "El cohecho (Art. 145) exige recibir la ventaja para hacer o dejar de hacer un acto de sus funciones." },
+        { "texto": "Concusión", "correcta": false, "porQue": "La concusión (Art. 151) exige exigir u obtener con abuso de la condición; aquí no hubo exigencia." },
+        { "texto": "No hay delito, porque no existió contraprestación", "correcta": false, "porQue": "El Art. 147 no requiere contraprestación: basta admitir el regalo en consideración al cargo." }
+      ],
+      "explicacion": "Beneficios en razón del cargo: admitir regalos por el cargo (3 a 8 años). Cohecho: recibir a cambio de un acto. Concusión: exigir con abuso de funciones.",
+      "citaTextual": "que en consideración a su cargo admitiere regalos u otros beneficios",
+      "referencia": "Ley 004, Art. 34 (CP Art. 147), pág. 9", "etiquetas": ["beneficios en razón del cargo", "caso"] }
+  ]},
+  { "fragmentoRef": "ley004-art145", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Un secretario administrativo recibe dinero de un padre para inscribir a su hijo sin los requisitos exigidos. ¿Qué delito configura según la Ley 004?",
+      "opciones": [
+        { "texto": "Cohecho pasivo propio", "correcta": true, "porQue": "Recibe una dádiva para hacer un acto contrario a los deberes de su cargo (Art. 145)." },
+        { "texto": "Beneficios en razón del cargo", "correcta": false, "porQue": "Ese tipo no exige un acto a cambio; aquí el pago tiene una contraprestación concreta." },
+        { "texto": "Exacciones", "correcta": false, "porQue": "Las exacciones (Art. 152) consisten en exigir cobros en beneficio de la administración pública." },
+        { "texto": "Uso indebido de influencias", "correcta": false, "porQue": "Ese tipo (Art. 146) consiste en obtener ventajas usando influencias, no en recibir pagos por un acto." }
+      ],
+      "explicacion": "Cohecho pasivo propio: recibir dádivas o aceptar promesas para hacer o dejar de hacer un acto relativo a las funciones o contrario a los deberes (3 a 8 años, multa de 50 a 150 días).",
+      "citaTextual": "para hacer o dejar de hacer un acto relativo a sus funciones o contrario a los deberes de su cargo, recibiere directamente o por interpuesta persona",
+      "referencia": "Ley 004, Art. 34 (CP Art. 145), pág. 9", "etiquetas": ["cohecho", "caso"] }
+  ]},
+  { "fragmentoRef": "ley004-art26", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Una servidora pública usa los fines de semana la laptop del centro para su negocio particular, y el equipo se arruina. Según el Art. 26 de la Ley 004, ¿qué pena corresponde?",
+      "opciones": [
+        { "texto": "De tres a ocho años de privación de libertad y reparación del daño causado", "correcta": true, "porQue": "Si el bien usado indebidamente sufre deterioro o perece, la pena sube a 3 a 8 años con reparación del daño." },
+        { "texto": "De uno a cuatro años de privación de libertad", "correcta": false, "porQue": "Es la pena del uso indebido sin deterioro del bien." },
+        { "texto": "De cinco a diez años, por tratarse de peculado", "correcta": false, "porQue": "No se apropió del bien; lo usó con un fin distinto." },
+        { "texto": "Solo una sanción administrativa, por ser un bien de bajo valor", "correcta": false, "porQue": "La Ley 004 tipifica el uso indebido como delito, sin umbral de valor." }
+      ],
+      "explicacion": "El uso indebido de bienes y servicios públicos es un tipo creado por la Ley 004: 1 a 4 años, o 3 a 8 años con reparación si el bien se deteriora, destroza o perece.",
+      "citaTextual": "Si por el uso indebido, el bien sufriere deterioro, destrozos o pereciere, la pena será de tres a ocho años y reparación del daño causado.",
+      "referencia": "Ley 004, Art. 26, pág. 7", "etiquetas": ["uso indebido de bienes", "caso"] }
+  ]},
+  { "fragmentoRef": "ley004-art154", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según el Art. 154 del CP, modificado por la Ley 004, ¿qué conductas configuran el incumplimiento de deberes?",
+      "opciones": [
+        { "texto": "Que el servidor público ilegalmente omita, rehúse hacer o retarde un acto propio de sus funciones", "correcta": true, "porQue": "Son las tres conductas del Art. 154." },
+        { "texto": "Que dicte resoluciones contrarias a la Constitución o a las leyes", "correcta": false, "porQue": "Esa conducta es otro delito (Art. 153)." },
+        { "texto": "Que proponga en terna a una persona sin las condiciones legales", "correcta": false, "porQue": "Esa conducta configura nombramientos ilegales (Art. 157)." },
+        { "texto": "Que cause daño al patrimonio de la entidad por mala administración", "correcta": false, "porQue": "Esa conducta configura conducta antieconómica (Art. 224)." }
+      ],
+      "explicacion": "Incumplimiento de deberes: omitir, rehusar o retardar ilegalmente un acto propio (1 a 4 años, agravado en un tercio si causa daño económico al Estado).",
+      "citaTextual": "ilegalmente omitiere, rehusare hacer o retardare un acto propio de sus funciones",
+      "referencia": "Ley 004, Art. 34 (CP Art. 154), pág. 10", "etiquetas": ["incumplimiento de deberes"] }
+  ]},
+  { "fragmentoRef": "ley004-art14", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "La máxima autoridad ejecutiva de una entidad conoce un delito de corrupción que afectó a su institución, pero decide no actuar. Según la Ley 004, ¿qué debió hacer y qué arriesga?",
+      "opciones": [
+        { "texto": "Constituirse obligatoriamente en parte querellante; su omisión importa el delito de incumplimiento de deberes, entre otros", "correcta": true, "porQue": "Es lo que dispone el Art. 14." },
+        { "texto": "Informar a la Contraloría, sin obligación de querellarse", "correcta": false, "porQue": "La ley impone expresamente la obligación de constituirse en parte querellante." },
+        { "texto": "Querellarse solo si el daño supera un monto mínimo", "correcta": false, "porQue": "La obligación no está sujeta a montos." },
+        { "texto": "Esperar la acusación fiscal para decidir si se querella", "correcta": false, "porQue": "Debe hacerlo una vez conocidos los hechos." }
+      ],
+      "explicacion": "La MAE o las autoridades llamadas por ley deben querellarse obligatoriamente en los delitos de corrupción y vinculados; su omisión constituye incumplimiento de deberes y otros delitos.",
+      "citaTextual": "deberán constituirse obligatoriamente en parte querellante de los delitos de corrupción y vinculados, una vez conocidos éstos",
+      "referencia": "Ley 004, Art. 14, pág. 4", "etiquetas": ["querella", "MAE", "caso"] }
+  ]},
+  { "fragmentoRef": "ley004-art157", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Un director propone en terna, para un cargo público, a una persona que sabe que no reúne las condiciones legales. Según el Código Penal modificado por la Ley 004, ¿qué delito y pena corresponden?",
+      "opciones": [
+        { "texto": "Nombramientos ilegales: privación de libertad de uno a cuatro años y multa de treinta a cien días", "correcta": true, "porQue": "El Art. 157 sanciona tanto proponer en terna como nombrar." },
+        { "texto": "Uso indebido de influencias: tres a ocho años", "correcta": false, "porQue": "Ese tipo requiere obtener ventajas mediante influencias; aquí la conducta es proponer en terna." },
+        { "texto": "Resoluciones contrarias a las leyes: cinco a diez años", "correcta": false, "porQue": "Existe un tipo específico para proponer o nombrar a quien no cumple las condiciones." },
+        { "texto": "Ninguno, porque solo proponer en terna no es nombrar", "correcta": false, "porQue": "El Art. 157 incluye expresamente a quien propusiere en terna." }
+      ],
+      "explicacion": "Nombramientos ilegales: proponer en terna o nombrar a quien no reúne las condiciones legales (1 a 4 años y multa de 30 a 100 días).",
+      "citaTextual": "la servidora o el servidor público que propusiere en terna o nombrare para un cargo público a persona que no reuniere las condiciones legales para su desempeño",
+      "referencia": "Ley 004, Art. 34 (CP Art. 157), pág. 10", "etiquetas": ["nombramientos ilegales", "caso"] }
+  ]},
+  { "fragmentoRef": "ley004-art149", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Una servidora pública no presenta su declaración jurada de bienes y rentas al posesionarse. Según el Art. 149 del CP, modificado por la Ley 004, ¿qué sanción corresponde?",
+      "opciones": [
+        { "texto": "Multa de treinta días", "correcta": true, "porQue": "La omisión de la declaración de bienes y rentas se sanciona solo con multa." },
+        { "texto": "Privación de libertad de uno a cuatro años y multa de cincuenta a doscientos días", "correcta": false, "porQue": "Esa es la pena por falsear u omitir datos en la declaración (Art. 33 de la Ley 004), no por no presentarla." },
+        { "texto": "Privación de libertad de cinco a diez años, por presunción de enriquecimiento ilícito", "correcta": false, "porQue": "El enriquecimiento ilícito exige un incremento patrimonial injustificado." },
+        { "texto": "Destitución automática del cargo", "correcta": false, "porQue": "El Art. 149 fija una multa." }
+      ],
+      "explicacion": "Trampa frecuente: no presentar la declaración = multa de 30 días (Art. 149 del CP); falsearla u omitir datos = 1 a 4 años y multa (Art. 33 de la Ley 004).",
+      "citaTextual": "a tiempo de tomar posesión o a tiempo de dejar su cargo y no lo hiciere, será sancionado con multa de treinta días",
+      "referencia": "Ley 004, Art. 34 (CP Art. 149), pág. 9", "etiquetas": ["declaración de bienes y rentas"] }
+  ]},
+  { "fragmentoRef": "ley004-art27", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según la Ley 004, ¿qué sanciones corresponden al servidor público que incrementa desproporcionadamente su patrimonio respecto de sus ingresos legítimos y no puede justificarlo?",
+      "opciones": [
+        { "texto": "Privación de libertad de cinco a diez años, inhabilitación para la función pública y/o cargos electos, multa de doscientos a quinientos días y decomiso de los bienes obtenidos ilegalmente", "correcta": true, "porQue": "Es la sanción del enriquecimiento ilícito (Art. 27)." },
+        { "texto": "Privación de libertad de tres a ocho años, multa de cien a trescientos días y decomiso", "correcta": false, "porQue": "Es la sanción del enriquecimiento ilícito de particulares (Art. 28)." },
+        { "texto": "Solo el decomiso de los bienes no justificados", "correcta": false, "porQue": "Además del decomiso hay privación de libertad, inhabilitación y multa." },
+        { "texto": "Privación de libertad de uno a cuatro años e inhabilitación", "correcta": false, "porQue": "La pena es de 5 a 10 años." }
+      ],
+      "explicacion": "Enriquecimiento ilícito del servidor público: 5 a 10 años, inhabilitación, multa de 200 a 500 días y decomiso. En particulares (Art. 28): 3 a 8 años.",
+      "citaTextual": "será sancionado con privación de libertad de cinco a diez años, inhabilitación para el ejercicio de la función pública y/o cargos electos, multa de doscientos hasta quinientos días y el decomiso de los bienes obtenidos ilegalmente",
+      "referencia": "Ley 004, Art. 27, pág. 7", "etiquetas": ["enriquecimiento ilícito"] }
+  ]},
+  { "fragmentoRef": "ley004-art105", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según el Art. 105 del CP, modificado por la Ley 004, ¿cuándo prescribe la potestad para ejecutar la pena en los delitos de corrupción?",
+      "opciones": [
+        { "texto": "No procede la prescripción de la pena, bajo ninguna circunstancia", "correcta": true, "porQue": "El Art. 105 excluye expresamente la prescripción en delitos de corrupción." },
+        { "texto": "En diez años, si la pena es mayor de seis años", "correcta": false, "porQue": "Es la regla general, que no se aplica a los delitos de corrupción." },
+        { "texto": "En siete años, si la pena es de entre dos y seis años", "correcta": false, "porQue": "Es la regla general para otros delitos." },
+        { "texto": "En cinco años, desde la notificación con la sentencia", "correcta": false, "porQue": "Es la regla para las demás penas, no para la corrupción." }
+      ],
+      "explicacion": "Las reglas generales de prescripción de la pena (10, 7 o 5 años) no se aplican a los delitos de corrupción.",
+      "citaTextual": "No procederá la prescripción de la pena, bajo ninguna circunstancia, en delitos de corrupción.",
+      "referencia": "Ley 004, Art. 34 (CP Art. 105), pág. 9", "etiquetas": ["prescripción", "imprescriptibilidad"] }
+  ]},
+  { "fragmentoRef": "ley004-art36", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según el Art. 29 bis del CPP, incluido por la Ley 004 conforme al Art. 112 de la CPE, ¿qué delitos son imprescriptibles y no admiten régimen de inmunidad?",
+      "opciones": [
+        { "texto": "Los cometidos por servidores públicos que atenten contra el patrimonio del Estado y causen grave daño económico", "correcta": true, "porQue": "Es el contenido del Art. 29 bis." },
+        { "texto": "Todos los delitos cometidos por servidores públicos", "correcta": false, "porQue": "La imprescriptibilidad se limita a los que atentan contra el patrimonio del Estado con grave daño económico." },
+        { "texto": "Solo el enriquecimiento ilícito y la legitimación de ganancias ilícitas", "correcta": false, "porQue": "El criterio es el atentado al patrimonio con grave daño, no una lista cerrada." },
+        { "texto": "Los delitos de corrupción cometidos por particulares", "correcta": false, "porQue": "La norma se refiere a delitos de servidores públicos." }
+      ],
+      "explicacion": "Por mandato del Art. 112 de la CPE, los delitos de servidores públicos contra el patrimonio del Estado que causan grave daño económico son imprescriptibles y no admiten inmunidad.",
+      "citaTextual": "los delitos cometidos por servidoras o servidores públicos que atenten contra el patrimonio del Estado y causen grave daño económico, son imprescriptibles y no admiten régimen de inmunidad",
+      "referencia": "Ley 004, Art. 36 (CPP Art. 29 bis), págs. 13-14", "etiquetas": ["imprescriptibilidad", "CPE 112"] }
+  ]},
+  { "fragmentoRef": "ley004-art35", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según la Ley 004, ¿qué beneficio obtiene el cómplice de un delito de corrupción que lo denuncia voluntariamente y colabora en la investigación y el juzgamiento?",
+      "opciones": [
+        { "texto": "La reducción de dos tercios de la pena que le correspondiere", "correcta": true, "porQue": "Es el beneficio del Art. 35 (denuncia voluntaria)." },
+        { "texto": "La reducción de un tercio de la pena", "correcta": false, "porQue": "La reducción es de dos tercios." },
+        { "texto": "La exención total de pena", "correcta": false, "porQue": "La ley prevé una reducción, no la exención." },
+        { "texto": "La reducción a la mitad, solo si devuelve lo obtenido", "correcta": false, "porQue": "Ni la proporción ni la condición corresponden." }
+      ],
+      "explicacion": "La denuncia voluntaria del instigador, cómplice o encubridor que colabora reduce en dos tercios la pena de los delitos de los Arts. 24 y 25.",
+      "citaTextual": "se beneficiará con la reducción de dos tercios de la pena que le correspondiere",
+      "referencia": "Ley 004, Art. 35, pág. 13", "etiquetas": ["denuncia voluntaria"] }
+  ]},
+  { "fragmentoRef": "ley004-art02", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según la definición de corrupción de la Ley 004, ¿cuál es el elemento que la caracteriza?",
+      "opciones": [
+        { "texto": "Requerir, aceptar, ofrecer u otorgar objetos de valor pecuniario u otros beneficios a cambio de la acción u omisión de un acto que afecte los intereses del Estado", "correcta": true, "porQue": "Es la definición del Art. 2." },
+        { "texto": "Cualquier error de gestión que cause pérdidas a la entidad, aunque no medie beneficio", "correcta": false, "porQue": "La definición exige un intercambio de beneficios a cambio de una acción u omisión." },
+        { "texto": "Solo la apropiación directa de fondos públicos por un servidor", "correcta": false, "porQue": "La definición es más amplia e incluye dádivas, favores, promesas o ventajas, directas o indirectas." },
+        { "texto": "Solo los actos de servidores públicos, nunca de particulares", "correcta": false, "porQue": "Comprende a servidores públicos y a personas naturales o jurídicas, nacionales o extranjeras." }
+      ],
+      "explicacion": "La corrupción es un intercambio: dádivas, favores, promesas o ventajas a cambio de una acción u omisión que afecte los intereses del Estado.",
+      "citaTextual": "a cambio de la acción u omisión de cualquier acto que afecte a los intereses del Estado",
+      "referencia": "Ley 004, Art. 2, pág. 1", "etiquetas": ["definición de corrupción"] }
+  ]},
+  { "fragmentoRef": "ley004-art06", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "¿Cuál de las siguientes instituciones NO integra el Consejo Nacional de Lucha Contra la Corrupción, Enriquecimiento Ilícito y Legitimación de Ganancias Ilícitas, según la Ley 004?",
+      "opciones": [
+        { "texto": "El Ministerio de Educación", "correcta": true, "porQue": "No figura en la lista del Art. 6." },
+        { "texto": "La Contraloría General del Estado", "correcta": false, "porQue": "La integra (inc. d))." },
+        { "texto": "La Unidad de Investigaciones Financieras", "correcta": false, "porQue": "La integra (inc. e))." },
+        { "texto": "La Procuraduría General del Estado", "correcta": false, "porQue": "La integra (inc. f))." }
+      ],
+      "explicacion": "Integran el Consejo: el Ministerio de Transparencia, el Ministerio de Gobierno, el Ministerio Público, la Contraloría, la UIF, la Procuraduría y representantes de la sociedad civil organizada.",
+      "citaTextual": "a) Ministerio de Transparencia Institucional y Lucha Contra la Corrupción b) Ministerio de Gobierno c) Ministerio Público d) Contraloría General del Estado e) Unidad de Investigaciones Financieras f) Procuraduría General del Estado",
+      "referencia": "Ley 004, Art. 6, pág. 3", "etiquetas": ["Consejo Nacional", "institucionalidad"] }
+  ]},
+  { "fragmentoRef": "ley004-art08", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según la Ley 004, ¿a quiénes debe informar anualmente el Consejo Nacional de Lucha Contra la Corrupción sobre el Plan Nacional y sus resultados?",
+      "opciones": [
+        { "texto": "Al Presidente del Estado, a la Asamblea Legislativa Plurinacional y a la Sociedad Civil Organizada", "correcta": true, "porQue": "Son los tres destinatarios del Art. 8." },
+        { "texto": "Al Presidente del Estado y a la Contraloría General", "correcta": false, "porQue": "La Contraloría integra el Consejo; no es destinataria del informe." },
+        { "texto": "Solo a la Asamblea Legislativa Plurinacional", "correcta": false, "porQue": "Son tres destinatarios." },
+        { "texto": "Al Tribunal Supremo de Justicia y al Ministerio Público", "correcta": false, "porQue": "No figuran como destinatarios." }
+      ],
+      "explicacion": "El Consejo rinde cuentas cada año al Presidente, a la Asamblea Legislativa y a la sociedad civil organizada.",
+      "citaTextual": "tiene la obligación de informar anualmente al Presidente del Estado Plurinacional, a la Asamblea Legislativa Plurinacional y a la Sociedad Civil Organizada",
+      "referencia": "Ley 004, Art. 8, pág. 3", "etiquetas": ["rendición de cuentas", "Consejo Nacional"] }
+  ]},
+  { "fragmentoRef": "ley004-art17", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según la Ley 004, ¿qué instituciones tienen a cargo el Sistema de Protección de Denunciantes y Testigos?",
+      "opciones": [
+        { "texto": "El Ministerio de Gobierno, la Policía Boliviana y el Ministerio Público", "correcta": true, "porQue": "Es la composición del Art. 17, par. I." },
+        { "texto": "El Ministerio de Transparencia y la Contraloría", "correcta": false, "porQue": "El Ministerio de Transparencia guarda reserva de identidad, pero el Sistema está a cargo de otras instituciones." },
+        { "texto": "La Defensoría del Pueblo y el Órgano Judicial", "correcta": false, "porQue": "No figuran en el Art. 17." },
+        { "texto": "La Unidad de Investigaciones Financieras y la Procuraduría", "correcta": false, "porQue": "Tienen otras atribuciones en la ley." }
+      ],
+      "explicacion": "El Sistema, a cargo del Ministerio de Gobierno, la Policía y el Ministerio Público, protege a denunciantes, testigos, peritos y demás partícipes contra amenazas y represalias.",
+      "citaTextual": "Se establece el Sistema de Protección de Denunciantes y Testigos que estará a cargo del Ministerio de Gobierno, la Policía Boliviana y el Ministerio Público",
+      "referencia": "Ley 004, Art. 17, par. I, págs. 4-5", "etiquetas": ["protección de denunciantes"] }
+  ]},
+  { "fragmentoRef": "ley004-art10", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Sobre los derechos y atribuciones del Control Social en la Ley 004, ¿cuál afirmación es CORRECTA?",
+      "opciones": [
+        { "texto": "Se enumeran de manera enunciativa pero no limitativa, e incluyen identificar y denunciar hechos de corrupción y falta de transparencia y coadyuvar en los procesos", "correcta": true, "porQue": "Es el contenido del Art. 10." },
+        { "texto": "Son una lista cerrada que solo permite denunciar hechos de corrupción", "correcta": false, "porQue": "La lista es enunciativa, no limitativa, e incluye más atribuciones." },
+        { "texto": "Incluyen sancionar directamente a los servidores públicos denunciados", "correcta": false, "porQue": "El Control Social identifica, denuncia y coadyuva; no sanciona." },
+        { "texto": "Solo pueden ejercerse de manera colectiva, por organizaciones registradas", "correcta": false, "porQue": "El Art. 9 permite participar de manera individual y/o colectiva." }
+      ],
+      "explicacion": "Cualquier actor social, de forma individual o colectiva, puede ejercer control social: denunciar corrupción, denunciar falta de transparencia y coadyuvar en los procesos.",
+      "citaTextual": "De manera enunciativa pero no limitativa, son derechos y atribuciones del Control Social",
+      "referencia": "Ley 004, Art. 10, pág. 4", "etiquetas": ["control social"] }
+  ]},
+  { "fragmentoRef": "ley004-art224", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Por mala administración, el responsable de una institución estatal causa daños al patrimonio, sin dolo pero con negligencia. Según el Art. 224 del CP (conducta antieconómica), ¿qué pena corresponde?",
+      "opciones": [
+        { "texto": "Privación de libertad de uno a cuatro años, por haber actuado culposamente", "correcta": true, "porQue": "La forma culposa de la conducta antieconómica se sanciona con 1 a 4 años." },
+        { "texto": "Privación de libertad de tres a ocho años", "correcta": false, "porQue": "Es la pena de la forma dolosa." },
+        { "texto": "Ninguna, porque sin dolo solo hay responsabilidad civil", "correcta": false, "porQue": "El Art. 224 sanciona expresamente la forma culposa." },
+        { "texto": "Privación de libertad de cinco a diez años", "correcta": false, "porQue": "Esa pena corresponde a otros tipos, como el peculado." }
+      ],
+      "explicacion": "Conducta antieconómica: daño al patrimonio por mala administración o dirección técnica; dolosa, 3 a 8 años; culposa, 1 a 4 años.",
+      "citaTextual": "Si actuare culposamente, será sancionado con privación de libertad de uno a cuatro años.",
+      "referencia": "Ley 004, Art. 34 (CP Art. 224), pág. 12", "etiquetas": ["conducta antieconómica", "caso"] }
+  ]},
+  { "fragmentoRef": "ley004-art20", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Respecto del secreto bancario, la Ley 004 establece que los servidores públicos:",
+      "opciones": [
+        { "texto": "Pueden renunciar voluntariamente a él; la renuncia queda sin efecto al concluir sus funciones", "correcta": true, "porQue": "Lo establece el Art. 20, par. II." },
+        { "texto": "Están obligados a renunciar a él para posesionarse", "correcta": false, "porQue": "La renuncia es voluntaria." },
+        { "texto": "Mantienen el secreto bancario incluso en investigaciones de corrupción", "correcta": false, "porQue": "El par. I excluye la confidencialidad en esas investigaciones." },
+        { "texto": "Solo pierden el secreto bancario con orden judicial expresa", "correcta": false, "porQue": "En los casos del par. I no existe confidencialidad." }
+      ],
+      "explicacion": "No hay confidencialidad financiera en investigaciones de corrupción ni en procesos de recuperación de bienes; además, el servidor puede renunciar voluntariamente al secreto mientras ejerce el cargo.",
+      "citaTextual": "Los servidores públicos podrán renunciar de manera voluntaria al secreto bancario.",
+      "referencia": "Ley 004, Art. 20, par. II, pág. 5", "etiquetas": ["secreto bancario"] }
+  ]},
+  { "fragmentoRef": "ley004-art04", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Entre los principios de la Ley 004, el principio Ama Suwa (No seas ladrón) implica que toda persona, nacional o extranjera:",
+      "opciones": [
+        { "texto": "Debe velar por los bienes y el patrimonio del Estado, protegerlos y custodiarlos como si fueran propios, en beneficio del bien común", "correcta": true, "porQue": "Es el contenido que la ley da al principio." },
+        { "texto": "Debe complementar el acceso a los bienes materiales con la realización afectiva y espiritual", "correcta": false, "porQue": "Eso describe el principio Suma Qamaña (Vivir bien)." },
+        { "texto": "Debe actuar conforme a los principios morales de servicio a la comunidad", "correcta": false, "porQue": "Eso describe el principio de Ética." },
+        { "texto": "Solo debe abstenerse de apropiarse de bienes ajenos", "correcta": false, "porQue": "El principio va más allá: obliga a proteger y custodiar el patrimonio del Estado." }
+      ],
+      "explicacion": "Ama Suwa no se limita a no robar: impone el deber activo de proteger y custodiar el patrimonio del Estado como si fuera propio.",
+      "citaTextual": "Toda persona nacional o extranjera debe velar por los bienes y patrimonio del Estado; tiene la obligación de protegerlos y custodiarlos como si fueran propios, en beneficio del bien común.",
+      "referencia": "Ley 004, Art. 4, págs. 1-2", "etiquetas": ["principios"] }
+  ]}
+]

@@ -1,0 +1,399 @@
+[
+  {
+    "fragmentoRef": "ley045-art13",
+    "preguntas": [
+      {
+        "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+        "enunciado": "La secretaria de un CEA fiscal niega la inscripción a una participante por usar pollera y hablar aymara. Según la Ley 045, esa conducta, si no constituye delito, es:",
+        "opciones": [
+          { "texto": "Una falta en el ejercicio de la función pública: denegación de acceso al servicio por motivos racistas y/o discriminatorios", "correcta": true, "porQue": "El Art. 13, par. I, inc. b) la tipifica como falta administrativa o disciplinaria." },
+          { "texto": "Un delito de acción privada, que solo la víctima puede perseguir", "correcta": false, "porQue": "Lo que se convirtió en delito de acción privada son los insultos y otras agresiones verbales (CPP, Art. 20); aquí hay una denegación de servicio en la función pública." },
+          { "texto": "Una conducta sin sanción, porque la inscripción es una decisión administrativa del centro", "correcta": false, "porQue": "La denegación de acceso por motivos discriminatorios está sancionada expresamente." },
+          { "texto": "Una falta que solo puede denunciarse ante el Ministerio de Culturas", "correcta": false, "porQue": "Se denuncia ante la misma institución a la que pertenece el servidor (par. VI); al Ministerio de Culturas se envía copia para registro." }
+        ],
+        "explicacion": "Son faltas en la función pública las agresiones verbales, la denegación de acceso al servicio y el maltrato por motivos racistas o discriminatorios que no constituyan delito.",
+        "citaTextual": "Denegación de acceso al servicio por motivos racistas y/o discriminatorios",
+        "referencia": "Ley 045, Art. 13, par. I, inc. b), págs. 6-7",
+        "etiquetas": ["faltas", "función pública", "caso"]
+      },
+      {
+        "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+        "enunciado": "Si una institución pública dispone que el servidor infractor por discriminación se someta a tratamiento psicológico, según la Ley 045, ¿quién cubre los gastos?",
+        "opciones": [
+          { "texto": "La misma institución", "correcta": true, "porQue": "El Art. 13, par. III dice que los gastos corren a cargo de la misma institución." },
+          { "texto": "La servidora o el servidor infractor", "correcta": false, "porQue": "Es la confusión más común: la ley pone los gastos a cargo de la institución." },
+          { "texto": "El Ministerio de Culturas, con recursos del TGN", "correcta": false, "porQue": "El TGN financia las funciones del Comité (Art. 11), no este tratamiento." },
+          { "texto": "La víctima, si lo solicita como medida reparatoria", "correcta": false, "porQue": "La ley no impone gastos a la víctima." }
+        ],
+        "explicacion": "El tratamiento psicológico es facultativo (\"podrá disponer\") y lo costea la institución pública.",
+        "citaTextual": "cuyos gastos correrán a cargo de la misma institución",
+        "referencia": "Ley 045, Art. 13, par. III, pág. 7",
+        "etiquetas": ["tratamiento psicológico", "función pública"]
+      },
+      {
+        "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+        "enunciado": "Un maestro denuncia que su director lo agrede verbalmente con expresiones racistas. Según la Ley 045, ¿ante quién se denuncia la falta para aplicar la sanción administrativa o disciplinaria?",
+        "opciones": [
+          { "texto": "Ante la misma institución a la que pertenece el servidor denunciado", "correcta": true, "porQue": "Lo dispone el Art. 13, par. VI." },
+          { "texto": "Directamente ante el Ministerio Público", "correcta": false, "porQue": "Al Ministerio Público se remite el caso solo si en el proceso interno se determina responsabilidad penal (par. V)." },
+          { "texto": "Ante el Comité Nacional contra el Racismo, que impone la sanción", "correcta": false, "porQue": "El Comité diseña políticas y hace seguimiento; no sanciona faltas administrativas." },
+          { "texto": "Ante el Gobierno Autónomo Municipal", "correcta": false, "porQue": "Los municipios aplican la clausura de locales (Art. 15), no las sanciones a servidores públicos." }
+        ],
+        "explicacion": "La institución sanciona internamente, remite copia de la denuncia a la Dirección General de Lucha contra el Racismo para registro y, si hay indicios penales, envía el caso al Ministerio Público.",
+        "citaTextual": "serán denunciados ante la misma institución a la que pertenecen, a fin de aplicar las sanciones administrativas o disciplinarias correspondientes",
+        "referencia": "Ley 045, Art. 13, par. VI, pág. 7",
+        "etiquetas": ["denuncia", "proceso interno", "caso"]
+      },
+      {
+        "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+        "enunciado": "Según la Ley 045, la institución pública que conoce denuncias de racismo o discriminación debe remitir copia de ellas, para registro y seguimiento, a:",
+        "opciones": [
+          { "texto": "La Dirección General de Lucha contra el Racismo y toda forma de Discriminación del Viceministerio de Descolonización, del Ministerio de Culturas", "correcta": true, "porQue": "Lo dispone el Art. 13, par. VII." },
+          { "texto": "La Defensoría del Pueblo", "correcta": false, "porQue": "La ley no designa a la Defensoría para el registro de estas denuncias." },
+          { "texto": "El Viceministerio de Igualdad de Oportunidades del Ministerio de Justicia", "correcta": false, "porQue": "El registro está a cargo del Viceministerio de Descolonización, del Ministerio de Culturas." },
+          { "texto": "La Contraloría General del Estado", "correcta": false, "porQue": "La Contraloría no interviene en el registro de denuncias de discriminación." }
+        ],
+        "explicacion": "El seguimiento se centraliza en el Ministerio de Culturas, a través del Viceministerio de Descolonización y su Dirección General de Lucha contra el Racismo.",
+        "citaTextual": "deberá remitir copia de las mismas a la Dirección General de Lucha contra el Racismo y toda forma de Discriminación del Viceministerio de Descolonización, del Ministerio de Culturas",
+        "referencia": "Ley 045, Art. 13, par. VII, pág. 7",
+        "etiquetas": ["registro de denuncias"]
+      }
+    ]
+  },
+  {
+    "fragmentoRef": "ley045-art14",
+    "preguntas": [
+      {
+        "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+        "enunciado": "Según la Ley 045, ¿qué conducta deben incluir como falta los Reglamentos Internos de las instituciones PRIVADAS, que no figura entre las faltas de la función pública del Art. 13?",
+        "opciones": [
+          { "texto": "Las acciones denigrantes", "correcta": true, "porQue": "El Art. 14, inc. d) agrega las acciones denigrantes, ausentes en el listado del Art. 13." },
+          { "texto": "Las agresiones verbales por motivos racistas o discriminatorios", "correcta": false, "porQue": "Figuran en ambos artículos." },
+          { "texto": "La denegación de acceso al servicio por motivos discriminatorios", "correcta": false, "porQue": "Figura en ambos artículos." },
+          { "texto": "El maltrato físico, psicológico y sexual que no constituya delito", "correcta": false, "porQue": "Figura en ambos artículos." }
+        ],
+        "explicacion": "Instituciones públicas (Art. 13): agresiones verbales, denegación de acceso y maltrato. Instituciones privadas (Art. 14): las mismas tres, más las acciones denigrantes.",
+        "citaTextual": "d) Acciones denigrantes.",
+        "referencia": "Ley 045, Art. 14, par. I, inc. d), pág. 7",
+        "etiquetas": ["instituciones privadas", "faltas"]
+      }
+    ]
+  },
+  {
+    "fragmentoRef": "ley045-art15",
+    "preguntas": [
+      {
+        "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+        "enunciado": "Según la Ley 045, ¿qué sanción corresponde a un local abierto al público que restrinja el ingreso por motivos discriminatorios?",
+        "opciones": [
+          { "texto": "Clausura por tres días la primera vez, por treinta días la segunda y definitiva la tercera", "correcta": true, "porQue": "Es la escala del Art. 15, par. I." },
+          { "texto": "Clausura por siete días la primera vez, por noventa días la segunda y definitiva la tercera", "correcta": false, "porQue": "Los plazos son de tres y treinta días." },
+          { "texto": "Multa la primera vez, clausura por treinta días la segunda y definitiva la tercera", "correcta": false, "porQue": "Desde la primera vez la sanción es la clausura, por tres días." },
+          { "texto": "Clausura definitiva desde la primera vez", "correcta": false, "porQue": "La sanción es progresiva; la clausura definitiva corresponde a la tercera vez." }
+        ],
+        "explicacion": "La sanción es progresiva (3 días, 30 días, definitiva) y la aplican los Gobiernos Autónomos Municipales, que deben verificar la denuncia.",
+        "citaTextual": "bajo sanción de clausura por tres días en la primera vez, de treinta días en la segunda y definitiva en la tercera",
+        "referencia": "Ley 045, Art. 15, par. I, pág. 7",
+        "etiquetas": ["sanciones", "locales públicos"]
+      },
+      {
+        "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+        "enunciado": "Según la Ley 045, ¿quién aplica la clausura de los locales abiertos al público que restringen el ingreso por motivos discriminatorios?",
+        "opciones": [
+          { "texto": "Los Gobiernos Autónomos Municipales, según reglamentación especial y verificando los extremos de la denuncia", "correcta": true, "porQue": "Lo dispone el Art. 15, par. II." },
+          { "texto": "El Ministerio de Culturas, a través del Viceministerio de Descolonización", "correcta": false, "porQue": "El Viceministerio registra y hace seguimiento; no clausura locales." },
+          { "texto": "La Policía Boliviana, a solicitud del Ministerio Público", "correcta": false, "porQue": "La ley asigna la medida a los municipios." },
+          { "texto": "Los Gobiernos Autónomos Departamentales", "correcta": false, "porQue": "La competencia es municipal." }
+        ],
+        "explicacion": "La clausura progresiva es una medida municipal y exige verificar la denuncia.",
+        "citaTextual": "Esta medida será aplicada por los Gobiernos Autónomos Municipales de acuerdo a reglamentación especial, quienes deberán verificar los extremos de la denuncia.",
+        "referencia": "Ley 045, Art. 15, par. II, pág. 7",
+        "etiquetas": ["gobiernos municipales", "sanciones"]
+      }
+    ]
+  },
+  {
+    "fragmentoRef": "ley045-art17",
+    "preguntas": [
+      {
+        "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+        "enunciado": "Una directora presencia que un maestro discrimina a un estudiante por su origen y decide no denunciarlo \"para no generar conflictos\". Según la Ley 045, ¿a qué se expone?",
+        "opciones": [
+          { "texto": "A la sanción del Art. 178 del Código Penal, porque quien en ejercicio de la función pública conoce estos hechos está obligado a denunciarlos", "correcta": true, "porQue": "El Art. 17 establece la obligación de denunciar y la sanción por omitirla." },
+          { "texto": "A la sanción del Art. 166 del Código Penal, por denuncia falsa", "correcta": false, "porQue": "El Art. 166 se aplica a la denuncia falsa o temeraria (Art. 20), no a la omisión de denunciar." },
+          { "texto": "A ninguna sanción, porque denunciar es facultativo para la autoridad", "correcta": false, "porQue": "Para quien ejerce la función pública es una obligación." },
+          { "texto": "Solo a una llamada de atención verbal de la Dirección Distrital", "correcta": false, "porQue": "La ley remite a una sanción penal, la del Art. 178 del Código Penal." }
+        ],
+        "explicacion": "Todo servidor público que conoce hechos de racismo o discriminación debe denunciarlos; si no lo hace, incurre en la sanción del Art. 178 del Código Penal.",
+        "citaTextual": "está en la obligación de denunciar ante las autoridades correspondientes; en caso de no hacerlo será pasible a la sanción dispuesta en el Artículo 178 del Código Penal",
+        "referencia": "Ley 045, Art. 17, pág. 7",
+        "etiquetas": ["obligación de denunciar", "caso"]
+      }
+    ]
+  },
+  {
+    "fragmentoRef": "ley045-art20",
+    "preguntas": [
+      {
+        "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+        "enunciado": "Según la Ley 045, quien a sabiendas denuncia como autor de un delito de racismo a una persona que no lo cometió, dando lugar a un proceso penal, será sancionado conforme al:",
+        "opciones": [
+          { "texto": "Artículo 166 del Código Penal", "correcta": true, "porQue": "Es la remisión del Art. 20 (denuncia falsa o temeraria)." },
+          { "texto": "Artículo 178 del Código Penal", "correcta": false, "porQue": "El Art. 178 se aplica al servidor público que no denuncia (Art. 17)." },
+          { "texto": "Artículo 281 bis del Código Penal", "correcta": false, "porQue": "El 281 bis tipifica el delito de racismo." },
+          { "texto": "Artículo 40 bis del Código Penal", "correcta": false, "porQue": "El 40 bis es el agravante general por motivos racistas o discriminatorios." }
+        ],
+        "explicacion": "Hay que distinguir: Art. 166 CP, denuncia falsa; Art. 178 CP, omisión de denunciar; Arts. 281 bis y ter, racismo y discriminación; Art. 40 bis, agravante general.",
+        "citaTextual": "será sancionado conforme a lo previsto en el Artículo 166 del Código Penal",
+        "referencia": "Ley 045, Art. 20, pág. 8",
+        "etiquetas": ["denuncia falsa", "Código Penal"]
+      }
+    ]
+  },
+  {
+    "fragmentoRef": "ley045-art12",
+    "preguntas": [
+      {
+        "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+        "enunciado": "Según la Ley 045, ¿qué vías puede elegir la persona que sufrió actos de racismo o discriminación?",
+        "opciones": [
+          { "texto": "Constitucional, administrativa o disciplinaria y/o penal, según corresponda", "correcta": true, "porQue": "Son las vías del Art. 12." },
+          { "texto": "Civil, administrativa y conciliatoria", "correcta": false, "porQue": "La ley no menciona la vía civil ni la conciliatoria entre las instancias competentes." },
+          { "texto": "Exclusivamente la vía penal ante el Ministerio Público", "correcta": false, "porQue": "Hay varias vías; la penal es una de ellas." },
+          { "texto": "Administrativa, ante el Comité Nacional, y luego judicial", "correcta": false, "porQue": "El Comité no es una instancia de resolución de denuncias." }
+        ],
+        "explicacion": "La víctima elige entre la vía constitucional, la administrativa o disciplinaria y/o la penal, según corresponda.",
+        "citaTextual": "podrán optar por la vía constitucional, administrativa o disciplinaria y/o penal, según corresponda",
+        "referencia": "Ley 045, Art. 12, pág. 6",
+        "etiquetas": ["vías de denuncia"]
+      }
+    ]
+  },
+  {
+    "fragmentoRef": "ley045-art07",
+    "preguntas": [
+      {
+        "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+        "enunciado": "Según la Ley 045, el Comité Nacional contra el Racismo y toda Forma de Discriminación está bajo la tuición de:",
+        "opciones": [
+          { "texto": "El Ministerio de Culturas, a través del Viceministerio de Descolonización", "correcta": true, "porQue": "Lo dispone el Art. 7." },
+          { "texto": "El Ministerio de Justicia, a través del Viceministerio de Igualdad de Oportunidades", "correcta": false, "porQue": "La tuición es del Ministerio de Culturas." },
+          { "texto": "El Ministerio de Educación, por su rol en la prevención", "correcta": false, "porQue": "El Ministerio de Educación integra el Comité (Art. 8), pero no ejerce la tuición." },
+          { "texto": "La Defensoría del Pueblo, como institución independiente", "correcta": false, "porQue": "La ley no le atribuye la tuición." }
+        ],
+        "explicacion": "El Comité está bajo la tuición del Ministerio de Culturas, mediante el Viceministerio de Descolonización, y sus comisiones funcionan a cargo de la Dirección General de Lucha contra el Racismo.",
+        "citaTextual": "estará bajo la tuición del Ministerio de Culturas a través del Viceministerio de Descolonización",
+        "referencia": "Ley 045, Art. 7, págs. 4-5",
+        "etiquetas": ["Comité Nacional", "institucionalidad"]
+      },
+      {
+        "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+        "enunciado": "Según la Ley 045, ¿cómo está conformado el Comité Nacional contra el Racismo y toda Forma de Discriminación?",
+        "opciones": [
+          { "texto": "Por dos comisiones: la de Lucha contra el Racismo y la de Lucha contra toda forma de Discriminación", "correcta": true, "porQue": "Así lo establece el Art. 7." },
+          { "texto": "Por tres comisiones: Prevención, Sanción y Seguimiento", "correcta": false, "porQue": "Son dos comisiones, definidas por su objeto." },
+          { "texto": "Por una sola comisión técnica, dependiente del Ministerio de Educación", "correcta": false, "porQue": "Son dos comisiones, y la tuición es del Ministerio de Culturas." },
+          { "texto": "Por dos comisiones: la de Educación Intercultural y la de Derechos Humanos", "correcta": false, "porQue": "Los nombres no corresponden a los de la ley." }
+        ],
+        "explicacion": "El Comité tiene dos comisiones, contra el racismo y contra toda forma de discriminación, que funcionan a cargo de la Dirección General de Lucha contra el Racismo.",
+        "citaTextual": "El Comité estará conformado por dos comisiones: a) Comisión de Lucha contra el Racismo. b) Comisión de Lucha contra toda forma de Discriminación.",
+        "referencia": "Ley 045, Art. 7, pág. 5",
+        "etiquetas": ["Comité Nacional"]
+      }
+    ]
+  },
+  {
+    "fragmentoRef": "ley045-art21",
+    "preguntas": [
+      {
+        "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+        "enunciado": "La Ley 045 incorporó el Art. 40 bis (Agravante General) al Código Penal. ¿Cuánto se elevan las penas de los delitos cometidos por motivos racistas o discriminatorios?",
+        "opciones": [
+          { "texto": "En un tercio el mínimo y en un medio el máximo", "correcta": true, "porQue": "Es la fórmula del Art. 40 bis." },
+          { "texto": "En un medio el mínimo y en un tercio el máximo", "correcta": false, "porQue": "Invierte las proporciones." },
+          { "texto": "En un tercio tanto el mínimo como el máximo", "correcta": false, "porQue": "El máximo se eleva en un medio." },
+          { "texto": "Al doble del mínimo, sin límite máximo", "correcta": false, "porQue": "La ley precisa que la pena nunca puede exceder el máximo constitucional." }
+        ],
+        "explicacion": "El agravante general eleva un tercio el mínimo y un medio el máximo, sin exceder el máximo fijado por la CPE.",
+        "citaTextual": "Se elevarán en un tercio el mínimo y en un medio el máximo, las penas de todo delito tipificado en la Parte Especial de este Código",
+        "referencia": "Ley 045, Art. 21 (CP Art. 40 bis), pág. 8",
+        "etiquetas": ["agravante general", "Código Penal"]
+      }
+    ]
+  },
+  {
+    "fragmentoRef": "ley045-art23",
+    "preguntas": [
+      {
+        "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+        "enunciado": "Según el Art. 281 bis del Código Penal, incorporado por la Ley 045, ¿qué pena corresponde al delito de racismo en su forma básica?",
+        "opciones": [
+          { "texto": "Privación de libertad de tres a siete años", "correcta": true, "porQue": "Es la pena del Art. 281 bis, par. I." },
+          { "texto": "Privación de libertad de uno a cinco años", "correcta": false, "porQue": "No corresponde a la pena del racismo." },
+          { "texto": "Privación de libertad de cinco a diez años", "correcta": false, "porQue": "No corresponde a la pena básica." },
+          { "texto": "Multa y trabajo comunitario", "correcta": false, "porQue": "El racismo se sanciona con pena privativa de libertad." }
+        ],
+        "explicacion": "El racismo (restringir, anular o impedir derechos por motivos de raza, origen, color, pertenencia a pueblos IOC o afroboliviano, vestimenta o idioma) se sanciona con 3 a 7 años, con agravantes.",
+        "citaTextual": "será sancionado con pena privativa de libertad de tres a siete años",
+        "referencia": "Ley 045, Art. 23 (CP Art. 281 bis), págs. 8-9",
+        "etiquetas": ["racismo", "Código Penal"]
+      },
+      {
+        "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+        "enunciado": "Un director de unidad educativa impide la inscripción de estudiantes afrobolivianos por su color de piel. Si se lo procesa por racismo (Art. 281 bis del CP), ¿cómo influye su condición de servidor público?",
+        "opciones": [
+          { "texto": "La sanción se agrava en un tercio el mínimo y en una mitad el máximo", "correcta": true, "porQue": "El Art. 281 bis, par. II, inc. a) agrava la pena cuando el hecho lo comete un servidor o una autoridad pública." },
+          { "texto": "No influye: la pena es la misma para cualquier persona", "correcta": false, "porQue": "La condición de servidor público es una agravante expresa." },
+          { "texto": "Se reduce la pena si la conducta se sanciona también por vía administrativa", "correcta": false, "porQue": "La ley no prevé esa reducción." },
+          { "texto": "Solo genera responsabilidad administrativa, no penal", "correcta": false, "porQue": "Cuando se configura el delito hay responsabilidad penal, además de la administrativa." }
+        ],
+        "explicacion": "El hecho cometido por un servidor o autoridad pública agrava la pena del racismo: un tercio el mínimo y una mitad el máximo.",
+        "citaTextual": "El hecho sea cometido por una servidora o servidor público o autoridad pública",
+        "referencia": "Ley 045, Art. 23 (CP Art. 281 bis, par. II), pág. 9",
+        "etiquetas": ["racismo", "agravantes", "caso"]
+      }
+    ]
+  },
+  {
+    "fragmentoRef": "ley045-art20-b",
+    "preguntas": [
+      {
+        "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+        "enunciado": "Con la modificación del Art. 20 del Código de Procedimiento Penal por la Ley 045, ¿qué conducta vinculada a la discriminación quedó como delito de ACCIÓN PRIVADA?",
+        "opciones": [
+          { "texto": "Los insultos y otras agresiones verbales por motivos racistas o discriminatorios", "correcta": true, "porQue": "Figuran expresamente entre los delitos de acción privada del Art. 20 del CPP." },
+          { "texto": "El delito de racismo del Art. 281 bis", "correcta": false, "porQue": "El racismo no figura entre los delitos de acción privada; es de acción pública." },
+          { "texto": "La denegación de acceso a un servicio público", "correcta": false, "porQue": "En la función pública es una falta administrativa (Art. 13 de la Ley 045)." },
+          { "texto": "La difusión de ideas racistas por medios de comunicación", "correcta": false, "porQue": "Se sanciona con multas y suspensión de licencia (Art. 16); no es delito de acción privada." }
+        ],
+        "explicacion": "El Art. 20 del CPP lista los delitos de acción privada, entre ellos los insultos y otras agresiones verbales por motivos racistas o discriminatorios. Los demás delitos son de acción pública.",
+        "citaTextual": "daño simple e insultos y otras agresiones verbales por motivos racistas o discriminatorios",
+        "referencia": "Ley 045, Art. 24 (CPP Art. 20), pág. 9",
+        "etiquetas": ["acción penal", "acción privada"]
+      }
+    ]
+  },
+  {
+    "fragmentoRef": "ley045-art26",
+    "preguntas": [
+      {
+        "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+        "enunciado": "Según el Art. 26 del CPP, modificado por la Ley 045, ¿cuándo puede convertirse en acción privada, a pedido de la víctima, la acción penal por \"Delitos contra la Dignidad del Ser Humano\"?",
+        "opciones": [
+          { "texto": "Siempre que no exista un interés público gravemente comprometido", "correcta": true, "porQue": "Es la condición del numeral 3." },
+          { "texto": "En ningún caso, por tratarse de delitos de racismo", "correcta": false, "porQue": "La ley sí admite la conversión, con esa condición." },
+          { "texto": "Solo si el autor es un particular y no un servidor público", "correcta": false, "porQue": "La condición no se refiere a la calidad del autor." },
+          { "texto": "Solo cuando la víctima es menor de edad", "correcta": false, "porQue": "La ley no fija esa condición." }
+        ],
+        "explicacion": "La conversión de acciones procede, entre otros casos, en los \"Delitos contra la Dignidad del Ser Humano\", siempre que no haya un interés público gravemente comprometido.",
+        "citaTextual": "Cuando se trate de “Delitos contra la Dignidad del Ser Humano” siempre que no exista un interés público gravemente comprometido",
+        "referencia": "Ley 045, Art. 24 (CPP Art. 26), págs. 9-10",
+        "etiquetas": ["conversión de acciones"]
+      }
+    ]
+  },
+  {
+    "fragmentoRef": "ley045-art05",
+    "preguntas": [
+      {
+        "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+        "enunciado": "Un CEA reserva cupos en un curso técnico para mujeres indígenas, con el fin de lograr igualdad real de oportunidades. Según las definiciones de la Ley 045, esa medida:",
+        "opciones": [
+          { "texto": "No se considera discriminación, por ser una medida de acción afirmativa", "correcta": true, "porQue": "El Art. 5, inc. a) excluye expresamente las medidas de acción afirmativa." },
+          { "texto": "Es discriminación, porque establece una preferencia fundada en el sexo y el origen", "correcta": false, "porQue": "Aunque es una preferencia, la ley excluye la acción afirmativa del concepto de discriminación." },
+          { "texto": "Es discriminación racial, por basarse en el origen étnico", "correcta": false, "porQue": "La acción afirmativa busca igualdad real; no tiene por objeto menoscabar derechos." },
+          { "texto": "Solo es lícita si la autoriza el Comité Nacional contra el Racismo", "correcta": false, "porQue": "La ley no exige esa autorización." }
+        ],
+        "explicacion": "La discriminación busca anular o menoscabar derechos; la acción afirmativa busca igualdad real y efectiva (principio de igualdad, Art. 2), y por eso no se considera discriminación.",
+        "citaTextual": "No se considerará discriminación a las medidas de acción afirmativa.",
+        "referencia": "Ley 045, Art. 5, inc. a), págs. 2-3",
+        "etiquetas": ["acción afirmativa", "definiciones", "caso"]
+      },
+      {
+        "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+        "enunciado": "Según las definiciones de la Ley 045, ¿qué se entiende por \"racismo\"?",
+        "opciones": [
+          { "texto": "Toda teoría tendente a valorar diferencias biológicas y/o culturales, reales o imaginarias, en provecho de un grupo y perjuicio de otro, para justificar una agresión y un sistema de dominación", "correcta": true, "porQue": "Es la definición del Art. 5, inc. c)." },
+          { "texto": "Toda distinción, exclusión o preferencia basada en la raza, el color o el origen étnico que anule derechos", "correcta": false, "porQue": "Esa es la definición de \"discriminación racial\" (inc. b))." },
+          { "texto": "Una noción construida socialmente como conjunto de prejuicios sobre diferencias humanas", "correcta": false, "porQue": "Esa es la definición de \"raza\" (inc. d))." },
+          { "texto": "El odio y rechazo al extranjero o extranjera", "correcta": false, "porQue": "Esa es la definición de \"xenofobia\" (inc. i))." }
+        ],
+        "explicacion": "Racismo es una teoría de dominación; discriminación racial, un acto de distinción o exclusión; raza, una construcción social; xenofobia, el rechazo al extranjero.",
+        "citaTextual": "Se considera “racismo” a toda teoría tendente a la valoración de unas diferencias biológicas y/o culturales, reales o imaginarias en provecho de un grupo y en perjuicio del otro",
+        "referencia": "Ley 045, Art. 5, inc. c), pág. 3",
+        "etiquetas": ["definiciones", "racismo"]
+      }
+    ]
+  },
+  {
+    "fragmentoRef": "ley045-art06",
+    "preguntas": [
+      {
+        "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+        "enunciado": "Según el Art. 6 de la Ley 045, en el ámbito educativo, ¿qué deben incluir en sus contenidos las políticas educativas, culturales, comunicacionales y de diálogo intercultural?",
+        "opciones": [
+          { "texto": "La historia y los derechos de las naciones y pueblos indígena originario campesinos y del pueblo afroboliviano", "correcta": true, "porQue": "Es lo que dispone el par. I, inc. b)." },
+          { "texto": "Solo la enseñanza de los idiomas oficiales del Estado", "correcta": false, "porQue": "La ley pide incluir la historia y los derechos de los pueblos, no solo los idiomas." },
+          { "texto": "El registro de los procesos judiciales por racismo", "correcta": false, "porQue": "El registro de procesos es una función del Comité y del Ministerio de Culturas (Art. 10)." },
+          { "texto": "La capacitación de servidores públicos en procedimientos disciplinarios", "correcta": false, "porQue": "La capacitación de servidores corresponde al ámbito de la administración pública (par. II)." }
+        ],
+        "explicacion": "En el ámbito educativo, las políticas deben atacar las causas estructurales del racismo, reconocer la diversidad y la plurinacionalidad, e incluir la historia y los derechos de los pueblos IOC y afroboliviano.",
+        "citaTextual": "que incluyan en sus contenidos la historia y los derechos de las naciones y pueblos indígena originario campesinos y el pueblo afroboliviano",
+        "referencia": "Ley 045, Art. 6, par. I, inc. b), págs. 3-4",
+        "etiquetas": ["prevención", "ámbito educativo"]
+      },
+      {
+        "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+        "enunciado": "El Art. 6 de la Ley 045 organiza la política pública de prevención en ámbitos. ¿En cuál se ubica \"capacitar a las servidoras y servidores públicos sobre las medidas de prevención, sanción y eliminación del racismo\"?",
+        "opciones": [
+          { "texto": "En el ámbito de la administración pública", "correcta": true, "porQue": "Es el par. II, inc. a)." },
+          { "texto": "En el ámbito educativo", "correcta": false, "porQue": "El ámbito educativo (par. I) se refiere a las políticas en universidades, institutos y el sistema educativo." },
+          { "texto": "En el ámbito de la comunicación, información y difusión", "correcta": false, "porQue": "Ese ámbito (par. III) trata de estadísticas, investigaciones y medios de comunicación." },
+          { "texto": "En el ámbito de la participación social comunitaria", "correcta": false, "porQue": "El Art. 6 no tiene ese ámbito." }
+        ],
+        "explicacion": "Ámbitos del Art. 6: educativo (par. I), administración pública (par. II: capacitación, protocolos, ética funcionaria, buen trato) y comunicación (par. III).",
+        "citaTextual": "Capacitar a las servidoras y servidores de la administración pública sobre las medidas de prevención, sanción y eliminación del racismo y toda forma de discriminación.",
+        "referencia": "Ley 045, Art. 6, par. II, inc. a), pág. 4",
+        "etiquetas": ["prevención", "administración pública"]
+      }
+    ]
+  },
+  {
+    "fragmentoRef": "ley045-art03",
+    "preguntas": [
+      {
+        "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+        "enunciado": "Respecto del ámbito de aplicación de la Ley 045, ¿cuál de las siguientes afirmaciones es CORRECTA?",
+        "opciones": [
+          { "texto": "Se aplica en todo el territorio nacional y no reconoce inmunidad, fuero o privilegio alguno", "correcta": true, "porQue": "Así lo establece el Art. 3." },
+          { "texto": "Se aplica a los servidores públicos, salvo quienes gozan de fuero constitucional", "correcta": false, "porQue": "La ley no reconoce fuero ni privilegio alguno." },
+          { "texto": "Solo se aplica a los bolivianos de origen", "correcta": false, "porQue": "Alcanza también a los nacionalizados y a todo estante y habitante bajo la jurisdicción del Estado." },
+          { "texto": "Excluye a las Fuerzas Armadas y a la Policía, que tienen régimen propio", "correcta": false, "porQue": "El inc. c) las incluye expresamente." }
+        ],
+        "explicacion": "El ámbito es amplio: territorio nacional, todas las personas bajo jurisdicción boliviana, todos los órganos y niveles del Estado, sin fueros ni privilegios.",
+        "citaTextual": "No reconoce inmunidad, fuero o privilegio alguno",
+        "referencia": "Ley 045, Art. 3, págs. 1-2",
+        "etiquetas": ["ámbito de aplicación"]
+      }
+    ]
+  },
+  {
+    "fragmentoRef": "ley045-dfu",
+    "preguntas": [
+      {
+        "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+        "enunciado": "Según la Disposición Final Única de la Ley 045, ¿quién reglamenta la ley y en qué plazo?",
+        "opciones": [
+          { "texto": "El Órgano Ejecutivo, en 90 días a partir de su promulgación, mediante un amplio proceso de concertación y participación social", "correcta": true, "porQue": "Es lo que dispone la Disposición Final Única." },
+          { "texto": "El Ministerio de Culturas, en 60 días a partir de su publicación", "correcta": false, "porQue": "La reglamentación corresponde al Órgano Ejecutivo, en 90 días." },
+          { "texto": "La Asamblea Legislativa Plurinacional, en 120 días", "correcta": false, "porQue": "La reglamentación es atribución del Ejecutivo." },
+          { "texto": "El Ministerio de Justicia, mediante un texto ordenado del Código Penal en 90 días", "correcta": false, "porQue": "Al Ministerio de Justicia se le encarga el texto ordenado del Código Penal (Disposición Transitoria), no la reglamentación de la ley." }
+        ],
+        "explicacion": "Disposición Final Única: reglamentación por el Órgano Ejecutivo en 90 días. Disposición Transitoria Única: el Ministerio de Justicia elabora el texto ordenado del Código Penal.",
+        "citaTextual": "El Órgano Ejecutivo, se encargará de la reglamentación de la presente Ley, en lo que corresponda en un plazo de 90 días a partir de su promulgación",
+        "referencia": "Ley 045, Disposición Final Única, pág. 10",
+        "etiquetas": ["reglamentación", "plazos"]
+      }
+    ]
+  }
+]
