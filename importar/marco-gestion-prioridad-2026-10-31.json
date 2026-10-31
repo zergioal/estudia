@@ -1,0 +1,159 @@
+[
+  { "fragmentoRef": "marco-gestion-b001", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "¿Qué institución colaboró en la 2.ª versión actualizada (2025) del Marco para la Gestión y el Liderazgo Educativo Local, y quién lo patrocina?",
+      "opciones": [
+        { "texto": "C Líder, Centro Asociativo para el Liderazgo Educacional; con patrocinio de la Dirección de Educación Pública (DEP)", "correcta": true, "porQue": "Es lo que indica la portada." },
+        { "texto": "La OEI; con patrocinio de la UNESCO", "correcta": false, "porQue": "La OEI elaboró el informe LIDEI 2022." },
+        { "texto": "La OREALC/UNESCO; con patrocinio de UNICEF", "correcta": false, "porQue": "Corresponde al ERCE." },
+        { "texto": "El Ministerio de Educación de Bolivia", "correcta": false, "porQue": "Es un documento chileno." }
+      ],
+      "explicacion": "Los autores son Uribe, Aziz dos Santos, Berkowitz, Galdames, Torche y Zoro (2025).",
+      "citaTextual": "La presente versión cuenta con Patrocinio de la Dirección de Educación Pública - DEP",
+      "referencia": "Marco para la gestión y el liderazgo educativo, págs. 1-4", "etiquetas": ["autoría", "memorística"] }
+  ]},
+  { "fragmentoRef": "marco-gestion-b004", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según el Marco, ¿qué ley chilena de 2015 regula la admisión de estudiantes, elimina el financiamiento compartido y prohíbe el lucro en establecimientos con aportes del Estado?",
+      "opciones": [
+        { "texto": "La Ley de Inclusión Escolar", "correcta": true, "porQue": "Es lo que dice el texto." },
+        { "texto": "La Ley SEP (2008)", "correcta": false, "porQue": "La Ley SEP entrega más subsidio por estudiantes prioritarios." },
+        { "texto": "La LGE (2009)", "correcta": false, "porQue": "La LGE sustituyó a la LOCE e hizo al Estado garante de la calidad." },
+        { "texto": "La Ley 21.040 (2017)", "correcta": false, "porQue": "Esa ley crea el Sistema de Educación Pública." }
+      ],
+      "explicacion": "Las reformas educativas chilenas empezaron con la «Revolución Pingüina» de 2006.",
+      "citaTextual": "El 2015, se aprueba la Ley de Inclusión Escolar que regula la admisión de estudiantes, elimina el financiamiento compartido y prohíbe el lucro",
+      "referencia": "Marco para la gestión y el liderazgo educativo, págs. 11-12", "etiquetas": ["reformas Chile", "capciosa"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según el Marco, ¿en qué se sostiene principalmente la reforma educacional chilena en curso?",
+      "opciones": [
+        { "texto": "En un cambio cultural hacia un mejoramiento educativo integral, en el que cada comunidad escolar es protagonista", "correcta": true, "porQue": "Es lo que dice el texto." },
+        { "texto": "Solo en la aprobación de nuevas leyes", "correcta": false, "porQue": "El texto dice que debe verse más allá de las leyes." },
+        { "texto": "En el aumento del presupuesto", "correcta": false, "porQue": "No es lo que dice el texto." },
+        { "texto": "En la privatización de la gestión", "correcta": false, "porQue": "Es lo contrario." }
+      ],
+      "explicacion": "Esto conecta con la idea de que la cultura se come a la estrategia.",
+      "citaTextual": "Consiste y se sostiene, principalmente, en un cambio cultural hacia un proceso de mejoramiento educativo integral",
+      "referencia": "Marco para la gestión y el liderazgo educativo, págs. 11-12", "etiquetas": ["cambio cultural"] }
+  ]},
+  { "fragmentoRef": "marco-gestion-b005", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según el Marco, ¿qué papel debe cumplir el nivel intermedio, más allá de ser un «adaptador» de políticas o una «bisagra» entre los niveles macro y micro?",
+      "opciones": [
+        { "texto": "Ser un potenciador, diseñador e implementador de estrategias pedagógicas con pertinencia territorial", "correcta": true, "porQue": "Es lo que dice el texto." },
+        { "texto": "Ser un fiscalizador de normas", "correcta": false, "porQue": "No es lo que plantea el texto." },
+        { "texto": "Ser un transmisor de directrices centrales", "correcta": false, "porQue": "Capciosa: eso es justamente el rol de «bisagra» que se supera." },
+        { "texto": "Ser un administrador de infraestructura", "correcta": false, "porQue": "Es incompleto." }
+      ],
+      "explicacion": "El cambio pone el foco en lo pedagógico desde el nivel intermedio.",
+      "citaTextual": "sino principalmente un potenciador, diseñador e implementador de estrategias pedagógicas con pertinencia territorial",
+      "referencia": "Marco para la gestión y el liderazgo educativo, págs. 12-14", "etiquetas": ["nivel intermedio", "capciosa"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según el Marco, ¿qué institución propone la Estrategia Nacional de Educación Pública (ENEP) al MINEDUC cada 8 años y distribuye los recursos a cada SLEP?",
+      "opciones": [
+        { "texto": "La Dirección de Educación Pública (DEP)", "correcta": true, "porQue": "Es lo que dice el texto." },
+        { "texto": "El Consejo Nacional de Educación", "correcta": false, "porQue": "El Consejo aprueba la ENEP; no la propone." },
+        { "texto": "La Agencia de Calidad", "correcta": false, "porQue": "La Agencia evalúa y orienta." },
+        { "texto": "Cada SLEP", "correcta": false, "porQue": "Los SLEP elaboran el PEL." }
+      ],
+      "explicacion": "La DEP responde directamente al Ministerio de Educación.",
+      "citaTextual": "Una de sus principales funciones es proponer una Estrategia Nacional de Educación Pública (ENEP) al MINEDUC cada 8 años",
+      "referencia": "Marco para la gestión y el liderazgo educativo, págs. 12-14", "etiquetas": ["DEP", "capciosa"] }
+  ]},
+  { "fragmentoRef": "marco-gestion-b007", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según el Marco, ¿cuáles son los instrumentos de planificación y gestión de cada unidad educativa en el sistema chileno?",
+      "opciones": [
+        { "texto": "El Proyecto Educativo Institucional (PEI) y el Plan de Mejoramiento Educativo (PME)", "correcta": true, "porQue": "Es lo que dice el texto." },
+        { "texto": "El PEL y el Plan Anual", "correcta": false, "porQue": "Capciosa: el PEL y el PA son instrumentos del SLEP, del nivel intermedio." },
+        { "texto": "La ENEP", "correcta": false, "porQue": "La ENEP es del nivel nacional." },
+        { "texto": "El POA municipal", "correcta": false, "porQue": "No es lo que dice el texto." }
+      ],
+      "explicacion": "Los niveles son: nacional (ENEP), intermedio (PEL y PA) y escuela (PEI y PME).",
+      "citaTextual": "A nivel de cada unidad educativa, los instrumentos de planificación y gestión son el Proyecto Educativo Institucional (PEI) y su Plan de Mejoramiento Educativo (PME)",
+      "referencia": "Marco para la gestión y el liderazgo educativo, págs. 16-18", "etiquetas": ["instrumentos", "capciosa"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según la evidencia citada en el Marco, ¿cuál es uno de los factores clave del éxito en la mejora educativa sostenible respecto de los instrumentos de gestión?",
+      "opciones": [
+        { "texto": "El compromiso real del nivel intermedio, con acciones concretas, para alinear estratégicamente los instrumentos y lograr que los actores del territorio se los apropien", "correcta": true, "porQue": "Es lo que dice el texto." },
+        { "texto": "Elaborar más instrumentos de gestión", "correcta": false, "porQue": "No es la clave." },
+        { "texto": "Que cada escuela tenga instrumentos independientes", "correcta": false, "porQue": "Se busca la coherencia sistémica." },
+        { "texto": "Que el ministerio elabore los PEI", "correcta": false, "porQue": "No es lo que dice el texto." }
+      ],
+      "explicacion": "Conocer los instrumentos es solo un paso inicial y obligatorio.",
+      "citaTextual": "es el compromiso real desde el nivel intermedio con acciones concretas para alinear de manera estratégica estos instrumentos y su apropiación por los actores del territorio",
+      "referencia": "Marco para la gestión y el liderazgo educativo, págs. 16-18", "etiquetas": ["alineamiento"] }
+  ]},
+  { "fragmentoRef": "marco-gestion-b011", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Un nuevo director impone por resolución una estrategia innovadora, pero los docentes la resisten y fracasa. Según el Marco, ¿qué no consideró?",
+      "opciones": [
+        { "texto": "La cultura organizacional: «la cultura se come a la estrategia en el desayuno», y ninguna cultura se cambia por mandato", "correcta": true, "porQue": "Es lo que plantea el texto (Drucker, citado por Rincón-Gallardo)." },
+        { "texto": "La falta de presupuesto", "correcta": false, "porQue": "No es lo que señala el caso." },
+        { "texto": "La normativa nacional", "correcta": false, "porQue": "No es lo que señala el caso." },
+        { "texto": "La necesidad de más control disciplinario", "correcta": false, "porQue": "Es lo contrario a modelar nuevos valores." }
+      ],
+      "explicacion": "El cambio cultural depende de que los propios líderes modelen nuevos valores y comportamientos.",
+      "citaTextual": "“la cultura se come a la estrategia en el desayuno”",
+      "referencia": "Marco para la gestión y el liderazgo educativo, págs. 24-26", "etiquetas": ["cultura organizacional", "caso"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según el Marco (Schein, 2010; Elmore, 2010), ¿qué diferencia a un líder de un administrador?",
+      "opciones": [
+        { "texto": "El administrador trabaja dentro de la cultura existente, muchas veces sin darse cuenta; el líder crea culturas reflexionando, monitoreando y modelando su propio aprendizaje", "correcta": true, "porQue": "Es lo que dice el texto." },
+        { "texto": "El líder tiene más jerarquía", "correcta": false, "porQue": "No es la diferencia que señala el texto." },
+        { "texto": "El administrador innova y el líder conserva", "correcta": false, "porQue": "Capciosa: está invertido." },
+        { "texto": "No hay diferencia", "correcta": false, "porQue": "El texto la marca como notoria." }
+      ],
+      "explicacion": "Los roles del líder intermedio son agente de cambio, conector del sistema y potenciador de trayectorias.",
+      "citaTextual": "el líder crea culturas, reflexionando, comprendiendo, monitoreando, demostrando y modelando su propio aprendizaje",
+      "referencia": "Marco para la gestión y el liderazgo educativo, págs. 24-26", "etiquetas": ["liderazgo", "capciosa"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según el Marco (Queen y Adam, 2015), ¿qué roles debe combinar el equipo de liderazgo del nivel intermedio?",
+      "opciones": [
+        { "texto": "Agente de cambio, conector del sistema y potenciador de las trayectorias educativas", "correcta": true, "porQue": "Es lo que dice el texto." },
+        { "texto": "Supervisor, sancionador y fiscalizador", "correcta": false, "porQue": "No son los roles del texto." },
+        { "texto": "Gobernanza, territorialidad y vinculación", "correcta": false, "porQue": "Son desafíos estratégicos." },
+        { "texto": "Hacia abajo, lateralmente y hacia arriba", "correcta": false, "porQue": "Son las direcciones de influencia." }
+      ],
+      "explicacion": "Estos roles refuerzan el liderazgo distribuido.",
+      "citaTextual": "agente de cambio, conector del sistema y potenciador de las trayectorias educativas",
+      "referencia": "Marco para la gestión y el liderazgo educativo, págs. 24-26", "etiquetas": ["roles", "memorística"] }
+  ]},
+  { "fragmentoRef": "marco-gestion-b014", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según el Marco (Rincón-Gallardo, 2018), ¿qué son las redes en el sistema educativo?",
+      "opciones": [
+        { "texto": "Un conjunto de relaciones entre agentes del sistema que establecen propósitos comunes y trabajan colaborativamente en función de ellos", "correcta": true, "porQue": "Es la definición del texto." },
+        { "texto": "Plataformas digitales de comunicación", "correcta": false, "porQue": "No es la definición." },
+        { "texto": "Agrupaciones jerárquicas de escuelas bajo un director", "correcta": false, "porQue": "No es la definición." },
+        { "texto": "Sindicatos docentes", "correcta": false, "porQue": "No es la definición." }
+      ],
+      "explicacion": "Las redes son un vehículo de aprendizaje en la acción y de reflexión colectiva.",
+      "citaTextual": "son un conjunto de relaciones entre agentes del sistema educativo que establecen propósitos comunes y trabajan colaborativamente en función de ellos",
+      "referencia": "Marco para la gestión y el liderazgo educativo, págs. 30-31", "etiquetas": ["redes"] }
+  ]},
+  { "fragmentoRef": "marco-gestion-b016", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según el Marco, ¿qué ocurre en los países con sistemas educativos descentralizados?",
+      "opciones": [
+        { "texto": "Los niveles intermedios y las unidades educativas tienen más autonomía para decidir y una mayor responsabilidad por los resultados", "correcta": true, "porQue": "Es lo que dice el texto." },
+        { "texto": "Desaparece la responsabilidad por los resultados", "correcta": false, "porQue": "Capciosa: la responsabilidad aumenta." },
+        { "texto": "Las escuelas pierden autonomía", "correcta": false, "porQue": "Es lo contrario." },
+        { "texto": "El nivel central asume todas las decisiones", "correcta": false, "porQue": "Es lo contrario." }
+      ],
+      "explicacion": "La autonomía pedagógica o presupuestaria es siempre un ámbito de tensión.",
+      "citaTextual": "promueven que los niveles intermedios y las unidades educativas tengan más autonomía para tomar decisiones y les otorgan una mayor responsabilidad por los resultados",
+      "referencia": "Marco para la gestión y el liderazgo educativo, págs. 35-37", "etiquetas": ["descentralización", "capciosa"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según Elmore (2010), citado en el Marco, ¿cómo se entiende la gobernanza educativa local?",
+      "opciones": [
+        { "texto": "Como un ejercicio permanente de construcción de acuerdos y de acciones movilizadoras para la mejora, focalizado en objetivos precisos sobre la enseñanza y el aprendizaje", "correcta": true, "porQue": "Es lo que dice el texto." },
+        { "texto": "Como la administración presupuestaria del municipio", "correcta": false, "porQue": "No es la definición." },
+        { "texto": "Como el control vertical del ministerio", "correcta": false, "porQue": "No es la definición." },
+        { "texto": "Como la elección de autoridades locales", "correcta": false, "porQue": "No es la definición." }
+      ],
+      "explicacion": "La participación de la comunidad local es un requisito esencial de la gobernanza.",
+      "citaTextual": "entendida como un ejercicio permanente de construcción de acuerdos y desarrollo de acciones movilizadoras para la mejora",
+      "referencia": "Marco para la gestión y el liderazgo educativo, págs. 35-37", "etiquetas": ["gobernanza"] }
+  ]}
+]

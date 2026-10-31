@@ -1,0 +1,135 @@
+[
+  { "fragmentoRef": "ods4-b001", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "¿Dónde y cuándo se aprobó la Declaración de Incheon para la Educación 2030?",
+      "opciones": [
+        { "texto": "En el Foro Mundial sobre la Educación 2015, en Incheon (República de Corea), del 19 al 22 de mayo de 2015", "correcta": true, "porQue": "Es lo que dice el texto." },
+        { "texto": "En Jomtien, en 1990", "correcta": false, "porQue": "Jomtien (1990) inició el movimiento de la Educación para Todos." },
+        { "texto": "En Dakar, en 2000", "correcta": false, "porQue": "Dakar (2000) reiteró la EPT." },
+        { "texto": "En Mascate, en 2014", "correcta": false, "porQue": "Mascate (2014) aprobó el Acuerdo que fundamentó las metas." }
+      ],
+      "explicacion": "Participaron más de 1.600 personas de 160 países, entre ellas 120 ministros.",
+      "citaTextual": "organizó el Foro Mundial sobre la Educación 2015 en Incheon (República de Corea) del 19 al 22 de mayo de 2015",
+      "referencia": "Declaración de Incheon, págs. 1-6", "etiquetas": ["Incheon", "memorística"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según el preámbulo de la Declaración de Incheon, el movimiento mundial de Educación para Todos se puso en marcha en ___ y se reiteró en ___:",
+      "opciones": [
+        { "texto": "Jomtien en 1990; Dakar en 2000", "correcta": true, "porQue": "Es lo que dice el texto." },
+        { "texto": "Dakar en 1990; Jomtien en 2000", "correcta": false, "porQue": "Capciosa: están invertidos." },
+        { "texto": "Incheon en 2015; Mascate en 2014", "correcta": false, "porQue": "No coincide." },
+        { "texto": "Nueva York en 2000; París en 2015", "correcta": false, "porQue": "No coincide." }
+      ],
+      "explicacion": "Cronología de la agenda global de educación: Jomtien, Dakar, Mascate e Incheon.",
+      "citaTextual": "que se puso en marcha en Jomtien en 1990 y se reiteró en Dakar en 2000",
+      "referencia": "Declaración de Incheon, págs. 1-6", "etiquetas": ["EPT", "capciosa"] }
+  ]},
+  { "fragmentoRef": "ods4-b007", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según el Marco de Acción Educación 2030, ¿cuántas metas conexas y cuántas modalidades de aplicación tiene el objetivo mundial de educación?",
+      "opciones": [
+        { "texto": "Siete metas y tres modalidades de aplicación", "correcta": true, "porQue": "Es lo que dice la descripción de la Sección II." },
+        { "texto": "Diez metas y tres modalidades", "correcta": false, "porQue": "Capciosa: son 7 metas (4.1 a 4.7) y 3 medios (4.a, 4.b y 4.c)." },
+        { "texto": "Cinco metas y dos modalidades", "correcta": false, "porQue": "No coincide." },
+        { "texto": "Diecisiete metas", "correcta": false, "porQue": "17 es el número de ODS." }
+      ],
+      "explicacion": "El Marco tiene tres secciones: visión y principios; objetivo, metas y estrategias; y coordinación y seguimiento.",
+      "citaTextual": "En la Sección II se describen el objetivo mundial relativo a la educación y sus siete metas conexas y tres modalidades de aplicación",
+      "referencia": "Marco de Acción Educación 2030, págs. 21-23", "etiquetas": ["estructura", "capciosa"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "¿Qué es la Iniciativa del Grupo E-9 mencionada en el Marco de Acción?",
+      "opciones": [
+        { "texto": "Un foro creado en 1993 por los nueve países más poblados del Sur para acelerar los avances hacia la EPT", "correcta": true, "porQue": "Es la definición de la nota 1." },
+        { "texto": "El grupo de los nueve países con mejores resultados educativos", "correcta": false, "porQue": "No es la definición." },
+        { "texto": "Un fondo de financiamiento de la UNESCO", "correcta": false, "porQue": "No es la definición." },
+        { "texto": "La red de ministros de educación de América Latina", "correcta": false, "porQue": "No es la definición." }
+      ],
+      "explicacion": "Entre esos países figuran Brasil y México.",
+      "citaTextual": "La Iniciativa del Grupo E-9 es un foro creado en 1993 con el fin de acelerar los avances hacia el logro de la EPT",
+      "referencia": "Marco de Acción Educación 2030, págs. 21-23", "etiquetas": ["E-9", "memorística"] }
+  ]},
+  { "fragmentoRef": "ods4-b010", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según el Marco de Acción, ¿cuándo comienza el derecho a la educación, y qué concepto guía el ODS 4?",
+      "opciones": [
+        { "texto": "Comienza con el nacimiento y continúa a lo largo de la vida; por eso lo guía el aprendizaje a lo largo de la vida", "correcta": true, "porQue": "Es lo que dice el texto." },
+        { "texto": "Comienza a los 6 años, con la escolaridad obligatoria", "correcta": false, "porQue": "No es lo que dice el texto." },
+        { "texto": "Termina con el bachillerato", "correcta": false, "porQue": "Continúa a lo largo de la vida." },
+        { "texto": "Lo guía la competitividad económica", "correcta": false, "porQue": "No es lo que dice el texto." }
+      ],
+      "explicacion": "El aprendizaje a lo largo de la vida integra todas las edades, contextos y modalidades (formal, no formal e informal).",
+      "citaTextual": "El derecho a la educación comienza con el nacimiento y continúa a lo largo de la vida.",
+      "referencia": "Marco de Acción Educación 2030, págs. 28-30", "etiquetas": ["aprendizaje a lo largo de la vida"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "¿Cuál de los siguientes NO es un enfoque estratégico del Marco de Acción para alcanzar el ODS 4?",
+      "opciones": [
+        { "texto": "Privatizar los sistemas educativos públicos", "correcta": true, "porQue": "No figura entre los enfoques estratégicos." },
+        { "texto": "Establecer alianzas eficaces e inclusivas", "correcta": false, "porQue": "Sí figura." },
+        { "texto": "Movilizar recursos para financiar correctamente la educación", "correcta": false, "porQue": "Sí figura." },
+        { "texto": "Asegurar la supervisión, el seguimiento y el examen de todas las metas", "correcta": false, "porQue": "Sí figura." }
+      ],
+      "explicacion": "Otros enfoques: mejorar las políticas y garantizar sistemas equitativos, inclusivos y de calidad.",
+      "citaTextual": "establecer alianzas eficaces e inclusivas; • mejorar las políticas educativas y su funcionamiento conjunto",
+      "referencia": "Marco de Acción Educación 2030, págs. 28-30", "etiquetas": ["enfoques estratégicos", "EXCEPTO"] }
+  ]},
+  { "fragmentoRef": "ods4-b022", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según el Marco de Acción Educación 2030, ¿en cuántos niveles se proponen indicadores?",
+      "opciones": [
+        { "texto": "Cuatro: mundiales, temáticos, regionales y nacionales", "correcta": true, "porQue": "Es lo que dice el texto." },
+        { "texto": "Tres: mundiales, regionales y nacionales", "correcta": false, "porQue": "Capciosa: falta el nivel temático." },
+        { "texto": "Dos: mundiales y nacionales", "correcta": false, "porQue": "No coincide." },
+        { "texto": "Cinco, incluidos los municipales", "correcta": false, "porQue": "No coincide." }
+      ],
+      "explicacion": "Los indicadores temáticos los elaboró el Grupo Consultivo Técnico con cinco criterios.",
+      "citaTextual": "Se proponen indicadores de cuatro niveles",
+      "referencia": "Marco de Acción Educación 2030, págs. 54-56", "etiquetas": ["indicadores", "capciosa"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según el Marco de Acción, ¿en qué ámbitos se requieren mayores esfuerzos para colmar las brechas de medición?",
+      "opciones": [
+        { "texto": "En la cuantificación de la equidad y la inclusión (con datos desglosados por grupos) y de la calidad y los resultados del aprendizaje", "correcta": true, "porQue": "Es lo que dice el texto." },
+        { "texto": "En la cuantificación de la matrícula", "correcta": false, "porQue": "Para la matrícula ya hay indicadores disponibles." },
+        { "texto": "En la medición del gasto militar", "correcta": false, "porQue": "No corresponde." },
+        { "texto": "En el conteo de infraestructura", "correcta": false, "porQue": "No es lo que dice el texto." }
+      ],
+      "explicacion": "Para medir la equidad es esencial desglosar los datos por grupos vulnerables.",
+      "citaTextual": "para lo cual es esencial el desglose de datos por grupos de población y grupos vulnerables",
+      "referencia": "Marco de Acción Educación 2030, págs. 54-56", "etiquetas": ["indicadores", "equidad"] }
+  ]},
+  { "fragmentoRef": "ods4-b024", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según el Marco de Acción, ¿qué estrategia regional de América Latina y el Caribe se menciona como marco existente para la coordinación de la agenda educativa?",
+      "opciones": [
+        { "texto": "El Proyecto Regional de Educación para América Latina y el Caribe", "correcta": true, "porQue": "Es la estrategia que cita el texto." },
+        { "texto": "La Agenda 2063 de la Unión Africana", "correcta": false, "porQue": "Corresponde a África." },
+        { "texto": "La Estrategia Europa 2020", "correcta": false, "porQue": "Corresponde a Europa." },
+        { "texto": "Community Vision 2025 de la ASEAN", "correcta": false, "porQue": "Corresponde a Asia Sudoriental." }
+      ],
+      "explicacion": "La UNESCO promueve el intercambio de políticas entre regiones a través de sus oficinas regionales.",
+      "citaTextual": "el Proyecto Regional de Educación para América Latina y el Caribe",
+      "referencia": "Marco de Acción Educación 2030, págs. 58-60", "etiquetas": ["cooperación regional"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según el Marco de Acción, ¿quiénes son los principales garantes del éxito en la aplicación y el seguimiento del programa de los ODS?",
+      "opciones": [
+        { "texto": "Los gobiernos", "correcta": true, "porQue": "Es lo que dice el texto." },
+        { "texto": "La UNESCO", "correcta": false, "porQue": "Capciosa: la UNESCO coordina, pero los garantes son los gobiernos." },
+        { "texto": "El Banco Mundial", "correcta": false, "porQue": "Es un organismo coordinador." },
+        { "texto": "Las ONG", "correcta": false, "porQue": "Son asociados." }
+      ],
+      "explicacion": "Los mecanismos internacionales respaldan las actividades lideradas por los países.",
+      "citaTextual": "Aunque los gobiernos son los principales garantes del éxito de la aplicación, el seguimiento y el examen del programa de los ODS",
+      "referencia": "Marco de Acción Educación 2030, págs. 58-60", "etiquetas": ["gobernanza", "capciosa"] }
+  ]},
+  { "fragmentoRef": "ods4-b004", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "En su declaración sobre Incheon, ¿qué afirma Irina Bokova, Directora General de la UNESCO, sobre la educación?",
+      "opciones": [
+        { "texto": "Que, como derecho humano fundamental, es la clave para la paz y el desarrollo sostenible en el mundo", "correcta": true, "porQue": "Es lo que dice el texto." },
+        { "texto": "Que es un servicio que debe privatizarse", "correcta": false, "porQue": "No es lo que dice el texto." },
+        { "texto": "Que debe limitarse a la educación primaria", "correcta": false, "porQue": "No es lo que dice el texto." },
+        { "texto": "Que el conocimiento es poder", "correcta": false, "porQue": "Capciosa: esa frase es de otro director coordinador." }
+      ],
+      "explicacion": "Anthony Lake (UNICEF) dice que la educación es la clave para dar a cada niño una vida mejor.",
+      "citaTextual": "reafirma que la educación, como derecho humano fundamental, es la clave para la paz y el desarrollo sostenible en el mundo",
+      "referencia": "Declaración de Incheon, págs. 10-14", "etiquetas": ["Incheon", "capciosa"] }
+  ]}
+]
