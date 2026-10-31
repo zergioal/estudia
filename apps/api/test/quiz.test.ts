@@ -69,12 +69,19 @@ describe('POST /api/v1/quizzes', () => {
     expect((await crear({ contenidoIds: ['no-existe'], cantidad: 10 })).status).toBe(404);
   });
 
-  it('prioriza las preguntas que el estudiante nunca vio', async () => {
+  it('no repite lo ya dominado mientras haya preguntas nuevas', async () => {
     const enunciados = Array.from({ length: 12 }, (_, i) => `¿Pregunta ${i + 1}?`);
     await importarYAprobar(enunciados);
     const vistas = (await prisma.pregunta.findMany({ where: { enunciado: { in: enunciados.slice(0, 2) } } })).map((p) => p.id);
     const usuario = await prisma.usuario.findFirstOrThrow();
-    await prisma.estadoEstudio.createMany({ data: vistas.map((preguntaId) => ({ usuarioId: usuario.id, preguntaId, aciertos: 3 })) });
+    await prisma.estadoEstudio.createMany({ data: vistas.map((preguntaId) => ({
+        usuarioId: usuario.id,
+        preguntaId,
+        aciertos: 3,
+        intervaloDias: 10,
+        proximaRevision: new Date(Date.now() + 10 * 86_400_000),
+      })),
+    });
 
     // 12 disponibles, 10 nunca vistas: un quiz de 10 no debe incluir las 2 ya dominadas.
     const res = await crear({ contenidoIds: [contenidoId], cantidad: 10 });

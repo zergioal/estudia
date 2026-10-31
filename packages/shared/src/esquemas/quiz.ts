@@ -2,7 +2,9 @@ import { z } from 'zod';
 import { DIFICULTADES, type Dificultad, type TipoPregunta } from '../enums';
 
 export const CANTIDADES_QUIZ = [10, 20, 50, 100] as const;
-export const MODOS_QUIZ = ['PRACTICA'] as const; // EXAMEN, SIMULACRO y repasos llegan en los hitos 4 y 8
+/** Modos que se crean con POST /quizzes (el simulacro tiene su propio endpoint). */
+export const MODOS_QUIZ = ['PRACTICA', 'REPASO_DIARIO', 'REPASO_ERRORES'] as const;
+export type ModoQuiz = (typeof MODOS_QUIZ)[number];
 
 /** XP por acierto según dificultad; ×1,5 si antes la habías fallado (docs/diseno.md). */
 export const XP_POR_DIFICULTAD: Record<Dificultad, number> = { FACIL: 10, MEDIA: 20, DIFICIL: 35 };
@@ -24,16 +26,21 @@ export const quizCrearSchema = z
     contenidoIds: z.array(z.string().min(1)).default([]),
     temaIds: z.array(z.string().min(1)).default([]),
     dificultades: z.array(z.enum(DIFICULTADES)).default([]),
+    /** Solo REPASO_ERRORES: repasar exactamente estas preguntas (p. ej. las falladas de un intento). */
+    preguntaIds: z.array(z.string().min(1)).max(200).default([]),
     cantidad: z
       .number()
       .int()
       .refine((n) => (CANTIDADES_QUIZ as readonly number[]).includes(n), 'La cantidad debe ser 10, 20, 50 o 100'),
   })
-  .refine((q) => q.contenidoIds.length > 0 || q.temaIds.length > 0, {
+  // Los repasos pueden ir sin filtros (todo lo pendiente); la práctica necesita qué estudiar.
+  .refine((q) => q.modo !== 'PRACTICA' || q.contenidoIds.length > 0 || q.temaIds.length > 0, {
     message: 'Elige al menos un contenido o tema',
     path: ['contenidoIds'],
   });
 export type QuizCrear = z.infer<typeof quizCrearSchema>;
+/** Lo que envía el cliente (los campos con default son opcionales). */
+export type QuizCrearEntrada = z.input<typeof quizCrearSchema>;
 
 export const respuestaEnviarSchema = z.object({
   preguntaId: z.string().min(1),
@@ -63,6 +70,8 @@ export interface Feedback {
   citaTextual: string;
   referencia: string;
   fragmentoRef: string | null;
+  /** Días hasta el próximo repaso de esta pregunta (repetición espaciada). */
+  proximoRepasoDias: number | null;
 }
 
 export interface PreguntaQuiz {
@@ -168,7 +177,68 @@ export interface Panel {
   rachaDias: number;
   preguntasDisponibles: number;
   respondidasHoy: number;
+  /** Preguntas cuyo repaso vence hoy o antes. */
+  repasoHoy: number;
+  /** Preguntas falladas que aún no dominas. */
+  errores: number;
+  /** Porcentaje de preguntas dominadas (intervalo ≥ 7 días) sobre el banco disponible. */
+  dominio: number;
   intentos: IntentoResumido[];
+}
+
+/** Cola de repetición espaciada. */
+export interface RepasoHoy {
+  pendientes: number;
+  porContenido: { contenidoId: string; titulo: string; pendientes: number }[];
+  /** Próximo vencimiento si hoy no queda nada. */
+  proximaEn: string | null;
+}
+
+/** Una pregunta del cuaderno de errores (fallada y aún no dominada). */
+export interface ErrorCuaderno {
+  preguntaId: string;
+  enunciado: string;
+  contenidoId: string;
+  contenido: string;
+  tema: string;
+  fallos: number;
+  aciertos: number;
+  intervaloDias: number;
+  ultimaRespuesta: string | null;
+  proximaRevision: string;
+  correctas: string[];
+  referencia: string;
+}
+
+export interface DominioTema {
+  temaId: string;
+  nombre: string;
+  total: number;
+  vistas: number;
+  dominadas: number;
+  /** % del tema dominado (0-100). */
+  dominio: number;
+}
+
+export interface DominioContenido {
+  contenidoId: string;
+  titulo: string;
+  tipoFuente: string;
+  total: number;
+  vistas: number;
+  dominadas: number;
+  dominio: number;
+  /** % de aciertos histórico sobre todas tus respuestas a este documento (null si no respondiste nada). */
+  acierto: number | null;
+  temas: DominioTema[];
+}
+
+export interface Progreso {
+  total: number;
+  vistas: number;
+  dominadas: number;
+  dominio: number;
+  contenidos: DominioContenido[];
 }
 
 /** Árbol para elegir qué estudiar, con conteo de preguntas APROBADAS. */

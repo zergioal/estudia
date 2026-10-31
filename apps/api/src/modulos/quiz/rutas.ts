@@ -14,6 +14,19 @@ rutasQuiz.get('/me/estudio', requiereAuth, async (req, res) => {
   res.json(await servicio.arbolEstudio(req.usuario!));
 });
 
+rutasQuiz.get('/me/repaso-hoy', requiereAuth, async (req, res) => {
+  res.json(await servicio.repasoHoy(req.usuario!));
+});
+
+rutasQuiz.get('/me/errores', requiereAuth, async (req, res) => {
+  const contenidoId = typeof req.query.contenidoId === 'string' && req.query.contenidoId ? req.query.contenidoId : undefined;
+  res.json(await servicio.errores(req.usuario!, contenidoId));
+});
+
+rutasQuiz.get('/me/progreso', requiereAuth, async (req, res) => {
+  res.json(await servicio.progreso(req.usuario!));
+});
+
 rutasQuiz.post('/quizzes', requiereAuth, async (req, res) => {
   res.status(201).json(await servicio.crearQuiz(req.usuario!, quizCrearSchema.parse(req.body)));
 });

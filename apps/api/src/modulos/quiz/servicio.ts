@@ -2,15 +2,20 @@ import type { Prisma, TipoPregunta } from '@prisma/client';
 import { prisma } from '../../db';
 import { ErrorApp, conflicto, noEncontrado } from '../../errores';
 import type { UsuarioToken } from '../../middleware/auth';
+import { DIAS_DOMINIO, proximaRevision, siguienteEstado } from './srs';
 import {
   BONUS_RECUPERADA,
   SIMULACRO,
   XP_POR_DIFICULTAD,
   bloqueDeFuente,
   type ColeccionEstudio,
+  type DominioContenido,
+  type ErrorCuaderno,
   type Feedback,
   type Panel,
   type PreguntaQuiz,
+  type Progreso,
+  type RepasoHoy,
   type QuizCrear,
   type QuizEstado,
   type RespuestaEnviar,
@@ -33,6 +38,8 @@ export const diaBolivia = (d: Date) => new Date(d.getTime() + DESFASE_BOLIVIA_MS
 function inicioDelDiaBolivia(d: Date) {
   return new Date(new Date(`${diaBolivia(d)}T00:00:00.000Z`).getTime() - DESFASE_BOLIVIA_MS);
 }
+/** Fin del día de hoy en Bolivia: todo lo que vence antes entra al repaso de hoy. */
+const finDelDiaBolivia = (d: Date) => new Date(inicioDelDiaBolivia(d).getTime() + 86_400_000);
 const diasEntre = (a: string, b: string) => Math.round((Date.parse(b) - Date.parse(a)) / 86_400_000);
 
 /** Racha que corresponde al estudiar `ahora`, dado el último día de estudio. */
@@ -110,6 +117,90 @@ export async function arbolEstudio(u: UsuarioToken): Promise<ColeccionEstudio[]>
   return [...colecciones.values()].sort((a, b) => a.nombre.localeCompare(b.nombre, 'es'));
 }
 
+// ---------- Selección de preguntas ----------
+
+type EstadoCandidata = { aciertos: number; fallos: number; intervaloDias: number; proximaRevision: Date } | null;
+type Candidata = { id: string; temaId: string; estado: EstadoCandidata };
+
+const vencida = (e: EstadoCandidata, hasta: Date) => e !== null && e.aciertos + e.fallos > 0 && e.proximaRevision < hasta;
+const pendienteDeError = (e: EstadoCandidata) => e !== null && e.fallos > 0 && e.intervaloDias < DIAS_DOMINIO;
+
+/** Toma n por turnos entre grupos (temas), para no concentrarse en uno solo. */
+function porTurnos<T>(items: T[], grupo: (x: T) => string, n: number): T[] {
+  const colas = new Map<string, T[]>();
+  for (const x of items) colas.set(grupo(x), [...(colas.get(grupo(x)) ?? []), x]);
+  const lista = barajar([...colas.values()]);
+  const salida: T[] = [];
+  while (salida.length < n && lista.some((c) => c.length)) {
+    for (const c of lista) {
+      const x = c.shift();
+      if (x) salida.push(x);
+      if (salida.length === n) break;
+    }
+  }
+  return salida;
+}
+
+/**
+ * Práctica (docs/diseno.md, "Selección de preguntas"): 40% repaso vencido (los más atrasados primero),
+ * 30% de temas débiles (dominio < 60%), 30% nuevas repartidas entre temas; lo que falte se completa al azar.
+ * Repaso del día: solo vencidas. Cuaderno de errores: falladas aún no dominadas (o las indicadas).
+ */
+export function seleccionar<T extends Candidata>(candidatas: T[], modo: string, n: number, explicitas = false, ahora = new Date()): T[] {
+  const hasta = finDelDiaBolivia(ahora);
+  const masAtrasadas = (a: T, b: T) => a.estado!.proximaRevision.getTime() - b.estado!.proximaRevision.getTime();
+  if (modo === 'REPASO_DIARIO') return candidatas.filter((c) => vencida(c.estado, hasta)).sort(masAtrasadas).slice(0, n);
+  if (modo === 'REPASO_ERRORES') {
+    const pool = explicitas ? candidatas : candidatas.filter((c) => pendienteDeError(c.estado));
+    return barajar(pool)
+      .sort((a, b) => (b.estado?.fallos ?? 0) - (a.estado?.fallos ?? 0))
+      .slice(0, n);
+  }
+
+  const elegidas: T[] = [];
+  const usadas = new Set<string>();
+  const tomar = (lista: T[]) => {
+    for (const c of lista) {
+      if (usadas.has(c.id)) continue;
+      usadas.add(c.id);
+      elegidas.push(c);
+    }
+  };
+  // Dominio por tema dentro de las candidatas.
+  const porTema = new Map<string, { total: number; dominadas: number; vistas: number }>();
+  for (const c of candidatas) {
+    const t = porTema.get(c.temaId) ?? { total: 0, dominadas: 0, vistas: 0 };
+    t.total++;
+    if (c.estado && c.estado.aciertos + c.estado.fallos > 0) t.vistas++;
+    if (c.estado && c.estado.intervaloDias >= DIAS_DOMINIO) t.dominadas++;
+    porTema.set(c.temaId, t);
+  }
+  const temaDebil = (temaId: string) => {
+    const t = porTema.get(temaId)!;
+    return t.vistas > 0 && t.dominadas / t.total < 0.6;
+  };
+
+  const cupoVencidas = Math.round(n * 0.4);
+  const cupoDebiles = Math.round(n * 0.3);
+  tomar(candidatas.filter((c) => vencida(c.estado, hasta)).sort(masAtrasadas).slice(0, cupoVencidas));
+  tomar(
+    barajar(
+      candidatas.filter(
+        (c) => !usadas.has(c.id) && temaDebil(c.temaId) && c.estado !== null && c.estado.intervaloDias < DIAS_DOMINIO,
+      ),
+    ).slice(0, cupoDebiles),
+  );
+  const nuevas = candidatas.filter((c) => !usadas.has(c.id) && (c.estado === null || c.estado.aciertos + c.estado.fallos === 0));
+  tomar(porTurnos(nuevas, (c) => c.temaId, n - elegidas.length));
+  if (elegidas.length < n) {
+    // Completar: primero lo no dominado, luego el resto, al azar.
+    const resto = barajar(candidatas.filter((c) => !usadas.has(c.id)));
+    resto.sort((a, b) => Number((a.estado?.intervaloDias ?? 0) >= DIAS_DOMINIO) - Number((b.estado?.intervaloDias ?? 0) >= DIAS_DOMINIO));
+    tomar(resto.slice(0, n - elegidas.length));
+  }
+  return elegidas.slice(0, n);
+}
+
 // ---------- Crear ----------
 
 export async function crearQuiz(u: UsuarioToken, datos: QuizCrear): Promise<QuizEstado> {
@@ -124,7 +215,8 @@ export async function crearQuiz(u: UsuarioToken, datos: QuizCrear): Promise<Quiz
   });
   const hijosDe = new Map<string, string[]>();
   for (const t of temas) if (t.padreId) hijosDe.set(t.padreId, [...(hijosDe.get(t.padreId) ?? []), t.id]);
-  const idsTemas = new Set(temas.filter((t) => datos.contenidoIds.includes(t.contenidoId)).map((t) => t.id));
+  const sinFiltros = datos.contenidoIds.length === 0 && datos.temaIds.length === 0;
+  const idsTemas = new Set(temas.filter((t) => sinFiltros || datos.contenidoIds.includes(t.contenidoId)).map((t) => t.id));
   const existentes = new Set(temas.map((t) => t.id));
   for (const id of datos.temaIds) {
     if (!existentes.has(id)) throw noEncontrado('Alguno de los temas');
@@ -141,29 +233,26 @@ export async function crearQuiz(u: UsuarioToken, datos: QuizCrear): Promise<Quiz
       tipo: { in: TIPOS_EN_QUIZ },
       temaId: { in: [...idsTemas] },
       ...(datos.dificultades.length && { dificultad: { in: datos.dificultades } }),
+      ...(datos.preguntaIds.length && { id: { in: datos.preguntaIds } }),
     },
-    select: { id: true, tema: { select: { contenidoId: true } }, opciones: { select: { id: true } } },
+    select: {
+      id: true,
+      temaId: true,
+      tema: { select: { contenidoId: true } },
+      opciones: { select: { id: true } },
+      estados: { where: { usuarioId: u.id }, select: { aciertos: true, fallos: true, intervaloDias: true, proximaRevision: true } },
+    },
   });
   if (candidatas.length === 0) {
     throw new ErrorApp(409, 'SIN_PREGUNTAS', 'No hay preguntas aprobadas para esos filtros');
   }
-
-  // Prioridad: nunca vistas → más falladas que acertadas → el resto; al azar dentro de cada grupo.
-  const estados = await prisma.estadoEstudio.findMany({
-    where: { usuarioId: u.id, preguntaId: { in: candidatas.map((c) => c.id) } },
-    select: { preguntaId: true, aciertos: true, fallos: true },
-  });
-  const estadoDe = new Map(estados.map((e) => [e.preguntaId, e]));
-  const grupo = (id: string) => {
-    const e = estadoDe.get(id);
-    if (!e || e.aciertos + e.fallos === 0) return 0;
-    return e.fallos > e.aciertos ? 1 : 2;
-  };
-  const elegidas = barajar(
-    barajar(candidatas)
-      .sort((a, b) => grupo(a.id) - grupo(b.id))
-      .slice(0, datos.cantidad),
-  );
+  const conEstado = candidatas.map((p) => ({ ...p, estado: p.estados[0] ?? null }));
+  const elegidas = barajar(seleccionar(conEstado, datos.modo, datos.cantidad, datos.preguntaIds.length > 0));
+  if (elegidas.length === 0) {
+    throw datos.modo === 'REPASO_DIARIO'
+      ? new ErrorApp(409, 'SIN_REPASO', 'No tienes repasos pendientes para hoy')
+      : new ErrorApp(409, 'SIN_ERRORES', 'No tienes errores pendientes de repasar');
+  }
 
   const titulos = visibles.filter((c) => elegidas.some((p) => p.tema.contenidoId === c.id)).map((c) => c.titulo);
   const intento = await prisma.intento.create({
@@ -306,8 +395,9 @@ function opcionesOrdenadas(r: RespuestaCompleta) {
   return [...ordenadas, ...resto];
 }
 
-function feedbackDe(r: RespuestaCompleta): Feedback {
+function feedbackDe(r: RespuestaCompleta, proximoRepasoDias: number | null = null): Feedback {
   return {
+    proximoRepasoDias,
     correcta: r.correcta ?? false,
     xp: r.xp,
     opcionesElegidas: r.opcionesElegidas,
@@ -386,6 +476,7 @@ export async function responder(
     prisma.estadoEstudio.findUnique({ where: { usuarioId_preguntaId: { usuarioId: u.id, preguntaId: r.preguntaId } } }),
     prisma.usuario.findUniqueOrThrow({ where: { id: u.id }, select: { rachaDias: true, ultimoEstudio: true } }),
   ]);
+  const nuevoSrs = siguienteEstado(estadoPrevio, correcta, datos.confianza);
   const base = XP_POR_DIFICULTAD[r.pregunta.dificultad];
   const xp = correcta ? Math.round(base * (estadoPrevio && estadoPrevio.fallos > 0 ? BONUS_RECUPERADA : 1)) : 0;
 
@@ -411,10 +502,16 @@ export async function responder(
       where: { id: r.preguntaId },
       data: { vecesRespondida: { increment: 1 }, vecesAcertada: { increment: correcta ? 1 : 0 } },
     });
+    const srs = {
+      facilidad: nuevoSrs.facilidad,
+      intervaloDias: nuevoSrs.intervaloDias,
+      proximaRevision: proximaRevision(ahora, nuevoSrs.intervaloDias),
+      ultimaRespuesta: ahora,
+    };
     await tx.estadoEstudio.upsert({
       where: { usuarioId_preguntaId: { usuarioId: u.id, preguntaId: r.preguntaId } },
-      create: { usuarioId: u.id, preguntaId: r.preguntaId, aciertos: correcta ? 1 : 0, fallos: correcta ? 0 : 1, ultimaRespuesta: ahora },
-      update: { aciertos: { increment: correcta ? 1 : 0 }, fallos: { increment: correcta ? 0 : 1 }, ultimaRespuesta: ahora },
+      create: { usuarioId: u.id, preguntaId: r.preguntaId, aciertos: correcta ? 1 : 0, fallos: correcta ? 0 : 1, ...srs },
+      update: { aciertos: { increment: correcta ? 1 : 0 }, fallos: { increment: correcta ? 0 : 1 }, ...srs },
     });
     await tx.usuario.update({
       where: { id: u.id },
@@ -427,7 +524,7 @@ export async function responder(
   });
 
   if (intento.modo === 'SIMULACRO') return { registrada: true, preguntaId: r.preguntaId, opcionIds: elegidas };
-  return feedbackDe({ ...r, opcionesElegidas: elegidas, correcta, xp, respondidaEn: ahora });
+  return feedbackDe({ ...r, opcionesElegidas: elegidas, correcta, xp, respondidaEn: ahora }, nuevoSrs.intervaloDias);
 }
 
 // ---------- Finalizar y resumen ----------
@@ -525,7 +622,7 @@ function resultadoSimulacro(i: IntentoCompleto): ResultadoSimulacro {
 
 export async function panel(u: UsuarioToken): Promise<Panel> {
   const ahora = new Date();
-  const [usuario, disponibles, respondidasHoy, intentos] = await Promise.all([
+  const [usuario, disponibles, respondidasHoy, intentos, repasoHoy, errores, dominadas] = await Promise.all([
     prisma.usuario.findUniqueOrThrow({ where: { id: u.id }, select: { nombre: true, xpTotal: true, rachaDias: true, ultimoEstudio: true } }),
     prisma.pregunta.count({ where: { estado: 'APROBADA', tipo: { in: TIPOS_EN_QUIZ }, tema: { contenido: filtroContenidos(u) } } }),
     prisma.respuesta.count({ where: { intento: { usuarioId: u.id }, respondidaEn: { gte: inicioDelDiaBolivia(ahora) } } }),
@@ -535,6 +632,9 @@ export async function panel(u: UsuarioToken): Promise<Panel> {
       take: 10,
       include: { _count: { select: { respuestas: { where: { respondidaEn: { not: null } } } } } },
     }),
+    prisma.estadoEstudio.count({ where: { ...estadoVisible(u), proximaRevision: { lt: finDelDiaBolivia(ahora) } } }),
+    prisma.estadoEstudio.count({ where: { ...estadoVisible(u), fallos: { gt: 0 }, intervaloDias: { lt: DIAS_DOMINIO } } }),
+    prisma.estadoEstudio.count({ where: { ...estadoVisible(u), intervaloDias: { gte: DIAS_DOMINIO } } }),
   ]);
   return {
     nombre: usuario.nombre,
@@ -542,6 +642,9 @@ export async function panel(u: UsuarioToken): Promise<Panel> {
     rachaDias: rachaVigente(usuario.rachaDias, usuario.ultimoEstudio, ahora),
     preguntasDisponibles: disponibles,
     respondidasHoy,
+    repasoHoy,
+    errores,
+    dominio: disponibles ? Math.round((dominadas / disponibles) * 100) : 0,
     intentos: intentos.map((i) => ({
       id: i.id,
       modo: i.modo,
@@ -554,4 +657,153 @@ export async function panel(u: UsuarioToken): Promise<Panel> {
       contenidos: ((i.filtros as { contenidos?: string[] } | null)?.contenidos ?? []).slice(0, 5),
     })),
   };
+}
+
+// ---------- Repaso, cuaderno de errores y dominio ----------
+
+/** Estados del usuario sobre preguntas que hoy podrían entrar a un quiz. */
+function estadoVisible(u: UsuarioToken): Prisma.EstadoEstudioWhereInput {
+  return {
+    usuarioId: u.id,
+    pregunta: { estado: 'APROBADA', tipo: { in: TIPOS_EN_QUIZ }, tema: { contenido: filtroContenidos(u) } },
+  };
+}
+
+export async function repasoHoy(u: UsuarioToken): Promise<RepasoHoy> {
+  const ahora = new Date();
+  const vencidas = await prisma.estadoEstudio.findMany({
+    where: { ...estadoVisible(u), proximaRevision: { lt: finDelDiaBolivia(ahora) } },
+    select: { pregunta: { select: { tema: { select: { contenido: { select: { id: true, titulo: true } } } } } } },
+  });
+  const porContenido = new Map<string, { contenidoId: string; titulo: string; pendientes: number }>();
+  for (const v of vencidas) {
+    const c = v.pregunta.tema.contenido;
+    const g = porContenido.get(c.id) ?? { contenidoId: c.id, titulo: c.titulo, pendientes: 0 };
+    g.pendientes++;
+    porContenido.set(c.id, g);
+  }
+  const proxima =
+    vencidas.length === 0
+      ? await prisma.estadoEstudio.findFirst({ where: estadoVisible(u), orderBy: { proximaRevision: 'asc' }, select: { proximaRevision: true } })
+      : null;
+  return {
+    pendientes: vencidas.length,
+    porContenido: [...porContenido.values()].sort((a, b) => b.pendientes - a.pendientes),
+    proximaEn: proxima?.proximaRevision.toISOString() ?? null,
+  };
+}
+
+export async function errores(u: UsuarioToken, contenidoId?: string): Promise<ErrorCuaderno[]> {
+  const filas = await prisma.estadoEstudio.findMany({
+    where: {
+      ...estadoVisible(u),
+      fallos: { gt: 0 },
+      intervaloDias: { lt: DIAS_DOMINIO },
+      ...(contenidoId && { pregunta: { tema: { contenidoId, contenido: filtroContenidos(u) }, estado: 'APROBADA', tipo: { in: TIPOS_EN_QUIZ } } }),
+    },
+    orderBy: [{ fallos: 'desc' }, { ultimaRespuesta: 'desc' }],
+    include: {
+      pregunta: {
+        select: {
+          id: true,
+          enunciado: true,
+          referencia: true,
+          opciones: { where: { correcta: true }, select: { texto: true } },
+          tema: { select: { nombre: true, contenido: { select: { id: true, titulo: true } } } },
+        },
+      },
+    },
+  });
+  return filas.map((e) => ({
+    preguntaId: e.pregunta.id,
+    enunciado: e.pregunta.enunciado,
+    contenidoId: e.pregunta.tema.contenido.id,
+    contenido: e.pregunta.tema.contenido.titulo,
+    tema: e.pregunta.tema.nombre,
+    fallos: e.fallos,
+    aciertos: e.aciertos,
+    intervaloDias: e.intervaloDias,
+    ultimaRespuesta: e.ultimaRespuesta?.toISOString() ?? null,
+    proximaRevision: e.proximaRevision.toISOString(),
+    correctas: e.pregunta.opciones.map((o) => o.texto),
+    referencia: e.pregunta.referencia,
+  }));
+}
+
+/** Dominio = % de preguntas del banco con intervalo ≥ 7 días (respondidas bien varias veces espaciadas). */
+export async function progreso(u: UsuarioToken): Promise<Progreso> {
+  const contenidos = await prisma.contenido.findMany({
+    where: filtroContenidos(u),
+    orderBy: { titulo: 'asc' },
+    select: {
+      id: true,
+      titulo: true,
+      tipoFuente: true,
+      temas: { select: { id: true, nombre: true, padreId: true } },
+    },
+  });
+  const preguntas = await prisma.pregunta.findMany({
+    where: { estado: 'APROBADA', tipo: { in: TIPOS_EN_QUIZ }, tema: { contenidoId: { in: contenidos.map((c) => c.id) } } },
+    select: {
+      temaId: true,
+      tema: { select: { contenidoId: true } },
+      estados: { where: { usuarioId: u.id }, select: { aciertos: true, fallos: true, intervaloDias: true } },
+    },
+  });
+
+  type Cuenta = { total: number; vistas: number; dominadas: number; aciertos: number; respuestas: number };
+  const vacio = (): Cuenta => ({ total: 0, vistas: 0, dominadas: 0, aciertos: 0, respuestas: 0 });
+  const porTema = new Map<string, Cuenta>();
+  const porContenido = new Map<string, Cuenta>();
+  for (const p of preguntas) {
+    const e = p.estados[0];
+    for (const [mapa, clave] of [
+      [porTema, p.temaId],
+      [porContenido, p.tema.contenidoId],
+    ] as const) {
+      const c = mapa.get(clave) ?? vacio();
+      c.total++;
+      if (e && e.aciertos + e.fallos > 0) c.vistas++;
+      if (e && e.intervaloDias >= DIAS_DOMINIO) c.dominadas++;
+      c.aciertos += e?.aciertos ?? 0;
+      c.respuestas += (e?.aciertos ?? 0) + (e?.fallos ?? 0);
+      mapa.set(clave, c);
+    }
+  }
+  const pct = (a: number, b: number) => (b ? Math.round((a / b) * 100) : 0);
+
+  const lista: DominioContenido[] = contenidos
+    .map((c) => {
+      const k = porContenido.get(c.id) ?? vacio();
+      // Temas hoja o con preguntas propias, con su ruta ("Título I › Capítulo II").
+      const nombreDe = new Map(c.temas.map((t) => [t.id, t]));
+      const ruta = (id: string): string => {
+        const t = nombreDe.get(id)!;
+        return t.padreId && nombreDe.has(t.padreId) ? `${ruta(t.padreId)} › ${t.nombre}` : t.nombre;
+      };
+      const temas = c.temas
+        .filter((t) => porTema.has(t.id))
+        .map((t) => {
+          const x = porTema.get(t.id)!;
+          return { temaId: t.id, nombre: ruta(t.id), total: x.total, vistas: x.vistas, dominadas: x.dominadas, dominio: pct(x.dominadas, x.total) };
+        })
+        .sort((a, b) => a.dominio - b.dominio || b.total - a.total);
+      return {
+        contenidoId: c.id,
+        titulo: c.titulo,
+        tipoFuente: c.tipoFuente,
+        total: k.total,
+        vistas: k.vistas,
+        dominadas: k.dominadas,
+        dominio: pct(k.dominadas, k.total),
+        acierto: k.respuestas ? pct(k.aciertos, k.respuestas) : null,
+        temas,
+      };
+    })
+    .filter((c) => c.total > 0);
+
+  const total = lista.reduce((s, c) => s + c.total, 0);
+  const vistas = lista.reduce((s, c) => s + c.vistas, 0);
+  const dominadas = lista.reduce((s, c) => s + c.dominadas, 0);
+  return { total, vistas, dominadas, dominio: pct(dominadas, total), contenidos: lista };
 }
