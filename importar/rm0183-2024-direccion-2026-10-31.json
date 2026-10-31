@@ -1,0 +1,282 @@
+[
+  { "fragmentoRef": "rm0183-2024-reg-art20", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según el Reglamento de Evaluación de la RM 0183/2024, ¿cómo se interpreta una nota cuantitativa de 76 cargada en el SIE Alternativa?",
+      "opciones": [
+        { "texto": "Promovido excelente", "correcta": true, "porQue": "El rango de 76 a 100 corresponde a \"promovido excelente\" (Art. 20)." },
+        { "texto": "Promovido", "correcta": false, "porQue": "\"Promovido\" es el rango de 51 a 75." },
+        { "texto": "Postergado", "correcta": false, "porQue": "\"Postergado\" es el rango de 20 a 50." },
+        { "texto": "Habilitado a evaluación extraordinaria", "correcta": false, "porQue": "La habilitación depende de quedar postergado, no de esta nota." }
+      ],
+      "explicacion": "Rangos: 20–50 postergado; 51–75 promovido; 76–100 promovido excelente.",
+      "citaTextual": "76- 100 PROMOVIDO EXCELENTE",
+      "referencia": "RM 0183/2024, Reglamento, Art. 20, pág. 21", "etiquetas": ["evaluación", "rangos"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Un facilitador quiere registrar 12 puntos semestrales a un participante que casi no asistió. Según la RM 0183/2024:",
+      "opciones": [
+        { "texto": "No puede: la calificación mínima en cada área o módulo debe ser igual o mayor a 20 puntos", "correcta": true, "porQue": "El Art. 20, par. II impide puntajes semestrales menores a 20." },
+        { "texto": "Puede, porque refleja el desempeño real", "correcta": false, "porQue": "La norma fija un piso de 20 puntos." },
+        { "texto": "Puede, si el director lo autoriza", "correcta": false, "porQue": "El piso es normativo." },
+        { "texto": "Debe registrar 0 por abandono", "correcta": false, "porQue": "Ningún participante puede tener un puntaje semestral menor a 20." }
+      ],
+      "explicacion": "La escala cuantitativa empieza en 20: ningún participante puede tener menos de 20 puntos en el semestre.",
+      "citaTextual": "La calificación minina en cada área o módulo debe ser igual o mayor a veinte (20) puntos, por lo tanto, ningún participante podrá tener puntaje semestral menor a este.",
+      "referencia": "RM 0183/2024, Reglamento, Art. 20, par. II, pág. 21", "etiquetas": ["evaluación", "nota mínima", "caso"] }
+  ]},
+  { "fragmentoRef": "rm0183-2024-reg-art14", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "En Educación Técnica Tecnológica Productiva, un participante obtiene 50 en uno de los módulos del nivel. Según la RM 0183/2024, ¿cómo se le registra?",
+      "opciones": [
+        { "texto": "Como postergada/o, por no alcanzar la calificación mínima de aprobación de 51", "correcta": true, "porQue": "Lo dispone el Art. 14, par. II." },
+        { "texto": "Como promovido, porque redondea a 51", "correcta": false, "porQue": "La norma no prevé redondeo." },
+        { "texto": "Como promovido con observación", "correcta": false, "porQue": "Esa categoría no existe." },
+        { "texto": "Como retirado del nivel", "correcta": false, "porQue": "Se lo registra como postergado." }
+      ],
+      "explicacion": "Para promover un nivel deben aprobarse todos los módulos con al menos 51; quien no lo alcanza en algún módulo queda postergado.",
+      "citaTextual": "La o el participante que no alcance la calificación mínima de aprobación de 51 en alguno de los módulos, será registrado como postergada/o",
+      "referencia": "RM 0183/2024, Reglamento, Art. 14, par. II, pág. 19", "etiquetas": ["promoción", "caso"] }
+  ]},
+  { "fragmentoRef": "rm0183-2024-reg-art18", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según la RM 0183/2024, ¿qué número de módulos y carga horaria corresponden al nivel Técnico Medio en Educación Técnica Tecnológica Productiva?",
+      "opciones": [
+        { "texto": "10 módulos y 1000 horas", "correcta": true, "porQue": "Es la correlación del Art. 18." },
+        { "texto": "5 módulos y 500 horas", "correcta": false, "porQue": "Esa es la carga de Técnico Básico y de Técnico Auxiliar." },
+        { "texto": "20 módulos y 2000 horas", "correcta": false, "porQue": "Ese es el total de los tres niveles." },
+        { "texto": "8 módulos y 800 horas", "correcta": false, "porQue": "No corresponde a ningún nivel." }
+      ],
+      "explicacion": "Técnico Básico: 5 módulos, 500 h. Técnico Auxiliar: 5 módulos, 500 h. Técnico Medio: 10 módulos, 1000 h. Total: 20 módulos, 2000 h.",
+      "citaTextual": "Técnico Medio 10 1000 horas",
+      "referencia": "RM 0183/2024, Reglamento, Art. 18, págs. 19-20", "etiquetas": ["niveles técnicos", "carga horaria"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según la correlación de niveles de la RM 0183/2024, ¿cuál es la carga horaria total de la formación técnica, desde Técnico Básico hasta Técnico Medio?",
+      "opciones": [
+        { "texto": "2000 horas, en 20 módulos", "correcta": true, "porQue": "El total del cuadro del Art. 18 es de 20 módulos y 2000 horas." },
+        { "texto": "1000 horas, en 10 módulos", "correcta": false, "porQue": "Esa es solo la carga de Técnico Medio." },
+        { "texto": "1500 horas, en 15 módulos", "correcta": false, "porQue": "No corresponde al total." },
+        { "texto": "2500 horas, en 25 módulos", "correcta": false, "porQue": "No corresponde al total." }
+      ],
+      "explicacion": "500 (Básico) + 500 (Auxiliar) + 1000 (Medio) = 2000 horas en 20 módulos.",
+      "citaTextual": "Total 20 2000 horas",
+      "referencia": "RM 0183/2024, Reglamento, Art. 18, págs. 19-20", "etiquetas": ["niveles técnicos"] }
+  ]},
+  { "fragmentoRef": "rm0183-2024-reg-art13", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según la RM 0183/2024, en la autoevaluación, ¿en qué dimensiones evalúan los participantes su propio desempeño y con qué ponderación?",
+      "opciones": [
+        { "texto": "En el Ser y el Decidir, con cinco puntos cada una", "correcta": true, "porQue": "Es lo que dispone el Art. 13, inc. a)." },
+        { "texto": "En el Saber y el Hacer, con diez puntos cada una", "correcta": false, "porQue": "La autoevaluación se registra en Ser y Decidir, con 5 puntos." },
+        { "texto": "En las cuatro dimensiones, con cinco puntos cada una", "correcta": false, "porQue": "Son solo el Ser y el Decidir." },
+        { "texto": "En el Ser y el Decidir, con diez puntos cada una", "correcta": false, "porQue": "La ponderación es de cinco puntos por dimensión." }
+      ],
+      "explicacion": "La autoevaluación (al concluir el semestre) valora el Ser y el Decidir, con 5 puntos cada una.",
+      "citaTextual": "en las dimensiones del Ser y Decidir con una ponderación de cinco (5) puntos para cada dimensión",
+      "referencia": "RM 0183/2024, Reglamento, Art. 13, inc. a), págs. 18-19", "etiquetas": ["autoevaluación", "dimensiones"] }
+  ]},
+  { "fragmentoRef": "rm0183-2024-reg-art09", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según la RM 0183/2024, la evaluación diagnóstica en la Educación de Personas Jóvenes y Adultas:",
+      "opciones": [
+        { "texto": "Se realiza al inicio del semestre, no se pondera cuantitativamente y es referente para la planificación", "correcta": true, "porQue": "Es lo que dispone el Art. 9, num. 1." },
+        { "texto": "Se realiza al final del semestre y vale el 20% de la nota", "correcta": false, "porQue": "Se hace al inicio y no se pondera." },
+        { "texto": "Se pondera con cinco puntos en la dimensión Saber", "correcta": false, "porQue": "No se pondera cuantitativamente." },
+        { "texto": "Solo se aplica a los participantes nuevos", "correcta": false, "porQue": "La norma no la limita a los nuevos." }
+      ],
+      "explicacion": "La evaluación tiene tres momentos; el diagnóstico inicial no se califica y orienta la planificación del facilitador.",
+      "citaTextual": "Se debe realizar al inicio del semestre para conocer el nivel de conocimiento en referencia a la etapa, nivel, área y/o carrera, la misma no es ponderada cuantitativamente",
+      "referencia": "RM 0183/2024, Reglamento, Art. 9, num. 1, págs. 14-15", "etiquetas": ["evaluación diagnóstica"] }
+  ]},
+  { "fragmentoRef": "rm0183-2024-reg-art10", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según la RM 0183/2024, ¿cuándo realiza la o el participante la autoevaluación y dónde se registra su calificación?",
+      "opciones": [
+        { "texto": "Al concluir el semestre; la calificación se registra en las dimensiones del Ser y Decidir", "correcta": true, "porQue": "Es lo que dispone el Art. 10, num. 1." },
+        { "texto": "Al inicio del semestre; se registra en el Saber", "correcta": false, "porQue": "Al inicio va el diagnóstico; la autoevaluación es al concluir." },
+        { "texto": "Cada mes; se registra en el Hacer", "correcta": false, "porQue": "No corresponde ni el momento ni la dimensión." },
+        { "texto": "Al concluir cada módulo; se registra en las cuatro dimensiones", "correcta": false, "porQue": "Se hace al concluir el semestre, en el Ser y el Decidir." }
+      ],
+      "explicacion": "Hay tres formas de evaluación: autoevaluación (participante, fin de semestre, Ser y Decidir), heteroevaluación (facilitador a participante) y una tercera forma prevista en el Art. 10.",
+      "citaTextual": "La realiza la o el participante al concluir el semestre",
+      "referencia": "RM 0183/2024, Reglamento, Art. 10, págs. 15-16", "etiquetas": ["formas de evaluación"] }
+  ]},
+  { "fragmentoRef": "rm0183-2024-reg-art03", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Un facilitador cobra una suma a los participantes por la \"hoja de evaluación final\". Según la RM 0183/2024:",
+      "opciones": [
+        { "texto": "Está terminantemente prohibido: los procesos de evaluación en los CEA son gratuitos, y el cobro da lugar a acciones legales", "correcta": true, "porQue": "Lo dispone el Art. 3." },
+        { "texto": "Es válido si se destina a materiales del centro", "correcta": false, "porQue": "La prohibición no admite excepciones." },
+        { "texto": "Es válido si lo aprueba el Consejo Educativo", "correcta": false, "porQue": "La gratuidad no puede dejarse sin efecto por acuerdo." },
+        { "texto": "Solo está prohibido en los centros fiscales", "correcta": false, "porQue": "Rige en todos los CEA." }
+      ],
+      "explicacion": "La gratuidad de la evaluación es absoluta; los cobros pueden configurar además delitos de la Ley 004.",
+      "citaTextual": "son de carácter gratuito, quedando terminantemente prohibido cualquier tipo de cobros",
+      "referencia": "RM 0183/2024, Reglamento, Art. 3, pág. 7", "etiquetas": ["gratuidad", "caso"] }
+  ]},
+  { "fragmentoRef": "rm0183-2024-reg-art15", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Se detecta que una facilitadora cursa una carrera técnica en el mismo CEA donde trabaja. Según la RM 0183/2024, ¿qué corresponde?",
+      "opciones": [
+        { "texto": "Anular su certificado y/o título e iniciar el proceso correspondiente", "correcta": true, "porQue": "El Art. 15 lo dispone para quienes estudian en el mismo centro donde trabajan o en su horario laboral." },
+        { "texto": "Permitirlo si no hay choque de horarios", "correcta": false, "porQue": "Cursar estudios en el mismo centro donde trabaja está restringido aunque no haya choque de horarios." },
+        { "texto": "Solo una llamada de atención verbal", "correcta": false, "porQue": "La consecuencia es la anulación del certificado o título." },
+        { "texto": "Trasladarla a otro turno como participante", "correcta": false, "porQue": "La norma prevé la anulación." }
+      ],
+      "explicacion": "La restricción alcanza a facilitadores, funcionarios y participantes de otras unidades que estudien en su horario laboral o de estudio, o en el mismo centro donde trabajan.",
+      "citaTextual": "o en el mismo Centro de Educación donde trabaja, se procederá a la anulación de su certificado y/o Título",
+      "referencia": "RM 0183/2024, Reglamento, Art. 15, pág. 19", "etiquetas": ["restricciones", "caso"] }
+  ]},
+  { "fragmentoRef": "rm0183-2024-reg-art23", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según la RM 0183/2024, ¿con qué frecuencia puede realizarse la evaluación extraordinaria?",
+      "opciones": [
+        { "texto": "Solamente una vez por semestre, para quienes cumplen los parámetros de habilitación", "correcta": true, "porQue": "Es lo que dispone el Art. 23." },
+        { "texto": "Dos veces por semestre", "correcta": false, "porQue": "Es una sola vez por semestre." },
+        { "texto": "Una vez por gestión", "correcta": false, "porQue": "Es por semestre." },
+        { "texto": "Cuantas veces lo solicite el participante", "correcta": false, "porQue": "Es una sola oportunidad y requiere habilitación." }
+      ],
+      "explicacion": "La evaluación extraordinaria es una oportunidad adicional, una vez por semestre, programada para el final de cada semestre.",
+      "citaTextual": "Esta evaluación se realiza solamente una vez por semestre.",
+      "referencia": "RM 0183/2024, Reglamento, Art. 23, págs. 21-22", "etiquetas": ["evaluación extraordinaria"] }
+  ]},
+  { "fragmentoRef": "rm0183-2024-reg-art25", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Una participante del área técnica quedó postergada en dos módulos y tiene 55% de asistencia. Según la RM 0183/2024, ¿puede habilitarse a la evaluación extraordinaria?",
+      "opciones": [
+        { "texto": "No, porque aunque los dos módulos postergados están dentro del parámetro, no alcanza el mínimo de 60% de asistencia regular", "correcta": true, "porQue": "El Art. 25 exige ser participante efectivo, con al menos 60% de asistencia." },
+        { "texto": "Sí, porque solo se exige estar inscrita en el semestre", "correcta": false, "porQue": "También se exige el 60% de asistencia." },
+        { "texto": "No, porque en el área técnica solo se habilita con un módulo postergado", "correcta": false, "porQue": "En el área técnica se admiten hasta dos módulos; un área es el límite del área humanística." },
+        { "texto": "Sí, si el director lo aprueba por excepción", "correcta": false, "porQue": "Los parámetros son normativos." }
+      ],
+      "explicacion": "Parámetros: estar inscrito; haber quedado postergado en un área (humanística) y/o dos módulos (técnica); y tener al menos 60% de asistencia.",
+      "citaTextual": "Las y los habilitados deben ser participantes efectivos; es decir, contar con un mínimo de sesenta (60) % de asistencia regular.",
+      "referencia": "RM 0183/2024, Reglamento, Art. 25, pág. 23", "etiquetas": ["evaluación extraordinaria", "habilitación", "caso"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según la RM 0183/2024, en el área Humanística, ¿cuántas áreas de saberes y conocimientos postergadas permiten habilitarse a la evaluación extraordinaria?",
+      "opciones": [
+        { "texto": "Un área de saberes y conocimientos", "correcta": true, "porQue": "El Art. 25 habilita con un área postergada en lo humanístico (y/o dos módulos en lo técnico)." },
+        { "texto": "Dos áreas", "correcta": false, "porQue": "\"Dos\" corresponde a módulos del área técnica." },
+        { "texto": "Hasta tres áreas", "correcta": false, "porQue": "Solo una área en lo humanístico." },
+        { "texto": "Todas las áreas, si la asistencia es del 60%", "correcta": false, "porQue": "La habilitación se limita a un área postergada." }
+      ],
+      "explicacion": "Humanística: 1 área postergada. Técnica: 2 módulos postergados. En ambos casos, 60% de asistencia.",
+      "citaTextual": "Solo podrán habilitarse participantes que durante el semestre hayan quedado postergados un área de saberes y conocimientos en el área Humanística, y/o dos módulos en el área de Educación Técnica Tecnológica Productiva.",
+      "referencia": "RM 0183/2024, Reglamento, Art. 25, pág. 23", "etiquetas": ["evaluación extraordinaria"] }
+  ]},
+  { "fragmentoRef": "rm0183-2024-reg-art24", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según la RM 0183/2024, la Comisión Andragógica que lleva adelante la evaluación extraordinaria:",
+      "opciones": [
+        { "texto": "La preside la o el Director del CEA, está conformada por facilitadores de la etapa, área, nivel o carrera y se selecciona en consenso con la participación mayoritaria de los facilitadores", "correcta": true, "porQue": "Reúne los pars. I a III del Art. 24." },
+        { "texto": "La preside el Director Distrital y la integran técnicos distritales", "correcta": false, "porQue": "La preside el director del CEA y la integran facilitadores del centro." },
+        { "texto": "La designa directamente el director, sin participación de los facilitadores", "correcta": false, "porQue": "Se selecciona en consenso, con participación mayoritaria de los facilitadores." },
+        { "texto": "La integran representantes de los participantes", "correcta": false, "porQue": "La integran facilitadores." }
+      ],
+      "explicacion": "Cada CEA constituye su Comisión Andragógica, presidida por el director y con facilitadores elegidos por consenso.",
+      "citaTextual": "La Comisión Andragógica estará presidida por la o el Director del Centro de Educación Alternativa.",
+      "referencia": "RM 0183/2024, Reglamento, Art. 24, págs. 22-23", "etiquetas": ["comisión andragógica"] }
+  ]},
+  { "fragmentoRef": "rm0183-2024-reg-art26", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según la RM 0183/2024, ¿con qué anticipación debe el facilitador entregar a la Dirección del CEA la lista de participantes para la evaluación extraordinaria, y en qué plazo debe el director elaborar el acta de notificación?",
+      "opciones": [
+        { "texto": "Quince días hábiles antes de concluir el semestre; el director, dentro de las 24 horas de recibido el informe", "correcta": true, "porQue": "Son los plazos del Art. 26." },
+        { "texto": "Diez días hábiles antes; el director, en 48 horas", "correcta": false, "porQue": "Son 15 días hábiles y 24 horas." },
+        { "texto": "Treinta días calendario antes; el director, en 5 días", "correcta": false, "porQue": "Son 15 días hábiles y 24 horas." },
+        { "texto": "El último día del semestre; el director, en 72 horas", "correcta": false, "porQue": "Son 15 días hábiles antes y 24 horas." }
+      ],
+      "explicacion": "El facilitador entrega la lista con un informe pormenorizado 15 días hábiles antes; el director elabora en 24 horas el acta de notificación que firman los participantes.",
+      "citaTextual": "quince días hábiles antes de concluir el semestre, debe dar a conocer a la Dirección del Centro de Educación Alternativa, la lista de participantes",
+      "referencia": "RM 0183/2024, Reglamento, Art. 26, pág. 23", "etiquetas": ["plazos", "evaluación extraordinaria"] }
+  ]},
+  { "fragmentoRef": "rm0183-2024-reg-art30", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según la RM 0183/2024, ¿dónde se realiza la convalidación de estudios en el extranjero para continuar estudios en Educación Alternativa?",
+      "opciones": [
+        { "texto": "En las Direcciones Departamentales de Educación", "correcta": true, "porQue": "Lo dispone el Art. 30, par. II." },
+        { "texto": "En la Dirección del CEA", "correcta": false, "porQue": "El CEA no convalida." },
+        { "texto": "En las Direcciones Distritales", "correcta": false, "porQue": "La convalidación es departamental." },
+        { "texto": "En la Cancillería", "correcta": false, "porQue": "La Cancillería legaliza documentos, pero no convalida." }
+      ],
+      "explicacion": "La convalidación se hace en la DDE conforme a tratados y convenios; sin convenio, se valoran los certificados legalizados por el Consulado y la Cancillería.",
+      "citaTextual": "La convalidación se realizará en las Direcciones Departamentales de Educación.",
+      "referencia": "RM 0183/2024, Reglamento, Art. 30, par. II, pág. 27", "etiquetas": ["convalidación"] }
+  ]},
+  { "fragmentoRef": "rm0183-2024-reg-art31", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según la RM 0183/2024, el reconocimiento de saberes, conocimientos y experiencias en el nivel primario es un proceso de:",
+      "opciones": [
+        { "texto": "Valoración, certificación y homologación, con carácter gratuito, mediante instrumentos técnicos", "correcta": true, "porQue": "Es la definición del Art. 31, par. I." },
+        { "texto": "Convalidación de estudios en el exterior", "correcta": false, "porQue": "La convalidación es otro proceso (Art. 30)." },
+        { "texto": "Evaluación extraordinaria para participantes postergados", "correcta": false, "porQue": "Es otro proceso (Art. 23)." },
+        { "texto": "Certificación onerosa de la experiencia laboral", "correcta": false, "porQue": "El reconocimiento es gratuito." }
+      ],
+      "explicacion": "El reconocimiento de saberes permite establecer la equivalencia de lo aprendido en la práctica cotidiana y comunitaria; su procedimiento detallado se rige por un reglamento específico.",
+      "citaTextual": "es el proceso de valoración, certificación y homologación, con carácter gratuito, mediante instrumentos técnicos",
+      "referencia": "RM 0183/2024, Reglamento, Art. 31, págs. 27-28", "etiquetas": ["reconocimiento de saberes"] }
+  ]},
+  { "fragmentoRef": "rm0183-2024-reg-art19", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según la RM 0183/2024, ¿qué regla de aprobación rige en la Educación Secundaria de Personas Jóvenes y Adultas?",
+      "opciones": [
+        { "texto": "Se acepta la aprobación de un área de saberes independientemente de las otras, pero para aprobar el nivel deben aprobarse las cuatro áreas", "correcta": true, "porQue": "Es la regla del Art. 19, num. 2." },
+        { "texto": "Se promedian todas las áreas del semestre, y basta con que el promedio llegue a 51", "correcta": false, "porQue": "El promedio de módulos por área es la regla de Primaria (num. 1); en Secundaria se aprueba área por área." },
+        { "texto": "Si se reprueba un área, se reprueba todo el semestre", "correcta": false, "porQue": "Las áreas se aprueban de forma independiente." },
+        { "texto": "Basta con aprobar tres de las cuatro áreas para aprobar el nivel", "correcta": false, "porQue": "Deben aprobarse las cuatro." }
+      ],
+      "explicacion": "Primaria EPJA: aprobar todas las áreas, promediando los módulos de cada una. Secundaria EPJA: las áreas se aprueban por separado, y el nivel exige las cuatro.",
+      "citaTextual": "se aceptará la aprobación de un área de saberes y conocimientos independientemente de las otras",
+      "referencia": "RM 0183/2024, Reglamento, Art. 19, págs. 20-21", "etiquetas": ["promoción", "secundaria EPJA"] }
+  ]},
+  { "fragmentoRef": "rm0183-2024-reg-art22", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según la RM 0183/2024, ¿con qué instrumento de respaldo deben contar los facilitadores para registrar el avance según los planes y programas, la evaluación y la asistencia?",
+      "opciones": [
+        { "texto": "Un cuaderno andragógico relacionado con la valoración cuantitativa", "correcta": true, "porQue": "Es el instrumento del Art. 22, par. II." },
+        { "texto": "Un registro anecdótico", "correcta": false, "porQue": "El registro anecdótico es un instrumento para evaluar la dimensión Ser (Art. 12)." },
+        { "texto": "El formulario RUDEAL", "correcta": false, "porQue": "El RUDEAL es el registro de inscripción." },
+        { "texto": "Una lista de cotejo", "correcta": false, "porQue": "Es un instrumento de evaluación, no el respaldo general del proceso formativo." }
+      ],
+      "explicacion": "Este reglamento coincide con la RM 0001/2026: el cuaderno andragógico es el registro del proceso formativo en Educación Alternativa.",
+      "citaTextual": "las y los facilitadores deben contar con un cuaderno andragógico el cual debe tener relación a la valoración cuantitativa",
+      "referencia": "RM 0183/2024, Reglamento, Art. 22, pág. 21", "etiquetas": ["cuaderno andragógico"] }
+  ]},
+  { "fragmentoRef": "rm0183-2024-reg-art12", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según los instrumentos de referencia de la RM 0183/2024, ¿cuál corresponde a la dimensión HACER?",
+      "opciones": [
+        { "texto": "La ficha de ejecución", "correcta": true, "porQue": "Figura entre los instrumentos del Hacer (Art. 12, inc. c))." },
+        { "texto": "El mapa conceptual", "correcta": false, "porQue": "Es un instrumento del Saber." },
+        { "texto": "El diario de campo", "correcta": false, "porQue": "Es un instrumento del Ser." },
+        { "texto": "El registro de observación", "correcta": false, "porQue": "Es un instrumento del Decidir." }
+      ],
+      "explicacion": "Ser: registro anecdótico, lista de cotejo, diario de campo. Saber: prueba objetiva, mapa conceptual, prueba escrita u oral. Hacer: lista de cotejo, cuadro de progresión, ficha de ejecución, prueba de actuación. Decidir: registro de observación, registro anecdótico, lista de cotejo.",
+      "citaTextual": "Instrumentos para evaluar la dimensión Hacer: - Lista de cotejo. - Cuadro de progresión. - Ficha de ejecución.",
+      "referencia": "RM 0183/2024, Reglamento, Art. 12, págs. 17-18", "etiquetas": ["instrumentos de evaluación", "dimensiones"] }
+  ]},
+  { "fragmentoRef": "rm0183-2024-reg-art08", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Un padre de familia pide al director del CEA conocer las calificaciones de otros participantes para \"comparar\". Considerando los deberes del director en la evaluación (RM 0183/2024), ¿qué corresponde?",
+      "opciones": [
+        { "texto": "Negarse, porque el director debe mantener la confidencialidad de la información y los resultados de la evaluación", "correcta": true, "porQue": "Es un deber del Art. 8, inc. a), par. I, num. 4." },
+        { "texto": "Entregarlas, por el principio de transparencia", "correcta": false, "porQue": "La transparencia no deja sin efecto la confidencialidad de los resultados de terceros." },
+        { "texto": "Entregarlas si lo autoriza el facilitador", "correcta": false, "porQue": "El deber de confidencialidad es del director." },
+        { "texto": "Publicarlas en el mural del centro", "correcta": false, "porQue": "Vulneraría la confidencialidad." }
+      ],
+      "explicacion": "El director coordina y supervisa la evaluación, asegura los procedimientos, orienta, mantiene la confidencialidad y decide con justicia y objetividad.",
+      "citaTextual": "Mantener la confidencialidad de la información y los resultados obtenidos durante la evaluación.",
+      "referencia": "RM 0183/2024, Reglamento, Art. 8, págs. 11-14", "etiquetas": ["deberes del director", "confidencialidad", "caso"] }
+  ]},
+  { "fragmentoRef": "rm0183-2024-t011", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según el Reglamento de Evaluación de la RM 0183/2024, ¿cómo se resuelven las situaciones de evaluación no previstas?",
+      "opciones": [
+        { "texto": "Por el Ministerio de Educación, previo informe técnico de la Dirección General de Educación Alternativa", "correcta": true, "porQue": "Es lo que dispone la Disposición Segunda." },
+        { "texto": "Por la Comisión Andragógica del centro", "correcta": false, "porQue": "La comisión actúa en la evaluación extraordinaria; lo no previsto lo resuelve el Ministerio." },
+        { "texto": "Por la Dirección Departamental", "correcta": false, "porQue": "La resolución corresponde al Ministerio." },
+        { "texto": "Por el Viceministerio, mediante instructivos, sin informe técnico", "correcta": false, "porQue": "Se requiere el informe técnico de la DGEA y resuelve el Ministerio." }
+      ],
+      "explicacion": "Lo no previsto en la evaluación lo resuelve el Ministerio, con informe técnico de la DGEA.",
+      "citaTextual": "serán resueltas por el Ministerio de Educación, previo informe técnico de la Dirección General de Educación Alternativa",
+      "referencia": "RM 0183/2024, Reglamento, Disposición Segunda, pág. 28", "etiquetas": ["vacíos normativos"] }
+  ]}
+]
