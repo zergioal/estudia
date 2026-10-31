@@ -1,6 +1,7 @@
 import { useEffect, useState } from 'react';
 import type { Rol } from '@estudia/shared';
 import { useSesion } from './auth/sesion';
+import { SelectorTema } from './componentes/SelectorTema';
 import { Contenidos } from './paginas/Contenidos';
 import { Documentos } from './paginas/Documentos';
 import { Estudiar } from './paginas/Estudiar';
@@ -9,9 +10,11 @@ import { Login } from './paginas/Login';
 import { Quiz } from './paginas/Quiz';
 import { Resultado } from './paginas/Resultado';
 import { Revision } from './paginas/Revision';
+import { Simulacro } from './paginas/Simulacro';
 
 const PAGINAS = {
   estudiar: { titulo: 'Estudiar', roles: ['ADMIN', 'REVISOR', 'ESTUDIANTE'] },
+  simulacro: { titulo: 'Examen simulacro', roles: ['ADMIN', 'REVISOR', 'ESTUDIANTE'] },
   guias: { titulo: 'Guías', roles: ['ADMIN', 'REVISOR', 'ESTUDIANTE'] },
   contenidos: { titulo: 'Contenidos', roles: ['ADMIN'] },
   documentos: { titulo: 'Documentos', roles: ['ADMIN'] },
@@ -48,6 +51,7 @@ export function App() {
   let contenido;
   if (hash.ruta === 'quiz' && hash.id) contenido = <Quiz id={hash.id} />;
   else if (hash.ruta === 'resultado' && hash.id) contenido = <Resultado id={hash.id} />;
+  else if (actual === 'simulacro') contenido = <Simulacro id={hash.id} />;
   else if (actual === 'guias') contenido = <Guias id={hash.id} />;
   else if (actual === 'contenidos') contenido = <Contenidos />;
   else if (actual === 'documentos') contenido = <Documentos />;
@@ -73,6 +77,7 @@ export function App() {
             ))}
           </nav>
           <div className="ml-auto flex items-center gap-2 text-sm">
+            <SelectorTema />
             <span className="hidden text-slate-500 sm:inline">
               {usuario.nombre} · {usuario.rol}
             </span>

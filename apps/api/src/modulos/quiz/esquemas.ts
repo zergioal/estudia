@@ -1,5 +1,7 @@
 export {
   BONUS_RECUPERADA,
+  SIMULACRO,
+  bloqueDeFuente,
   XP_POR_DIFICULTAD,
   quizCrearSchema,
   respuestaEnviarSchema,
@@ -12,6 +14,8 @@ export {
   type QuizCrear,
   type QuizEstado,
   type RespuestaEnviar,
+  type RespuestaRegistrada,
+  type ResultadoSimulacro,
   type ResumenQuiz,
   type TemaEstudio,
 } from '@estudia/shared';

@@ -1,6 +1,7 @@
 import { useState, type FormEvent } from 'react';
 import { mensajeDeError } from '../api/cliente';
 import { useSesion } from '../auth/sesion';
+import { SelectorTema } from '../componentes/SelectorTema';
 
 export function Login() {
   const { iniciar } = useSesion();
@@ -23,7 +24,10 @@ export function Login() {
   }
 
   return (
-    <div className="flex min-h-screen items-center justify-center px-4">
+    <div className="relative flex min-h-screen items-center justify-center px-4">
+      <div className="absolute right-4 top-4">
+        <SelectorTema />
+      </div>
       <form onSubmit={enviar} className="w-full max-w-sm space-y-4 rounded-2xl bg-white p-6 shadow-lg">
         <div className="text-center">
           <h1 className="text-2xl font-bold text-indigo-700">EstudIA</h1>

@@ -77,6 +77,20 @@ VERDADERO_FALSO 2 opciones con 1 correcta, CASO 1 correcta, COMPLETAR ≥1 respu
 - Normativa → un fragmento por artículo con temas Parte/Reglamento › Título › Capítulo › Sección › Subsección.
   Libros/guías → bloques de ~900 palabras con temas por rango de 20 páginas.
 
+## Interfaz: modo oscuro
+- Tema claro/oscuro/sistema (`src/tema.ts`, selector en la cabecera y el login); `index.html` aplica `.dark` antes de pintar.
+- El modo oscuro NO usa `dark:` clase por clase: `src/index.css` reasigna en `.dark` las variables de Tailwind
+  (`--color-white` = superficie, slate invertido, tonos 50-300 → fondos teñidos, 700-900 → textos claros). Al escribir
+  UI usa los pares habituales (`bg-x-50` + `text-x-700/800`, `bg-white` + `text-slate-*`) y para texto sobre fondos de
+  color (botones, chips) usa `text-blanco`, nunca `text-white` (que en oscuro sería la superficie).
+
+## Simulacro de examen
+- `POST /api/v1/simulacros` arma 100 preguntas aprobadas de toda la bibliografía visible: 35% normativa (LEY/DECRETO/RM)
+  y 65% técnico-pedagógico (LIBRO/GUIA), repartidas por turnos entre documentos; límite de 150 min (`SIMULACRO` en shared).
+- Mientras dura: las respuestas se registran sin feedback (`RespuestaRegistrada`), sin aciertos ni XP visibles; pasado el
+  límite (+30 s de gracia) el intento se cierra solo. Al finalizar, el resumen trae `simulacro` (nota/100, aprobado ≥ 51,
+  sin responder, por bloque y por documento) y los errores incluyen las no respondidas. Pantalla: `#/simulacro[/<id>]`.
+
 ## Guías de estudio
 - Una por documento en `guias/<clave>.json` (versionadas): `{ clave, resumen, ideasClave[], obligatorio[], opcional[],
   consejos[] }`, cada parte `{ parte: "Arts. 3-5", titulo, porQue }` (esquema `guiaArchivoSchema` en shared).

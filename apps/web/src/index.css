@@ -1,5 +1,13 @@
 @import 'tailwindcss';
 
+@custom-variant dark (&:where(.dark, .dark *));
+
+/* Texto sobre fondos de color (botones, chips): blanco en ambos modos. --color-white, en cambio, es la
+   superficie de tarjetas y campos y en modo oscuro se reasigna. */
+@theme {
+  --color-blanco: #ffffff;
+}
+
 @layer components {
   .btn-primario,
   .btn-secundario,
@@ -8,7 +16,7 @@
     @apply inline-flex cursor-pointer items-center justify-center gap-1 rounded-lg px-3 py-2 text-sm font-medium transition disabled:cursor-not-allowed disabled:opacity-50;
   }
   .btn-primario {
-    @apply bg-indigo-600 text-white hover:bg-indigo-700;
+    @apply bg-indigo-600 text-blanco hover:brightness-110;
   }
   .btn-secundario {
     @apply border border-slate-300 bg-white text-slate-700 hover:bg-slate-100;
@@ -17,7 +25,7 @@
     @apply border border-red-200 bg-white text-red-700 hover:bg-red-50;
   }
   .btn-exito {
-    @apply bg-emerald-600 text-white hover:bg-emerald-700;
+    @apply bg-emerald-600 text-blanco hover:brightness-110;
   }
   .campo {
     @apply w-full rounded-lg border border-slate-300 bg-white px-3 py-2 text-sm outline-none focus:border-indigo-500 focus:ring-2 focus:ring-indigo-200;
@@ -25,4 +33,95 @@
   .etiqueta {
     @apply mb-1 block text-sm font-medium text-slate-700;
   }
+}
+
+/* ---------- Modo oscuro ----------
+   Se activa con la clase .dark en <html> (ver src/tema.ts). En vez de duplicar clases con dark:, se
+   reasignan las variables de color de Tailwind: los tonos claros (50-300) pasan a fondos oscuros teñidos
+   y los oscuros (700-900) a tonos claros para texto, así cada par fondo/texto conserva su contraste. */
+
+.dark {
+  color-scheme: dark;
+  --color-white: #172033;
+  --color-slate-50: #0d1424;
+  --color-slate-100: #1e293b;
+  --color-slate-200: #2c3a52;
+  --color-slate-300: #41506a;
+  --color-slate-400: #6b7a93;
+  --color-slate-500: #9aa8bd;
+  --color-slate-600: #b4c0d0;
+  --color-slate-700: #cbd5e1;
+  --color-slate-800: #e2e8f0;
+  --color-slate-900: #f1f5f9;
+  --color-slate-950: #f8fafc;
+  --color-indigo-50: color-mix(in srgb, #6366f1 14%, #172033);
+  --color-indigo-100: color-mix(in srgb, #6366f1 24%, #172033);
+  --color-indigo-200: color-mix(in srgb, #6366f1 40%, #172033);
+  --color-indigo-300: color-mix(in srgb, #6366f1 60%, #172033);
+  --color-indigo-400: #818cf8;
+  --color-indigo-500: #6366f1;
+  --color-indigo-600: #4f46e5;
+  --color-indigo-700: #a5b4fc;
+  --color-indigo-800: #c7d2fe;
+  --color-indigo-900: #e0e7ff;
+  --color-indigo-950: #ffffff;
+  --color-red-50: color-mix(in srgb, #ef4444 14%, #172033);
+  --color-red-100: color-mix(in srgb, #ef4444 24%, #172033);
+  --color-red-200: color-mix(in srgb, #ef4444 40%, #172033);
+  --color-red-300: color-mix(in srgb, #ef4444 60%, #172033);
+  --color-red-400: #f87171;
+  --color-red-500: #ef4444;
+  --color-red-600: #dc2626;
+  --color-red-700: #fca5a5;
+  --color-red-800: #fecaca;
+  --color-red-900: #fee2e2;
+  --color-red-950: #ffffff;
+  --color-emerald-50: color-mix(in srgb, #10b981 14%, #172033);
+  --color-emerald-100: color-mix(in srgb, #10b981 24%, #172033);
+  --color-emerald-200: color-mix(in srgb, #10b981 40%, #172033);
+  --color-emerald-300: color-mix(in srgb, #10b981 60%, #172033);
+  --color-emerald-400: #34d399;
+  --color-emerald-500: #10b981;
+  --color-emerald-600: #059669;
+  --color-emerald-700: #6ee7b7;
+  --color-emerald-800: #a7f3d0;
+  --color-emerald-900: #d1fae5;
+  --color-emerald-950: #ffffff;
+  --color-amber-50: color-mix(in srgb, #f59e0b 14%, #172033);
+  --color-amber-100: color-mix(in srgb, #f59e0b 24%, #172033);
+  --color-amber-200: color-mix(in srgb, #f59e0b 40%, #172033);
+  --color-amber-300: color-mix(in srgb, #f59e0b 60%, #172033);
+  --color-amber-400: #fbbf24;
+  --color-amber-500: #f59e0b;
+  --color-amber-600: #d97706;
+  --color-amber-700: #fcd34d;
+  --color-amber-800: #fde68a;
+  --color-amber-900: #fef3c7;
+  --color-amber-950: #ffffff;
+  --color-sky-50: color-mix(in srgb, #0ea5e9 14%, #172033);
+  --color-sky-100: color-mix(in srgb, #0ea5e9 24%, #172033);
+  --color-sky-200: color-mix(in srgb, #0ea5e9 40%, #172033);
+  --color-sky-300: color-mix(in srgb, #0ea5e9 60%, #172033);
+  --color-sky-400: #38bdf8;
+  --color-sky-500: #0ea5e9;
+  --color-sky-600: #0284c7;
+  --color-sky-700: #7dd3fc;
+  --color-sky-800: #bae6fd;
+  --color-sky-900: #e0f2fe;
+  --color-sky-950: #ffffff;
+  --color-rose-50: color-mix(in srgb, #f43f5e 14%, #172033);
+  --color-rose-100: color-mix(in srgb, #f43f5e 24%, #172033);
+  --color-rose-200: color-mix(in srgb, #f43f5e 40%, #172033);
+  --color-rose-300: color-mix(in srgb, #f43f5e 60%, #172033);
+  --color-rose-400: #fb7185;
+  --color-rose-500: #f43f5e;
+  --color-rose-600: #e11d48;
+  --color-rose-700: #fda4af;
+  --color-rose-800: #fecdd3;
+  --color-rose-900: #ffe4e6;
+  --color-rose-950: #ffffff;
+}
+.dark .shadow-sm,
+.dark .shadow-md {
+  --tw-shadow-color: rgb(0 0 0 / 0.5);
 }

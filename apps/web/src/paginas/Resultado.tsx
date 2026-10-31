@@ -14,7 +14,7 @@ export function Resultado({ id }: { id: string }) {
     <section className="mx-auto max-w-2xl space-y-4">
       <div className="rounded-2xl bg-white p-5 text-center shadow-sm">
         <p className="text-sm text-slate-500">Resultado</p>
-        <p className={`text-5xl font-bold ${aprobaria ? 'text-emerald-600' : 'text-red-600'}`}>{d.porcentaje}%</p>
+        <p className={`text-5xl font-bold ${aprobaria ? 'text-emerald-700' : 'text-red-700'}`}>{d.porcentaje}%</p>
         <p className="mt-1 text-slate-700">
           {d.aciertos} de {d.respondidas} correctas{d.respondidas < d.cantidad && ` (${d.cantidad - d.respondidas} sin responder)`}
         </p>

@@ -34,8 +34,10 @@ export function Quiz({ id }: { id: string }) {
   });
 
   // Un quiz ya finalizado no se puede seguir respondiendo: se muestra su resultado.
+  // Los simulacros tienen su propia pantalla (sin feedback y con reloj).
   useEffect(() => {
-    if (quiz.data?.finalizadoEn) ir(`resultado/${id}`);
+    if (quiz.data?.modo === 'SIMULACRO') ir(`simulacro/${id}`);
+    else if (quiz.data?.finalizadoEn) ir(`resultado/${id}`);
   }, [quiz.data, id]);
 
   if (quiz.error) return <p className="text-red-700">{mensajeDeError(quiz.error)}</p>;

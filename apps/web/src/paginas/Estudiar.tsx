@@ -182,7 +182,11 @@ export function Estudiar({ preseleccion }: { preseleccion?: string } = {}) {
                 <span>
                   {i.aciertos}/{i.respondidas} de {i.cantidad} · {i.puntaje} XP
                 </span>
-                {i.finalizadoEn || i.respondidas === i.cantidad ? (
+                {i.modo === 'SIMULACRO' ? (
+                  <a className="text-indigo-700 hover:underline" href={`#/simulacro/${i.id}`}>
+                    {i.finalizadoEn ? 'Ver resultado' : 'Continuar simulacro'}
+                  </a>
+                ) : i.finalizadoEn || i.respondidas === i.cantidad ? (
                   <a className="text-indigo-700 hover:underline" href={`#/resultado/${i.id}`}>
                     Ver resultado
                   </a>
@@ -288,7 +292,7 @@ function Chip({ activo, onClick, children }: { activo: boolean; onClick: () => v
     <button
       onClick={onClick}
       className={`rounded-full border px-4 py-1.5 text-sm font-medium ${
-        activo ? 'border-indigo-600 bg-indigo-600 text-white' : 'border-slate-300 bg-white text-slate-700 hover:bg-slate-50'
+        activo ? 'border-indigo-600 bg-indigo-600 text-blanco' : 'border-slate-300 bg-white text-slate-700 hover:bg-slate-50'
       }`}
     >
       {children}

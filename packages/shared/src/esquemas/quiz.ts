@@ -8,6 +8,16 @@ export const MODOS_QUIZ = ['PRACTICA'] as const; // EXAMEN, SIMULACRO y repasos 
 export const XP_POR_DIFICULTAD: Record<Dificultad, number> = { FACIL: 10, MEDIA: 20, DIFICIL: 35 };
 export const BONUS_RECUPERADA = 1.5;
 
+/**
+ * Examen simulacro según el Reglamento de la Convocatoria 0001/2026 (Arts. 11, 12, 14): 100 preguntas en
+ * 150 minutos, 35% Normativa General y Específica y 65% Contenidos Técnico-Pedagógicos, nota mínima 51/100.
+ */
+export const SIMULACRO = { preguntas: 100, minutos: 150, porcentajeNormativa: 35, notaMinima: 51 } as const;
+/** Tipos de fuente que cuentan como "Normativa"; el resto (LIBRO, GUIA) es técnico-pedagógico. */
+export const FUENTES_NORMATIVA = ["LEY", "DECRETO", "RM"] as const;
+export const bloqueDeFuente = (tipoFuente: string) =>
+  (FUENTES_NORMATIVA as readonly string[]).includes(tipoFuente) ? "Normativa" : "Técnico-pedagógico";
+
 export const quizCrearSchema = z
   .object({
     modo: z.enum(MODOS_QUIZ).default('PRACTICA'),
@@ -64,7 +74,10 @@ export interface PreguntaQuiz {
   tema: string;
   contenido: string;
   opciones: OpcionQuiz[];
-  /** Solo si ya fue respondida (modo Práctica). */
+  respondida: boolean;
+  /** Opciones que marcó el estudiante (en el simulacro, se ve qué marcó pero no si acertó). */
+  opcionesElegidas: string[];
+  /** Práctica: tras responder. Simulacro: solo cuando el examen terminó. */
   feedback: Feedback | null;
 }
 
@@ -77,7 +90,16 @@ export interface QuizEstado {
   respondidas: number;
   iniciadoEn: string;
   finalizadoEn: string | null;
+  /** Hora límite del simulacro (null en práctica). */
+  limiteEn: string | null;
   preguntas: PreguntaQuiz[];
+}
+
+/** Respuesta a una pregunta del simulacro: se registra sin revelar si fue correcta. */
+export interface RespuestaRegistrada {
+  registrada: true;
+  preguntaId: string;
+  opcionIds: string[];
 }
 
 export interface ResumenTema {
@@ -90,6 +112,9 @@ export interface ResumenTema {
 export interface PreguntaFallada {
   preguntaId: string;
   enunciado: string;
+  contenido: string;
+  /** Simulacro: quedó sin responder (cuenta como error). */
+  sinResponder: boolean;
   elegida: string[];
   correctas: string[];
   explicacion: string;
@@ -109,6 +134,20 @@ export interface ResumenQuiz {
   falladas: PreguntaFallada[];
   xpTotal: number;
   rachaDias: number;
+  /** Solo en simulacros. */
+  simulacro: ResultadoSimulacro | null;
+}
+
+export interface ResultadoSimulacro {
+  /** Nota sobre 100 (aciertos / total de preguntas; las no respondidas cuentan como error). */
+  nota: number;
+  notaMinima: number;
+  aprobado: boolean;
+  sinResponder: number;
+  segundosUsados: number;
+  minutosLimite: number;
+  porBloque: { bloque: string; total: number; aciertos: number }[];
+  porContenido: { contenido: string; total: number; aciertos: number }[];
 }
 
 export interface IntentoResumido {

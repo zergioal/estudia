@@ -4,7 +4,9 @@ import { ErrorApp, conflicto, noEncontrado } from '../../errores';
 import type { UsuarioToken } from '../../middleware/auth';
 import {
   BONUS_RECUPERADA,
+  SIMULACRO,
   XP_POR_DIFICULTAD,
+  bloqueDeFuente,
   type ColeccionEstudio,
   type Feedback,
   type Panel,
@@ -12,6 +14,8 @@ import {
   type QuizCrear,
   type QuizEstado,
   type RespuestaEnviar,
+  type RespuestaRegistrada,
+  type ResultadoSimulacro,
   type ResumenQuiz,
   type TemaEstudio,
 } from './esquemas';
@@ -187,6 +191,88 @@ export async function crearQuiz(u: UsuarioToken, datos: QuizCrear): Promise<Quiz
   return obtenerQuiz(u, intento.id);
 }
 
+// ---------- Simulacro de examen ----------
+
+const MS_SIMULACRO = SIMULACRO.minutos * 60_000;
+/** Margen para respuestas que salieron justo antes del límite (latencia de red). */
+const GRACIA_MS = 30_000;
+const limiteDe = (i: { modo: string; iniciadoEn: Date }) =>
+  i.modo === 'SIMULACRO' ? new Date(i.iniciadoEn.getTime() + MS_SIMULACRO) : null;
+
+/**
+ * Reparte n preguntas entre los documentos por turnos (round robin), para que el simulacro abarque toda
+ * la bibliografía y no solo los documentos con más preguntas.
+ */
+function repartir<T extends { contenidoId: string }>(preguntas: T[], n: number): T[] {
+  const porDoc = new Map<string, T[]>();
+  for (const p of barajar(preguntas)) porDoc.set(p.contenidoId, [...(porDoc.get(p.contenidoId) ?? []), p]);
+  const colas = barajar([...porDoc.values()]);
+  const elegidas: T[] = [];
+  while (elegidas.length < n && colas.some((c) => c.length)) {
+    for (const c of colas) {
+      const p = c.shift();
+      if (p) elegidas.push(p);
+      if (elegidas.length === n) break;
+    }
+  }
+  return elegidas;
+}
+
+/** 100 preguntas de toda la bibliografía visible: 35% normativa y 65% técnico-pedagógico. */
+export async function crearSimulacro(u: UsuarioToken): Promise<QuizEstado> {
+  const candidatas = (
+    await prisma.pregunta.findMany({
+      where: { estado: 'APROBADA', tipo: { in: TIPOS_EN_QUIZ }, tema: { contenido: filtroContenidos(u) } },
+      select: {
+        id: true,
+        opciones: { select: { id: true } },
+        tema: { select: { contenidoId: true, contenido: { select: { titulo: true, tipoFuente: true } } } },
+      },
+    })
+  ).map((p) => ({ ...p, contenidoId: p.tema.contenidoId, bloque: bloqueDeFuente(p.tema.contenido.tipoFuente) }));
+  if (candidatas.length === 0) throw new ErrorApp(409, 'SIN_PREGUNTAS', 'No hay preguntas aprobadas para armar un simulacro');
+
+  const total = Math.min(SIMULACRO.preguntas, candidatas.length);
+  const normativa = candidatas.filter((p) => p.bloque === 'Normativa');
+  const tecnico = candidatas.filter((p) => p.bloque !== 'Normativa');
+  // Si un bloque no alcanza, el otro completa el total.
+  let nNormativa = Math.min(normativa.length, Math.round((total * SIMULACRO.porcentajeNormativa) / 100));
+  const nTecnico = Math.min(tecnico.length, total - nNormativa);
+  nNormativa = Math.min(normativa.length, total - nTecnico);
+  const elegidas = barajar([...repartir(normativa, nNormativa), ...repartir(tecnico, nTecnico)]);
+
+  const intento = await prisma.intento.create({
+    data: {
+      usuarioId: u.id,
+      modo: 'SIMULACRO',
+      filtros: {
+        simulacro: true,
+        normativa: nNormativa,
+        tecnico: nTecnico,
+        contenidos: ['Simulacro de examen'],
+      },
+      cantidad: elegidas.length,
+      respuestas: {
+        create: elegidas.map((p, orden) => ({
+          preguntaId: p.id,
+          orden,
+          ordenOpciones: barajar(p.opciones.map((o) => o.id)),
+          opcionesElegidas: [],
+        })),
+      },
+    },
+  });
+  return obtenerQuiz(u, intento.id);
+}
+
+/** Si el tiempo del simulacro se agotó, lo cierra (las no respondidas cuentan como error). */
+async function cerrarSiVencio(i: { id: string; modo: string; iniciadoEn: Date; finalizadoEn: Date | null }) {
+  const limite = limiteDe(i);
+  if (!limite || i.finalizadoEn || Date.now() <= limite.getTime() + GRACIA_MS) return false;
+  await prisma.intento.updateMany({ where: { id: i.id, finalizadoEn: null }, data: { finalizadoEn: limite } });
+  return true;
+}
+
 // ---------- Consultar ----------
 
 const incluirQuiz = {
@@ -196,7 +282,7 @@ const incluirQuiz = {
       pregunta: {
         include: {
           opciones: true,
-          tema: { select: { nombre: true, contenido: { select: { titulo: true } } } },
+          tema: { select: { nombre: true, contenido: { select: { titulo: true, tipoFuente: true } } } },
         },
       },
     },
@@ -208,6 +294,7 @@ type RespuestaCompleta = IntentoCompleto['respuestas'][number];
 async function intentoPropio(u: UsuarioToken, id: string): Promise<IntentoCompleto> {
   const intento = await prisma.intento.findFirst({ where: { id, usuarioId: u.id }, include: incluirQuiz });
   if (!intento) throw noEncontrado('El quiz');
+  if (await cerrarSiVencio(intento)) return intentoPropio(u, id);
   return intento;
 }
 
@@ -233,6 +320,8 @@ function feedbackDe(r: RespuestaCompleta): Feedback {
 }
 
 function aEstado(i: IntentoCompleto): QuizEstado {
+  // En el simulacro no se revela nada (ni aciertos ni XP) hasta que termina.
+  const oculto = i.modo === 'SIMULACRO' && !i.finalizadoEn;
   const preguntas: PreguntaQuiz[] = i.respuestas.map((r) => ({
     id: r.preguntaId,
     orden: r.orden,
@@ -243,17 +332,21 @@ function aEstado(i: IntentoCompleto): QuizEstado {
     contenido: r.pregunta.tema.contenido.titulo,
     // Antes de responder NUNCA viajan `correcta` ni `porQue`.
     opciones: opcionesOrdenadas(r).map((o) => ({ id: o.id, texto: o.texto })),
-    feedback: r.respondidaEn ? feedbackDe(r) : null,
+    respondida: r.respondidaEn !== null,
+    opcionesElegidas: r.opcionesElegidas,
+    feedback: r.respondidaEn && !oculto ? feedbackDe(r) : null,
   }));
+  const limite = limiteDe(i);
   return {
     id: i.id,
     modo: i.modo,
     cantidad: i.cantidad,
-    puntaje: i.puntaje,
-    aciertos: i.aciertos,
+    puntaje: oculto ? 0 : i.puntaje,
+    aciertos: oculto ? 0 : i.aciertos,
     respondidas: i.respuestas.filter((r) => r.respondidaEn).length,
     iniciadoEn: i.iniciadoEn.toISOString(),
     finalizadoEn: i.finalizadoEn?.toISOString() ?? null,
+    limiteEn: limite?.toISOString() ?? null,
     preguntas,
   };
 }
@@ -264,9 +357,15 @@ export async function obtenerQuiz(u: UsuarioToken, id: string): Promise<QuizEsta
 
 // ---------- Responder ----------
 
-export async function responder(u: UsuarioToken, id: string, datos: RespuestaEnviar): Promise<Feedback> {
+export async function responder(
+  u: UsuarioToken,
+  id: string,
+  datos: RespuestaEnviar,
+): Promise<Feedback | RespuestaRegistrada> {
   const intento = await intentoPropio(u, id);
-  if (intento.finalizadoEn) throw conflicto('El quiz ya fue finalizado');
+  if (intento.finalizadoEn) {
+    throw intento.modo === 'SIMULACRO' ? conflicto('El tiempo del simulacro terminó o ya fue finalizado') : conflicto('El quiz ya fue finalizado');
+  }
   const r = intento.respuestas.find((x) => x.preguntaId === datos.preguntaId);
   if (!r) throw noEncontrado('La pregunta en este quiz');
   if (r.respondidaEn) throw conflicto('Esa pregunta ya fue respondida');
@@ -327,6 +426,7 @@ export async function responder(u: UsuarioToken, id: string, datos: RespuestaEnv
     });
   });
 
+  if (intento.modo === 'SIMULACRO') return { registrada: true, preguntaId: r.preguntaId, opcionIds: elegidas };
   return feedbackDe({ ...r, opcionesElegidas: elegidas, correcta, xp, respondidaEn: ahora });
 }
 
@@ -340,11 +440,13 @@ export async function finalizar(u: UsuarioToken, id: string): Promise<ResumenQui
 
 export async function resumen(u: UsuarioToken, id: string): Promise<ResumenQuiz> {
   const i = await intentoPropio(u, id);
+  if (i.modo === 'SIMULACRO' && !i.finalizadoEn) throw conflicto('El simulacro sigue en curso');
   const usuario = await prisma.usuario.findUniqueOrThrow({
     where: { id: u.id },
     select: { xpTotal: true, rachaDias: true, ultimoEstudio: true },
   });
   const respondidas = i.respuestas.filter((r) => r.respondidaEn);
+  const esSimulacro = i.modo === 'SIMULACRO';
   const porTema = new Map<string, { tema: string; contenido: string; total: number; aciertos: number }>();
   for (const r of respondidas) {
     const clave = `${r.pregunta.tema.contenido.titulo}|${r.pregunta.tema.nombre}`;
@@ -362,17 +464,24 @@ export async function resumen(u: UsuarioToken, id: string): Promise<ResumenQuiz>
     cantidad: i.cantidad,
     respondidas: respondidas.length,
     aciertos: i.aciertos,
-    porcentaje: respondidas.length ? Math.round((i.aciertos / respondidas.length) * 100) : 0,
+    // En el simulacro las no respondidas cuentan como error, igual que en el examen real.
+    porcentaje: esSimulacro
+      ? Math.round((i.aciertos / Math.max(1, i.cantidad)) * 100)
+      : respondidas.length
+        ? Math.round((i.aciertos / respondidas.length) * 100)
+        : 0,
     puntaje: i.puntaje,
     segundosPromedio: conTiempo.length
       ? Math.round(conTiempo.reduce((s, r) => s + (r.segundos ?? 0), 0) / conTiempo.length)
       : null,
     porTema: [...porTema.values()].sort((a, b) => a.aciertos / a.total - b.aciertos / b.total),
-    falladas: respondidas
+    falladas: (esSimulacro ? i.respuestas : respondidas)
       .filter((r) => !r.correcta)
       .map((r) => ({
         preguntaId: r.preguntaId,
         enunciado: r.pregunta.enunciado,
+        contenido: r.pregunta.tema.contenido.titulo,
+        sinResponder: !r.respondidaEn,
         elegida: textoDe(r, r.opcionesElegidas),
         correctas: textoDe(r, r.pregunta.opciones.filter((o) => o.correcta).map((o) => o.id)),
         explicacion: r.pregunta.explicacion,
@@ -381,6 +490,34 @@ export async function resumen(u: UsuarioToken, id: string): Promise<ResumenQuiz>
       })),
     xpTotal: usuario.xpTotal,
     rachaDias: rachaVigente(usuario.rachaDias, usuario.ultimoEstudio),
+    simulacro: esSimulacro ? resultadoSimulacro(i) : null,
+  };
+}
+
+function resultadoSimulacro(i: IntentoCompleto): ResultadoSimulacro {
+  const agrupar = (clave: (r: RespuestaCompleta) => string) => {
+    const m = new Map<string, { total: number; aciertos: number }>();
+    for (const r of i.respuestas) {
+      const g = m.get(clave(r)) ?? { total: 0, aciertos: 0 };
+      g.total++;
+      if (r.correcta) g.aciertos++;
+      m.set(clave(r), g);
+    }
+    return [...m.entries()];
+  };
+  const nota = i.cantidad ? Math.round((i.aciertos / i.cantidad) * 100) : 0;
+  const fin = i.finalizadoEn ?? new Date();
+  return {
+    nota,
+    notaMinima: SIMULACRO.notaMinima,
+    aprobado: nota >= SIMULACRO.notaMinima,
+    sinResponder: i.respuestas.filter((r) => !r.respondidaEn).length,
+    segundosUsados: Math.min(SIMULACRO.minutos * 60, Math.round((fin.getTime() - i.iniciadoEn.getTime()) / 1000)),
+    minutosLimite: SIMULACRO.minutos,
+    porBloque: agrupar((r) => bloqueDeFuente(r.pregunta.tema.contenido.tipoFuente)).map(([bloque, g]) => ({ bloque, ...g })),
+    porContenido: agrupar((r) => r.pregunta.tema.contenido.titulo)
+      .map(([contenido, g]) => ({ contenido, ...g }))
+      .sort((a, b) => a.aciertos / a.total - b.aciertos / b.total),
   };
 }
 
@@ -410,8 +547,8 @@ export async function panel(u: UsuarioToken): Promise<Panel> {
       modo: i.modo,
       cantidad: i.cantidad,
       respondidas: i._count.respuestas,
-      aciertos: i.aciertos,
-      puntaje: i.puntaje,
+      aciertos: i.modo === 'SIMULACRO' && !i.finalizadoEn ? 0 : i.aciertos,
+      puntaje: i.modo === 'SIMULACRO' && !i.finalizadoEn ? 0 : i.puntaje,
       iniciadoEn: i.iniciadoEn.toISOString(),
       finalizadoEn: i.finalizadoEn?.toISOString() ?? null,
       contenidos: ((i.filtros as { contenidos?: string[] } | null)?.contenidos ?? []).slice(0, 5),

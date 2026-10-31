@@ -5,6 +5,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="theme-color" content="#4f46e5" />
     <title>EstudIA</title>
+    <script>
+      // Aplica el tema antes de pintar para evitar el destello claro (ver src/tema.ts).
+      (function () {
+        var p = localStorage.getItem('estudia.tema');
+        var oscuro = p === 'oscuro' || (p !== 'claro' && window.matchMedia('(prefers-color-scheme: dark)').matches);
+        if (oscuro) document.documentElement.classList.add('dark');
+      })();
+    </script>
   </head>
   <body class="bg-slate-50 text-slate-900 antialiased">
     <div id="root"></div>

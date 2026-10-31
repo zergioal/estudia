@@ -18,6 +18,11 @@ rutasQuiz.post('/quizzes', requiereAuth, async (req, res) => {
   res.status(201).json(await servicio.crearQuiz(req.usuario!, quizCrearSchema.parse(req.body)));
 });
 
+/** Simulacro del examen real: 100 preguntas de toda la bibliografía, 150 minutos. */
+rutasQuiz.post('/simulacros', requiereAuth, async (req, res) => {
+  res.status(201).json(await servicio.crearSimulacro(req.usuario!));
+});
+
 rutasQuiz.get('/quizzes/:id', requiereAuth, async (req, res) => {
   res.json(await servicio.obtenerQuiz(req.usuario!, req.params.id));
 });
