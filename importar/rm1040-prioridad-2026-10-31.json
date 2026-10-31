@@ -1,0 +1,124 @@
+[
+  { "fragmentoRef": "rm1040-b012", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según la RM 1040, en la evaluación de la Educación Permanente, ¿qué dimensión es el punto de partida y el fundamento ético, por lo que la evaluación integral debe comenzar por ella?",
+      "opciones": [
+        { "texto": "El Ser, entendido como la voluntad de la persona, la familia y la comunidad para realizar una acción", "correcta": true, "porQue": "Es lo que dice el texto." },
+        { "texto": "El Saber", "correcta": false, "porQue": "El Saber evalúa lo aprendido reflejado en la práctica." },
+        { "texto": "El Hacer", "correcta": false, "porQue": "El Hacer articula los saberes con la realidad y tiene carácter retrospectivo." },
+        { "texto": "El Decidir", "correcta": false, "porQue": "Capciosa: el Decidir es la finalidad última, no el punto de partida." }
+      ],
+      "explicacion": "Ser = voluntad; Saber = teoría y práctica; Hacer = acción en contexto; Decidir = para qué.",
+      "citaTextual": "Es el punto de partida y fundamento ético es la voluntad que debe tener la persona, la familia y la comunidad para realizar una determinada acción.",
+      "referencia": "RM 1040, Evaluación en Educación Permanente, págs. 33-35", "etiquetas": ["dimensiones", "capciosa"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "En un curso de tejido del Centro de Educación Permanente, la facilitadora invita a una tejedora experimentada de la comunidad a evaluar los trabajos. Según la RM 1040, ¿qué principio de evaluación aplica?",
+      "opciones": [
+        { "texto": "«No todos pueden evaluar todo»: las personas sabias y especialistas de la comunidad son sujetos clave para evaluar lo propio de su experiencia", "correcta": true, "porQue": "Es el principio que describe el texto." },
+        { "texto": "Solo el facilitador puede evaluar", "correcta": false, "porQue": "Contradice el principio." },
+        { "texto": "La evaluación debe ser externa y estandarizada", "correcta": false, "porQue": "No es lo que plantea la RM." },
+        { "texto": "Los participantes se autoevalúan exclusivamente", "correcta": false, "porQue": "No es lo que plantea la RM." }
+      ],
+      "explicacion": "La RM también reconoce la legitimidad lingüística comunitaria en la expresión de los logros.",
+      "citaTextual": "en la comunidad hay personas sabias y especialistas en determinadas áreas, las que se constituyen en sujetos clave para evaluar aspectos inherentes a su experiencia",
+      "referencia": "RM 1040, Evaluación en Educación Permanente, págs. 33-35", "etiquetas": ["evaluación comunitaria", "caso"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según la RM 1040, ¿cómo se concibe la evaluación en la Educación Permanente?",
+      "opciones": [
+        { "texto": "Como un proceso continuo, integral, holístico, práctico, comunitario, reflexivo y diverso", "correcta": true, "porQue": "Es lo que dice el texto." },
+        { "texto": "Como un examen final escrito", "correcta": false, "porQue": "No es la concepción de la RM." },
+        { "texto": "Como una calificación cuantitativa exclusivamente", "correcta": false, "porQue": "No es la concepción de la RM." },
+        { "texto": "Como un trámite de certificación", "correcta": false, "porQue": "No es la concepción de la RM." }
+      ],
+      "explicacion": "Su propósito es lograr objetivos integrales en las cuatro dimensiones.",
+      "citaTextual": "un proceso continuo, integral, holístico, práctico, comunitario, reflexivo y diverso",
+      "referencia": "RM 1040, págs. 33-35", "etiquetas": ["evaluación"] }
+  ]},
+  { "fragmentoRef": "rm1040-b018", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según la RM 1040, ¿para qué zonas se constituirá fundamentalmente el Centro de Educación Alternativa Integrado (CEA-I), y qué servicios combina?",
+      "opciones": [
+        { "texto": "Para zonas periurbanas y rurales; combina la Educación Formal (Humanística) y la No Formal (Permanente No Escolarizada)", "correcta": true, "porQue": "Es lo que dice el texto." },
+        { "texto": "Para las capitales; solo la Educación Técnica", "correcta": false, "porQue": "No coincide." },
+        { "texto": "Para el exterior; solo la educación a distancia", "correcta": false, "porQue": "Ese es el CEPEAD." },
+        { "texto": "Para cárceles; solo la Educación Permanente", "correcta": false, "porQue": "No coincide." }
+      ],
+      "explicacion": "Sus tramos formativos terminan en certificación de competencias, certificados de cursos cortos y niveles técnicos.",
+      "citaTextual": "será constituido fundamentalmente para zonas periurbanas y rurales",
+      "referencia": "RM 1040, Lineamientos CEA-I, págs. 46-48", "etiquetas": ["CEA-I", "memorística"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "¿Cuál de los siguientes NO es un elemento de la estrategia del CEA-I según la RM 1040?",
+      "opciones": [
+        { "texto": "Atención exclusiva en el turno nocturno urbano", "correcta": true, "porQue": "No figura en la estrategia." },
+        { "texto": "Formación dual: en el trabajo y en el CEA", "correcta": false, "porQue": "Sí figura." },
+        { "texto": "Reconocimiento del certificado del SPCC a niveles técnicos", "correcta": false, "porQue": "Sí figura." },
+        { "texto": "Carácter transterritorial de los servicios", "correcta": false, "porQue": "Sí figura." }
+      ],
+      "explicacion": "La estrategia también incluye equipos multidisciplinarios, metodologías flexibles y copamiento territorial.",
+      "citaTextual": "Reconocimiento del certificado del SPCC a niveles técnicos. ͳ Formación dual: en el trabajo y en el Centro de Educación Alternativa (CEA).",
+      "referencia": "RM 1040, Lineamientos CEA-I, págs. 46-48", "etiquetas": ["CEA-I", "EXCEPTO"] }
+  ]},
+  { "fragmentoRef": "rm1040-b020", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según la RM 1040, ¿con qué momento metodológico del Modelo Sociocomunitario Productivo se relaciona que todo proceso educativo, incluso un curso corto, deba producir algo tangible o intangible?",
+      "opciones": [
+        { "texto": "Con el cuarto momento: la producción", "correcta": true, "porQue": "Es lo que dice el texto." },
+        { "texto": "Con el primero: la práctica", "correcta": false, "porQue": "No coincide." },
+        { "texto": "Con el tercero: la valoración", "correcta": false, "porQue": "No coincide." },
+        { "texto": "Con la evaluación final", "correcta": false, "porQue": "No es un momento metodológico." }
+      ],
+      "explicacion": "Los resultados de un curso corto deben ser concretos y medibles, e incluir la movilización social.",
+      "citaTextual": "en coherencia con el cuarto momento metodológico del modelo educativo: la producción",
+      "referencia": "RM 1040, Cursos cortos, págs. 53-57", "etiquetas": ["momentos metodológicos"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según la RM 1040, ¿qué instancia registra los cursos cortos de la Educación Permanente?",
+      "opciones": [
+        { "texto": "El Sistema de Información Educativa (SIE) del Ministerio de Educación", "correcta": true, "porQue": "Es lo que dice el texto." },
+        { "texto": "El SPCC", "correcta": false, "porQue": "Capciosa: el SPCC certifica competencias." },
+        { "texto": "La Dirección Distrital en libros físicos", "correcta": false, "porQue": "No es lo que dice el texto." },
+        { "texto": "El SEGIP", "correcta": false, "porQue": "No corresponde." }
+      ],
+      "explicacion": "Los cursos se organizan por ejes temáticos, como Liderazgo y Normativa.",
+      "citaTextual": "El Sistema de Información Educativa (SIE) del Ministerio de Educación, es la encargada de realizar los registros de los cursos cortos",
+      "referencia": "RM 1040, págs. 53-57", "etiquetas": ["SIE", "capciosa"] }
+  ]},
+  { "fragmentoRef": "rm1040-b007", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "¿Cuál de las siguientes NO figura entre las problemáticas estructurales que identifica la RM 1040 en su análisis de la realidad?",
+      "opciones": [
+        { "texto": "El exceso de oferta de docentes calificados", "correcta": true, "porQue": "No figura en el texto." },
+        { "texto": "El conocimiento colonial desvinculado de nuestra realidad", "correcta": false, "porQue": "Sí figura." },
+        { "texto": "La crisis climática y la destrucción del planeta", "correcta": false, "porQue": "Sí figura." },
+        { "texto": "La alienación y la pérdida de la identidad de nuestros pueblos", "correcta": false, "porQue": "Sí figura." }
+      ],
+      "explicacion": "Otra problemática es la deshumanización, la violencia y las desigualdades sociales.",
+      "citaTextual": "Conocimiento colonial desvinculado de nuestra realidad.",
+      "referencia": "RM 1040, Análisis de la realidad, págs. 21-23", "etiquetas": ["problemáticas", "EXCEPTO"] }
+  ]},
+  { "fragmentoRef": "rm1040-b003", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según los antecedentes históricos de la RM 1040, ¿qué finalidad tenían los procesos educativos durante la Colonia?",
+      "opciones": [
+        { "texto": "Legitimar el dominio colonial y reconfigurar la cultura de los pueblos indígenas hacia el referente europeo, en beneficio de la corona española", "correcta": true, "porQue": "Es lo que dice el texto." },
+        { "texto": "Universalizar la educación para todos", "correcta": false, "porQue": "A los indígenas se les negaba el acceso." },
+        { "texto": "Promover la interculturalidad", "correcta": false, "porQue": "No es lo que dice el texto." },
+        { "texto": "Formar técnicos productivos indígenas", "correcta": false, "porQue": "No es lo que dice el texto." }
+      ],
+      "explicacion": "Se desarrollaron dos tipos de educación, según el estatus de colonizadores y colonizados.",
+      "citaTextual": "los procesos educativos no tenían sino el fin de legitimar el dominio colonial y reconfigurar la cultura de los pueblos indígenas originarios hacia el referente europeo",
+      "referencia": "RM 1040, Antecedentes históricos, págs. 13-15", "etiquetas": ["historia"] }
+  ]},
+  { "fragmentoRef": "rm1040-b001", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "En las siglas de los Lineamientos de la RM 1040, ¿qué significa «ED.A.P»?",
+      "opciones": [
+        { "texto": "Educación Abierta y Plural", "correcta": true, "porQue": "Es lo que dice la lista de siglas." },
+        { "texto": "Educación para el Arte y la Cultura", "correcta": false, "porQue": "Esa es ED.A.C." },
+        { "texto": "Educación Productiva Comunitaria", "correcta": false, "porQue": "Esa es E.PRO.C." },
+        { "texto": "Educación para la Convivencia con la Madre Tierra", "correcta": false, "porQue": "Esa es E.CO.M.T." }
+      ],
+      "explicacion": "Los cinco programas son F.O.S, E.PRO.C, ED.A.C, ED.A.P y E.CO.M.T.",
+      "citaTextual": "ED.A.P Educación Abierta y Plural",
+      "referencia": "RM 1040, Siglas, págs. 1-10", "etiquetas": ["siglas", "memorística"] }
+  ]}
+]

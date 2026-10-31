@@ -1,0 +1,146 @@
+[
+  { "fragmentoRef": "lidei2022-b001", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "¿Quiénes realizaron el estudio LIDEI 2022 y bajo qué supervisión?",
+      "opciones": [
+        { "texto": "José Augusto Pacheco y Consuelo Vélaz-de-Medrano Ureta, bajo la supervisión de la OEI y del INEE de España", "correcta": true, "porQue": "Es lo que dice la página de créditos." },
+        { "texto": "Michael Fullan y Andy Hargreaves, bajo la supervisión de la OCDE", "correcta": false, "porQue": "Son autores citados, no los autores del estudio." },
+        { "texto": "Denise Vaillant, para la UNESCO", "correcta": false, "porQue": "Vaillant es una autora citada." },
+        { "texto": "El LLECE de la OREALC", "correcta": false, "porQue": "El LLECE elabora el ERCE." }
+      ],
+      "explicacion": "El cuestionario lo diseñaron la OEI y el INEE, y los datos los analizó el INEE.",
+      "citaTextual": "Ha sido realizado por José Augusto Pacheco y Consuelo Vélaz-de-Medrano Ureta.",
+      "referencia": "OEI, Liderazgo directivo 2022, págs. 1-7", "etiquetas": ["autoría", "memorística"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "¿Cómo se denomina el modelo de liderazgo cuya revisión conceptual sintetiza el capítulo 1 de LIDEI 2022?",
+      "opciones": [
+        { "texto": "Liderazgo pedagógico, inclusivo, distribuido y contextualizado", "correcta": true, "porQue": "Es el título del capítulo 1." },
+        { "texto": "Liderazgo transformacional y carismático", "correcta": false, "porQue": "No es el modelo del informe." },
+        { "texto": "Liderazgo burocrático-administrativo", "correcta": false, "porQue": "Es el modelo que se busca superar." },
+        { "texto": "Liderazgo situacional exclusivamente", "correcta": false, "porQue": "Es solo una sección del cuestionario, sobre la pandemia." }
+      ],
+      "explicacion": "La estructura del informe tiene cuatro capítulos y un anexo con el cuestionario.",
+      "citaTextual": "El modelo de liderazgo pedagógico, inclusivo, distribuido y contextualizado",
+      "referencia": "OEI, Liderazgo directivo 2022, págs. 1-7", "etiquetas": ["modelo", "memorística"] }
+  ]},
+  { "fragmentoRef": "lidei2022-b011", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según Bolívar (2018), citado en LIDEI 2022, ¿qué cambio se plantea en el modelo de dirección escolar español?",
+      "opciones": [
+        { "texto": "Pasar de una dirección limitada a la gestión (modelo burocrático-administrativista) a un liderazgo educativo o dirección pedagógica", "correcta": true, "porQue": "Es lo que plantea el texto." },
+        { "texto": "Pasar de un liderazgo pedagógico a uno administrativo", "correcta": false, "porQue": "Capciosa: está invertido." },
+        { "texto": "Eliminar la figura del director", "correcta": false, "porQue": "No es lo que plantea el texto." },
+        { "texto": "Centralizar las decisiones en la Administración", "correcta": false, "porQue": "Es lo contrario." }
+      ],
+      "explicacion": "La cultura escolar del individualismo y la privacidad docente impide el liderazgo pedagógico.",
+      "citaTextual": "se plantea ahora pasar de una dirección limitada a la gestión a un liderazgo educativo o dirección pedagógica",
+      "referencia": "OEI, Liderazgo directivo 2022, págs. 24-26", "etiquetas": ["Bolívar", "capciosa"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según Bolívar (2013), citado en LIDEI 2022, en la nueva perspectiva del liderazgo escolar, la iniciativa y la influencia:",
+      "opciones": [
+        { "texto": "Están distribuidas horizontalmente entre todos los miembros de la escuela, generando un liderazgo múltiple y un proyecto conjunto de acción", "correcta": true, "porQue": "Es lo que dice el texto." },
+        { "texto": "Se concentran en el director", "correcta": false, "porQue": "Es lo contrario." },
+        { "texto": "Dependen de la Administración", "correcta": false, "porQue": "No es lo que dice el texto." },
+        { "texto": "Corresponden solo al equipo directivo", "correcta": false, "porQue": "Alcanzan a todos los miembros." }
+      ],
+      "explicacion": "Sin un proyecto conjunto no hay, propiamente, liderazgo pedagógico.",
+      "citaTextual": "la iniciativa e influencia están distribuidas horizontalmente entre todos los miembros de la escuela",
+      "referencia": "OEI, Liderazgo directivo 2022, págs. 24-26", "etiquetas": ["liderazgo distribuido"] }
+  ]},
+  { "fragmentoRef": "lidei2022-b015", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según LIDEI 2022, ¿qué porcentaje de la oferta educativa de Chile es privada?",
+      "opciones": [
+        { "texto": "El 63% (54% particular subvencionada y 9% particular pagada), frente a un 36% pública", "correcta": true, "porQue": "Es el dato del texto." },
+        { "texto": "El 20%", "correcta": false, "porQue": "Capciosa: el 20% es la proporción de directores de centros privados en la muestra chilena." },
+        { "texto": "El 81%", "correcta": false, "porQue": "El 81% es la matrícula pública en Argentina." },
+        { "texto": "El 67%", "correcta": false, "porQue": "El 67% es la proporción de centros públicos en España." }
+      ],
+      "explicacion": "En Chile existen 3.200 escuelas rurales con unos 200.000 estudiantes.",
+      "citaTextual": "En Chile, el 63% de la oferta educativa es privada (54% particular subvencionada y 9% particular pagada)",
+      "referencia": "OEI, Liderazgo directivo 2022, págs. 35-38", "etiquetas": ["datos", "capciosa"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según LIDEI 2022, ¿cuántos centros rurales agrupados (CRA) existían en España en el curso 2018-19, y qué porcentaje del total representaban?",
+      "opciones": [
+        { "texto": "718 CRA, el 2,5% del total de centros", "correcta": true, "porQue": "Es el dato del texto." },
+        { "texto": "3.200, el 12,2%", "correcta": false, "porQue": "Son datos de Chile (escuelas rurales y población rural)." },
+        { "texto": "100, el 1%", "correcta": false, "porQue": "No coincide." },
+        { "texto": "718, el 25%", "correcta": false, "porQue": "Capciosa: son el 2,5%." }
+      ],
+      "explicacion": "En la encuesta, el 11% de los directores españoles trabaja en localidades de menos de 3.000 habitantes.",
+      "citaTextual": "Existen 718 centros rurales agrupados en España (curso 2018-19). Suponen el 2,5% del total de centros.",
+      "referencia": "OEI, Liderazgo directivo 2022, págs. 35-38", "etiquetas": ["ruralidad", "memorística"] }
+  ]},
+  { "fragmentoRef": "lidei2022-b019", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según LIDEI 2022, ¿qué demanda unánime expresan los directores de los tres países respecto a su salario?",
+      "opciones": [
+        { "texto": "Que la remuneración económica sea más adecuada al grado de responsabilidad que asumen", "correcta": true, "porQue": "Es lo que dice el texto." },
+        { "texto": "Que se elimine el complemento por cargo", "correcta": false, "porQue": "No es la demanda." },
+        { "texto": "Que el salario dependa solo de los resultados de los estudiantes", "correcta": false, "porQue": "No es la demanda." },
+        { "texto": "Que se mantenga igual al de los docentes", "correcta": false, "porQue": "Es lo contrario." }
+      ],
+      "explicacion": "En España, el 75% está «muy poco de acuerdo» con que su salario sea equiparable al de puestos con responsabilidades similares.",
+      "citaTextual": "existe una demanda unánime de que la remuneración económica sea más adecuada al grado de responsabilidad que asumen los directores",
+      "referencia": "OEI, Liderazgo directivo 2022, págs. 43-45", "etiquetas": ["salario"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según TALIS 2018, citado en LIDEI 2022, ¿qué porcentaje de los directores de España está satisfecho con su salario?",
+      "opciones": [
+        { "texto": "42,1%, por debajo de la media OCDE (46,5%)", "correcta": true, "porQue": "Es el dato del texto." },
+        { "texto": "34%", "correcta": false, "porQue": "Capciosa: el 34% es el dato de CABA, en Argentina." },
+        { "texto": "75%", "correcta": false, "porQue": "El 75% es el porcentaje que está «muy poco de acuerdo» con la equiparación salarial." },
+        { "texto": "46,5%", "correcta": false, "porQue": "Es la media OCDE." }
+      ],
+      "explicacion": "En los centros públicos la satisfacción es algo menor que en los privados.",
+      "citaTextual": "el 42,1% de los directores de España está “de acuerdo” o “bastante de acuerdo” con la afirmación de que están satisfechos con el salario",
+      "referencia": "OEI, Liderazgo directivo 2022, págs. 43-45", "etiquetas": ["TALIS", "capciosa"] }
+  ]},
+  { "fragmentoRef": "lidei2022-b024", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según LIDEI 2022, ¿en qué país los directores perciben más autonomía para contratar o renovar al profesorado?",
+      "opciones": [
+        { "texto": "Chile (53%), frente a Argentina (31%) y España (14%)", "correcta": true, "porQue": "Son los datos del texto." },
+        { "texto": "España (53%)", "correcta": false, "porQue": "En España es solo el 14%." },
+        { "texto": "Argentina (53%)", "correcta": false, "porQue": "En Argentina es el 31%." },
+        { "texto": "En los tres por igual (80%)", "correcta": false, "porQue": "El 80% corresponde a la autonomía para flexibilizar el horario." }
+      ],
+      "explicacion": "Los directores de centros privados tienen mucha más autonomía en este ámbito que los de centros públicos.",
+      "citaTextual": "En Chile, el 53% de los directores determinan que sí que tienen poder de decisión a la hora de contratar o renovar al profesorado.",
+      "referencia": "OEI, Liderazgo directivo 2022, págs. 57-60", "etiquetas": ["autonomía", "memorística"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según LIDEI 2022, ¿en qué aspecto de autonomía coinciden alrededor del 80% de los directores de los tres países?",
+      "opciones": [
+        { "texto": "En que tienen bastante o mucha autonomía para flexibilizar su horario y dedicarlo a las distintas tareas de dirección", "correcta": true, "porQue": "Es lo que dice el texto." },
+        { "texto": "En la contratación de docentes", "correcta": false, "porQue": "Ahí los países difieren (14% a 53%)." },
+        { "texto": "En la gestión del presupuesto", "correcta": false, "porQue": "Ahí los países difieren (27% a 86%)." },
+        { "texto": "En definir los salarios", "correcta": false, "porQue": "No es un ítem de autonomía del director." }
+      ],
+      "explicacion": "Capciosa: hay que distinguir los ítems de autonomía con resultados dispares.",
+      "citaTextual": "En los tres países alrededor del 80% de los directores opinan que tienen bastante o mucha autonomía para flexibilizar su horario",
+      "referencia": "OEI, Liderazgo directivo 2022, págs. 57-60", "etiquetas": ["autonomía", "capciosa"] }
+  ]},
+  { "fragmentoRef": "lidei2022-b027", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según LIDEI 2022, ¿qué ocurre con la autonomía de los directores cuando para liderar proyectos de inclusión se necesitan recursos humanos o materiales de la Administración?",
+      "opciones": [
+        { "texto": "Se reducen las posibilidades (62% en Argentina, 73% en Chile y 47% en España)", "correcta": true, "porQue": "Es lo que dice el texto." },
+        { "texto": "La autonomía aumenta", "correcta": false, "porQue": "Es lo contrario." },
+        { "texto": "No cambia respecto a promover la participación", "correcta": false, "porQue": "Baja respecto al 85-97% de autonomía para promover la participación." },
+        { "texto": "Desaparece por completo", "correcta": false, "porQue": "Se reduce, pero no desaparece." }
+      ],
+      "explicacion": "La autonomía es esencial para el liderazgo pedagógico, inclusivo y distribuido.",
+      "citaTextual": "Esto indica que cuando se necesita del esfuerzo económico de las Administraciones se reducen las posibilidades",
+      "referencia": "OEI, Liderazgo directivo 2022, págs. 64-67", "etiquetas": ["autonomía", "recursos"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según LIDEI 2022 (gráfico 33), ¿qué opinión comparte la gran mayoría de directores (96% en Argentina, 87% en Chile y 74% en España)?",
+      "opciones": [
+        { "texto": "Que la complejidad y la duración de los procesos administrativos debilitan su autonomía de decisión", "correcta": true, "porQue": "Es el dato del inciso d) del gráfico." },
+        { "texto": "Que se sienten más cómodos siguiendo instrucciones que ejerciendo su autonomía", "correcta": false, "porQue": "Ese ítem tiene porcentajes bajos (20% a 31%)." },
+        { "texto": "Que se sienten respaldados por la Administración", "correcta": false, "porQue": "No coincide." },
+        { "texto": "Que no desean autonomía", "correcta": false, "porQue": "No coincide." }
+      ],
+      "explicacion": "Además, entre el 80% y el 92% siente que sus acciones están mediatizadas por la Administración.",
+      "citaTextual": "Considera que la complejidad y duración de los procesos administrativos debilitan la autonomía de decisión de los directores y directoras",
+      "referencia": "OEI, Liderazgo directivo 2022, págs. 64-67", "etiquetas": ["burocracia", "memorística"] }
+  ]}
+]
