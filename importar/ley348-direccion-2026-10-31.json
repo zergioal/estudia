@@ -1,0 +1,264 @@
+[
+  { "fragmentoRef": "ley348-art07", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según el Art. 7 de la Ley 348, la \"Violencia en el Sistema Educativo Plurinacional\" comprende todo acto de agresión física, psicológica o sexual contra las mujeres en:",
+      "opciones": [
+        { "texto": "El sistema educativo regular, alternativo, especial y superior", "correcta": true, "porQue": "Es el alcance del numeral 12; incluye expresamente la educación alternativa." },
+        { "texto": "Solo el sistema educativo regular", "correcta": false, "porQue": "Alcanza a todos los subsistemas." },
+        { "texto": "El sistema regular y el superior, excluyendo los centros de educación alternativa", "correcta": false, "porQue": "La educación alternativa está incluida." },
+        { "texto": "Solo las universidades y las escuelas superiores de formación de maestros", "correcta": false, "porQue": "Alcanza también a la educación regular, alternativa y especial." }
+      ],
+      "explicacion": "La violencia en el sistema educativo es un tipo específico que cubre todos los subsistemas, incluidos los CEA.",
+      "citaTextual": "Es todo acto de agresión física, psicológica o sexual cometido contra las mujeres en el sistema educativo regular, alternativo, especial y superior.",
+      "referencia": "Ley 348, Art. 7, num. 12, págs. 12-15", "etiquetas": ["tipos de violencia", "sistema educativo"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Una participante acude a la secretaría de un CEA fiscal para pedir su certificado, y el funcionario, con trato humillante, retarda y niega la atención por ser mujer de pollera. Según la Ley 348, ¿qué tipo de violencia se configura?",
+      "opciones": [
+        { "texto": "Violencia institucional", "correcta": true, "porQue": "El numeral 14 la define como la acción u omisión de servidores públicos que retarda, obstaculiza o niega el acceso al servicio con trato discriminatorio y humillante." },
+        { "texto": "Violencia mediática", "correcta": false, "porQue": "La mediática la producen los medios masivos de comunicación." },
+        { "texto": "Violencia laboral", "correcta": false, "porQue": "La laboral se da en el ámbito de trabajo de la mujer; aquí ella es usuaria del servicio." },
+        { "texto": "Violencia simbólica", "correcta": false, "porQue": "La simbólica consiste en mensajes y valores que naturalizan la subordinación; aquí hay una negación concreta del servicio." }
+      ],
+      "explicacion": "Violencia institucional: un servidor público o personal privado retarda, obstaculiza o niega a la mujer el acceso al servicio con trato discriminatorio o humillante.",
+      "citaTextual": "Es toda acción u omisión de servidoras o servidores públicos o de personal de instituciones privadas, que implique una acción discriminatoria, prejuiciosa, humillante y deshumanizada que retarde, obstaculice, menoscabe o niegue a las mujeres el acceso y atención al servicio requerido.",
+      "referencia": "Ley 348, Art. 7, num. 14, págs. 12-15", "etiquetas": ["violencia institucional", "caso"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Un texto de estudio presenta sistemáticamente a las mujeres solo en tareas domésticas y subordinadas a los varones. Según la Ley 348, esos contenidos corresponden a:",
+      "opciones": [
+        { "texto": "Violencia simbólica y/o encubierta, porque transmiten mensajes que naturalizan la subordinación de las mujeres", "correcta": true, "porQue": "El numeral 5 la define así." },
+        { "texto": "Violencia mediática", "correcta": false, "porQue": "La mediática es la producida por los medios masivos de comunicación, no por textos escolares." },
+        { "texto": "Violencia psicológica", "correcta": false, "porQue": "La psicológica son acciones sistemáticas de desvalorización e intimidación sobre una mujer concreta." },
+        { "texto": "Violencia contra la dignidad, la honra y el nombre", "correcta": false, "porQue": "Esa es la ofensa, el insulto o la difamación de una mujer concreta." }
+      ],
+      "explicacion": "Los materiales con estereotipos son violencia simbólica; por eso el Art. 19 obliga a prohibir como textos de estudio los materiales con contenidos sexistas.",
+      "citaTextual": "que transmiten, reproducen y consolidan relaciones de dominación, exclusión, desigualdad y discriminación, naturalizando la subordinación de las mujeres",
+      "referencia": "Ley 348, Art. 7, num. 5, págs. 12-15", "etiquetas": ["violencia simbólica", "materiales educativos"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según la Ley 348, la violencia laboral puede provenir de:",
+      "opciones": [
+        { "texto": "Cualquier persona de superior, igual o inferior jerarquía", "correcta": true, "porQue": "El numeral 11 incluye las tres jerarquías." },
+        { "texto": "Solo de un superior jerárquico", "correcta": false, "porQue": "La ley la extiende a pares y a subordinados." },
+        { "texto": "Solo del empleador o de su representante", "correcta": false, "porQue": "Puede provenir de cualquier persona del ámbito laboral." },
+        { "texto": "De superiores y pares, pero nunca de subordinados", "correcta": false, "porQue": "La ley menciona expresamente la inferior jerarquía." }
+      ],
+      "explicacion": "La violencia laboral (discriminar, humillar, amenazar u obstaculizar el acceso, la permanencia o el ascenso) puede venir de cualquier nivel jerárquico.",
+      "citaTextual": "por parte de cualquier persona de superior, igual o inferior jerarquía que discrimina, humilla, amenaza o intimida a las mujeres",
+      "referencia": "Ley 348, Art. 7, num. 11, págs. 12-15", "etiquetas": ["violencia laboral"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según la Ley 348, la violencia psicológica se caracteriza por:",
+      "opciones": [
+        { "texto": "Acciones sistemáticas de desvalorización, intimidación y control del comportamiento y las decisiones de las mujeres, que disminuyen su autoestima", "correcta": true, "porQue": "Es la definición del numeral 3." },
+        { "texto": "Toda expresión verbal o escrita de ofensa o difamación, tendenciosa o pública", "correcta": false, "porQue": "Esa es la violencia contra la dignidad, la honra y el nombre (num. 6)." },
+        { "texto": "Mensajes y símbolos sociales que naturalizan la subordinación", "correcta": false, "porQue": "Esa es la violencia simbólica (num. 5)." },
+        { "texto": "Toda acción que ocasiona lesiones o daño corporal", "correcta": false, "porQue": "Esa es la violencia física (num. 1)." }
+      ],
+      "explicacion": "La violencia psicológica es sistemática: desvalorización, intimidación y control, con efectos como baja autoestima, depresión, inestabilidad e incluso suicidio.",
+      "citaTextual": "Es el conjunto de acciones sistemáticas de desvalorización, intimidación y control del comportamiento, y decisiones de las mujeres",
+      "referencia": "Ley 348, Art. 7, num. 3, págs. 12-15", "etiquetas": ["violencia psicológica"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Sobre la enumeración de las formas de violencia del Art. 7 de la Ley 348, ¿cuál afirmación es CORRECTA?",
+      "opciones": [
+        { "texto": "Es enunciativa y no limitativa, e incluye \"cualquier otra forma de violencia\" que dañe la dignidad, integridad o libertad de las mujeres", "correcta": true, "porQue": "El encabezado y el numeral 17 lo establecen." },
+        { "texto": "Es taxativa: solo son violencia las formas enumeradas", "correcta": false, "porQue": "La ley dice expresamente que es enunciativa, no limitativa." },
+        { "texto": "Se limita a cuatro formas: física, psicológica, sexual y económica", "correcta": false, "porQue": "Esas son las formas marco; dentro de ellas la ley enumera diecisiete." },
+        { "texto": "Solo se aplica a la violencia en el ámbito familiar", "correcta": false, "porQue": "Incluye ámbitos laborales, educativos, institucionales, mediáticos y otros." }
+      ],
+      "explicacion": "El Art. 7 enumera, de forma no limitativa, 16 formas más una cláusula abierta (num. 17).",
+      "citaTextual": "de forma enunciativa, no limitativa, se consideran formas de violencia",
+      "referencia": "Ley 348, Art. 7, págs. 12-15", "etiquetas": ["tipos de violencia"] }
+  ]},
+  { "fragmentoRef": "ley348-art19", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Una maestra de un CEA detecta indicios de que una participante sufre violencia en su hogar, pero decide no reportarlo para no involucrarse. Según el Art. 19 de la Ley 348:",
+      "opciones": [
+        { "texto": "Es pasible de las sanciones legales que correspondan, porque el personal docente que detecta una situación de violencia y no la reporta incurre en responsabilidad", "correcta": true, "porQue": "El par. III lo dispone para el personal docente, administrativo o de apoyo profesional." },
+        { "texto": "No tiene responsabilidad, porque la violencia ocurrió fuera del centro", "correcta": false, "porQue": "La obligación nace de detectar la situación, no del lugar donde ocurre." },
+        { "texto": "Solo tiene responsabilidad el director, no la maestra", "correcta": false, "porQue": "La norma alcanza al personal docente, administrativo y de apoyo." },
+        { "texto": "Reportar es opcional si la participante es mayor de edad", "correcta": false, "porQue": "El par. III no hace esa distinción." }
+      ],
+      "explicacion": "El personal docente, administrativo o de apoyo que detecta violencia y no la reporta es pasible de sanciones legales.",
+      "citaTextual": "El personal docente, administrativo o de apoyo profesional que, habiendo detectado una situación de violencia no la hubiera reportado, será pasible a las sanciones legales que correspondan.",
+      "referencia": "Ley 348, Art. 19, par. III, págs. 24-25", "etiquetas": ["obligación de reportar", "caso"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según el Art. 19 de la Ley 348, ¿qué centro debe crear el Ministerio de Educación en las unidades educativas, y en qué condiciones?",
+      "opciones": [
+        { "texto": "Un centro de atención psicológica con especialidad obligatoria en violencia, en convenio con universidades públicas o privadas", "correcta": true, "porQue": "Es la medida del par. I, num. 3." },
+        { "texto": "Una oficina de la Defensoría de la Niñez dentro de cada unidad", "correcta": false, "porQue": "La ley no crea defensorías dentro de las unidades educativas." },
+        { "texto": "Un servicio legal gratuito en convenio con los municipios", "correcta": false, "porQue": "La medida es de atención psicológica, en convenio con universidades." },
+        { "texto": "Un consultorio médico con atención en salud sexual", "correcta": false, "porQue": "No es la medida del num. 3." }
+      ],
+      "explicacion": "El centro atiende a estudiantes que viven en familias en situación de violencia, con especialidad obligatoria en violencia y en convenio con universidades.",
+      "citaTextual": "Crear en las unidades educativas un centro de atención psicológica, con especialidad obligatoria en violencia, en convenio con universidades públicas o privadas",
+      "referencia": "Ley 348, Art. 19, par. I, num. 3, págs. 24-25", "etiquetas": ["atención psicológica", "ámbito educativo"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Una mujer en situación de violencia cambia de domicilio y pide trasladar a sus hijos a otra unidad educativa a mitad de gestión. Según la Ley 348, ¿qué corresponde?",
+      "opciones": [
+        { "texto": "Garantizar el traspaso inmediato de sus hijas e hijos a las unidades educativas que correspondan", "correcta": true, "porQue": "Es la medida del par. I, num. 4." },
+        { "texto": "Esperar el cierre del trimestre para hacer el traspaso", "correcta": false, "porQue": "La ley exige un traspaso inmediato." },
+        { "texto": "Exigir antes la sentencia judicial que acredite la violencia", "correcta": false, "porQue": "La ley no condiciona el traspaso a una sentencia." },
+        { "texto": "Tramitar el traspaso solo si hay cupo, en el plazo ordinario", "correcta": false, "porQue": "La ley garantiza el traspaso inmediato." }
+      ],
+      "explicacion": "El sistema educativo debe facilitar de inmediato la continuidad escolar de los hijos de mujeres en situación de violencia que cambian de domicilio.",
+      "citaTextual": "Garantizar el traspaso inmediato a las unidades educativas que correspondan, de las hijas e hijos de mujeres en situación de violencia, si se produce un cambio de domicilio.",
+      "referencia": "Ley 348, Art. 19, par. I, num. 4, págs. 24-25", "etiquetas": ["traspasos", "caso"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según la Ley 348, ¿qué instrumento debe elaborar el Ministerio de Educación para el tratamiento de las denuncias de violencia escolar y acoso sexual?",
+      "opciones": [
+        { "texto": "Reglamentos y un protocolo único, con mecanismos de protección y atención especializada a niñas, niños y adolescentes víctimas", "correcta": true, "porQue": "Es la medida del par. I, num. 6." },
+        { "texto": "Un protocolo distinto en cada unidad educativa, aprobado por su Consejo Educativo", "correcta": false, "porQue": "La ley pide un protocolo único." },
+        { "texto": "Un reglamento disciplinario solo para estudiantes", "correcta": false, "porQue": "El protocolo se refiere a las denuncias de todas las formas de violencia escolar y de acoso sexual." },
+        { "texto": "Un convenio de derivación al Ministerio Público sin protocolo propio", "correcta": false, "porQue": "La ley exige reglamentos y un protocolo único." }
+      ],
+      "explicacion": "Las medidas del Art. 19 incluyen una política de prevención del acoso sexual y un protocolo único de denuncias.",
+      "citaTextual": "Elaborar reglamentos y un protocolo único para el tratamiento de denuncias de todas las formas de violencia escolar y acoso sexual",
+      "referencia": "Ley 348, Art. 19, par. I, num. 6, págs. 24-25", "etiquetas": ["protocolo", "acoso sexual"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según el Art. 19 de la Ley 348, ¿con quién debe coordinar el Ministerio de Educación sus políticas de prevención, protección y tratamiento de la violencia en el sistema educativo?",
+      "opciones": [
+        { "texto": "Con el Ente Rector", "correcta": true, "porQue": "Lo dispone el par. II." },
+        { "texto": "Con el Ministerio de Gobierno", "correcta": false, "porQue": "La coordinación es con el Ente Rector." },
+        { "texto": "Con las Defensorías de la Niñez y Adolescencia", "correcta": false, "porQue": "No figuran en el par. II." },
+        { "texto": "Con el Consejo Educativo Plurinacional", "correcta": false, "porQue": "No figura en el par. II." }
+      ],
+      "explicacion": "Las políticas educativas contra la violencia hacia las mujeres se coordinan con el Ente Rector de la Ley 348.",
+      "citaTextual": "serán coordinadas con el Ente Rector",
+      "referencia": "Ley 348, Art. 19, par. II, págs. 24-25", "etiquetas": ["coordinación", "ente rector"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Una unidad educativa recibe en donación textos con mensajes sexistas y discriminatorios hacia las mujeres. Según el Art. 19 de la Ley 348, ¿qué corresponde?",
+      "opciones": [
+        { "texto": "No usarlos como textos de estudio, porque el Ministerio debe prohibir los materiales con contenidos sexistas y promover los que tienen enfoque de equidad de género", "correcta": true, "porQue": "Es la medida del par. I, num. 7." },
+        { "texto": "Usarlos con una advertencia, porque la donación no puede rechazarse", "correcta": false, "porQue": "La ley prohíbe esos materiales como textos de estudio." },
+        { "texto": "Usarlos solo en el nivel secundario", "correcta": false, "porQue": "La prohibición no distingue niveles." },
+        { "texto": "Consultar a los padres de familia y decidir por mayoría", "correcta": false, "porQue": "La prohibición es legal y no está sujeta a votación." }
+      ],
+      "explicacion": "Se prohíben como textos de estudio los materiales sexistas, violentos o discriminatorios, y se promueve material con equidad de género.",
+      "citaTextual": "Prohibir como textos de estudio, materiales educativos con contenidos sexistas, mensajes violentos y discriminatorios hacia las mujeres",
+      "referencia": "Ley 348, Art. 19, par. I, num. 7, págs. 24-25", "etiquetas": ["materiales educativos", "caso"] }
+  ]},
+  { "fragmentoRef": "ley348-art42", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Una estudiante de 16 años cuenta a su director que es víctima de violencia. Según el Art. 42 de la Ley 348, ¿ante qué instancias se presenta formalmente la denuncia, y a cuál se puede acudir para promoverla por su edad?",
+      "opciones": [
+        { "texto": "La denuncia se presenta ante la Policía Boliviana o el Ministerio Público; para promoverla se puede acudir a la Defensoría de la Niñez y Adolescencia", "correcta": true, "porQue": "El par. I fija las instancias de denuncia, y el par. II, num. 2, la Defensoría para menores de 18 años." },
+        { "texto": "Solo ante la Defensoría de la Niñez, que resuelve el caso", "correcta": false, "porQue": "La Defensoría ayuda a promover la denuncia, pero las instancias de denuncia son la Policía y el Ministerio Público." },
+        { "texto": "Ante la Dirección Distrital de Educación, que sanciona al agresor", "correcta": false, "porQue": "La Distrital no es instancia de denuncia de delitos de violencia." },
+        { "texto": "Solo ante el Servicio Legal Integral Municipal, por ser menor de edad", "correcta": false, "porQue": "El SLIM promueve la denuncia; para menores de 18 años se menciona la Defensoría de la Niñez." }
+      ],
+      "explicacion": "La denuncia (de la víctima o de cualquier persona) se presenta ante la Policía o el Ministerio Público. Para promoverla se puede acudir a los SLIM, a las Defensorías de la Niñez (menores de 18), a los SIJPLU, al SEPDAVI o a las autoridades IOC.",
+      "citaTextual": "Defensorías de la Niñez y Adolescencia, cuando la persona agredida sea menor de 18 años.",
+      "referencia": "Ley 348, Art. 42, págs. 44", "etiquetas": ["denuncia", "caso"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según la Ley 348, una vez conocida la denuncia de un hecho de violencia que constituye delito, ¿qué debe hacerse?",
+      "opciones": [
+        { "texto": "Remitirla de inmediato al Ministerio Público y reportarla al SIPPASE", "correcta": true, "porQue": "Es lo que dispone el Art. 42, par. III." },
+        { "texto": "Intentar primero una conciliación entre las partes", "correcta": false, "porQue": "La conciliación está prohibida cuando están comprometidas la vida o la integridad sexual (Art. 46)." },
+        { "texto": "Archivarla hasta que la víctima la ratifique por escrito", "correcta": false, "porQue": "La ley exige remitirla de inmediato." },
+        { "texto": "Remitirla al Ministerio de Educación para su registro", "correcta": false, "porQue": "El registro corresponde al SIPPASE." }
+      ],
+      "explicacion": "Las denuncias que constituyen delito se remiten de inmediato al Ministerio Público (salvo la vía IOC) y se reportan al SIPPASE.",
+      "citaTextual": "deberá ser remitida de inmediato al Ministerio Público cuando constituya delito",
+      "referencia": "Ley 348, Art. 42, par. III, pág. 44", "etiquetas": ["denuncia", "SIPPASE"] }
+  ]},
+  { "fragmentoRef": "ley348-art46", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Una maestra denuncia agresión sexual de un colega. El director propone reunirlos para firmar un acta de entendimiento y \"evitar escándalos\". Según la Ley 348:",
+      "opciones": [
+        { "texto": "Está prohibido: la conciliación está prohibida en hechos que comprometan la vida y la integridad sexual, y ninguna institución puede promover acuerdos entre la mujer y su agresor", "correcta": true, "porQue": "Es lo que dispone el Art. 46, par. I." },
+        { "texto": "Es válido si ambas partes firman voluntariamente", "correcta": false, "porQue": "En hechos contra la integridad sexual la conciliación está prohibida, y además no puede promoverla la institución." },
+        { "texto": "Es válido como paso previo a la denuncia formal", "correcta": false, "porQue": "La ley no admite esa conciliación previa." },
+        { "texto": "Es obligatorio, para descongestionar la carga procesal", "correcta": false, "porQue": "El par. III rechaza expresamente la conciliación para evitar carga procesal." }
+      ],
+      "explicacion": "Ninguna institución receptora de denuncias puede promover la conciliación; hacerlo genera responsabilidad. Cuando están comprometidas la vida o la integridad sexual, está prohibida.",
+      "citaTextual": "La conciliación está prohibida en cualquier hecho de violencia contra las mujeres, que comprometa su vida e integridad sexual.",
+      "referencia": "Ley 348, Art. 46, par. I, pág. 47", "etiquetas": ["prohibición de conciliar", "caso"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según la Ley 348, en los casos en que la conciliación no está prohibida, ¿en qué condiciones puede excepcionalmente promoverse?",
+      "opciones": [
+        { "texto": "Solo por iniciativa de la víctima, por única vez y nunca en casos de reincidencia", "correcta": true, "porQue": "Es la excepción del Art. 46, par. IV." },
+        { "texto": "A iniciativa del fiscal, hasta dos veces", "correcta": false, "porQue": "Solo puede promoverla la víctima, y por única vez." },
+        { "texto": "A iniciativa de cualquiera de las partes, si no hay lesiones graves", "correcta": false, "porQue": "Solo la víctima puede promoverla." },
+        { "texto": "Por la institución receptora, para evitar carga procesal", "correcta": false, "porQue": "Está prohibido expresamente (par. III)." }
+      ],
+      "explicacion": "La conciliación excepcional exige la iniciativa exclusiva de la víctima, por una sola vez y sin reincidencia; nunca bajo presión ni para reducir carga procesal.",
+      "citaTextual": "Excepcionalmente la conciliación podrá ser promovida únicamente por la víctima, sólo por única vez y no siendo posible en casos de reincidencia.",
+      "referencia": "Ley 348, Art. 46, par. IV, pág. 47", "etiquetas": ["conciliación"] }
+  ]},
+  { "fragmentoRef": "ley348-art03", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según la Ley 348, ¿por qué el Estado asume como prioridad nacional la erradicación de la violencia hacia las mujeres?",
+      "opciones": [
+        { "texto": "Por ser una de las formas más extremas de discriminación en razón de género", "correcta": true, "porQue": "Es la justificación del Art. 3, par. I." },
+        { "texto": "Por ser la principal causa de abandono escolar", "correcta": false, "porQue": "No es la razón que da la ley." },
+        { "texto": "Por mandato exclusivo de los tratados internacionales", "correcta": false, "porQue": "La ley lo funda en que es una forma extrema de discriminación." },
+        { "texto": "Por su costo económico para la seguridad social", "correcta": false, "porQue": "No figura en el Art. 3." }
+      ],
+      "explicacion": "La prioridad nacional obliga a todos los órganos e instituciones públicas a asignar con carácter obligatorio recursos económicos y humanos suficientes.",
+      "citaTextual": "por ser una de las formas más extremas de discriminación en razón de género",
+      "referencia": "Ley 348, Art. 3, par. I, págs. 7-8", "etiquetas": ["prioridad nacional"] }
+  ]},
+  { "fragmentoRef": "ley348-art47", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según el Art. 47 de la Ley 348, en caso de conflicto o colisión entre derechos individuales y colectivos, ¿a qué derechos se da preferencia?",
+      "opciones": [
+        { "texto": "A los derechos para la dignidad de las mujeres reconocidos en los tratados de derechos humanos, la CPE y la Ley 348", "correcta": true, "porQue": "Es el principio de aplicación preferente del Art. 47." },
+        { "texto": "A los derechos colectivos de la comunidad", "correcta": false, "porQue": "La preferencia es para los derechos de dignidad de las mujeres." },
+        { "texto": "A los derechos del presunto agresor, por la presunción de inocencia", "correcta": false, "porQue": "No es lo que establece el Art. 47." },
+        { "texto": "Al derecho que la autoridad judicial considere más antiguo", "correcta": false, "porQue": "La ley no usa ese criterio." }
+      ],
+      "explicacion": "La aplicación preferente resuelve colisiones de derechos a favor de la dignidad de las mujeres.",
+      "citaTextual": "se dará preferencia a los derechos para la dignidad de las mujeres",
+      "referencia": "Ley 348, Art. 47, pág. 48", "etiquetas": ["aplicación preferente"] }
+  ]},
+  { "fragmentoRef": "ley348-art48", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según la Ley 348, los Servicios Integrados de Justicia Plurinacional (SIJPLU), que reciben denuncias y brindan orientación y patrocinio legal gratuito, dependen de:",
+      "opciones": [
+        { "texto": "El Ministerio de Justicia", "correcta": true, "porQue": "Lo dispone el Art. 48." },
+        { "texto": "Los Gobiernos Autónomos Municipales", "correcta": false, "porQue": "De los municipios dependen los SLIM, no los SIJPLU." },
+        { "texto": "El Ministerio Público", "correcta": false, "porQue": "El Ministerio Público ejerce la acción penal; los SIJPLU dependen del Ministerio de Justicia." },
+        { "texto": "El Órgano Judicial", "correcta": false, "porQue": "No dependen del Órgano Judicial." }
+      ],
+      "explicacion": "Los SIJPLU (Ministerio de Justicia) reciben denuncias y dan patrocinio legal gratuito con enfoque de derechos humanos; el Ministerio debe implementarlos progresivamente en todo el país.",
+      "citaTextual": "Los Servicios Integrados de Justicia Plurinacional dependientes del Ministerio de Justicia, reciben denuncias y brindan orientación y patrocinio legal gratuito",
+      "referencia": "Ley 348, Art. 48, pág. 48", "etiquetas": ["SIJPLU"] }
+  ]},
+  { "fragmentoRef": "ley348-art45", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Tras una denuncia, la dirección de un centro pide a la víctima repetir su relato varias veces ante distintos funcionarios \"para estar seguros\". ¿Qué garantía de la Ley 348 se vulnera?",
+      "opciones": [
+        { "texto": "La protección de su dignidad e integridad, evitando la revictimización", "correcta": true, "porQue": "El Art. 45, num. 7 garantiza evitar la revictimización por parte de cualquier responsable de la atención o investigación." },
+        { "texto": "El acceso al crédito", "correcta": false, "porQue": "No es una garantía del Art. 45." },
+        { "texto": "La gratuidad del diploma de bachiller", "correcta": false, "porQue": "No guarda relación con el caso." },
+        { "texto": "La aplicación preferente de los derechos colectivos", "correcta": false, "porQue": "El Art. 47 da preferencia a los derechos de las mujeres, no a los colectivos." }
+      ],
+      "explicacion": "Hacer repetir el relato una y otra vez expone a la víctima a revictimización, contraria a la garantía del Art. 45, num. 7.",
+      "citaTextual": "La protección de su dignidad e integridad, evitando la revictimización y maltrato que pudiera recibir de cualquier persona responsable de su atención",
+      "referencia": "Ley 348, Art. 45, num. 7, págs. 46-47", "etiquetas": ["revictimización", "caso"] }
+  ]},
+  { "fragmentoRef": "ley348-art21", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Para contratar a una facilitadora, un CEA de convenio le exige una prueba de embarazo. Según el Art. 21 de la Ley 348:",
+      "opciones": [
+        { "texto": "Está expresamente prohibido exigir pruebas de embarazo, de VIH u otras que afecten la decisión más allá de la idoneidad", "correcta": true, "porQue": "El par. I, num. 2 lo prohíbe de manera expresa." },
+        { "texto": "Es válido si el cargo implica esfuerzo físico", "correcta": false, "porQue": "La prohibición no admite esa excepción." },
+        { "texto": "Es válido solo en instituciones privadas", "correcta": false, "porQue": "Las medidas alcanzan al sector público y al privado." },
+        { "texto": "Es válido si la prueba es gratuita y confidencial", "correcta": false, "porQue": "La gratuidad no levanta la prohibición." }
+      ],
+      "explicacion": "El acceso, el ascenso, el salario y la estabilidad deben depender de la idoneidad: se prohíben las pruebas de laboratorio, de VIH o de embarazo y las entrevistas sobre la vida personal.",
+      "citaTextual": "Deberá prohibirse, de manera expresa, la presentación de pruebas de laboratorio, prueba de VIH/SIDA, de embarazo",
+      "referencia": "Ley 348, Art. 21, par. I, num. 2, págs. 28-30", "etiquetas": ["ámbito laboral", "caso"] }
+  ]},
+  { "fragmentoRef": "ley348-art17", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según la Ley 348, la \"prevención estructural\" comprende medidas de carácter integral destinadas a:",
+      "opciones": [
+        { "texto": "Modificar las actitudes, prácticas, reacciones, acciones y omisiones que tienen como efecto la violencia contra las mujeres, mediante sensibilización y educación en la familia, la escuela, el trabajo y otros ámbitos", "correcta": true, "porQue": "Es la definición del Art. 17, par. I, num. 1." },
+        { "texto": "Sancionar penalmente al agresor una vez cometido el hecho", "correcta": false, "porQue": "La sanción no es prevención estructural." },
+        { "texto": "Brindar refugio temporal a la víctima", "correcta": false, "porQue": "Es una medida de atención, no de prevención estructural." },
+        { "texto": "Exclusivamente campañas en medios de comunicación", "correcta": false, "porQue": "La prevención estructural es integral e incluye la escuela, la familia y el trabajo." }
+      ],
+      "explicacion": "La prevención estructural busca cambiar los comportamientos que toleran o naturalizan la violencia, con educación en la familia, la escuela y otros espacios.",
+      "citaTextual": "Comprende todas aquellas medidas de carácter integral destinadas a modificar las actitudes, prácticas, reacciones, acciones y omisiones que tienen como efecto y consecuencia la violencia contra las mujeres",
+      "referencia": "Ley 348, Art. 17, par. I, num. 1, págs. 22-23", "etiquetas": ["prevención"] }
+  ]}
+]

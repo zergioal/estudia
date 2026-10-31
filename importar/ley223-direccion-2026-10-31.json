@@ -1,0 +1,289 @@
+[
+  { "fragmentoRef": "ley223-art05", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según la Ley 223, la discapacidad se define como:",
+      "opciones": [
+        { "texto": "El resultado de la interacción de la persona, con deficiencias de función físicas, psíquicas, intelectuales y/o sensoriales a largo plazo o permanentes, con diversas barreras físicas, psicológicas, sociales, culturales y comunicacionales", "correcta": true, "porQue": "Es la definición del Art. 5, inc. a): un enfoque relacional (persona más barreras)." },
+        { "texto": "Los problemas en las funciones fisiológicas o en las estructuras corporales de una persona", "correcta": false, "porQue": "Esa es la definición de \"deficiencia\" (inc. d))." },
+        { "texto": "Las acciones integradoras que procuran eliminar las desventajas de las personas", "correcta": false, "porQue": "Esa es la definición de \"trato preferente\" (inc. b))." },
+        { "texto": "Una condición de salud individual que impide trabajar o estudiar", "correcta": false, "porQue": "La ley no la define como condición individual: pone el acento en la interacción con las barreras." }
+      ],
+      "explicacion": "La Ley 223 adopta el modelo social: la discapacidad surge de la interacción entre las deficiencias y las barreras del entorno.",
+      "citaTextual": "Es el resultado de la interacción de la persona, con deficiencias de función físicas, psíquicas, intelectuales y/o sensoriales a largo plazo o permanentes, con diversas barreras físicas, psicológicas, sociales, culturales y comunicacionales.",
+      "referencia": "Ley 223, Art. 5, inc. a), pág. 3", "etiquetas": ["definiciones", "modelo social"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según la Ley 223, el \"trato preferente\" consiste en:",
+      "opciones": [
+        { "texto": "Acciones integradoras que procuran eliminar las desventajas de las personas con discapacidad, garantizando su equiparación e igualdad con carácter de primacía", "correcta": true, "porQue": "Es la definición del Art. 5, inc. b)." },
+        { "texto": "Exonerar a las personas con discapacidad del cumplimiento de sus deberes", "correcta": false, "porQue": "La ley también les fija deberes (Art. 22)." },
+        { "texto": "Atender a las personas con discapacidad en instituciones separadas", "correcta": false, "porQue": "Contradice la inclusión; el trato preferente busca equiparación." },
+        { "texto": "Otorgar una renta mensual a toda persona con discapacidad", "correcta": false, "porQue": "La renta solidaria es otro beneficio (Art. 28), limitado a la discapacidad grave y muy grave." }
+      ],
+      "explicacion": "El trato preferente es una acción de equiparación con primacía, no un privilegio ni una segregación.",
+      "citaTextual": "Son las acciones integradoras que procuran eliminar las desventajas de las personas con discapacidad, garantizando su equiparación e igualdad con el resto de las personas con carácter de primacía.",
+      "referencia": "Ley 223, Art. 5, inc. b), pág. 3", "etiquetas": ["trato preferente"] }
+  ]},
+  { "fragmentoRef": "ley223-art10", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Una persona joven con discapacidad física solicita inscribirse en un CEA, pero el director sugiere derivarla a un centro especial \"por su bien\". Según el Art. 10 de la Ley 223, ¿qué garantiza el Estado?",
+      "opciones": [
+        { "texto": "El acceso y la permanencia de los estudiantes con discapacidad en el Sistema Educativo Plurinacional, en el marco de la educación inclusiva e integral", "correcta": true, "porQue": "Es la garantía del Art. 10; el enfoque es inclusivo." },
+        { "texto": "La atención exclusiva de las personas con discapacidad en centros de educación especial", "correcta": false, "porQue": "La ley garantiza la educación inclusiva en el sistema, no la segregación." },
+        { "texto": "El acceso solo si el centro cuenta con infraestructura adecuada", "correcta": false, "porQue": "La falta de infraestructura obliga a suprimir barreras (Art. 31, par. IV), no a negar el acceso." },
+        { "texto": "La inscripción sujeta a la autorización previa del CONALPEDIS", "correcta": false, "porQue": "La ley no exige esa autorización." }
+      ],
+      "explicacion": "El derecho a la educación de las personas con discapacidad se garantiza en todo el sistema, con enfoque inclusivo e integral.",
+      "citaTextual": "garantiza el acceso y permanencia de estudiantes con discapacidad en el Sistema Educativo Plurinacional, en el marco de la educación inclusiva e integral",
+      "referencia": "Ley 223, Art. 10, pág. 6", "etiquetas": ["educación inclusiva", "caso"] }
+  ]},
+  { "fragmentoRef": "ley223-art31", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según la Ley 223, ¿a qué instituciones promoverá el Estado la dotación de recursos didácticos y comunicacionales para la enseñanza a estudiantes con discapacidad?",
+      "opciones": [
+        { "texto": "Unidades Educativas Regulares, Centros de Educación Alternativa y Especial, Escuelas Superiores de Formación de Maestros e Instituciones Técnicas fiscales y de convenio", "correcta": true, "porQue": "Es la lista del Art. 31, par. V." },
+        { "texto": "Solo a los Centros de Educación Especial", "correcta": false, "porQue": "La lista incluye también las Unidades Regulares, los CEA, las ESFM y los institutos técnicos." },
+        { "texto": "A todas las unidades educativas, incluidas las privadas sin convenio", "correcta": false, "porQue": "La ley se refiere a las de dependencia fiscal y de convenio." },
+        { "texto": "Solo a las universidades públicas y privadas", "correcta": false, "porQue": "A las universidades se les imponen otras obligaciones (pars. VII-IX)." }
+      ],
+      "explicacion": "La dotación de recursos didácticos alcanza a todo el sistema fiscal y de convenio, incluidos los CEA.",
+      "citaTextual": "a las Unidades Educativas Regulares, Centros de Educación Alternativa y Especial, Escuelas Superiores de Formación de Maestras y Maestros e Instituciones Técnicas de dependencia fiscal y de convenio",
+      "referencia": "Ley 223, Art. 31, par. V, pág. 10", "etiquetas": ["recursos didácticos", "CEA"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según el Art. 31 de la Ley 223, ¿en coordinación con quién promueve y garantiza el Estado la supresión de las barreras arquitectónicas, psicopedagógicas y comunicacionales del sistema educativo?",
+      "opciones": [
+        { "texto": "Con los Gobiernos Autónomos Municipales", "correcta": true, "porQue": "Lo dispone el Art. 31, par. IV." },
+        { "texto": "Con el CONALPEDIS, como ente rector", "correcta": false, "porQue": "El par. IV menciona la coordinación con los municipios." },
+        { "texto": "Con las Direcciones Departamentales de Educación", "correcta": false, "porQue": "No figuran en el par. IV." },
+        { "texto": "Con las organizaciones de padres de familia", "correcta": false, "porQue": "No figuran en el par. IV." }
+      ],
+      "explicacion": "Además, la ley obliga a suprimir gradualmente las barreras arquitectónicas en los planos de toda unidad educativa que se construya.",
+      "citaTextual": "en coordinación con los Gobiernos autónomos municipales, promueve y garantiza la supresión de todas las barreras arquitectónicas, psicopedagógicas y comunicacionales",
+      "referencia": "Ley 223, Art. 31, par. IV, pág. 10", "etiquetas": ["barreras", "gobiernos municipales"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según la Ley 223, ¿cómo deben extender las universidades públicas y privadas los diplomas académicos y títulos en provisión nacional a las personas con discapacidad?",
+      "opciones": [
+        { "texto": "De manera gratuita", "correcta": true, "porQue": "Lo dispone el Art. 31, par. VIII." },
+        { "texto": "Con un descuento del 50% de los aranceles", "correcta": false, "porQue": "La ley dispone la gratuidad, no un descuento." },
+        { "texto": "Gratuitamente solo en las universidades públicas", "correcta": false, "porQue": "La obligación alcanza a las públicas y a las privadas." },
+        { "texto": "Gratuitamente solo a las personas con discapacidad grave y muy grave", "correcta": false, "porQue": "El par. VIII no distingue grados." }
+      ],
+      "explicacion": "La gratuidad de diplomas y títulos rige para todas las universidades. Hay que distinguirla de la gratuidad en registro civil (Art. 41), que se limita a la discapacidad grave y muy grave.",
+      "citaTextual": "Todas las Universidades Públicas y Privadas deberán extender de manera gratuita los diplomas académicos, y títulos en provisión nacional a las personas con discapacidad.",
+      "referencia": "Ley 223, Art. 31, par. VIII, pág. 10", "etiquetas": ["gratuidad", "títulos"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según el Art. 31 de la Ley 223, ¿qué garantiza el Estado para la atención e inclusión de las personas con discapacidad en el sistema educativo?",
+      "opciones": [
+        { "texto": "La formación de equipos multidisciplinarios", "correcta": true, "porQue": "Es la garantía del Art. 31, par. I." },
+        { "texto": "Un maestro de apoyo exclusivo para cada estudiante con discapacidad", "correcta": false, "porQue": "La ley no fija esa relación." },
+        { "texto": "Aulas separadas en cada unidad educativa regular", "correcta": false, "porQue": "Contradice la educación inclusiva." },
+        { "texto": "Un bono de permanencia escolar específico", "correcta": false, "porQue": "No figura en el Art. 31." }
+      ],
+      "explicacion": "La inclusión se apoya en equipos multidisciplinarios, en la formación psicopedagógica de los maestros y en la supresión de barreras.",
+      "citaTextual": "El Estado Plurinacional garantiza la formación de equipos multidisciplinarios para la atención e inclusión de las personas con discapacidad al sistema educativo plurinacional.",
+      "referencia": "Ley 223, Art. 31, par. I, pág. 9", "etiquetas": ["equipos multidisciplinarios"] }
+  ]},
+  { "fragmentoRef": "ley223-art36", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Una unidad educativa organiza un acto de relevancia departamental. Según el Art. 36 de la Ley 223, ¿qué debe incorporar?",
+      "opciones": [
+        { "texto": "La comunicación alternativa y un intérprete en Lengua de Señas Boliviana (LSB) para las personas con discapacidad auditiva", "correcta": true, "porQue": "El Art. 36, par. I obliga expresamente a las unidades educativas." },
+        { "texto": "Solo subtítulos en pantalla", "correcta": false, "porQue": "La ley exige comunicación alternativa e intérprete de LSB." },
+        { "texto": "Nada, porque la obligación es solo de las instituciones públicas nacionales", "correcta": false, "porQue": "La obligación alcanza a instituciones públicas, servicios privados y unidades educativas, en actos de cualquier nivel." },
+        { "texto": "Material en Braille para todos los asistentes", "correcta": false, "porQue": "El Braille es para la discapacidad visual; el Art. 36 se refiere a la auditiva." }
+      ],
+      "explicacion": "En actos de relevancia nacional, departamental, regional, municipal e IOC, las unidades educativas deben contar con un intérprete de LSB.",
+      "citaTextual": "Las instituciones públicas, servicios privados y Unidades Educativas están obligadas a incorporar la comunicación alternativa y un intérprete en Lengua de Señas Boliviana (LSB)",
+      "referencia": "Ley 223, Art. 36, par. I, pág. 11", "etiquetas": ["lengua de señas", "caso"] }
+  ]},
+  { "fragmentoRef": "ley223-art28", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según la Ley 223, ¿quiénes NO pueden percibir en ningún caso la Renta Solidaria?",
+      "opciones": [
+        { "texto": "Las personas con discapacidad visual y las personas con discapacidad mientras desempeñen funciones en el sector público", "correcta": true, "porQue": "Son las dos exclusiones del Art. 28, par. II." },
+        { "texto": "Las personas con discapacidad grave y muy grave", "correcta": false, "porQue": "Son justamente las beneficiarias (par. I)." },
+        { "texto": "Las personas con discapacidad auditiva y las que trabajan en el sector privado", "correcta": false, "porQue": "Las exclusiones son la discapacidad visual y el trabajo en el sector público." },
+        { "texto": "Los padres y tutores de niños con discapacidad", "correcta": false, "porQue": "La ley no se refiere a ellos en el Art. 28." }
+      ],
+      "explicacion": "La Renta Solidaria es para la discapacidad grave y muy grave (desde 2013), y excluye a la discapacidad visual y a quienes están en funciones en el sector público.",
+      "citaTextual": "En ningún caso, las personas con discapacidad visual podrán percibir la Renta Solidaria, ni aquellas personas con discapacidad mientras desempeñen funciones en el sector público.",
+      "referencia": "Ley 223, Art. 28, par. II, pág. 9", "etiquetas": ["renta solidaria"] }
+  ]},
+  { "fragmentoRef": "ley223-art34", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Una maestra de un CEA es madre de un niño con discapacidad y cumple la normativa. La dirección pretende prescindir de sus servicios sin una causal justificada. Según la Ley 223:",
+      "opciones": [
+        { "texto": "Goza de inamovilidad laboral, que alcanza a madres, padres y/o tutores de hijos con discapacidad", "correcta": true, "porQue": "El Art. 34, par. II garantiza la inamovilidad también a cónyuges, padres, madres y tutores." },
+        { "texto": "No goza de protección, porque la discapacidad la tiene su hijo", "correcta": false, "porQue": "La ley extiende expresamente la inamovilidad a madres y padres." },
+        { "texto": "Solo está protegida si su hijo tiene discapacidad grave o muy grave", "correcta": false, "porQue": "El par. II no distingue grados." },
+        { "texto": "La inamovilidad la protege incluso si existe una causal justificada de despido", "correcta": false, "porQue": "La protección rige siempre que no existan causales que justifiquen debidamente el despido." }
+      ],
+      "explicacion": "La inamovilidad rige mientras se cumpla la normativa vigente y no haya una causal justificada de despido.",
+      "citaTextual": "garantizará la inamovilidad laboral a las personas con discapacidad, cónyuges, padres, madres y/o tutores de hijos con discapacidad, siempre y cuando cumplan con la normativa vigente",
+      "referencia": "Ley 223, Art. 34, par. II, pág. 11", "etiquetas": ["inamovilidad laboral", "caso"] }
+  ]},
+  { "fragmentoRef": "ley223-art45", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según la Ley 223, el CONALPEDIS es una entidad:",
+      "opciones": [
+        { "texto": "Descentralizada, con autonomía de gestión y patrimonio propio, bajo tuición del Ministerio de Justicia, encargada de la planificación estratégica en discapacidad", "correcta": true, "porQue": "Es la definición del Art. 45, par. I." },
+        { "texto": "Desconcentrada del Ministerio de Salud", "correcta": false, "porQue": "Es descentralizada y está bajo tuición del Ministerio de Justicia." },
+        { "texto": "Autárquica, dependiente de la Confederación Boliviana de Personas con Discapacidad", "correcta": false, "porQue": "El CONALPEDIS coordina con la COBOPDI (par. VI), pero no depende de ella." },
+        { "texto": "Descentralizada, bajo tuición del Ministerio de Educación", "correcta": false, "porQue": "La tuición es del Ministerio de Justicia." }
+      ],
+      "explicacion": "El CONALPEDIS defiende los derechos de las personas con discapacidad y planifica en la materia, bajo tuición del Ministerio de Justicia.",
+      "citaTextual": "es una entidad descentralizada, para la defensa de los derechos de las personas con discapacidad, con autonomía de gestión y patrimonio propio, bajo tuición del Ministerio de Justicia",
+      "referencia": "Ley 223, Art. 45, par. I, págs. 12-13", "etiquetas": ["CONALPEDIS"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según la Ley 223, ¿hacia qué orientará el Estado, mediante el CONALPEDIS, la transformación gradual de las instituciones especializadas y los centros de educación especial?",
+      "opciones": [
+        { "texto": "Hacia la conformación de centros de recursos de rehabilitación, conforme a la política mundial de rehabilitación basada en la comunidad", "correcta": true, "porQue": "Es lo que establece el Art. 45, par. V." },
+        { "texto": "Hacia su cierre definitivo y el traslado de todos los estudiantes a la educación regular", "correcta": false, "porQue": "La ley habla de transformación gradual, no de cierre." },
+        { "texto": "Hacia su privatización bajo acreditación del CONALPEDIS", "correcta": false, "porQue": "La acreditación se aplica a las entidades privadas existentes (par. IV); no se trata de privatizar." },
+        { "texto": "Hacia internados de atención permanente", "correcta": false, "porQue": "Contradice el enfoque de rehabilitación basada en la comunidad." }
+      ],
+      "explicacion": "La transformación gradual se orienta a centros de recursos de rehabilitación basada en la comunidad.",
+      "citaTextual": "orientará la transformación gradual de las instituciones especializadas y centros de educación especial hacia la conformación de centros de recursos de rehabilitación, conforme a la política mundial de rehabilitación basada en la comunidad",
+      "referencia": "Ley 223, Art. 45, par. V, pág. 13", "etiquetas": ["educación especial", "rehabilitación basada en la comunidad"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según la Ley 223, ¿en qué plazo debía promulgarse el Decreto Supremo que establece la estructura organizacional del CONALPEDIS?",
+      "opciones": [
+        { "texto": "Dentro de los ciento veinte días siguientes a la promulgación de la ley", "correcta": true, "porQue": "Es el plazo del Art. 45, par. III." },
+        { "texto": "Dentro de los noventa días siguientes a la promulgación de la ley", "correcta": false, "porQue": "Noventa días es el plazo de reglamentación de la Ley 045, no el de este decreto." },
+        { "texto": "Dentro de los sesenta días hábiles", "correcta": false, "porQue": "El plazo es de ciento veinte días." },
+        { "texto": "En el plazo de un año", "correcta": false, "porQue": "El plazo es de ciento veinte días." }
+      ],
+      "explicacion": "La estructura del CONALPEDIS la fija un Decreto Supremo reglamentario dictado dentro de los 120 días de promulgada la ley.",
+      "citaTextual": "deberá ser promulgado dentro de los ciento veinte días siguientes a la promulgación de la presente Ley",
+      "referencia": "Ley 223, Art. 45, par. III, pág. 13", "etiquetas": ["CONALPEDIS", "plazos"] }
+  ]},
+  { "fragmentoRef": "ley223-art47", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según la Ley 223, ¿cómo está integrado el Directorio del CONALPEDIS?",
+      "opciones": [
+        { "texto": "Por nueve representantes de la COBOPDI y nueve representantes del Órgano Ejecutivo", "correcta": true, "porQue": "Es la composición paritaria del Art. 47, par. I." },
+        { "texto": "Por cinco representantes de la COBOPDI y cinco del Órgano Ejecutivo", "correcta": false, "porQue": "Son nueve por cada parte." },
+        { "texto": "Por nueve representantes del Órgano Ejecutivo y tres de la sociedad civil", "correcta": false, "porQue": "La composición es paritaria: nueve y nueve." },
+        { "texto": "Solo por los ministros de Justicia, Salud y Educación", "correcta": false, "porQue": "Son nueve representantes de nueve ministerios, más nueve de la COBOPDI." }
+      ],
+      "explicacion": "Directorio paritario (9 COBOPDI + 9 Ejecutivo); los representantes del Ejecutivo no perciben dietas, y el Director Ejecutivo lo designa el Órgano Ejecutivo.",
+      "citaTextual": "Nueve representantes de la Confederación Boliviana de Personas con Discapacidad – COBOPDI. b. Nueve representantes del Órgano Ejecutivo",
+      "referencia": "Ley 223, Art. 47, par. I, págs. 13-14", "etiquetas": ["CONALPEDIS", "directorio"] }
+  ]},
+  { "fragmentoRef": "ley223-art46", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Entre las atribuciones del CONALPEDIS (Art. 46 de la Ley 223), ¿bajo qué modelo debe promover el enfoque de discapacidad?",
+      "opciones": [
+        { "texto": "Bajo un modelo social de derechos, en el marco de una cultura de la dignidad y con enfoque de inclusión social", "correcta": true, "porQue": "Es la atribución del inc. d)." },
+        { "texto": "Bajo un modelo médico-rehabilitador centrado en el diagnóstico", "correcta": false, "porQue": "La ley adopta el modelo social de derechos." },
+        { "texto": "Bajo un modelo asistencialista de beneficencia", "correcta": false, "porQue": "La ley se orienta a derechos y dignidad, no a la beneficencia." },
+        { "texto": "Bajo un modelo de educación segregada especializada", "correcta": false, "porQue": "La ley promueve la inclusión." }
+      ],
+      "explicacion": "Coherente con la definición de discapacidad (Art. 5), el CONALPEDIS promueve el modelo social de derechos mediante sensibilización y concientización.",
+      "citaTextual": "Promover y fomentar el enfoque de discapacidad bajo un modelo social de derechos en el marco de una cultura de la dignidad",
+      "referencia": "Ley 223, Art. 46, inc. d), pág. 13", "etiquetas": ["modelo social", "CONALPEDIS"] }
+  ]},
+  { "fragmentoRef": "ley223-art41", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según la Ley 223, ¿quiénes acceden a la gratuidad en la emisión de certificados de nacimiento, matrimonio y defunción, y qué órgano la implementa?",
+      "opciones": [
+        { "texto": "Las personas con discapacidad grave y muy grave; la implementa el Órgano Electoral Plurinacional", "correcta": true, "porQue": "Es lo que dispone el Art. 41." },
+        { "texto": "Todas las personas con discapacidad; la implementa el Ministerio de Justicia", "correcta": false, "porQue": "Se limita a la discapacidad grave y muy grave, y la implementa el Órgano Electoral." },
+        { "texto": "Las personas con discapacidad grave y muy grave; la implementa el CONALPEDIS", "correcta": false, "porQue": "Los beneficiarios son correctos, pero el órgano es el Electoral, a cargo del registro civil." },
+        { "texto": "Las personas con discapacidad visual; la implementan los municipios", "correcta": false, "porQue": "No corresponde ni el grupo ni la entidad." }
+      ],
+      "explicacion": "Hay que distinguir las gratuidades: los diplomas universitarios son gratuitos para todas las personas con discapacidad (Art. 31); el registro civil, solo para la discapacidad grave y muy grave (Art. 41).",
+      "citaTextual": "El Órgano Electoral Plurinacional implementará las medidas correspondientes que permitan a toda persona con discapacidad grave y muy grave acceder al beneficio de gratuidad",
+      "referencia": "Ley 223, Art. 41, pág. 12", "etiquetas": ["gratuidad", "registro civil"] }
+  ]},
+  { "fragmentoRef": "ley223-art33", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "La exención total de tributos de la Ley 223 para importar órtesis, prótesis y ayudas técnicas destinadas a la habilitación y rehabilitación EXCEPTÚA:",
+      "opciones": [
+        { "texto": "Los vehículos automotores", "correcta": true, "porQue": "El Art. 33 los excluye expresamente." },
+        { "texto": "Las sillas de ruedas", "correcta": false, "porQue": "Son ayudas técnicas comprendidas en la exención." },
+        { "texto": "Los audífonos", "correcta": false, "porQue": "Son ayudas técnicas comprendidas." },
+        { "texto": "Las prótesis de miembros", "correcta": false, "porQue": "Están comprendidas expresamente." }
+      ],
+      "explicacion": "La exención alcanza a centros, organizaciones y personas acreditadas, excluye los vehículos, y los bienes no pueden transferirse a título oneroso.",
+      "citaTextual": "exceptuando vehículos automotores",
+      "referencia": "Ley 223, Art. 33, pág. 11", "etiquetas": ["exención tributaria"] }
+  ]},
+  { "fragmentoRef": "ley223-art20", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Una participante con discapacidad intelectual leve debe elegir su carrera técnica en el CEA. Según el Art. 20 de la Ley 223, ¿cómo procede la dirección?",
+      "opciones": [
+        { "texto": "La consulta sobre la decisión, porque tiene derecho a ser consultada en lo que se refiere a su educación, según sus posibilidades, proyectándose a la vida independiente", "correcta": true, "porQue": "El Art. 20 reconoce el derecho a tomar decisiones independientes en la discapacidad intelectual leve y/o moderada." },
+        { "texto": "Decide la familia, sin consultarla, por su condición", "correcta": false, "porQue": "Contradice el derecho a ser consultada." },
+        { "texto": "La asigna el equipo multidisciplinario según su diagnóstico", "correcta": false, "porQue": "La ley no sustituye la voluntad de la persona por un diagnóstico." },
+        { "texto": "Solo se la consulta si su discapacidad es física", "correcta": false, "porQue": "El Art. 20 se refiere justamente a la discapacidad intelectual y mental leve y/o moderada." }
+      ],
+      "explicacion": "La Ley 223 reconoce la autonomía de las personas con discapacidad intelectual y mental leve o moderada en las decisiones sobre su vida, salud y educación.",
+      "citaTextual": "tienen el derecho a ser consultadas respecto a todas las decisiones que se refieran a su vida, salud, educación, familia, seguridad social",
+      "referencia": "Ley 223, Art. 20, pág. 7", "etiquetas": ["decisiones independientes", "caso"] }
+  ]},
+  { "fragmentoRef": "ley223-art19", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según el Art. 19 de la Ley 223, ¿quiénes deben estar plenamente informados de las precauciones para prevenir el abuso sexual?",
+      "opciones": [
+        { "texto": "Las mujeres y varones con discapacidad, sus familias y toda persona que trabaja con mujeres, niños y adolescentes con discapacidad", "correcta": true, "porQue": "Es lo que dispone el par. II; incluye al personal educativo." },
+        { "texto": "Solo el personal de salud", "correcta": false, "porQue": "La obligación es más amplia." },
+        { "texto": "Solo las familias de las personas con discapacidad", "correcta": false, "porQue": "Incluye también a las propias personas con discapacidad y a quienes trabajan con ellas." },
+        { "texto": "Solo la Policía y el Ministerio Público", "correcta": false, "porQue": "No figuran en el par. II." }
+      ],
+      "explicacion": "El deber de información preventiva alcanza a maestros y personal de los centros que trabajan con niñas, niños, adolescentes y mujeres con discapacidad.",
+      "citaTextual": "Las mujeres y varones con discapacidad, sus familias y toda persona que trabaja con mujeres, niños y adolescentes con algún tipo de discapacidad deben estar plenamente informadas de las precauciones que se han de tomar para prevenir el abuso sexual.",
+      "referencia": "Ley 223, Art. 19, par. II, pág. 7", "etiquetas": ["prevención del abuso", "integridad"] }
+  ]},
+  { "fragmentoRef": "ley223-art37", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según el Art. 37 de la Ley 223, ¿cómo deben adecuar los órganos del Estado y las instituciones públicas y privadas su estructura arquitectónica, sistemas y medios de comunicación y transporte?",
+      "opciones": [
+        { "texto": "De manera gradual, a partir de la promulgación de la ley", "correcta": true, "porQue": "Es lo que establece el par. II." },
+        { "texto": "De manera inmediata, bajo sanción de clausura", "correcta": false, "porQue": "La ley prevé una adecuación gradual." },
+        { "texto": "Solo cuando construyan edificaciones nuevas", "correcta": false, "porQue": "La adecuación alcanza a toda la estructura, no solo a la nueva." },
+        { "texto": "Solo las instituciones públicas; las privadas quedan exentas", "correcta": false, "porQue": "Alcanza a las públicas y a las privadas." }
+      ],
+      "explicacion": "La accesibilidad es obligatoria para todos, con adecuación gradual desde la promulgación.",
+      "citaTextual": "deberán adecuar su estructura arquitectónica, sistemas, medios de comunicación y medios de transporte, de manera gradual, a partir de la promulgación de la presente Ley",
+      "referencia": "Ley 223, Art. 37, par. II, pág. 11", "etiquetas": ["accesibilidad"] }
+  ]},
+  { "fragmentoRef": "ley223-art44", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según la Ley 223, las políticas públicas, programas y proyectos en materia de discapacidad están sujetos a:",
+      "opciones": [
+        { "texto": "Control social, rendición de cuentas y consulta permanente con las organizaciones de personas con discapacidad", "correcta": true, "porQue": "Es lo que dispone el Art. 44." },
+        { "texto": "Solo a la auditoría de la Contraloría General del Estado", "correcta": false, "porQue": "La ley prevé el control social, la rendición de cuentas y la consulta." },
+        { "texto": "A la aprobación previa de la Asamblea Legislativa", "correcta": false, "porQue": "No figura en el Art. 44." },
+        { "texto": "A la consulta con las familias solamente", "correcta": false, "porQue": "La consulta es con las organizaciones de personas con discapacidad." }
+      ],
+      "explicacion": "La participación de las organizaciones de personas con discapacidad es permanente: control social, rendición de cuentas y consulta.",
+      "citaTextual": "estarán sujetos al control social, rendición de cuentas y a la consulta permanente con las organizaciones de personas con discapacidad",
+      "referencia": "Ley 223, Art. 44, pág. 12", "etiquetas": ["control social"] }
+  ]},
+  { "fragmentoRef": "ley223-art43", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Al elaborar el plan anual de su centro, un director incorpora acciones de discapacidad en todas las áreas y no solo en un proyecto aislado. ¿Qué mandato de la Ley 223 cumple?",
+      "opciones": [
+        { "texto": "La transversalidad de la temática de discapacidad en planes, programas y proyectos", "correcta": true, "porQue": "El Art. 43 manda transversalizar la temática en todos los niveles." },
+        { "texto": "La creación de unidades especializadas", "correcta": false, "porQue": "Las unidades especializadas (Art. 42) son estructuras de los niveles de gobierno, no la transversalización." },
+        { "texto": "La renta solidaria", "correcta": false, "porQue": "Es un beneficio económico (Art. 28)." },
+        { "texto": "La acreditación del CONALPEDIS", "correcta": false, "porQue": "La acreditación se aplica a entidades privadas especializadas (Art. 45)." }
+      ],
+      "explicacion": "Transversalizar es incorporar la discapacidad en el régimen normativo, los planes, los programas y los proyectos, según la competencia de cada instancia.",
+      "citaTextual": "deberá transversalizar la temática de discapacidad, en su régimen normativo, planes, programas y proyectos de acuerdo a su competencia",
+      "referencia": "Ley 223, Art. 43, pág. 12", "etiquetas": ["transversalidad", "planificación", "caso"] }
+  ]},
+  { "fragmentoRef": "ley223-art29", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según la Ley 223, ¿de dónde provienen los recursos económicos para la gestión pública en materia de discapacidad?",
+      "opciones": [
+        { "texto": "De la Ley 3925 (eliminación de subsidios a partidos políticos) y de donaciones, legados y recursos de cooperación", "correcta": true, "porQue": "Son las dos fuentes del Art. 29." },
+        { "texto": "Del Impuesto Directo a los Hidrocarburos exclusivamente", "correcta": false, "porQue": "No figura en el Art. 29." },
+        { "texto": "De un aporte obligatorio de los empleadores privados", "correcta": false, "porQue": "No figura en el Art. 29." },
+        { "texto": "Solo de las asignaciones del Tesoro General de la Nación", "correcta": false, "porQue": "La ley menciona otras fuentes." }
+      ],
+      "explicacion": "Los recursos para la gestión en discapacidad provienen de la Ley 3925 de 2008 y de la cooperación, las donaciones y los legados.",
+      "citaTextual": "Recursos provenientes de la Ley 3925 de 21 de agosto de 2008, referida a la eliminación de subsidios a partidos políticos.",
+      "referencia": "Ley 223, Art. 29, pág. 9", "etiquetas": ["financiamiento"] }
+  ]}
+]
