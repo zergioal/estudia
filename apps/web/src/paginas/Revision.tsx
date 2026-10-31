@@ -3,7 +3,7 @@ import { keepPreviousData, useMutation, useQuery, useQueryClient } from '@tansta
 import {
   DIFICULTADES,
   NIVELES_BLOOM,
-  type ColeccionNodo,
+  type ColeccionEstudio,
   type Paginado,
   type PreguntaEditar,
   type PreguntaRevision,
@@ -16,7 +16,7 @@ const ESTADOS = ['BORRADOR', 'APROBADA', 'DESCARTADA'] as const;
 
 export function Revision() {
   const { usuario } = useSesion();
-  const esAdmin = usuario?.rol === 'ADMIN';
+  const puedeAprobar = usuario?.rol === 'ADMIN' || usuario?.rol === 'REVISOR';
   const cliente = useQueryClient();
   const [estado, setEstado] = useState<(typeof ESTADOS)[number]>('BORRADOR');
   const [contenidoId, setContenidoId] = useState('');
@@ -31,11 +31,8 @@ export function Revision() {
     queryFn: () => api<Paginado<PreguntaRevision>>(`/admin/revision?${params}`),
     placeholderData: keepPreviousData,
   });
-  const arbol = useQuery({
-    queryKey: ['arbol'],
-    queryFn: () => api<ColeccionNodo[]>('/admin/arbol'),
-    enabled: esAdmin,
-  });
+  // /me/estudio responde a ADMIN y REVISOR (lista todos los documentos).
+  const arbol = useQuery({ queryKey: ['estudio'], queryFn: () => api<ColeccionEstudio[]>('/me/estudio') });
   const contenidos = arbol.data?.flatMap((c) => c.contenidos) ?? [];
 
   useEffect(() => setSeleccion(new Set()), [estado, contenidoId, pagina]);
@@ -43,7 +40,24 @@ export function Revision() {
   const refrescar = () => {
     cliente.invalidateQueries({ queryKey: ['revision'] });
     cliente.invalidateQueries({ queryKey: ['arbol'] });
+    cliente.invalidateQueries({ queryKey: ['estudio'] });
+    cliente.invalidateQueries({ queryKey: ['panel'] });
   };
+
+  const aprobarTodas = useMutation({
+    mutationFn: () =>
+      api<{ aprobadas: number }>('/admin/preguntas/aprobar-todas', {
+        metodo: 'POST',
+        cuerpo: contenidoId ? { contenidoId } : {},
+      }),
+    onSuccess: (r) => {
+      setSeleccion(new Set());
+      setPagina(1);
+      refrescar();
+      alert(`Se aprobaron ${r.aprobadas} preguntas.`);
+    },
+    onError: (e) => alert(mensajeDeError(e)),
+  });
 
   const aprobarLote = useMutation({
     mutationFn: (ids: string[]) =>
@@ -81,9 +95,9 @@ export function Revision() {
             ))}
           </select>
         </label>
-        {esAdmin && (
+        {contenidos.length > 0 && (
           <label className="text-sm">
-            <span className="etiqueta">Contenido</span>
+            <span className="etiqueta">Documento</span>
             <select className="campo" value={contenidoId} onChange={(e) => (setContenidoId(e.target.value), setPagina(1))}>
               <option value="">Todos</option>
               {contenidos.map((c) => (
@@ -96,7 +110,7 @@ export function Revision() {
         )}
       </div>
 
-      {esAdmin && estado === 'BORRADOR' && items.length > 0 && (
+      {puedeAprobar && estado === 'BORRADOR' && items.length > 0 && (
         <div className="sticky top-14 z-[5] flex flex-wrap items-center gap-3 rounded-xl bg-indigo-50 px-4 py-2 text-sm">
           <label className="flex items-center gap-2">
             <input
@@ -108,11 +122,22 @@ export function Revision() {
           </label>
           <span className="text-slate-600">{seleccion.size} seleccionadas</span>
           <button
-            className="btn-exito ml-auto py-1.5"
+            className="btn-secundario ml-auto py-1.5"
             disabled={seleccion.size === 0 || aprobarLote.isPending}
             onClick={() => aprobarLote.mutate([...seleccion])}
           >
             ✓ Aprobar seleccionadas
+          </button>
+          <button
+            className="btn-exito py-1.5"
+            disabled={aprobarTodas.isPending}
+            onClick={() => {
+              const doc = contenidos.find((c) => c.id === contenidoId)?.titulo;
+              const alcance = doc ? `del documento "${doc}"` : 'de todos los documentos';
+              if (confirm(`¿Aprobar las ${total} preguntas en borrador ${alcance}?`)) aprobarTodas.mutate();
+            }}
+          >
+            {aprobarTodas.isPending ? 'Aprobando…' : `✓✓ Aprobar todas (${total})`}
           </button>
         </div>
       )}
@@ -128,7 +153,7 @@ export function Revision() {
           <TarjetaPregunta
             key={p.id}
             pregunta={p}
-            seleccionable={esAdmin && estado === 'BORRADOR'}
+            seleccionable={puedeAprobar && estado === 'BORRADOR'}
             seleccionada={seleccion.has(p.id)}
             onSeleccionar={() => alternar(p.id)}
             onCambio={refrescar}

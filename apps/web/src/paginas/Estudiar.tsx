@@ -14,6 +14,12 @@ import {
 import { api, mensajeDeError } from '../api/cliente';
 import { ir } from '../navegacion';
 
+/** Bloques del examen (Reglamento 0001/2026, Art. 11): normativa 35%, técnico-pedagógico 65%. */
+const BLOQUES = [
+  { nombre: 'Normativa', tipos: ['LEY', 'DECRETO', 'RM'] },
+  { nombre: 'Técnico-pedagógico', tipos: ['LIBRO', 'GUIA'] },
+];
+
 const NOMBRE_DIFICULTAD: Record<Dificultad, string> = { FACIL: 'Fácil', MEDIA: 'Media', DIFICIL: 'Difícil' };
 
 export function Estudiar() {
@@ -36,6 +42,16 @@ export function Estudiar() {
     else n.add(valor);
     fijar(n);
   };
+  const todosLosDocumentos = (arbol.data ?? []).flatMap((c) => c.contenidos).filter((c) => c.disponibles > 0);
+  /** Marca o desmarca varios documentos a la vez (un documento elegido entero no necesita temas sueltos). */
+  const marcar = (docs: ContenidoEstudio[], valor: boolean) => {
+    const n = new Set(contenidos);
+    for (const d of docs) {
+      if (valor) n.add(d.id);
+      else n.delete(d.id);
+    }
+    setContenidos(n);
+  };
   const seleccionadas = contarSeleccion(arbol.data ?? [], contenidos, temas);
   const p = panel.data;
 
@@ -52,39 +68,64 @@ export function Estudiar() {
         <h1 className="text-lg font-semibold">Nuevo quiz de práctica</h1>
 
         <div>
-          <p className="etiqueta">¿Qué quieres estudiar?</p>
+          <div className="mb-2 flex flex-wrap items-center gap-2">
+            <p className="etiqueta mb-0 mr-auto">¿Qué documentos quieres estudiar?</p>
+            <span className="text-xs text-slate-500">
+              {contenidos.size} {contenidos.size === 1 ? 'documento' : 'documentos'}
+              {temas.size > 0 && ` + ${temas.size} ${temas.size === 1 ? 'tema' : 'temas'}`}
+            </span>
+            <button className="btn-secundario py-1 text-xs" onClick={() => marcar(todosLosDocumentos, true)}>
+              Todos los documentos
+            </button>
+            <button
+              className="btn-secundario py-1 text-xs"
+              onClick={() => {
+                setContenidos(new Set());
+                setTemas(new Set());
+              }}
+            >
+              Ninguno
+            </button>
+          </div>
           {arbol.isLoading && <p className="text-sm text-slate-500">Cargando…</p>}
           {arbol.error && <p className="text-sm text-red-700">{mensajeDeError(arbol.error)}</p>}
           {arbol.data?.length === 0 && <p className="text-sm text-slate-500">No tienes contenidos asignados todavía.</p>}
           <div className="space-y-3">
             {arbol.data?.map((col) => (
               <div key={col.id} className="rounded-xl border border-slate-200 p-3">
-                <div className="mb-2 flex items-center gap-2">
-                  <span className="font-medium">{col.nombre}</span>
-                  <button
-                    className="ml-auto text-xs text-indigo-700 hover:underline"
-                    onClick={() => {
-                      const n = new Set(contenidos);
-                      const todos = col.contenidos.filter((c) => c.disponibles > 0).every((c) => n.has(c.id));
-                      for (const c of col.contenidos) if (c.disponibles > 0) (todos ? n.delete(c.id) : n.add(c.id));
-                      setContenidos(n);
-                    }}
-                  >
-                    Todo / nada
-                  </button>
-                </div>
-                <ul className="space-y-1">
-                  {col.contenidos.map((c) => (
-                    <NodoContenido
-                      key={c.id}
-                      contenido={c}
-                      marcado={contenidos.has(c.id)}
-                      onMarcar={() => alternar(contenidos, c.id, setContenidos)}
-                      temas={temas}
-                      onTema={(id) => alternar(temas, id, setTemas)}
-                    />
-                  ))}
-                </ul>
+                <p className="mb-2 font-medium">{col.nombre}</p>
+                {BLOQUES.map((bloque) => {
+                  const docs = col.contenidos.filter((c) => bloque.tipos.includes(c.tipoFuente));
+                  if (docs.length === 0) return null;
+                  const conPreguntas = docs.filter((c) => c.disponibles > 0);
+                  const todos = conPreguntas.length > 0 && conPreguntas.every((c) => contenidos.has(c.id));
+                  return (
+                    <div key={bloque.nombre} className="mb-2 last:mb-0">
+                      <div className="mb-1 flex items-center gap-2 text-xs font-semibold uppercase text-slate-500">
+                        <span>{bloque.nombre}</span>
+                        <button
+                          className="ml-auto font-normal normal-case text-indigo-700 hover:underline disabled:opacity-40"
+                          disabled={conPreguntas.length === 0}
+                          onClick={() => marcar(conPreguntas, !todos)}
+                        >
+                          {todos ? 'Quitar todos' : 'Todos'}
+                        </button>
+                      </div>
+                      <ul className="space-y-1">
+                        {docs.map((c) => (
+                          <NodoContenido
+                            key={c.id}
+                            contenido={c}
+                            marcado={contenidos.has(c.id)}
+                            onMarcar={() => alternar(contenidos, c.id, setContenidos)}
+                            temas={temas}
+                            onTema={(id) => alternar(temas, id, setTemas)}
+                          />
+                        ))}
+                      </ul>
+                    </div>
+                  );
+                })}
               </div>
             ))}
           </div>
