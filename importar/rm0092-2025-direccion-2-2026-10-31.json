@@ -1,0 +1,313 @@
+[
+  {
+    "fragmentoRef": "rm0092-2025-reg-art07",
+    "preguntas": [
+      {
+        "tipo": "OPCION_MULTIPLE",
+        "dificultad": "DIFICIL",
+        "nivelBloom": "APLICAR",
+        "enunciado": "Una organización social quiere abrir un Centro de Educación Permanente No Escolarizada con el nombre de un dirigente fallecido. Según el Reglamento de la RM 0092/2025, ¿qué debe adjuntar a la solicitud para justificar ese nombre?",
+        "opciones": [
+          {
+            "texto": "El certificado de defunción o una reseña histórica aprobada o emitida por la comunidad",
+            "correcta": true,
+            "porQue": "Art. 7, num. 1, inc. d) del Reglamento."
+          },
+          {
+            "texto": "Una autorización notariada de la familia",
+            "correcta": false,
+            "porQue": "No es lo que exige el reglamento."
+          },
+          {
+            "texto": "Una resolución del Concejo Municipal",
+            "correcta": false,
+            "porQue": "No es lo que exige el reglamento."
+          },
+          {
+            "texto": "Nada: el nombre es de libre elección",
+            "correcta": false,
+            "porQue": "Capciosa: si es el nombre de una persona fallecida, se exige respaldo."
+          }
+        ],
+        "explicacion": "La solicitud se dirige a la Dirección Distrital y va acompañada del Acta de Fundación del Centro.",
+        "citaTextual": "Certificado de defunción (en caso de llevar nombre de una persona fallecida meritoria) o reseña histórica (aprobada y/o emitida por la comunidad).",
+        "referencia": "RM 0092/2025, Reglamento, Art. 7, págs. 9-10",
+        "etiquetas": [
+          "apertura",
+          "caso",
+          "capciosa"
+        ]
+      },
+      {
+        "tipo": "OPCION_MULTIPLE",
+        "dificultad": "DIFICIL",
+        "nivelBloom": "RECORDAR",
+        "enunciado": "Según el Art. 7 del Reglamento de la RM 0092/2025, ¿ante qué instancia se dirige la solicitud de apertura de un Centro de Educación Permanente No Escolarizada?",
+        "opciones": [
+          {
+            "texto": "Ante la Dirección Distrital Educativa",
+            "correcta": true,
+            "porQue": "Art. 7, num. 1."
+          },
+          {
+            "texto": "Ante la Dirección Departamental de Educación",
+            "correcta": false,
+            "porQue": "Confusión de instancia: la solicitud empieza en la Distrital."
+          },
+          {
+            "texto": "Ante el Viceministerio de Educación Alternativa y Especial",
+            "correcta": false,
+            "porQue": "No es la instancia de presentación."
+          },
+          {
+            "texto": "Ante el Gobierno Autónomo Municipal",
+            "correcta": false,
+            "porQue": "No es la instancia de presentación."
+          }
+        ],
+        "explicacion": "Pueden solicitarla personas naturales, personas jurídicas u organizaciones sociales legalmente establecidas.",
+        "citaTextual": "Solicitud de apertura dirigida a la Dirección Distrital Educativa, presentada por personas naturales, jurídicas y/u organizaciones sociales legalmente establecidas.",
+        "referencia": "RM 0092/2025, Reglamento, Art. 7, págs. 9-10",
+        "etiquetas": [
+          "apertura",
+          "memorística"
+        ]
+      }
+    ]
+  },
+  {
+    "fragmentoRef": "rm0092-2025-reg-art09",
+    "preguntas": [
+      {
+        "tipo": "OPCION_MULTIPLE",
+        "dificultad": "DIFICIL",
+        "nivelBloom": "RECORDAR",
+        "enunciado": "Según el Art. 9 del Reglamento de la RM 0092/2025, ¿en qué plazo debe la Dirección Distrital revisar, analizar y verificar in situ la solicitud de apertura de un centro?",
+        "opciones": [
+          {
+            "texto": "En un plazo no mayor a 10 días",
+            "correcta": true,
+            "porQue": "Art. 9, inc. b)."
+          },
+          {
+            "texto": "En 72 horas",
+            "correcta": false,
+            "porQue": "No coincide con el reglamento."
+          },
+          {
+            "texto": "En 30 días hábiles",
+            "correcta": false,
+            "porQue": "No coincide con el reglamento."
+          },
+          {
+            "texto": "Sin plazo definido",
+            "correcta": false,
+            "porQue": "Hay un plazo."
+          }
+        ],
+        "explicacion": "La solicitud se registra en el Formulario R-CEA-CEP-CEAI 001 del portal de trámites y también se presenta en físico.",
+        "citaTextual": "La Dirección Distrital Educativa, en un plazo no mayor a 10 días, realizará la revisión, análisis y verificación in situ",
+        "referencia": "RM 0092/2025, Reglamento, Art. 9, págs. 11-12",
+        "etiquetas": [
+          "plazos",
+          "memorística"
+        ]
+      }
+    ]
+  },
+  {
+    "fragmentoRef": "rm0092-2025-reg-art11",
+    "preguntas": [
+      {
+        "tipo": "OPCION_MULTIPLE",
+        "dificultad": "DIFICIL",
+        "nivelBloom": "APLICAR",
+        "enunciado": "Un CEA quiere cambiar de nombre, pero perdió su Certificado de Registro (RCEA). Según el Reglamento de la RM 0092/2025, ¿qué debe presentar en su lugar?",
+        "opciones": [
+          {
+            "texto": "Un informe de pérdida con el visto bueno de la Dirección Departamental de Educación",
+            "correcta": true,
+            "porQue": "Art. 11, num. 3."
+          },
+          {
+            "texto": "Una denuncia policial y dos publicaciones de prensa",
+            "correcta": false,
+            "porQue": "Esos requisitos son del certificado de competencias supletorio (RM 0531)."
+          },
+          {
+            "texto": "Una declaración jurada del director",
+            "correcta": false,
+            "porQue": "No es lo que exige el reglamento."
+          },
+          {
+            "texto": "Nada: el cambio de nombre no requiere el RCEA",
+            "correcta": false,
+            "porQue": "El RCEA, en original o fotocopia legalizada, es un requisito."
+          }
+        ],
+        "explicacion": "La solicitud la presenta el director o encargado ante la Distrital, justificando el cambio.",
+        "citaTextual": "En caso de extravío, presentar un informe de pérdida con V'B' de la Dirección Departamental de Educación.",
+        "referencia": "RM 0092/2025, Reglamento, Art. 11, pág. 13",
+        "etiquetas": [
+          "cambio de nombre",
+          "caso"
+        ]
+      }
+    ]
+  },
+  {
+    "fragmentoRef": "rm0092-2025-reg-art12",
+    "preguntas": [
+      {
+        "tipo": "OPCION_MULTIPLE",
+        "dificultad": "DIFICIL",
+        "nivelBloom": "COMPRENDER",
+        "enunciado": "Según el Reglamento de la RM 0092/2025, ¿cuándo ocurre el cambio de dependencia «de Fiscal a Convenio»?",
+        "opciones": [
+          {
+            "texto": "Cuando un centro decide dejar de ser fiscal para convertirse en convenio",
+            "correcta": true,
+            "porQue": "Art. 12."
+          },
+          {
+            "texto": "Cuando un centro de convenio pasa a ser fiscal",
+            "correcta": false,
+            "porQue": "Capciosa: ese es el cambio de Convenio a Fiscal (Art. 13)."
+          },
+          {
+            "texto": "Cuando un centro cambia de distrito",
+            "correcta": false,
+            "porQue": "Eso es un cambio de jurisdicción administrativa (Art. 14)."
+          },
+          {
+            "texto": "Cuando un centro privado se vuelve fiscal",
+            "correcta": false,
+            "porQue": "No es lo que define el Art. 12."
+          }
+        ],
+        "explicacion": "Ambos cambios de dependencia se tramitan ante la Distrital con el formulario M-CEA-CEP-CEAI 002.",
+        "citaTextual": "El cambio de dependencia ocurre cuando un centro decide dejar de ser fiscal para convertirse en convenio.",
+        "referencia": "RM 0092/2025, Reglamento, Art. 12, págs. 13-14",
+        "etiquetas": [
+          "dependencia",
+          "capciosa"
+        ]
+      }
+    ]
+  },
+  {
+    "fragmentoRef": "rm0092-2025-reg-art10",
+    "preguntas": [
+      {
+        "tipo": "OPCION_MULTIPLE",
+        "dificultad": "DIFICIL",
+        "nivelBloom": "ANALIZAR",
+        "enunciado": "Según el Art. 10 del Reglamento de la RM 0092/2025, ¿qué normas deben considerarse para la ampliación o reducción del área o los niveles de un Centro de Educación Alternativa Integrado?",
+        "opciones": [
+          {
+            "texto": "La estructura del ámbito de Educación Alternativa de la Ley 070 y la RM 0259/2024",
+            "correcta": true,
+            "porQue": "Art. 10, par. I."
+          },
+          {
+            "texto": "Solo el criterio del director",
+            "correcta": false,
+            "porQue": "No es lo que dispone el reglamento."
+          },
+          {
+            "texto": "La Ley 1178 y la RM 0001",
+            "correcta": false,
+            "porQue": "No son las normas citadas."
+          },
+          {
+            "texto": "La RM 0718/2025, de maestros itinerantes",
+            "correcta": false,
+            "porQue": "No es la norma citada."
+          }
+        ],
+        "explicacion": "La solicitud la presenta el director o encargado ante la Distrital, justificando el cambio.",
+        "citaTextual": "la Resolución Ministerial N' 0259/2024 para Centro de Educación Alternativa Integrado",
+        "referencia": "RM 0092/2025, Reglamento, Art. 10, págs. 12-13",
+        "etiquetas": [
+          "ampliación",
+          "memorística"
+        ]
+      },
+      {
+        "tipo": "OPCION_MULTIPLE",
+        "dificultad": "DIFICIL",
+        "nivelBloom": "ANALIZAR",
+        "enunciado": "Según el Reglamento de la RM 0092/2025, ¿qué formulario se usa para registrar la MODIFICACIÓN de datos de un centro de Educación Alternativa?",
+        "opciones": [
+          {
+            "texto": "El M-CEA-CEP-CEAI 002",
+            "correcta": true,
+            "porQue": "Arts. 9 a 14: es el formulario de modificación."
+          },
+          {
+            "texto": "El R-CEA-CEP-CEAI 001",
+            "correcta": false,
+            "porQue": "Capciosa: el 001 es para el registro de un centro nuevo."
+          },
+          {
+            "texto": "El CUT-ETTP",
+            "correcta": false,
+            "porQue": "Es el código para la certificación técnica (RM 0679)."
+          },
+          {
+            "texto": "El CUT-DB-ALT",
+            "correcta": false,
+            "porQue": "Es el formulario del Diploma de Bachiller (RM 0001)."
+          }
+        ],
+        "explicacion": "R significa registro (001) y M, modificación (002).",
+        "citaTextual": "Formulario de Trámite de Modificación de datos de Centros del Ámbito de Educación Alternativa (M-CEA-CEP-CEAI 002)",
+        "referencia": "RM 0092/2025, Reglamento, Art. 10, págs. 12-13",
+        "etiquetas": [
+          "formularios",
+          "capciosa"
+        ]
+      }
+    ]
+  },
+  {
+    "fragmentoRef": "rm0092-2025-reg-art19",
+    "preguntas": [
+      {
+        "tipo": "OPCION_MULTIPLE",
+        "dificultad": "DIFICIL",
+        "nivelBloom": "ANALIZAR",
+        "enunciado": "Según el Art. 19 del Reglamento de la RM 0092/2025, ¿qué procedimiento se sigue para la modificación (ampliación, cambio de nombre, de jurisdicción, de infraestructura, de dependencia o fusión) y el cierre de centros?",
+        "opciones": [
+          {
+            "texto": "El establecido en el Artículo 8 del reglamento, en lo que corresponda",
+            "correcta": true,
+            "porQue": "Art. 19."
+          },
+          {
+            "texto": "Un procedimiento distinto para cada caso, fijado por la Distrital",
+            "correcta": false,
+            "porQue": "Se remite al Art. 8."
+          },
+          {
+            "texto": "El procedimiento de la Ley 2341",
+            "correcta": false,
+            "porQue": "No es lo que dispone el reglamento."
+          },
+          {
+            "texto": "Ninguno: se resuelve por instructivo",
+            "correcta": false,
+            "porQue": "El reglamento fija la remisión al Art. 8."
+          }
+        ],
+        "explicacion": "Rebuscada: la remisión a otro artículo es un dato fino.",
+        "citaTextual": "será de acuerdo a lo establecido en el Artículo 8 del presente reglamento, en lo que corresponda",
+        "referencia": "RM 0092/2025, Reglamento, Art. 19, pág. 18",
+        "etiquetas": [
+          "procedimiento",
+          "rebuscada"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,117 @@
+[
+  { "fragmentoRef": "rm0183-2024-reg-art27", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Un participante de la EPJA se presenta a la evaluación extraordinaria sin su cédula de identidad, pero con su licencia de conducir. Según el Reglamento de la RM 0183/2024:",
+      "opciones": [
+        { "texto": "Puede rendirla, porque se acepta la cédula de identidad u otro documento que lo identifique", "correcta": true, "porQue": "Art. 27, par. III." },
+        { "texto": "No puede rendirla sin la cédula", "correcta": false, "porQue": "Capciosa: se admite otro documento de identificación." },
+        { "texto": "Puede rendirla solo con la autorización de la Distrital", "correcta": false, "porQue": "No es lo que dispone el reglamento." },
+        { "texto": "Debe reprogramarse para el siguiente semestre", "correcta": false, "porQue": "No es lo que dispone el reglamento." }
+      ],
+      "explicacion": "La evaluación extraordinaria se programa al finalizar cada semestre y se toma en el CEA, en su horario de atención.",
+      "citaTextual": "deberán presentar su Cédula de Identidad u otro documento que los identifique",
+      "referencia": "RM 0183/2024, Reglamento, Art. 27, págs. 23-24", "etiquetas": ["evaluación extraordinaria", "caso", "capciosa"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según el Reglamento de la RM 0183/2024, ¿quiénes están habilitados para inspeccionar la transparencia de la evaluación extraordinaria?",
+      "opciones": [
+        { "texto": "Autoridades y técnicos del Ministerio de Educación, de la Dirección Departamental y/o de las Direcciones Distritales", "correcta": true, "porQue": "Art. 27, par. IV." },
+        { "texto": "Solo la Junta Escolar", "correcta": false, "porQue": "No figura en el artículo." },
+        { "texto": "Solo el director del CEA", "correcta": false, "porQue": "Los habilitados son autoridades externas al CEA." },
+        { "texto": "La Contraloría General del Estado", "correcta": false, "porQue": "No figura en el artículo." }
+      ],
+      "explicacion": "La inspección garantiza la transparencia del proceso.",
+      "citaTextual": "se encuentran habilitados para realizar inspección al desarrollo transparente del proceso de evaluación",
+      "referencia": "RM 0183/2024, Reglamento, Art. 27, págs. 23-24", "etiquetas": ["evaluación extraordinaria"] }
+  ]},
+  { "fragmentoRef": "rm0183-2024-reg-art28", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según el Reglamento de la RM 0183/2024, ¿qué elemento de la evaluación extraordinaria busca que el participante asuma una visión de liderazgo y autonomía, y reflexione sobre los motivos por los que dejó y retomó sus estudios?",
+      "opciones": [
+        { "texto": "El Proyecto de Vida", "correcta": true, "porQue": "Art. 28, par. I, num. 2." },
+        { "texto": "Los trabajos prácticos", "correcta": false, "porQue": "Contribuyen a la preparación (num. 1)." },
+        { "texto": "La prueba práctica objetiva", "correcta": false, "porQue": "Evalúa los saberes por nivel y área (num. 3)." },
+        { "texto": "La autoevaluación", "correcta": false, "porQue": "No es uno de los elementos descritos." }
+      ],
+      "explicacion": "El proceso contempla cuatro elementos esenciales.",
+      "citaTextual": "Proyecto de Vida, con el objetivo de ayudar a las y los participantes a asumir una visión de liderazgo, autonomía y prepararlos para la vida",
+      "referencia": "RM 0183/2024, Reglamento, Art. 28, págs. 24-26", "etiquetas": ["proyecto de vida"] }
+  ]},
+  { "fragmentoRef": "rm0183-2024-reg-art05", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según el Reglamento de la RM 0183/2024, el principio que exige establecer criterios claros y transparentes para que los resultados sean imparciales y se basen en evidencias concretas es:",
+      "opciones": [
+        { "texto": "La Objetividad", "correcta": true, "porQue": "Art. 5, inc. c)." },
+        { "texto": "La Equidad", "correcta": false, "porQue": "La equidad asegura las mismas oportunidades según las características de cada uno (inc. a)." },
+        { "texto": "La Ética profesional", "correcta": false, "porQue": "La ética se refiere a los valores y normas de los profesionales (inc. b)." },
+        { "texto": "La evaluación Formativa", "correcta": false, "porQue": "La formativa se refiere a la retroalimentación continua (inc. d)." }
+      ],
+      "explicacion": "Capciosa: principios vecinos del mismo artículo.",
+      "citaTextual": "Establecer criterios claros y transparentes para la evaluación, de manera que los resultados sean imparciales y se basen en evidencias concretas.",
+      "referencia": "RM 0183/2024, Reglamento, Art. 5, págs. 8-9", "etiquetas": ["principios", "capciosa"] }
+  ]},
+  { "fragmentoRef": "rm0183-2024-reg-art06", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Una facilitadora del CEA usa entrevistas orales con participantes que no leen bien, y portafolios con los demás. Según el Reglamento de la RM 0183/2024, ¿qué característica de la evaluación aplica?",
+      "opciones": [
+        { "texto": "Flexible: permite emplear variedad de estrategias, técnicas e instrumentos según las características, la modalidad, el contexto y las necesidades", "correcta": true, "porQue": "Art. 6, num. 3." },
+        { "texto": "Dinámica y permanente", "correcta": false, "porQue": "Se refiere a que se aplica de forma constante (num. 2)." },
+        { "texto": "Integral y holística", "correcta": false, "porQue": "Se refiere a considerar todas las dimensiones (num. 1)." },
+        { "texto": "Estandarizada", "correcta": false, "porQue": "No es una característica del reglamento." }
+      ],
+      "explicacion": "La evaluación se adapta a la diversidad sociocultural.",
+      "citaTextual": "Flexible, porque permite emplear variedad de estrategias, técnicas e instrumentos",
+      "referencia": "RM 0183/2024, Reglamento, Art. 6, págs. 9-10", "etiquetas": ["características", "caso"] }
+  ]},
+  { "fragmentoRef": "rm0183-2024-reg-art11", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según el Reglamento de la RM 0183/2024, analizar y valorar la expresión de actitudes, sentimientos, emociones y pensamientos, y relacionarlos con los valores y el proyecto de vida, corresponde a la dimensión:",
+      "opciones": [
+        { "texto": "Ser", "correcta": true, "porQue": "Art. 11, num. 1." },
+        { "texto": "Saber", "correcta": false, "porQue": "El Saber evalúa el conocimiento adquirido (num. 2)." },
+        { "texto": "Hacer", "correcta": false, "porQue": "El Hacer evalúa la aplicación práctica." },
+        { "texto": "Decidir", "correcta": false, "porQue": "El Decidir evalúa el impacto social y la toma de decisiones." }
+      ],
+      "explicacion": "Las cuatro dimensiones son Ser, Saber, Hacer y Decidir.",
+      "citaTextual": "Analizar y valorar la expresión de actitudes, sentimientos, emociones y pensamientos que tienen en cuenta los participantes.",
+      "referencia": "RM 0183/2024, Reglamento, Art. 11, págs. 16-17", "etiquetas": ["dimensiones"] }
+  ]},
+  { "fragmentoRef": "rm0183-2024-reg-art21", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según el Reglamento de la RM 0183/2024, ¿qué documento certifica al participante del área Humanística, y cuál al de Educación Técnica Tecnológica Productiva?",
+      "opciones": [
+        { "texto": "Humanística: Libretas de Calificaciones Electrónicas; Técnica: Certificados de Calificaciones Electrónicas", "correcta": true, "porQue": "Art. 21, num. 1." },
+        { "texto": "Humanística: Certificados de Calificaciones; Técnica: Libretas", "correcta": false, "porQue": "Capciosa: está invertido." },
+        { "texto": "Ambas reciben Diploma de Bachiller semestral", "correcta": false, "porQue": "No coincide con el reglamento." },
+        { "texto": "Ambas, con boletas físicas firmadas por el director", "correcta": false, "porQue": "Son documentos electrónicos." }
+      ],
+      "explicacion": "La certificación técnica se rige por su normativa específica (RM 0679/2025).",
+      "citaTextual": "Libretas de Calificaciones Electrónicas para el área Humanística y Certificados de Calificaciones Electrónicas para la Educación Técnica Tecnológica Productiva",
+      "referencia": "RM 0183/2024, Reglamento, Art. 21, pág. 21", "etiquetas": ["certificaciones", "capciosa"] }
+  ]},
+  { "fragmentoRef": "rm0183-2024-reg-art07", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Tras una evaluación, un facilitador detecta que varios participantes no comprenden fracciones y adapta su estrategia con apoyo adicional. Según el Reglamento de la RM 0183/2024, ¿qué objetivo de evaluación está cumpliendo?",
+      "opciones": [
+        { "texto": "Identificar limitaciones y dificultades, para adaptar las estrategias y brindar apoyo adicional", "correcta": true, "porQue": "Art. 7, num. 2." },
+        { "texto": "Identificar el nivel de logro de aprendizaje", "correcta": false, "porQue": "Ese objetivo determina lo adquirido (num. 1); el caso describe el ajuste por las dificultades." },
+        { "texto": "Certificar al participante", "correcta": false, "porQue": "No es un objetivo de ese artículo." },
+        { "texto": "Sancionar el bajo rendimiento", "correcta": false, "porQue": "No es un objetivo de la evaluación." }
+      ],
+      "explicacion": "Otro objetivo es orientar la toma de decisiones (num. 3).",
+      "citaTextual": "Esto permite a los facilitadores adaptar sus estrategias de enseñanza y brindar apoyo adicional a aquellos participantes que lo necesiten.",
+      "referencia": "RM 0183/2024, Reglamento, Art. 7, págs. 10-11", "etiquetas": ["objetivos", "caso"] }
+  ]},
+  { "fragmentoRef": "rm0183-2024-reg-art17", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según el Art. 17 del Reglamento de la RM 0183/2024, ¿qué deben potenciar y fortalecer los facilitadores en los participantes durante todo el proceso formativo?",
+      "opciones": [
+        { "texto": "La lectura y producción de textos, acorde a la etapa, el nivel, el área y/o la carrera", "correcta": true, "porQue": "Art. 17." },
+        { "texto": "Solo la lectura en el área de Comunicación", "correcta": false, "porQue": "Capciosa: es en toda etapa, área o carrera, e incluye la producción de textos." },
+        { "texto": "La memorización de textos oficiales", "correcta": false, "porQue": "No es lo que dispone el reglamento." },
+        { "texto": "Las innovaciones tecnológicas exclusivamente", "correcta": false, "porQue": "Las innovaciones las regula el Art. 16." }
+      ],
+      "explicacion": "El Art. 16 trata las innovaciones acordes a la carrera de formación.",
+      "citaTextual": "la lectura y producción de textos acorde a la etapa, nivel, área y/o carrera de formación",
+      "referencia": "RM 0183/2024, Reglamento, Art. 17, pág. 19", "etiquetas": ["lectura", "capciosa"] }
+  ]}
+]

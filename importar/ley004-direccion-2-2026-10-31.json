@@ -1,0 +1,106 @@
+[
+  { "fragmentoRef": "ley004-art25", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "¿Cuál de los siguientes NO es uno de los nuevos tipos penales creados por el Art. 25 de la Ley 004?",
+      "opciones": [
+        { "texto": "Peculado", "correcta": true, "porQue": "El peculado ya existía en el Código Penal (Art. 142); la Ley 004 no lo crea." },
+        { "texto": "Uso indebido de bienes y servicios públicos", "correcta": false, "porQue": "Lo crea el num. 1." },
+        { "texto": "Obstrucción de la justicia", "correcta": false, "porQue": "Lo crea el num. 7." },
+        { "texto": "Falsedad en la declaración jurada de bienes y rentas", "correcta": false, "porQue": "Lo crea el num. 8." }
+      ],
+      "explicacion": "Rebuscada: el peculado es un delito de corrupción sistematizado en el Art. 24, no un tipo penal nuevo.",
+      "citaTextual": "Uso indebido de bienes y servicios públicos; 2) Enriquecimiento ilícito",
+      "referencia": "Ley 004, Art. 25, pág. 7", "etiquetas": ["tipos penales", "EXCEPTO", "rebuscada"] }
+  ]},
+  { "fragmentoRef": "ley004-art19", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "El Ministerio Público pide a un banco los movimientos de una cuenta de un director investigado por corrupción. El banco alega secreto bancario y pide una orden judicial. Según el Art. 19 de la Ley 004:",
+      "opciones": [
+        { "texto": "No se puede invocar secreto o confidencialidad, y la información se obtiene sin orden judicial, requerimiento fiscal ni trámite previo", "correcta": true, "porQue": "Art. 19, par. I." },
+        { "texto": "Se requiere orden judicial", "correcta": false, "porQue": "Capciosa: la ley lo excluye expresamente." },
+        { "texto": "Se requiere autorización del titular de la cuenta", "correcta": false, "porQue": "No es lo que dispone la ley." },
+        { "texto": "El banco puede negarse si la cuenta tiene menos de un año", "correcta": false, "porQue": "No es lo que dispone la ley." }
+      ],
+      "explicacion": "La información solo puede usarse para investigar delitos de corrupción y vinculados.",
+      "citaTextual": "esta información será obtenida sin necesidad de orden judicial, requerimiento fiscal ni trámite previo alguno",
+      "referencia": "Ley 004, Art. 19, pág. 5", "etiquetas": ["secreto bancario", "caso", "capciosa"] }
+  ]},
+  { "fragmentoRef": "ley004-art12", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según la Ley 004, ¿quién designa en cada departamento a los fiscales especializados anticorrupción?",
+      "opciones": [
+        { "texto": "El Fiscal General del Estado, conforme a la Ley Orgánica del Ministerio Público", "correcta": true, "porQue": "Art. 12." },
+        { "texto": "El Consejo de la Magistratura", "correcta": false, "porQue": "El Consejo designa a los jueces anticorrupción (Art. 11)." },
+        { "texto": "El Ministerio de Transparencia", "correcta": false, "porQue": "No es lo que dispone la ley." },
+        { "texto": "La Asamblea Legislativa", "correcta": false, "porQue": "No es lo que dispone la ley." }
+      ],
+      "explicacion": "Capciosa: los jueces los designa el Consejo de la Magistratura y los fiscales, el Fiscal General. Los investigadores policiales trabajan bajo la dirección funcional de los fiscales (Art. 13).",
+      "citaTextual": "El Fiscal General del Estado, conforme a la Ley Orgánica del Ministerio Público, designará en cada Departamento a los fiscales especializados",
+      "referencia": "Ley 004, Art. 12, pág. 4", "etiquetas": ["fiscales", "capciosa"] }
+  ]},
+  { "fragmentoRef": "ley004-art23", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según el Art. 23 de la Ley 004, ¿qué atribución tiene el SIIARBE respecto de las declaraciones juradas de bienes y rentas?",
+      "opciones": [
+        { "texto": "Verificar de oficio las declaraciones juradas de los servidores públicos clasificados según indicadores, parámetros y criterios", "correcta": true, "porQue": "Art. 23, par. II." },
+        { "texto": "Recibir las declaraciones juradas en lugar de la Contraloría", "correcta": false, "porQue": "No es lo que dispone la ley." },
+        { "texto": "Eximir a los servidores de presentarlas", "correcta": false, "porQue": "No es lo que dispone la ley." },
+        { "texto": "Publicarlas en internet", "correcta": false, "porQue": "No es lo que dispone la ley." }
+      ],
+      "explicacion": "El SIIARBE está a cargo del Ministerio de Transparencia y centraliza la información anticorrupción.",
+      "citaTextual": "la verificación de oficio de las declaraciones juradas de bienes y rentas de aquellos servidores públicos clasificados",
+      "referencia": "Ley 004, Art. 23, págs. 6-7", "etiquetas": ["SIIARBE", "declaración jurada"] }
+  ]},
+  { "fragmentoRef": "ley004-art05", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Un exdirector de CEA, ya jubilado, es investigado por un desfalco cometido durante su gestión. Según el Art. 5 de la Ley 004:",
+      "opciones": [
+        { "texto": "La ley le es aplicable, porque alcanza a servidores y ex servidores públicos", "correcta": true, "porQue": "Art. 5, par. I, num. 1." },
+        { "texto": "No le es aplicable por estar jubilado", "correcta": false, "porQue": "Capciosa: la ley alcanza a ex servidores." },
+        { "texto": "Solo le es aplicable si aún percibe renta del Estado", "correcta": false, "porQue": "No es lo que dispone la ley." },
+        { "texto": "Solo se aplica a servidores del nivel central", "correcta": false, "porQue": "Alcanza también a las entidades territoriales autónomas." }
+      ],
+      "explicacion": "También alcanza a particulares que cometan delitos de corrupción causando daño económico al Estado.",
+      "citaTextual": "Los servidores y ex servidores públicos de todos los Órganos del Estado Plurinacional",
+      "referencia": "Ley 004, Art. 5, pág. 2", "etiquetas": ["ámbito de aplicación", "caso"] }
+  ]},
+  { "fragmentoRef": "ley004-art09", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según el Art. 9 de la Ley 004, ¿quiénes pueden participar del control social para prevenir y luchar contra la corrupción?",
+      "opciones": [
+        { "texto": "Todos los actores sociales, de manera individual y/o colectiva", "correcta": true, "porQue": "Art. 9." },
+        { "texto": "Solo las organizaciones sociales registradas", "correcta": false, "porQue": "Pueden participar todos los actores, también de manera individual." },
+        { "texto": "Solo los servidores públicos", "correcta": false, "porQue": "No es lo que dispone la ley." },
+        { "texto": "Solo las juntas vecinales", "correcta": false, "porQue": "No es lo que dispone la ley." }
+      ],
+      "explicacion": "El control social participa también en la evaluación permanente de jueces, fiscales y policías (Art. 16).",
+      "citaTextual": "Podrán participar del control social todos los actores sociales, de manera individual y/o colectiva.",
+      "referencia": "Ley 004, Art. 9, pág. 3", "etiquetas": ["control social"] }
+  ]},
+  { "fragmentoRef": "ley004-art07", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según la Ley 004, ¿qué instancia APRUEBA el Plan Nacional de Lucha Contra la Corrupción?",
+      "opciones": [
+        { "texto": "El Consejo Nacional de Lucha Contra la Corrupción, Enriquecimiento Ilícito y Legitimación de Ganancias Ilícitas", "correcta": true, "porQue": "Art. 7, num. 2." },
+        { "texto": "El Ministerio del ramo", "correcta": false, "porQue": "Capciosa: el Ministerio lo elabora; el Consejo lo aprueba." },
+        { "texto": "La Contraloría General del Estado", "correcta": false, "porQue": "No es lo que dispone la ley." },
+        { "texto": "El Fiscal General del Estado", "correcta": false, "porQue": "No es lo que dispone la ley." }
+      ],
+      "explicacion": "El Consejo también evalúa la ejecución del Plan.",
+      "citaTextual": "Aprobar el Plan Nacional de Lucha Contra la Corrupción, elaborado por el Ministerio del ramo",
+      "referencia": "Ley 004, Art. 7, pág. 3", "etiquetas": ["Consejo Nacional", "capciosa"] }
+  ]},
+  { "fragmentoRef": "ley004-art30", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según el Art. 30 de la Ley 004, ¿qué sanción corresponde al cohecho activo transnacional?",
+      "opciones": [
+        { "texto": "Privación de libertad de cinco a diez años y multa de cien a quinientos días", "correcta": true, "porQue": "Art. 30." },
+        { "texto": "De tres a ocho años y multa de cien a trescientos días", "correcta": false, "porQue": "Es la sanción del enriquecimiento ilícito de particulares (Art. 28)." },
+        { "texto": "De uno a cuatro años", "correcta": false, "porQue": "No coincide." },
+        { "texto": "Solo multa", "correcta": false, "porQue": "Incluye privación de libertad." }
+      ],
+      "explicacion": "Consiste en ofrecer beneficios a un funcionario extranjero o de una organización internacional en actividades comerciales internacionales.",
+      "citaTextual": "será sancionado con privación de libertad de cinco a diez años y multa de cien a quinientos días",
+      "referencia": "Ley 004, Art. 30, pág. 8", "etiquetas": ["penas", "memorística"] }
+  ]}
+]
