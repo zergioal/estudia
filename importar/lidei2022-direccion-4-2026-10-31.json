@@ -1,0 +1,120 @@
+[
+  { "fragmentoRef": "lidei2022-b009", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "En el modelo portugués de evaluación externa de las escuelas (Abrantes et al., 2018), «Liderazgo y Gestión» es un dominio junto con:",
+      "opciones": [
+        { "texto": "Autoevaluación, Prestación de Servicios y Resultados", "correcta": true, "porQue": "Son los otros tres dominios." },
+        { "texto": "Visión y estrategia, Liderazgo y Gestión", "correcta": false, "porQue": "Son los campos de análisis dentro del dominio Liderazgo y Gestión, no otros dominios." },
+        { "texto": "Currículo, Evaluación y Convivencia", "correcta": false, "porQue": "No coinciden con el modelo." },
+        { "texto": "Infraestructura, Financiamiento y Personal", "correcta": false, "porQue": "No coinciden con el modelo." }
+      ],
+      "explicacion": "Capciosa: hay que distinguir los dominios de la evaluación externa de los campos de análisis del dominio de liderazgo.",
+      "citaTextual": "Liderazgo y Gestión es un dominio, junto con Autoevaluación, Prestación de Servicios y Resultados",
+      "referencia": "OEI, Liderazgo directivo 2022, págs. 21-22", "etiquetas": ["Portugal", "evaluación externa", "capciosa"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según el informe de la OEI sobre el caso portugués, ¿en qué se traduce el liderazgo democrático?",
+      "opciones": [
+        { "texto": "En la participación de todos, la motivación de los actores, la confianza, el respeto a las personas y la capacidad de ser escuchados en un clima de aprendizaje mutuo", "correcta": true, "porQue": "Es la definición del texto." },
+        { "texto": "En la elección del director por votación estudiantil", "correcta": false, "porQue": "No es lo que dice el texto." },
+        { "texto": "En la concentración de decisiones en el director electo", "correcta": false, "porQue": "Es lo contrario: la gestión es distribuida." },
+        { "texto": "En la aplicación estricta de la normativa central", "correcta": false, "porQue": "La autonomía se entiende como construcción institucional, no como un proceso decretado." }
+      ],
+      "explicacion": "La base normativa es el Decreto-Lei n.º 75/2008 de Portugal.",
+      "citaTextual": "El liderazgo democrático se traduce, por tanto, en la participación de todos, en la motivación de los actores escolares",
+      "referencia": "OEI, Liderazgo directivo 2022, págs. 21-22", "etiquetas": ["liderazgo democrático"] }
+  ]},
+  { "fragmentoRef": "lidei2022-b014", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según TALIS 2018, citado por la OEI, ¿cuál es la edad promedio de los directores en Chile y qué porcentaje tiene 60 años o más?",
+      "opciones": [
+        { "texto": "53 años promedio; 20% con 60 años o más", "correcta": true, "porQue": "Son los datos de TALIS que cita el informe." },
+        { "texto": "52 años promedio; 9% con más de 60 años", "correcta": false, "porQue": "52 años es la edad media de los directores de CABA (Argentina) y el 9% corresponde a España." },
+        { "texto": "49 años promedio; 8% con 60 o más", "correcta": false, "porQue": "49 años es la media de los directores de primaria en España." },
+        { "texto": "42 años promedio; 12% menores de 40", "correcta": false, "porQue": "42 años es la edad media de los docentes argentinos." }
+      ],
+      "explicacion": "Memorística, con cifras de países vecinos como distractores.",
+      "citaTextual": "los directores tienen un promedio de 53 años de edad y que el 20% de los directores de Chile tienen 60 años o más",
+      "referencia": "OEI, Liderazgo directivo 2022, págs. 31-35", "etiquetas": ["datos", "memorística"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según el informe de la OEI, ¿cuál era el porcentaje de directoras en España en el curso 2019-2020?",
+      "opciones": [
+        { "texto": "67,2% (65,8% en primaria y 41,0% en secundaria)", "correcta": true, "porQue": "Es el dato del informe." },
+        { "texto": "33%", "correcta": false, "porQue": "33% es el porcentaje de mujeres en la muestra española del piloto, que no es representativa." },
+        { "texto": "50%", "correcta": false, "porQue": "50% es el dato de TALIS 2018 para directores de secundaria." },
+        { "texto": "41,0% en total", "correcta": false, "porQue": "Capciosa: 41,0% es solo el dato de secundaria." }
+      ],
+      "explicacion": "La muestra del piloto (67% hombres) no es representativa de la población española.",
+      "citaTextual": "El porcentaje de directoras en España (curso 2019-2020), era del 67,2%",
+      "referencia": "OEI, Liderazgo directivo 2022, págs. 31-35", "etiquetas": ["género", "datos"] }
+  ]},
+  { "fragmentoRef": "lidei2022-b018", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Sobre la equiparación del salario de los directores con otros puestos de responsabilidad similar en Argentina, ¿qué contraste revela el informe de la OEI?",
+      "opciones": [
+        { "texto": "El 72% de los directores está «muy poco de acuerdo», mientras la Administración educativa lo valora con 6 sobre 6", "correcta": true, "porQue": "Es el contraste que señala el informe." },
+        { "texto": "Directores y Administración coinciden en que el salario es adecuado", "correcta": false, "porQue": "Hay una discrepancia total." },
+        { "texto": "El 72% de los directores está satisfecho con su salario", "correcta": false, "porQue": "Capciosa: el 72% está muy poco de acuerdo." },
+        { "texto": "La Administración lo valora con 1 sobre 6", "correcta": false, "porQue": "Lo valora con 6." }
+      ],
+      "explicacion": "TALIS 2018: solo el 34% de los directores de CABA está satisfecho con su salario, frente a una media OCDE de 46,5%.",
+      "citaTextual": "las administraciones educativas argentinas valoran con un 6 sobre 6 indicando que el salario es equiparable",
+      "referencia": "OEI, Liderazgo directivo 2022, págs. 41-43", "etiquetas": ["salario", "atractivo de la dirección"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según la encuesta de la OEI, ¿en qué cuestión se sienten más respaldados por la normativa los directores argentinos?",
+      "opciones": [
+        { "texto": "Al impulsar prácticas que fomenten la equidad, la integración y el respeto, en concreto de los más desfavorecidos", "correcta": true, "porQue": "Es lo que señala el informe." },
+        { "texto": "Al seleccionar y renovar la plantilla docente", "correcta": false, "porQue": "No es lo que señala el informe." },
+        { "texto": "Al gestionar el presupuesto del centro", "correcta": false, "porQue": "En Argentina solo el 27% percibe autonomía presupuestaria." },
+        { "texto": "Al fijar los salarios del personal", "correcta": false, "porQue": "No es lo que señala el informe." }
+      ],
+      "explicacion": "La defensa de la justicia social es un aspecto común en lo que sienten los directores.",
+      "citaTextual": "La cuestión en la que los directores se sienten más reforzados por parte de la normativa es a la hora de impulsar prácticas que fomenten la equidad",
+      "referencia": "OEI, Liderazgo directivo 2022, págs. 41-43", "etiquetas": ["equidad", "normativa"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según TALIS 2018, citado por la OEI, ¿qué porcentaje de directores de CABA (Argentina) está satisfecho con su salario, y cuál es la media OCDE?",
+      "opciones": [
+        { "texto": "34%, frente a una media OCDE de 46,5%", "correcta": true, "porQue": "Son los datos citados." },
+        { "texto": "46,5%, frente a una media OCDE de 34%", "correcta": false, "porQue": "Capciosa: las cifras están invertidas." },
+        { "texto": "72%, frente a una media OCDE de 50%", "correcta": false, "porQue": "72% es el porcentaje de directores argentinos «muy poco de acuerdo» con la equiparación salarial." },
+        { "texto": "27%, frente a una media OCDE de 40%", "correcta": false, "porQue": "27% y 40% son las percepciones de autonomía presupuestaria en Argentina y Chile." }
+      ],
+      "explicacion": "La satisfacción salarial es menor en los centros públicos que en los privados.",
+      "citaTextual": "Este valor está por debajo de la media OCDE (46,5%).",
+      "referencia": "OEI, Liderazgo directivo 2022, págs. 41-43", "etiquetas": ["TALIS", "memorística"] }
+  ]},
+  { "fragmentoRef": "lidei2022-b026", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "En la encuesta de la OEI, ¿qué porcentaje de directores de cada país estima tener bastante o mucha autonomía para gestionar el presupuesto del centro?",
+      "opciones": [
+        { "texto": "Argentina 27%, Chile 40% y España 86%", "correcta": true, "porQue": "Son los datos del gráfico 30." },
+        { "texto": "Argentina 86%, Chile 40% y España 27%", "correcta": false, "porQue": "Capciosa: los extremos están invertidos." },
+        { "texto": "Argentina 54%, Chile 73% y España 75%", "correcta": false, "porQue": "Son los porcentajes de autonomía para adaptar la documentación de convivencia." },
+        { "texto": "Argentina 92%, Chile 100% y España 97%", "correcta": false, "porQue": "Son los porcentajes de autonomía para gestionar la resolución de conflictos." }
+      ],
+      "explicacion": "El modelo español asigna un presupuesto por número de grupos y alumnos, sin gastos de personal, que el centro reparte con independencia y justifica.",
+      "citaTextual": "En Argentina, solo el 27% de los directores opina que existe entre bastante y mucha autonomía a la hora de definir y gestionar el presupuesto del centro.",
+      "referencia": "OEI, Liderazgo directivo 2022, págs. 61-64", "etiquetas": ["autonomía", "presupuesto", "memorística"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según la encuesta de la OEI, ¿dónde declaran los directores tener MÁS autonomía en materia de convivencia?",
+      "opciones": [
+        { "texto": "En gestionar la resolución de conflictos de convivencia entre profesorado, familias y alumnado, más que en adaptar la documentación que regula la convivencia", "correcta": true, "porQue": "Es la conclusión del informe." },
+        { "texto": "En adaptar la documentación oficial de convivencia, más que en resolver conflictos", "correcta": false, "porQue": "Es al revés." },
+        { "texto": "En resolver conflictos laborales por incumplimiento de funciones del personal", "correcta": false, "porQue": "Ahí la autonomía es menor (34% a 80%)." },
+        { "texto": "En sancionar a las familias", "correcta": false, "porQue": "No es un ítem de la encuesta." }
+      ],
+      "explicacion": "En Chile, el 100% expresa autonomía para gestionar la convivencia.",
+      "citaTextual": "los directores declaran tener más autonomía a la hora de gestionar la resolución de conflictos que a la hora de adaptar la documentación que regula la convivencia",
+      "referencia": "OEI, Liderazgo directivo 2022, págs. 61-64", "etiquetas": ["convivencia", "autonomía"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según el informe de la OEI, ¿cómo funciona el modelo español de presupuesto de los centros educativos?",
+      "opciones": [
+        { "texto": "Parte de un presupuesto determinado por indicadores como el número de grupos y de alumnos, con independencia para repartirlo en partidas debidamente justificadas, sin incluir gastos de personal", "correcta": true, "porQue": "Es la descripción del informe." },
+        { "texto": "El director fija libremente los salarios del personal", "correcta": false, "porQue": "El presupuesto no incluye gastos de personal." },
+        { "texto": "El presupuesto se asigna según los resultados en pruebas estandarizadas", "correcta": false, "porQue": "Se asigna según indicadores como grupos y alumnos." },
+        { "texto": "Los centros no tienen presupuesto propio", "correcta": false, "porQue": "Sí tienen presupuesto propio." }
+      ],
+      "explicacion": "Aunque los presupuestos son muy ajustados, los directores españoles se sienten autónomos en la gestión económica.",
+      "citaTextual": "El modelo español parte de un presupuesto determinado para cada centro en función de indicadores como son el número de grupos y de alumnos",
+      "referencia": "OEI, Liderazgo directivo 2022, págs. 61-64", "etiquetas": ["España", "presupuesto"] }
+  ]}
+]

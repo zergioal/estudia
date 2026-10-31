@@ -1,0 +1,142 @@
+[
+  { "fragmentoRef": "lidei2022-b002", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según Fullan (2016), citado en el informe de la OEI, ¿cuáles son los tres rasgos cuyo dominio exige el liderazgo en la era digital?",
+      "opciones": [
+        { "texto": "La «disciplina fanática», aprender de los buenos datos y la «paranoia productiva»", "correcta": true, "porQue": "Son los tres rasgos que cita el informe." },
+        { "texto": "Visión y objetivos, recursos y pedagogía ejemplar", "correcta": false, "porQue": "Son tres de los siete aspectos de la escuela afectados por el futuro digital, no los rasgos del liderazgo." },
+        { "texto": "Resiliencia, empatía y autoridad", "correcta": false, "porQue": "La resiliencia la añade el informe por la pandemia; no es uno de los tres rasgos de Fullan." },
+        { "texto": "Conectividad, dataficación y digitalización", "correcta": false, "porQue": "Son dinámicas de la sociedad digital (Couldry y Mejías)." }
+      ],
+      "explicacion": "La «paranoia productiva» consiste en ser siempre consciente de que podría estar olvidando algo.",
+      "citaTextual": "En último lugar la “paranoia productiva” (ser siempre consciente de que podría estar olvidando algo)",
+      "referencia": "OEI, Liderazgo directivo 2022, págs. 7-10", "etiquetas": ["Fullan", "era digital", "memorística"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "¿Cuál de los siguientes NO es uno de los siete aspectos de la escuela que, según Fullan (2016), serán afectados por el futuro-presente digital?",
+      "opciones": [
+        { "texto": "Infraestructura y mobiliario escolar", "correcta": true, "porQue": "No figura entre los siete aspectos." },
+        { "texto": "Ciudadanía digital", "correcta": false, "porQue": "Sí figura." },
+        { "texto": "Proliferación del liderazgo", "correcta": false, "porQue": "Sí figura." },
+        { "texto": "Aprendizaje ilimitado", "correcta": false, "porQue": "Sí figura." }
+      ],
+      "explicacion": "Los siete: visión y objetivos, recursos, pedagogía ejemplar, datos, ciudadanía digital, proliferación del liderazgo y aprendizaje ilimitado.",
+      "citaTextual": "visión y objetivos, recursos, pedagogía ejemplar, datos, ciudadanía digital, proliferación del liderazgo y aprendizaje ilimitado",
+      "referencia": "OEI, Liderazgo directivo 2022, págs. 7-10", "etiquetas": ["Fullan", "EXCEPTO"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "¿Cuáles son los dos objetivos principales que formula la OEI en su iniciativa sobre liderazgo escolar?",
+      "opciones": [
+        { "texto": "Fortalecer el liderazgo escolar y la función directiva para la mejora de la calidad, y promover la innovación para mejorar las políticas públicas de liderazgo educativo", "correcta": true, "porQue": "Son los dos objetivos citados en el informe." },
+        { "texto": "Evaluar a los directores y certificarlos internacionalmente", "correcta": false, "porQue": "No son objetivos de la OEI en el informe." },
+        { "texto": "Unificar la normativa de dirección escolar de todos los países", "correcta": false, "porQue": "No son objetivos de la OEI en el informe." },
+        { "texto": "Reducir la carga administrativa y aumentar el salario de los directores", "correcta": false, "porQue": "No son objetivos de la OEI en el informe." }
+      ],
+      "explicacion": "El liderazgo y la función directiva son herramientas centrales para mejorar la calidad.",
+      "citaTextual": "fortalecer el liderazgo escolar y la función directiva como herramientas centrales para la mejora de la calidad de la educación",
+      "referencia": "OEI, Liderazgo directivo 2022, págs. 7-10", "etiquetas": ["OEI", "objetivos"] }
+  ]},
+  { "fragmentoRef": "lidei2022-b006", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según Vaillant (2015), citada por la OEI, ¿cómo se entiende hoy el liderazgo escolar?",
+      "opciones": [
+        { "texto": "De forma más amplia, compartida o distribuida, situado en el centro de la institución educativa", "correcta": true, "porQue": "Es la cita textual de Vaillant." },
+        { "texto": "Como una atribución exclusiva y unipersonal del director", "correcta": false, "porQue": "Es lo contrario: un liderazgo compartido o distribuido." },
+        { "texto": "Como una función administrativa separada de lo pedagógico", "correcta": false, "porQue": "El logro de los estudiantes exige analizar el centro desde la dinámica pedagógica." },
+        { "texto": "Como un rasgo innato de la personalidad del líder", "correcta": false, "porQue": "El liderazgo es una práctica que puede enseñarse y aprenderse." }
+      ],
+      "explicacion": "Para Vaillant, el aprendizaje organizacional es el camino hacia un liderazgo efectivo.",
+      "citaTextual": "se entiende de forma más amplia, compartida o distribuida, y se sitúa en el centro de la institución educativa",
+      "referencia": "OEI, Liderazgo directivo 2022, págs. 16-18", "etiquetas": ["Vaillant", "liderazgo distribuido"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "En el caso chileno analizado por Vaillant (2015), ¿qué figura tiene un rol fundamental en el liderazgo educativo apoyando la labor de los docentes?",
+      "opciones": [
+        { "texto": "El Jefe o Jefa Técnico", "correcta": true, "porQue": "Es la particularidad del caso chileno según Vaillant." },
+        { "texto": "El supervisor distrital", "correcta": false, "porQue": "No es la figura destacada." },
+        { "texto": "El Consejo Escolar de padres", "correcta": false, "porQue": "No es la figura destacada." },
+        { "texto": "El sostenedor municipal", "correcta": false, "porQue": "No es la figura destacada." }
+      ],
+      "explicacion": "Esta figura exige visiones más compartidas del liderazgo y definir mejor el rol del director frente a otros miembros del equipo directivo.",
+      "citaTextual": "contar con la figura de un Jefe o Jefa Técnico que apoya la labor de los docentes",
+      "referencia": "OEI, Liderazgo directivo 2022, págs. 16-18", "etiquetas": ["Chile", "equipo directivo"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "¿Qué cuatro casos nacionales analiza el capítulo 2 del informe de la OEI sobre liderazgo escolar?",
+      "opciones": [
+        { "texto": "Chile, Portugal, España y Brasil", "correcta": true, "porQue": "Son los cuatro casos del capítulo 2." },
+        { "texto": "Australia, Chile, Corea del Sur y Sudáfrica", "correcta": false, "porQue": "Son los cuatro casos de Vaillant (2015), de los cuales el informe retoma solo Chile." },
+        { "texto": "Argentina, Chile, España y Portugal", "correcta": false, "porQue": "Argentina participa en la encuesta piloto, no en los estudios de caso." },
+        { "texto": "Brasil, Cuba, Honduras y Uruguay", "correcta": false, "porQue": "Son países del estudio OEI-INEE 2019." }
+      ],
+      "explicacion": "Rebuscada: hay que distinguir los casos del informe, los de Vaillant y los países de la encuesta.",
+      "citaTextual": "algunos casos nacionales (Chile, Portugal, España y Brasil) de modelos de gestión y liderazgo escolar",
+      "referencia": "OEI, Liderazgo directivo 2022, págs. 16-18", "etiquetas": ["estudios de caso", "capciosa"] }
+  ]},
+  { "fragmentoRef": "lidei2022-b007", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según Leithwood et al. (2006), citados en el Marco para la Buena Dirección y el Liderazgo Escolar de Chile, el liderazgo es:",
+      "opciones": [
+        { "texto": "La labor de movilizar e influenciar a otros para articular y lograr los objetivos y metas compartidas", "correcta": true, "porQue": "Es la definición citada." },
+        { "texto": "La capacidad del director de hacer cumplir la normativa", "correcta": false, "porQue": "Es una visión burocrática, no la definición citada." },
+        { "texto": "Un atributo personal innato del líder", "correcta": false, "porQue": "El texto niega expresamente que sea un atributo personal." },
+        { "texto": "La gestión eficiente de los recursos financieros", "correcta": false, "porQue": "Es solo una de las dimensiones de la práctica directiva." }
+      ],
+      "explicacion": "El liderazgo es una función más amplia que la del director y se comparte con otras personas de la institución.",
+      "citaTextual": "la labor de movilizar e influenciar a otros para articular y lograr los objetivos y metas compartidas",
+      "referencia": "OEI, Liderazgo directivo 2022, págs. 19-20", "etiquetas": ["Leithwood", "definición"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "¿Cuál de las siguientes NO es una de las cinco dimensiones prácticas del Marco para la Buena Dirección y el Liderazgo Escolar de Chile (MINEDUC, 2015)?",
+      "opciones": [
+        { "texto": "Evaluando y sancionando el desempeño docente", "correcta": true, "porQue": "No figura entre las cinco dimensiones." },
+        { "texto": "Construyendo e implementando una visión estratégica compartida", "correcta": false, "porQue": "Dimensión a)." },
+        { "texto": "Gestionando la convivencia y la participación de la comunidad escolar", "correcta": false, "porQue": "Dimensión d)." },
+        { "texto": "Desarrollando las capacidades profesionales", "correcta": false, "porQue": "Dimensión b)." }
+      ],
+      "explicacion": "Las otras dos dimensiones son liderar los procesos de enseñanza-aprendizaje y desarrollar y gestionar el establecimiento escolar.",
+      "citaTextual": "Construyendo e implementando una visión estratégica compartida",
+      "referencia": "OEI, Liderazgo directivo 2022, págs. 19-20", "etiquetas": ["Marco Buena Dirección", "EXCEPTO"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Un director nuevo copia tal cual las estrategias de un CEA urbano exitoso en su CEA rural con alta vulnerabilidad, y fracasan. Según el Marco chileno citado por la OEI, ¿qué principio ignoró?",
+      "opciones": [
+        { "texto": "Que el liderazgo efectivo es contextual y contingente: varía según el contexto, la vulnerabilidad, el tipo de establecimiento y su etapa de mejoramiento", "correcta": true, "porQue": "Es lo que señala el Marco." },
+        { "texto": "Que el liderazgo depende solo del carisma del director", "correcta": false, "porQue": "El Marco lo define como práctica, no como atributo personal." },
+        { "texto": "Que las buenas prácticas son universales y replicables sin ajustes", "correcta": false, "porQue": "Es lo contrario de lo que sostiene el Marco." },
+        { "texto": "Que el liderazgo debe ser exclusivamente administrativo", "correcta": false, "porQue": "No es lo que sostiene el Marco." }
+      ],
+      "explicacion": "El concepto de práctica obliga a estar alerta a la contingencia y a anticiparse.",
+      "citaTextual": "lo que da cuenta de que el liderazgo efectivo es contextual y contingente",
+      "referencia": "OEI, Liderazgo directivo 2022, págs. 19-20", "etiquetas": ["contexto", "caso"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según el Marco chileno citado por la OEI, el liderazgo es la práctica del mejoramiento, entendida como:",
+      "opciones": [
+        { "texto": "Un conjunto de acciones fundadas en conocimientos, habilidades y hábitos que pueden ser enseñados y aprendidos", "correcta": true, "porQue": "Es la definición del texto." },
+        { "texto": "Un atributo o característica personal del líder", "correcta": false, "porQue": "Es lo que el texto niega expresamente." },
+        { "texto": "Un cargo jerárquico asignado por la autoridad", "correcta": false, "porQue": "No es la concepción del texto." },
+        { "texto": "Un talento que no puede desarrollarse con formación", "correcta": false, "porQue": "Es lo contrario: puede enseñarse." }
+      ],
+      "explicacion": "Lo que distingue a los líderes efectivos es que vinculan su práctica con el conocimiento adquirido.",
+      "citaTextual": "No se trata de un atributo o característica personal del líder, sino de un conjunto de acciones",
+      "referencia": "OEI, Liderazgo directivo 2022, págs. 19-20", "etiquetas": ["práctica", "capciosa"] }
+  ]},
+  { "fragmentoRef": "lidei2022-b012", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "La herramienta de análisis de buenas prácticas políticas sobre liderazgo escolar de la OEI se dividió en cuatro dimensiones. ¿Cuáles?",
+      "opciones": [
+        { "texto": "Responsabilidades del director, autonomía del director, promoción del liderazgo distribuido y atractivo de la dirección escolar", "correcta": true, "porQue": "Son las cuatro dimensiones del diseño." },
+        { "texto": "Visión, capacidades, enseñanza-aprendizaje y convivencia", "correcta": false, "porQue": "Son dimensiones del Marco chileno." },
+        { "texto": "Gobernanza, territorialidad, vinculación y participación", "correcta": false, "porQue": "Son los desafíos del nivel intermedio del Marco para la gestión." },
+        { "texto": "Acceso, formación inicial, formación continua y evaluación", "correcta": false, "porQue": "Son temas de una sección del cuestionario, no las cuatro dimensiones." }
+      ],
+      "explicacion": "La herramienta se presentó en la IX Reunión del Consejo Rector (abril de 2019).",
+      "citaTextual": "responsabilidades del director o directora, autonomía del director o directora, promoción del liderazgo distribuido y atractivo de la dirección escolar",
+      "referencia": "OEI, Liderazgo directivo 2022, págs. 27-29", "etiquetas": ["dimensiones", "memorística"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "¿Qué sección se añadió al cuestionario de directores de la OEI respecto de la herramienta aplicada a las administraciones?",
+      "opciones": [
+        { "texto": "Una sección relativa al «liderazgo situacional» en situación de pandemia por COVID-19", "correcta": true, "porQue": "Es la sección añadida." },
+        { "texto": "Una sección sobre salarios docentes", "correcta": false, "porQue": "No es la sección añadida." },
+        { "texto": "Una sección sobre infraestructura digital", "correcta": false, "porQue": "No es la sección añadida." },
+        { "texto": "Una sección sobre resultados PISA", "correcta": false, "porQue": "No es la sección añadida." }
+      ],
+      "explicacion": "El cuestionario se validó en un taller en mayo de 2021, con directores de varias comunidades autónomas de España.",
+      "citaTextual": "incluyendo una sección relativa al “liderazgo situacional” en situación de pandemia por COVID-19",
+      "referencia": "OEI, Liderazgo directivo 2022, págs. 27-29", "etiquetas": ["metodología", "pandemia"] }
+  ]}
+]

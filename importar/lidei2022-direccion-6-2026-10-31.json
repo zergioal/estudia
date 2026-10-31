@@ -1,0 +1,87 @@
+[
+  { "fragmentoRef": "lidei2022-b023", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según la encuesta de la OEI, ¿cuál es el factor más utilizado para evaluar el desempeño de los directores?",
+      "opciones": [
+        { "texto": "La consecución de los objetivos del Plan de Centro Anual o del proyecto de dirección", "correcta": true, "porQue": "Lo declaran el 55% en Argentina, el 100% en Chile y el 87% en España." },
+        { "texto": "El número de sanciones aplicadas", "correcta": false, "porQue": "Es uno de los factores menos mencionados." },
+        { "texto": "El índice de absentismo docente", "correcta": false, "porQue": "Es relevante en Chile, pero no es el factor más usado." },
+        { "texto": "Las calificaciones nacionales del alumnado", "correcta": false, "porQue": "Pesan en Chile (80%), pero no son el factor principal en los tres países." }
+      ],
+      "explicacion": "En España también se evalúan la innovación y los proyectos del centro (83%).",
+      "citaTextual": "el más utilizado es la consecución de objetivos del Plan de Centro Anual",
+      "referencia": "OEI, Liderazgo directivo 2022, págs. 54-57", "etiquetas": ["evaluación del desempeño"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "¿Qué porcentaje de directores de cada país reconoce que existe un proceso de evaluación de desempeño de la función directiva, según la OEI?",
+      "opciones": [
+        { "texto": "España 64%, Argentina 42% y Chile 33%", "correcta": true, "porQue": "Son los datos del informe." },
+        { "texto": "Chile 64%, Argentina 42% y España 33%", "correcta": false, "porQue": "Capciosa: los datos de Chile y España están invertidos." },
+        { "texto": "Argentina 100%, Chile 87% y España 55%", "correcta": false, "porQue": "Son cifras sobre el uso del Plan de Centro como factor de evaluación, mezcladas." },
+        { "texto": "España 36%, Chile 29% y Argentina 4%", "correcta": false, "porQue": "Son los porcentajes que consideran obligatoria la formación continua." }
+      ],
+      "explicacion": "En Argentina, la Administración pone la nota más baja a este aspecto.",
+      "citaTextual": "El 64% de los directores entienden que hay un proceso de evaluación de desempeño de la función directiva.",
+      "referencia": "OEI, Liderazgo directivo 2022, págs. 54-57", "etiquetas": ["evaluación del desempeño", "memorística"] }
+  ]},
+  { "fragmentoRef": "lidei2022-b031", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según los directores encuestados por la OEI, ¿en qué país la mayoría (53%) opina que las familias perdieron interés por la educación durante la pandemia?",
+      "opciones": [
+        { "texto": "Chile", "correcta": true, "porQue": "El 53% de los directores chilenos lo opina." },
+        { "texto": "España", "correcta": false, "porQue": "En España solo el 17% lo opina." },
+        { "texto": "Argentina", "correcta": false, "porQue": "En Argentina es una minoría, el 40%." },
+        { "texto": "Portugal", "correcta": false, "porQue": "Portugal no participó en la encuesta a directores." }
+      ],
+      "explicacion": "Alrededor de la mitad de los directores dice que mejoró la comunicación de las familias con el profesorado.",
+      "citaTextual": "aunque en Chile, el 53% de los directores opina que ha existido pérdida de interés por parte de las familias",
+      "referencia": "OEI, Liderazgo directivo 2022, págs. 74-77", "etiquetas": ["pandemia", "familias"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según la OEI, ¿qué factor fue la clave esencial para superar las dificultades del cierre y la reapertura de los centros?",
+      "opciones": [
+        { "texto": "La vocación, implicación y motivación del profesorado", "correcta": true, "porQue": "Es lo que señala el informe." },
+        { "texto": "La dotación masiva de computadoras por la Administración", "correcta": false, "porQue": "No es lo que el informe identifica como clave." },
+        { "texto": "La reducción del currículo a la mitad", "correcta": false, "porQue": "No es lo que señala el informe." },
+        { "texto": "La supervisión externa intensiva", "correcta": false, "porQue": "No es lo que señala el informe." }
+      ],
+      "explicacion": "Entre el 63% y el 81% de los directores dice que el profesorado apuesta por proyectos en redes de colaboración.",
+      "citaTextual": "La vocación, implicación y motivación del profesorado ha sido la clave esencial para poder superar las dificultades",
+      "referencia": "OEI, Liderazgo directivo 2022, págs. 74-77", "etiquetas": ["pandemia", "profesorado"] }
+  ]},
+  { "fragmentoRef": "lidei2022-b038", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según las conclusiones de la OEI, ¿por qué es difícil comparar los resultados de las tres encuestas piloto?",
+      "opciones": [
+        { "texto": "Porque el sujeto que responde es distinto (normativa, Administración, director) y no todos los países participaron en las tres encuestas", "correcta": true, "porQue": "Es la razón que da el informe." },
+        { "texto": "Porque los cuestionarios se aplicaron en idiomas distintos", "correcta": false, "porQue": "No es la razón señalada." },
+        { "texto": "Porque la matriz de especificaciones no cubría el dominio", "correcta": false, "porQue": "Los expertos consideraron que sí lo cubre satisfactoriamente." },
+        { "texto": "Porque las muestras eran representativas solo en España", "correcta": false, "porQue": "La muestra de directores no era representativa en ningún país." }
+      ],
+      "explicacion": "Por eso, el mayor alcance de los resultados se obtiene analizando cada tipo de respuesta por separado.",
+      "citaTextual": "por ser difícil establecer comparaciones habida cuenta de que el sujeto que responde es distinto",
+      "referencia": "OEI, Liderazgo directivo 2022, págs. 90-92", "etiquetas": ["metodología"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según las conclusiones de la OEI sobre la normativa, en todas las dimensiones del modelo es consistente la existencia de dos grupos de países. ¿Cuáles?",
+      "opciones": [
+        { "texto": "Tres países cuyas normas no recogen muchos rasgos del modelo, y seis que consideran que su normativa sí los recoge, aunque solo en grado intermedio", "correcta": true, "porQue": "Es la conclusión del informe." },
+        { "texto": "Seis países que no recogen los rasgos del modelo y tres que los recogen plenamente", "correcta": false, "porQue": "Capciosa: los números están invertidos y ningún país los recoge plenamente." },
+        { "texto": "Cuatro y cinco países, según su región", "correcta": false, "porQue": "No coincide con el informe." },
+        { "texto": "Los países europeos frente a los latinoamericanos", "correcta": false, "porQue": "El informe no los agrupa por región." }
+      ],
+      "explicacion": "Los nueve países consideran los indicadores muy relevantes y apropiados.",
+      "citaTextual": "un grupo de seis países que consideran en mayor medida –aunque solo en grado intermedio– que su normativa las recoge",
+      "referencia": "OEI, Liderazgo directivo 2022, págs. 90-92", "etiquetas": ["normativa", "conclusiones"] }
+  ]},
+  { "fragmentoRef": "lidei2022-b013", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según la OEI, ¿por qué toman mayor relevancia los datos del cuestionario aplicado a los directores?",
+      "opciones": [
+        { "texto": "Porque permiten conocer las diferencias entre la normativa y la realidad del director en su centro", "correcta": true, "porQue": "Es lo que señala el informe." },
+        { "texto": "Porque son representativos de toda la región", "correcta": false, "porQue": "El informe aclara que la muestra no es representativa." },
+        { "texto": "Porque reemplazan la opinión de las Administraciones", "correcta": false, "porQue": "La complementan, no la reemplazan." },
+        { "texto": "Porque miden el rendimiento de los estudiantes", "correcta": false, "porQue": "No miden ese rendimiento." }
+      ],
+      "explicacion": "El cuestionario se aplicó a 77 directores de Argentina, Chile y España.",
+      "citaTextual": "al permitir conocer la diferencias entre la normativa y la realidad del director o directora en su centro",
+      "referencia": "OEI, Liderazgo directivo 2022, págs. 30-31", "etiquetas": ["metodología"] }
+  ]}
+]

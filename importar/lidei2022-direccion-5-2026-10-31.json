@@ -1,0 +1,120 @@
+[
+  { "fragmentoRef": "lidei2022-b029", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según la encuesta de la OEI, ¿qué porcentaje de directores de cada país afirma haber recibido remuneración económica como resultado de la evaluación de desempeño?",
+      "opciones": [
+        { "texto": "Chile 40%, España 9% y Argentina 0%", "correcta": true, "porQue": "Son los datos del gráfico 36." },
+        { "texto": "Argentina 40%, España 9% y Chile 0%", "correcta": false, "porQue": "Capciosa: en Argentina no hay remuneración; el 40% es de Chile." },
+        { "texto": "España 86%, Chile 40% y Argentina 27%", "correcta": false, "porQue": "Son porcentajes de autonomía presupuestaria." },
+        { "texto": "Chile 73%, España 14% y Argentina 14%", "correcta": false, "porQue": "Mezcla datos sobre promoción a puestos de supervisión." }
+      ],
+      "explicacion": "Con la excepción de Chile, la evaluación del desempeño no tiene repercusión salarial.",
+      "citaTextual": "el 40% de los directores de Chile afirma que han recibido algún tipo de remuneración económica fruto de la evaluación del desempeño de su cargo",
+      "referencia": "OEI, Liderazgo directivo 2022, págs. 69-71", "etiquetas": ["evaluación del desempeño", "memorística"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "¿Por qué el 78% de los directores españoles estima que el cargo de director abre más posibilidades en concursos de traslado y vacantes?",
+      "opciones": [
+        { "texto": "Porque sus baremos de antigüedad son más altos que los de los profesores, y la experiencia como director pesa más en el concurso-oposición de inspección", "correcta": true, "porQue": "Es la explicación del informe." },
+        { "texto": "Porque reciben un complemento salarial por evaluación", "correcta": false, "porQue": "Solo el 9% de los directores españoles lo recibe." },
+        { "texto": "Porque son designados por la comunidad educativa", "correcta": false, "porQue": "No es la explicación del informe." },
+        { "texto": "Porque la Administración les consulta la oferta de formación", "correcta": false, "porQue": "Las Administraciones de Argentina y España no consultan la oferta formativa." }
+      ],
+      "explicacion": "En cambio, solo el 14% de los directores españoles y chilenos percibe una vía de promoción hacia la supervisión o la inspección.",
+      "citaTextual": "sus baremos de antigüedad son más altos que los de los profesores",
+      "referencia": "OEI, Liderazgo directivo 2022, págs. 69-71", "etiquetas": ["promoción", "España"] }
+  ]},
+  { "fragmentoRef": "lidei2022-b035", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "¿Por qué, según la OEI, no sería fácil ni recomendable que la norma distribuya por horas las funciones del director?",
+      "opciones": [
+        { "texto": "Porque sería una práctica contraria a la autonomía de la dirección", "correcta": true, "porQue": "Es el argumento del informe." },
+        { "texto": "Porque los directores no tienen funciones definidas", "correcta": false, "porQue": "Las funciones principales sí están en la norma básica." },
+        { "texto": "Porque aumentaría el salario de los directores", "correcta": false, "porQue": "No es el argumento del informe." },
+        { "texto": "Porque está prohibido por los tratados internacionales", "correcta": false, "porQue": "No es el argumento del informe." }
+      ],
+      "explicacion": "Ningún país participante cuantifica en su normativa el tiempo dedicado a gestión administrativa, liderazgo pedagógico y convivencia.",
+      "citaTextual": "pues sería una práctica contraria a la autonomía de la dirección",
+      "referencia": "OEI, Liderazgo directivo 2022, págs. 84-86", "etiquetas": ["autonomía", "tiempo directivo"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según la OEI, ¿cuál fue el propósito de las encuestas sobre liderazgo aplicadas a los países?",
+      "opciones": [
+        { "texto": "Avanzar en el conocimiento del estado de la cuestión para fundamentar las decisiones que los países soberanamente decidan, no evaluar a los países", "correcta": true, "porQue": "Es lo que aclara el informe." },
+        { "texto": "Establecer un ranking de países según su liderazgo", "correcta": false, "porQue": "El informe niega expresamente ese propósito." },
+        { "texto": "Condicionar la cooperación de la OEI a los resultados", "correcta": false, "porQue": "No es el propósito declarado." },
+        { "texto": "Certificar a los directores con mejor desempeño", "correcta": false, "porQue": "No es el propósito declarado." }
+      ],
+      "explicacion": "El modelo pedagógico, inclusivo y distribuido es un horizonte de trabajo, así que los desajustes son esperables.",
+      "citaTextual": "En modo alguno el propósito de las encuestas ha sido evaluar a los países en esta materia",
+      "referencia": "OEI, Liderazgo directivo 2022, págs. 84-86", "etiquetas": ["propósito", "capciosa"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según las conclusiones del estudio OEI-INEE, ¿qué señalan la mayoría de los países sobre la formación de los directores?",
+      "opciones": [
+        { "texto": "Que no realizan encuestas para conocer las propuestas de formación de los directores y que, en más de la mitad, la normativa no establece incentivos no salariales de formación", "correcta": true, "porQue": "Es la síntesis del informe." },
+        { "texto": "Que consultan sistemáticamente a los directores sobre su formación", "correcta": false, "porQue": "Es lo contrario." },
+        { "texto": "Que todos ofrecen incentivos salariales por formación", "correcta": false, "porQue": "No es lo que señala el informe." },
+        { "texto": "Que la formación de directores está fuera de la normativa", "correcta": false, "porQue": "La mayoría dice que sus programas consideran las necesidades formativas." }
+      ],
+      "explicacion": "Los países sí afirman ofrecer oportunidades de promoción, incluida la horizontal.",
+      "citaTextual": "señalan no realizar encuestas para conocer propuestas de formación de los directores y directoras",
+      "referencia": "OEI, Liderazgo directivo 2022, págs. 84-86", "etiquetas": ["formación", "atractivo de la dirección"] }
+  ]},
+  { "fragmentoRef": "lidei2022-b037", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Tras una emergencia sanitaria que cierra las aulas, el director de un CEA debe priorizar. Según lo que muy mayoritariamente señalan los directores en el informe de la OEI, ¿qué es más importante?",
+      "opciones": [
+        { "texto": "El acompañamiento emocional de los estudiantes, por encima de la enseñanza de los contenidos", "correcta": true, "porQue": "Es lo que señalan muy mayoritariamente los directores." },
+        { "texto": "Completar la totalidad de los contenidos curriculares", "correcta": false, "porQue": "Los directores priorizaron lo emocional." },
+        { "texto": "Aplicar exámenes estandarizados en línea", "correcta": false, "porQue": "No es lo que señalan los directores." },
+        { "texto": "Reducir la comunicación con las familias", "correcta": false, "porQue": "La comunicación familia-escuela aumentó y se valoró positivamente." }
+      ],
+      "explicacion": "La dirección priorizó a los estudiantes desfavorecidos y las medidas de inclusión.",
+      "citaTextual": "el acompañamiento emocional de los estudiantes es más importante que la enseñanza de los contenidos",
+      "referencia": "OEI, Liderazgo directivo 2022, págs. 88-90", "etiquetas": ["pandemia", "socioemocional", "caso"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según los directores encuestados por la OEI, ¿en qué porcentaje se adaptó fácilmente el profesorado a la enseñanza a distancia en la pandemia?",
+      "opciones": [
+        { "texto": "60% en Argentina y Chile, y 89% en España", "correcta": true, "porQue": "Son los datos del informe." },
+        { "texto": "89% en Argentina y Chile, y 60% en España", "correcta": false, "porQue": "Capciosa: las cifras están invertidas." },
+        { "texto": "50% en los tres países", "correcta": false, "porQue": "No coincide con el informe." },
+        { "texto": "93% en Chile y 35% en Argentina", "correcta": false, "porQue": "Son porcentajes de valoración del liderazgo en la selección de directores." }
+      ],
+      "explicacion": "El gran cambio fue el uso de tecnologías digitales; lo más negativo, la carga docente y el aumento de las desigualdades.",
+      "citaTextual": "el 60% dice que se adaptó fácilmente en Argentina y en Chile, mientras que, para el 89% de los directores españoles, esta adaptación fue sencilla",
+      "referencia": "OEI, Liderazgo directivo 2022, págs. 88-90", "etiquetas": ["pandemia", "memorística"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según la OEI, ¿cuál es una de las mayores demandas de los directores participantes?",
+      "opciones": [
+        { "texto": "La profesionalización de la función directiva: procesos selectivos objetivos, funciones más reguladas, un nivel diferenciado del profesorado y salarios ajustados a su responsabilidad", "correcta": true, "porQue": "Es lo que señala el informe." },
+        { "texto": "Eliminar la evaluación del desempeño", "correcta": false, "porQue": "La profesionalización también exige rendición de cuentas y evaluación." },
+        { "texto": "Volver al aula como docentes", "correcta": false, "porQue": "La mayoría dice que volvería a ser director." },
+        { "texto": "Elegir a los directores por sorteo", "correcta": false, "porQue": "No es una demanda de los directores." }
+      ],
+      "explicacion": "El salario se considera uno de los atractivos de la función directiva.",
+      "citaTextual": "Una de las mayores demandas de los directores y directoras es la profesionalización de la función directiva",
+      "referencia": "OEI, Liderazgo directivo 2022, págs. 88-90", "etiquetas": ["profesionalización"] }
+  ]},
+  { "fragmentoRef": "lidei2022-b040", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según las conclusiones de la OEI, ¿qué claves consideran necesarias los directores para impulsar el modelo de liderazgo pedagógico, inclusivo y distribuido en la gestión de recursos humanos?",
+      "opciones": [
+        { "texto": "Promocionar a los mejores profesores, crear plantillas estables, gestionar comunidades de profesores alineadas con un proyecto y no depender de la rotación docente de cada curso", "correcta": true, "porQue": "Son las claves que señala el informe." },
+        { "texto": "Aumentar la rotación docente para renovar las ideas", "correcta": false, "porQue": "Es lo contrario: piden no depender de la rotación." },
+        { "texto": "Delegar la selección de personal a las familias", "correcta": false, "porQue": "No es lo que señala el informe." },
+        { "texto": "Reducir el trabajo colaborativo para ganar eficiencia", "correcta": false, "porQue": "Piden tiempos y espacios para el trabajo colaborativo." }
+      ],
+      "explicacion": "Los directores también piden incentivos acordes con el puesto y una evaluación de su desempeño ligada al clima escolar y a los objetivos de los Planes de Centro.",
+      "citaTextual": "crear plantillas estables en los centros, de gestionar comunidades de profesores que se alineen en un proyecto de futuro",
+      "referencia": "OEI, Liderazgo directivo 2022, págs. 93-97", "etiquetas": ["recursos humanos", "conclusiones"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "¿Con qué idea final concluye el informe de la OEI sobre los directores participantes?",
+      "opciones": [
+        { "texto": "Que, pese a los obstáculos y a las demandas no reconocidas, la mayoría dice que volvería a ser director", "correcta": true, "porQue": "Es la conclusión final." },
+        { "texto": "Que la mayoría abandonaría el cargo tras la pandemia", "correcta": false, "porQue": "Es lo contrario." },
+        { "texto": "Que la normativa vigente es inadecuada en su totalidad", "correcta": false, "porQue": "Existe confianza en que el marco normativo es adecuado." },
+        { "texto": "Que el liderazgo distribuido no es aplicable en Iberoamérica", "correcta": false, "porQue": "No es la conclusión." }
+      ],
+      "explicacion": "El informe pide valorar y acompañar su trabajo, confiar en ellos y reconocer su contribución en su desarrollo profesional.",
+      "citaTextual": "la mayoría de los directores y directoras participantes dicen que volverían a ser directores",
+      "referencia": "OEI, Liderazgo directivo 2022, págs. 93-97", "etiquetas": ["conclusiones"] }
+  ]}
+]
