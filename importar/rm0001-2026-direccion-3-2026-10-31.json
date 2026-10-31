@@ -1,0 +1,130 @@
+[
+  { "fragmentoRef": "rm0001-2026-art03", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según el Art. 3 de la RM 0001/2026, ¿cuántos días hábiles de trabajo educativo comprenden las actividades de los centros de educación alternativa de jóvenes y adultos?",
+      "opciones": [
+        { "texto": "Doscientos (200) días hábiles", "correcta": true, "porQue": "Art. 3, par. I." },
+        { "texto": "Ciento ochenta (180) días hábiles", "correcta": false, "porQue": "No coincide con la RM." },
+        { "texto": "Doscientos veinte (220) días calendario", "correcta": false, "porQue": "Son 200 días hábiles, no calendario." },
+        { "texto": "Doscientos (200) días hábiles, salvo en Educación Permanente, que no tiene mínimo", "correcta": false, "porQue": "Capciosa: la Educación Permanente también comprende 200 días hábiles, organizados en jornadas (par. III)." }
+      ],
+      "explicacion": "Los consejos de maestros y las actividades extracurriculares no deben afectar las horas pedagógicas o andragógicas.",
+      "citaTextual": "comprenderán un total equivalente a doscientos (200) días hábiles de trabajo educativo",
+      "referencia": "RM 0001/2026, Art. 3, págs. 9-10", "etiquetas": ["calendario", "memorística", "capciosa"] }
+  ]},
+  { "fragmentoRef": "rm0001-2026-art07", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Un CEA necesita equipar su taller de mecánica. Según el Art. 7 de la RM 0001/2026, ¿ante quién y en qué instrumento deben gestionarse los recursos?",
+      "opciones": [
+        { "texto": "Ante el Gobierno Autónomo Municipal, para su asignación obligatoria y oportuna en el POA de cada gestión; lo gestionan el director distrital en coordinación con el CEA", "correcta": true, "porQue": "Art. 7, par. I." },
+        { "texto": "Ante el Ministerio de Educación, en el presupuesto nacional", "correcta": false, "porQue": "Los recursos de equipamiento e infraestructura se gestionan ante el GAM." },
+        { "texto": "Ante la Gobernación, en su PDES", "correcta": false, "porQue": "Confusión de nivel de gobierno." },
+        { "texto": "Cobrando aportes a los participantes", "correcta": false, "porQue": "No es la vía que establece la norma." }
+      ],
+      "explicacion": "Los recursos se destinan a equipamiento, infraestructura, laboratorios, talleres, servicios básicos y alimentación.",
+      "citaTextual": "deberán gestionar ante los Gobiernos Autónomos Municipales (GAM) la asignación obligatoria y oportuna de recursos económicos en el Plan Operativo Anual (POA)",
+      "referencia": "RM 0001/2026, Art. 7, págs. 10-11", "etiquetas": ["recursos", "GAM", "caso"] }
+  ]},
+  { "fragmentoRef": "rm0001-2026-art10", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Al hacer el inventario, el director de un CEA nota computadoras deterioradas por el uso normal y quiere cobrar su reposición a los docentes. Según el Art. 10 de la RM 0001/2026:",
+      "opciones": [
+        { "texto": "No puede: el desgaste por uso frecuente o la depreciación de ninguna manera se cobrará al personal docente ni a los estudiantes", "correcta": true, "porQue": "Art. 10, par. I." },
+        { "texto": "Puede cobrar al docente responsable del ambiente", "correcta": false, "porQue": "La RM lo prohíbe expresamente." },
+        { "texto": "Puede cobrar a los participantes en partes iguales", "correcta": false, "porQue": "La RM lo prohíbe expresamente." },
+        { "texto": "Puede cobrar si lo aprueba la Junta", "correcta": false, "porQue": "La prohibición es absoluta." }
+      ],
+      "explicacion": "Los bienes se registran obligatoriamente ante el GAM (Art. 80 de la Ley 070), y el informe de inventario se remite a la Distrital y a la Subdirección.",
+      "citaTextual": "que de ninguna manera se cobrará al personal docente o estudiantes",
+      "referencia": "RM 0001/2026, Art. 10, págs. 11-12", "etiquetas": ["inventario", "caso"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según el Art. 10 de la RM 0001/2026, ¿ante quién deben registrar obligatoriamente los directores de CEA todos los bienes de la institución?",
+      "opciones": [
+        { "texto": "Ante el Gobierno Autónomo Municipal de su jurisdicción, quedándose el centro con una copia del inventario codificado", "correcta": true, "porQue": "Art. 10, par. I." },
+        { "texto": "Ante la Dirección Departamental de Educación", "correcta": false, "porQue": "A la Departamental no se le registra el inventario; el informe se remite a la Distrital y a la Subdirección." },
+        { "texto": "Ante la Contraloría General del Estado", "correcta": false, "porQue": "No es la instancia del registro." },
+        { "texto": "Ante el Ministerio de Economía", "correcta": false, "porQue": "No es la instancia del registro." }
+      ],
+      "explicacion": "Los bienes de fuentes externas se sujetan a los convenios por los que se obtuvieron.",
+      "citaTextual": "deberán registrar obligatoriamente todos los bienes de la institución ante el Gobierno Autónomo Municipal de su jurisdicción",
+      "referencia": "RM 0001/2026, Art. 10, págs. 11-12", "etiquetas": ["inventario", "memorística"] }
+  ]},
+  { "fragmentoRef": "rm0001-2026-art11", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Un CEA funciona en el turno nocturno en la infraestructura de una unidad educativa, cuyo director cierra los baños con llave al terminar su turno. Según el Art. 11 de la RM 0001/2026:",
+      "opciones": [
+        { "texto": "Está prohibido cerrar los ambientes comunes, como baños y patios; ambos asumen los mismos derechos y responsabilidades, y el incumplimiento genera responsabilidad administrativa", "correcta": true, "porQue": "Art. 11, par. I." },
+        { "texto": "Es correcto, porque la UE es la titular de la infraestructura", "correcta": false, "porQue": "Ambos tienen los mismos derechos sobre bienes públicos." },
+        { "texto": "Es correcto si el CEA no paga los servicios básicos", "correcta": false, "porQue": "La norma no condiciona así el uso." },
+        { "texto": "Solo la Junta Escolar puede decidirlo", "correcta": false, "porQue": "La prohibición es normativa." }
+      ],
+      "explicacion": "Directores y maestros deben recomendar a los estudiantes el cuidado de los bienes.",
+      "citaTextual": "quedando prohibido el cierre de los ambientes comunes como ser baños, patios y otros",
+      "referencia": "RM 0001/2026, Art. 11, págs. 12-13", "etiquetas": ["infraestructura compartida", "caso"] }
+  ]},
+  { "fragmentoRef": "rm0001-2026-art25", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según el Art. 25 de la RM 0001/2026, ¿hasta qué fecha debe entregar el director departamental los Planes Anuales Departamentales y el acta de compromiso al VEAE?",
+      "opciones": [
+        { "texto": "Hasta el 27 de febrero de 2026", "correcta": true, "porQue": "Art. 25, par. III." },
+        { "texto": "Hasta el 23 de enero de 2026", "correcta": false, "porQue": "Es la fecha del acta de conformación del Comité Intersectorial de Educación Productiva (Art. 27)." },
+        { "texto": "Hasta el 31 de marzo de 2026", "correcta": false, "porQue": "No coincide." },
+        { "texto": "Hasta el 15 de febrero de 2026", "correcta": false, "porQue": "No coincide." }
+      ],
+      "explicacion": "La planificación se elabora en talleres con técnicos departamentales, directores distritales y directores de CEA.",
+      "citaTextual": "hasta el 27 de febrero de 2026",
+      "referencia": "RM 0001/2026, Art. 25, pág. 23", "etiquetas": ["plazos", "memorística", "capciosa"] }
+  ]},
+  { "fragmentoRef": "rm0001-2026-art27", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según el Art. 27 de la RM 0001/2026, ¿quiénes presiden el Comité Intersectorial de Educación Productiva?",
+      "opciones": [
+        { "texto": "El Subdirector de Educación Alternativa y Especial y el Director Distrital de Educación", "correcta": true, "porQue": "Art. 27, par. I." },
+        { "texto": "El director del CEA y el alcalde", "correcta": false, "porQue": "No coincide con la RM." },
+        { "texto": "El Director Departamental y el Gobernador", "correcta": false, "porQue": "Confusión de instancia." },
+        { "texto": "El Viceministro de Educación Alternativa y Especial", "correcta": false, "porQue": "No coincide con la RM." }
+      ],
+      "explicacion": "El acta de conformación se envía a la Dirección General de Educación Alternativa hasta el 23 de enero de 2026.",
+      "citaTextual": "a ser presidido por el Subdirector de Educación Alternativa y Especial y el Director Distrital de Educación",
+      "referencia": "RM 0001/2026, Art. 27, págs. 23-24", "etiquetas": ["educación productiva", "instancias"] }
+  ]},
+  { "fragmentoRef": "rm0001-2026-art37", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Un participante que viene de otro departamento no tiene sus libretas escolares para tramitar su Diploma de Bachiller. Según el Art. 37 de la RM 0001/2026, ¿qué debe hacer el director del CEA?",
+      "opciones": [
+        { "texto": "Remitir una nota a la Subdirección de Educación Alternativa y Especial detallando el caso y solicitando la impresión de los documentos, que serán válidos sin otra legalización", "correcta": true, "porQue": "Art. 37, par. I." },
+        { "texto": "Exigirle que viaje a su departamento a legalizar las libretas", "correcta": false, "porQue": "La RM prevé una vía sin legalización adicional." },
+        { "texto": "Rechazar el trámite", "correcta": false, "porQue": "La RM da una solución." },
+        { "texto": "Inscribirlo de nuevo desde el primer año", "correcta": false, "porQue": "No es lo que dispone la RM." }
+      ],
+      "explicacion": "La opción la habilitan las direcciones departamentales, en coordinación con la Unidad de Gestión del Personal del SEP y Sistemas Informáticos.",
+      "citaTextual": "Estos documentos serán válidos para el trámite de Diploma de Bachiller, sin requerir ningún tipo de legalización adicional.",
+      "referencia": "RM 0001/2026, Art. 37, pág. 28", "etiquetas": ["diploma de bachiller", "caso"] }
+  ]},
+  { "fragmentoRef": "rm0001-2026-art40", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según el Art. 40 de la RM 0001/2026, ¿quién está a cargo de los certificados de Técnico Básico, Técnico Auxiliar y Técnico Medio del CEPEAD?",
+      "opciones": [
+        { "texto": "La Dirección Departamental de Educación de La Paz, por ser la sede de operaciones del CEPEAD", "correcta": true, "porQue": "Art. 40, par. II." },
+        { "texto": "El Ministerio de Relaciones Exteriores", "correcta": false, "porQue": "No coincide con la RM." },
+        { "texto": "La Dirección Distrital de cada participante", "correcta": false, "porQue": "No coincide con la RM." },
+        { "texto": "Cada consulado de Bolivia", "correcta": false, "porQue": "No coincide con la RM." }
+      ],
+      "explicacion": "Para el título de Técnico Medio, el participante elige una de las modalidades de graduación.",
+      "citaTextual": "estará a cargo de la Dirección Departamental de Educación de La Paz, siendo que la sede de operaciones se encuentra en este departamento",
+      "referencia": "RM 0001/2026, Art. 40, pág. 29", "etiquetas": ["CEPEAD", "certificación"] }
+  ]},
+  { "fragmentoRef": "rm0001-2026-art44", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según el Art. 44 de la RM 0001/2026, ¿quién tiene la obligación de generar procesos de continuidad en el nivel secundario para quienes culminaron la Post-alfabetización?",
+      "opciones": [
+        { "texto": "Las subdirecciones de educación alternativa y especial, a través de las direcciones distritales educativas", "correcta": true, "porQue": "Art. 44, par. I." },
+        { "texto": "Los participantes, buscando por su cuenta un centro", "correcta": false, "porQue": "Es una obligación institucional." },
+        { "texto": "El Gobierno Autónomo Municipal", "correcta": false, "porQue": "No es la instancia obligada." },
+        { "texto": "Las unidades educativas regulares", "correcta": false, "porQue": "No es la instancia obligada." }
+      ],
+      "explicacion": "Deben identificar los CEA que darán continuidad educativa a esta población.",
+      "citaTextual": "tienen la obligación de generar procesos de continuidad en el nivel secundario de los centros de educación alternativa u otras ofertas educativas",
+      "referencia": "RM 0001/2026, Art. 44, pág. 31", "etiquetas": ["transitabilidad", "post-alfabetización"] }
+  ]}
+]

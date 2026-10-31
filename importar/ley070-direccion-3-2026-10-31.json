@@ -1,0 +1,67 @@
+[
+  { "fragmentoRef": "ley070-art21", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según el Art. 21 de la Ley 070, la Educación Alternativa comprende acciones educativas para jóvenes y adultos que requieren continuar sus estudios:",
+      "opciones": [
+        { "texto": "Con el mismo nivel de calidad, pertinencia y equiparación de condiciones que en el Subsistema Regular", "correcta": true, "porQue": "Art. 21, par. I." },
+        { "texto": "Con requisitos de calidad menores que el Subsistema Regular, por su flexibilidad", "correcta": false, "porQue": "Capciosa: la ley exige el mismo nivel de calidad." },
+        { "texto": "Solo de forma no sistemática", "correcta": false, "porQue": "Comprende procesos sistemáticos e integrales." },
+        { "texto": "Solo para mayores de 25 años", "correcta": false, "porQue": "La EPJA atiende a mayores de 15 años (Art. 23)." }
+      ],
+      "explicacion": "También comprende la formación permanente en y para la vida, que contribuye a la organización y movilización social y política.",
+      "citaTextual": "con el mismo nivel de calidad, pertinencia y equiparación de condiciones que en el Subsistema Regular",
+      "referencia": "Ley 070, Art. 21, págs. 14-15", "etiquetas": ["educación alternativa", "capciosa"] }
+  ]},
+  { "fragmentoRef": "ley070-art19", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según el Art. 19 de la Ley 070, ¿qué certificaciones tienen los niveles de formación técnica en Educación Alternativa y Especial?",
+      "opciones": [
+        { "texto": "Técnico Básico, Técnico Auxiliar y Técnico Medio", "correcta": true, "porQue": "Art. 19, par. 3." },
+        { "texto": "Técnico Medio, Técnico Superior y Licenciatura", "correcta": false, "porQue": "El Técnico Superior y la Licenciatura corresponden a la Educación Superior." },
+        { "texto": "Auxiliar, Básico y Superior", "correcta": false, "porQue": "No coincide." },
+        { "texto": "Bachiller Técnico y Técnico Superior", "correcta": false, "porQue": "No coincide." }
+      ],
+      "explicacion": "El subsistema adopta un carácter técnico-humanístico, según las vocaciones y potencialidades productivas de las regiones.",
+      "citaTextual": "tendrán su respectiva certificación como Técnico Básico, Técnico Auxiliar y Técnico Medio",
+      "referencia": "Ley 070, Art. 19, pág. 14", "etiquetas": ["certificación técnica", "memorística"] }
+  ]},
+  { "fragmentoRef": "ley070-art25", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según el Art. 25 de la Ley 070, ¿a quiénes está destinada la Educación Especial?",
+      "opciones": [
+        { "texto": "A personas con discapacidad, personas con dificultades en el aprendizaje y personas con talento extraordinario", "correcta": true, "porQue": "Art. 25, par. I." },
+        { "texto": "Solo a personas con discapacidad", "correcta": false, "porQue": "Capciosa: incluye también a personas con dificultades en el aprendizaje y con talento extraordinario." },
+        { "texto": "A jóvenes y adultos mayores de 15 años", "correcta": false, "porQue": "Esa es la EPJA (Art. 23)." },
+        { "texto": "A personas privadas de libertad", "correcta": false, "porQue": "No es la definición del Art. 25." }
+      ],
+      "explicacion": "Se articula con los subsistemas Regular, Alternativo y Superior.",
+      "citaTextual": "personas con discapacidad, personas con dificultades en el aprendizaje y personas con talento extraordinario",
+      "referencia": "Ley 070, Art. 25, pág. 16", "etiquetas": ["educación especial", "capciosa"] }
+  ]},
+  { "fragmentoRef": "ley070-art11", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según el Art. 11 de la Ley 070, el Subsistema de Educación Regular comprende:",
+      "opciones": [
+        { "texto": "Educación Inicial en Familia Comunitaria, Educación Primaria Comunitaria Vocacional y Educación Secundaria Comunitaria Productiva", "correcta": true, "porQue": "Art. 11." },
+        { "texto": "Educación Inicial Vocacional, Primaria Comunitaria Productiva y Secundaria en Familia", "correcta": false, "porQue": "Capciosa: las denominaciones están cruzadas." },
+        { "texto": "EPJA y Educación Permanente", "correcta": false, "porQue": "Son las áreas de la Educación Alternativa (Art. 22)." },
+        { "texto": "Formación de Maestros, Técnica y Universitaria", "correcta": false, "porQue": "Corresponden a la Educación Superior." }
+      ],
+      "explicacion": "Inicial: «en Familia Comunitaria». Primaria: «Comunitaria Vocacional». Secundaria: «Comunitaria Productiva».",
+      "citaTextual": "a) Educación Inicial en Familia Comunitaria. b) Educación Primaria Comunitaria Vocacional. c) Educación Secundaria Comunitaria Productiva.",
+      "referencia": "Ley 070, Art. 11, pág. 11", "etiquetas": ["estructura", "capciosa"] }
+  ]},
+  { "fragmentoRef": "ley070-art06", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según el Art. 6 de la Ley 070, el concepto que promueve la recuperación, el fortalecimiento, el desarrollo y la cohesión AL INTERIOR de las culturas de los pueblos IOC, comunidades interculturales y afrobolivianas es:",
+      "opciones": [
+        { "texto": "La intraculturalidad", "correcta": true, "porQue": "Art. 6, par. 1." },
+        { "texto": "La interculturalidad", "correcta": false, "porQue": "La interculturalidad es la interrelación entre culturas (par. 2)." },
+        { "texto": "La pluriculturalidad", "correcta": false, "porQue": "No es el concepto del Art. 6." },
+        { "texto": "La descolonización", "correcta": false, "porQue": "Es una base de la educación (Art. 3), no este concepto." }
+      ],
+      "explicacion": "Intra: hacia dentro de la propia cultura. Inter: entre culturas, en igualdad de condiciones.",
+      "citaTextual": "La intraculturalidad promueve la recuperación, fortalecimiento, desarrollo y cohesión al interior de las culturas",
+      "referencia": "Ley 070, Art. 6, págs. 9-10", "etiquetas": ["intraculturalidad", "capciosa"] }
+  ]}
+]
