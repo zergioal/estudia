@@ -1,0 +1,152 @@
+[
+  { "fragmentoRef": "ley348-art04", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según el Art. 4 de la Ley 348, el principio por el cual las mujeres en situación de violencia reciben un trato prioritario, digno y preferencial, con respeto, calidad y calidez, se denomina:",
+      "opciones": [
+        { "texto": "Trato Digno", "correcta": true, "porQue": "Art. 4, num. 4." },
+        { "texto": "Inclusión", "correcta": false, "porQue": "La inclusión toma en cuenta la cultura y el origen de las mujeres (num. 3)." },
+        { "texto": "Igualdad", "correcta": false, "porQue": "La igualdad se refiere a la igualdad real y efectiva entre mujeres y hombres (num. 2)." },
+        { "texto": "Complementariedad", "correcta": false, "porQue": "La complementariedad es la comunión entre mujeres y hombres (num. 5)." }
+      ],
+      "explicacion": "«Calidad y calidez» también figura entre los principios de la Administración Pública (CPE, Art. 232).",
+      "citaTextual": "Trato Digno. Las mujeres en situación de violencia reciben un trato prioritario, digno y preferencial, con respeto, calidad y calidez.",
+      "referencia": "Ley 348, Art. 4, num. 4, págs. 8-10", "etiquetas": ["principios", "capciosa"] }
+  ]},
+  { "fragmentoRef": "ley348-art06", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según el Art. 6 de la Ley 348, ¿qué es el «lenguaje no sexista»?",
+      "opciones": [
+        { "texto": "El uso de palabras y mensajes escritos, visuales, simbólicos y verbales no discriminatorios por razón de sexo", "correcta": true, "porQue": "Art. 6, num. 3." },
+        { "texto": "La prohibición de usar el masculino genérico en documentos oficiales", "correcta": false, "porQue": "No es la definición legal." },
+        { "texto": "El uso exclusivo de lenguaje femenino", "correcta": false, "porQue": "No es la definición legal." },
+        { "texto": "La traducción de las normas a idiomas originarios", "correcta": false, "porQue": "No es la definición legal." }
+      ],
+      "explicacion": "La violencia se define como cualquier acción u omisión que cause daño a una mujer por el solo hecho de ser mujer.",
+      "citaTextual": "Es el uso de palabras y mensajes escritos, visuales, simbólicos y verbales no discriminatorios por razón de sexo.",
+      "referencia": "Ley 348, Art. 6, num. 3, págs. 11-12", "etiquetas": ["definiciones", "memorística"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según el Art. 6 de la Ley 348, ¿qué elemento caracteriza la definición legal de violencia?",
+      "opciones": [
+        { "texto": "Que la acción u omisión, abierta o encubierta, cause daño a una mujer u otra persona por el solo hecho de ser mujer, incluido el perjuicio a su patrimonio, su economía o su fuente laboral", "correcta": true, "porQue": "Art. 6, num. 1." },
+        { "texto": "Que exista daño físico visible", "correcta": false, "porQue": "Incluye el daño psicológico, sexual, patrimonial y económico." },
+        { "texto": "Que sea una acción, no una omisión", "correcta": false, "porQue": "Capciosa: también las omisiones constituyen violencia." },
+        { "texto": "Que ocurra solo en el ámbito familiar", "correcta": false, "porQue": "Puede ocurrir en cualquier ámbito." }
+      ],
+      "explicacion": "La «situación de violencia» es el conjunto de circunstancias de agresión en que se encuentra una mujer en un momento dado (num. 2).",
+      "citaTextual": "Constituye cualquier acción u omisión, abierta o encubierta, que cause la muerte, sufrimiento o daño físico, sexual o psicológico a una mujer",
+      "referencia": "Ley 348, Art. 6, num. 1, págs. 11-12", "etiquetas": ["violencia", "capciosa"] }
+  ]},
+  { "fragmentoRef": "ley348-art09", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según el Art. 9 de la Ley 348, ¿cuál de las siguientes medidas deben adoptar los órganos del Estado e instituciones públicas respecto de los AGRESORES?",
+      "opciones": [
+        { "texto": "Crear y sostener servicios de atención y reeducación integral especializada, y otras medidas destinadas a modificar su comportamiento", "correcta": true, "porQue": "Art. 9, num. 3." },
+        { "texto": "Publicar sus nombres en medios de comunicación", "correcta": false, "porQue": "No es lo que dispone el Art. 9." },
+        { "texto": "Inhabilitarlos de por vida para trabajar en el sector público", "correcta": false, "porQue": "No es lo que dispone el Art. 9." },
+        { "texto": "Ninguna, porque la ley solo protege a las víctimas", "correcta": false, "porQue": "La ley prevé la reeducación de los agresores." }
+      ],
+      "explicacion": "También deben adoptar protocolos de atención especializada y crear servicios de atención y protección.",
+      "citaTextual": "Crear y sostener servicios de atención y reeducación integral especializada para los agresores",
+      "referencia": "Ley 348, Art. 9, num. 3, págs. 16-17", "etiquetas": ["agresores", "rebuscada"] }
+  ]},
+  { "fragmentoRef": "ley348-art32", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según el Art. 32 de la Ley 348, ¿qué carácter tienen las medidas de protección?",
+      "opciones": [
+        { "texto": "Son de aplicación inmediata, para salvaguardar la vida, la integridad y los derechos patrimoniales, económicos y laborales de la mujer y de sus dependientes", "correcta": true, "porQue": "Art. 32, par. II." },
+        { "texto": "Se aplican solo después de una sentencia condenatoria", "correcta": false, "porQue": "Son de aplicación inmediata." },
+        { "texto": "Protegen solo la integridad física", "correcta": false, "porQue": "Protegen también lo psicológico, lo sexual, lo patrimonial, lo económico y lo laboral." },
+        { "texto": "Benefician solo a la mujer, no a sus dependientes", "correcta": false, "porQue": "Protegen también a sus dependientes." }
+      ],
+      "explicacion": "Buscan interrumpir e impedir el hecho de violencia o garantizar su investigación y sanción.",
+      "citaTextual": "Las medidas de protección son de aplicación inmediata, que impone la autoridad competente",
+      "referencia": "Ley 348, Art. 32, pág. 38", "etiquetas": ["medidas de protección"] }
+  ]},
+  { "fragmentoRef": "ley348-art35", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Una participante del CEA tiene medidas de protección y su expareja la busca en el centro a la hora de clases. Según el Art. 35 de la Ley 348, ¿qué medida puede dictar la autoridad competente que abarque el CEA?",
+      "opciones": [
+        { "texto": "Prohibir al agresor acercarse, concurrir o ingresar al domicilio, lugar de trabajo o de estudios, o a cualquier espacio que frecuente la mujer", "correcta": true, "porQue": "Art. 35, num. 4." },
+        { "texto": "Ordenar al CEA que expulse a la participante para protegerla", "correcta": false, "porQue": "Sería revictimizarla y vulnerar su derecho a la educación." },
+        { "texto": "Ninguna, porque las medidas solo rigen en el domicilio", "correcta": false, "porQue": "Capciosa: alcanzan expresamente al lugar de estudios." },
+        { "texto": "Solo ordenar la salida del agresor del domicilio conyugal", "correcta": false, "porQue": "Esa es otra medida (num. 1); el lugar de estudios lo cubre el num. 4." }
+      ],
+      "explicacion": "El director debe colaborar con el cumplimiento de la medida y avisar a la autoridad si el agresor la incumple.",
+      "citaTextual": "Prohibir al agresor acercarse, concurrir o ingresar al domicilio, lugar de trabajo o de estudios",
+      "referencia": "Ley 348, Art. 35, num. 4, págs. 39-40", "etiquetas": ["medidas de protección", "caso"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según el Art. 35 de la Ley 348, la orden de salida del agresor del domicilio donde habita la mujer se dicta:",
+      "opciones": [
+        { "texto": "Independientemente de la acreditación de propiedad o posesión del inmueble", "correcta": true, "porQue": "Art. 35, num. 1." },
+        { "texto": "Solo si la mujer es propietaria del inmueble", "correcta": false, "porQue": "No depende de la propiedad." },
+        { "texto": "Solo si el agresor no es propietario", "correcta": false, "porQue": "No depende de la propiedad." },
+        { "texto": "Solo con sentencia ejecutoriada", "correcta": false, "porQue": "Es una medida de aplicación inmediata." }
+      ],
+      "explicacion": "También puede ordenarse que el agresor se someta a terapia psicológica.",
+      "citaTextual": "independientemente de la acreditación de propiedad o posesión del inmueble",
+      "referencia": "Ley 348, Art. 35, num. 1, págs. 39-40", "etiquetas": ["medidas de protección", "capciosa"] }
+  ]},
+  { "fragmentoRef": "ley348-art43", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según el Art. 43 de la Ley 348, ¿cuál de las siguientes es una obligación de las instancias de recepción de denuncias?",
+      "opciones": [
+        { "texto": "Asesorar a la mujer sobre la importancia y la forma de preservar las pruebas", "correcta": true, "porQue": "Art. 43, num. 1." },
+        { "texto": "Exigirle que presente testigos antes de recibir la denuncia", "correcta": false, "porQue": "Debe facilitarle al máximo las gestiones." },
+        { "texto": "Promover la conciliación con el agresor", "correcta": false, "porQue": "No figura entre las obligaciones del Art. 43." },
+        { "texto": "Cobrarle por el formulario de denuncia", "correcta": false, "porQue": "Rige la gratuidad (Art. 86)." }
+      ],
+      "explicacion": "También deben informarla de sus derechos, derivarla a los Servicios de Atención Integral y elaborar un informe para anexar a la denuncia.",
+      "citaTextual": "Asesorarlas sobre la importancia y la forma de preservar las pruebas.",
+      "referencia": "Ley 348, Art. 43, pág. 45", "etiquetas": ["denuncia", "obligaciones"] }
+  ]},
+  { "fragmentoRef": "ley348-art61", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según el Art. 61 de la Ley 348, al recolectar pruebas en casos de violencia hacia las mujeres, el Fiscal:",
+      "opciones": [
+        { "texto": "No debe someter a la mujer a pruebas médicas, interrogatorios, reconstrucciones o peritajes que no sean imprescindibles, y debe recurrir a métodos alternativos, científicos y tecnológicos", "correcta": true, "porQue": "Art. 61, num. 2." },
+        { "texto": "Debe exigir a la mujer los peritajes técnicos", "correcta": false, "porQue": "Los peritajes técnicos no deben exigirse a la mujer (num. 3)." },
+        { "texto": "Debe practicar todas las pruebas posibles sobre la víctima", "correcta": false, "porQue": "Solo las imprescindibles." },
+        { "texto": "Debe esperar a que la víctima reúna las pruebas", "correcta": false, "porQue": "El Fiscal es el responsable de la investigación." }
+      ],
+      "explicacion": "La finalidad es evitar la revictimización.",
+      "citaTextual": "sin someter a la mujer a pruebas médicas, interrogatorios, reconstrucciones o peritajes que no sean los imprescindibles",
+      "referencia": "Ley 348, Art. 61, num. 2, págs. 57-59", "etiquetas": ["Ministerio Público", "revictimización"] }
+  ]},
+  { "fragmentoRef": "ley348-art86", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Una docente víctima de violencia pide en la Dirección Distrital una certificación para su proceso, y le cobran el valor del trámite. Según el Art. 86 de la Ley 348:",
+      "opciones": [
+        { "texto": "Es indebido: por el principio de gratuidad, las mujeres en situación de violencia están exentas del pago de certificaciones y otros valores en todas las reparticiones públicas", "correcta": true, "porQue": "Art. 86, num. 1." },
+        { "texto": "Es correcto: la gratuidad rige solo en los juzgados", "correcta": false, "porQue": "Capciosa: rige en todas las reparticiones públicas." },
+        { "texto": "Es correcto si la certificación no es para el proceso penal", "correcta": false, "porQue": "La norma no hace esa distinción." },
+        { "texto": "Solo se exime si presenta su certificado de pobreza", "correcta": false, "porQue": "La gratuidad no depende de la condición económica." }
+      ],
+      "explicacion": "Otros principios procesales son la celeridad, la oralidad y la legitimidad de la prueba.",
+      "citaTextual": "estarán exentas del pago de valores, legalizaciones, notificaciones, formularios, testimonios, certificaciones",
+      "referencia": "Ley 348, Art. 86, num. 1, págs. 83-85", "etiquetas": ["gratuidad", "caso"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según el Art. 86 de la Ley 348, ¿cómo deben ser todos los procesos sobre hechos de violencia contra las mujeres?",
+      "opciones": [
+        { "texto": "Orales", "correcta": true, "porQue": "Art. 86, num. 3: principio de oralidad." },
+        { "texto": "Escritos", "correcta": false, "porQue": "Deben ser orales." },
+        { "texto": "Reservados al juez penal exclusivamente", "correcta": false, "porQue": "Los principios rigen para jueces de todas las materias." },
+        { "texto": "Conciliatorios", "correcta": false, "porQue": "No es un principio del Art. 86." }
+      ],
+      "explicacion": "Por la celeridad, los operadores deben cumplir los plazos procesales sin dilación y bajo responsabilidad.",
+      "citaTextual": "Todos los procesos sobre hechos de violencia contra las mujeres deberán ser orales.",
+      "referencia": "Ley 348, Art. 86, num. 3, págs. 83-85", "etiquetas": ["principios procesales", "memorística"] }
+  ]},
+  { "fragmentoRef": "ley348-art90", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Una docente del CEA es agredida por su pareja, pero después dice al director que «no quiere denunciar». Según el Art. 90 de la Ley 348, ¿qué carácter tienen los delitos de esta ley?",
+      "opciones": [
+        { "texto": "Son delitos de acción pública, por lo que se persiguen aunque la víctima no presente una querella", "correcta": true, "porQue": "Art. 90." },
+        { "texto": "Son de acción privada: solo la víctima puede iniciar el proceso", "correcta": false, "porQue": "Capciosa: son de acción pública." },
+        { "texto": "Son faltas administrativas", "correcta": false, "porQue": "Son delitos." },
+        { "texto": "Son de acción pública a instancia de parte, y requieren denuncia de la víctima", "correcta": false, "porQue": "La ley los declara de acción pública, sin esa condición." }
+      ],
+      "explicacion": "Como servidor público, el director que conoce el hecho debe denunciarlo.",
+      "citaTextual": "Todos los delitos contemplados en la Presente Ley, son delitos de acción pública.",
+      "referencia": "Ley 348, Art. 90, pág. 86", "etiquetas": ["acción pública", "caso", "capciosa"] }
+  ]}
+]
