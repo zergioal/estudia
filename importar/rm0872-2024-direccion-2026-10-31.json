@@ -1,0 +1,258 @@
+[
+  { "fragmentoRef": "rm0872-2024-reg-art07", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según la RM 0872/2024, ¿a quiénes está dirigido el Reconocimiento de Saberes, Conocimientos y Experiencias en Educación Primaria de Personas Jóvenes y Adultas, y en qué etapa se aplica?",
+      "opciones": [
+        { "texto": "A personas mayores de 16 años que no accedieron a la primaria en Educación Regular; se aplica por única vez en la etapa de Aprendizajes Elementales", "correcta": true, "porQue": "Es lo que dispone el Art. 7, inc. a)." },
+        { "texto": "A personas mayores de 15 años; se aplica en Aprendizajes Avanzados", "correcta": false, "porQue": "La edad es más de 16 años y la etapa es Aprendizajes Elementales." },
+        { "texto": "A personas mayores de 18 años; se aplica en Aprendizajes Aplicados", "correcta": false, "porQue": "Eso corresponde a Secundaria (inc. b))." },
+        { "texto": "A cualquier persona, en cualquier etapa, tantas veces como lo solicite", "correcta": false, "porQue": "Hay edad mínima, etapa específica y se aplica por única vez." }
+      ],
+      "explicacion": "Primaria: mayores de 16 años, por única vez, en Aprendizajes Elementales. Secundaria: mayores de 18 años, por única vez, en Aprendizajes Aplicados.",
+      "citaTextual": "Personas mayores de 16 años que no accedieron a la educación primaria en el Subsistema de Educación Regular. Este reconocimiento se aplicará por única vez, específicamente en la etapa de Aprendizajes Elementales.",
+      "referencia": "RM 0872/2024, Reglamento, Art. 7, inc. a), págs. 8-9", "etiquetas": ["reconocimiento de saberes", "beneficiarios"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Una persona de 17 años, que no accedió a la secundaria en Educación Regular, quiere acceder al reconocimiento de saberes en Educación Secundaria de Personas Jóvenes y Adultas. Según la RM 0872/2024:",
+      "opciones": [
+        { "texto": "No cumple el requisito, porque el reconocimiento en Secundaria está dirigido a personas mayores de 18 años", "correcta": true, "porQue": "El Art. 7, inc. b) fija más de 18 años para Secundaria." },
+        { "texto": "Cumple, porque basta con ser mayor de 16 años", "correcta": false, "porQue": "Más de 16 años es el requisito para Primaria." },
+        { "texto": "Cumple si tiene experiencia laboral certificada", "correcta": false, "porQue": "La edad mínima no se suple con experiencia." },
+        { "texto": "Cumple, porque el requisito es tener al menos 15 años", "correcta": false, "porQue": "No es el requisito de esta RM." }
+      ],
+      "explicacion": "En Secundaria el reconocimiento exige ser mayor de 18 años y se aplica por única vez en la etapa de Aprendizajes Aplicados.",
+      "citaTextual": "Personas mayores de 18 años que no accedieron a la educación secundaria en el Subsistema de Educación Regular. Este reconocimiento se aplicará por única vez en la etapa de Aprendizajes Aplicados.",
+      "referencia": "RM 0872/2024, Reglamento, Art. 7, inc. b), págs. 8-9", "etiquetas": ["reconocimiento de saberes", "caso"] }
+  ]},
+  { "fragmentoRef": "rm0872-2024-reg-art16", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según la RM 0872/2024, ¿en qué niveles de la Educación Técnica, Tecnológica y Productiva se aplica el Reconocimiento de Saberes, Conocimientos y Experiencias?",
+      "opciones": [
+        { "texto": "En los niveles de Técnico Básico y Auxiliar", "correcta": true, "porQue": "Lo establece el Art. 16." },
+        { "texto": "En Técnico Básico, Auxiliar y Medio", "correcta": false, "porQue": "El nivel Medio no está incluido." },
+        { "texto": "Solo en Técnico Medio", "correcta": false, "porQue": "Se aplica en Básico y Auxiliar." },
+        { "texto": "En Técnico Superior", "correcta": false, "porQue": "El Técnico Superior no es un nivel de la EPJA técnica." }
+      ],
+      "explicacion": "El reconocimiento técnico cubre los niveles Básico y Auxiliar, alineado con los contenidos mínimos de los módulos y con las cuatro dimensiones.",
+      "citaTextual": "se aplican en los niveles de Técnico Básico y Auxiliar",
+      "referencia": "RM 0872/2024, Reglamento, Art. 16, págs. 11-12", "etiquetas": ["reconocimiento de saberes", "educación técnica"] }
+  ]},
+  { "fragmentoRef": "rm0872-2024-reg-art02", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según el Art. 2 de la RM 0872/2024, el Reconocimiento de Saberes, Conocimientos y Experiencias se aplica:",
+      "opciones": [
+        { "texto": "Por única vez, en las etapas de la educación humanística y en las carreras técnicas tecnológicas y productivas de la EPJA", "correcta": true, "porQue": "Es el ámbito del Art. 2." },
+        { "texto": "Una vez por gestión", "correcta": false, "porQue": "Se aplica por única vez." },
+        { "texto": "En todos los subsistemas, incluido el Regular", "correcta": false, "porQue": "Se limita a la EPJA en Educación Alternativa." },
+        { "texto": "Solo en las carreras técnicas", "correcta": false, "porQue": "Incluye también la educación humanística." }
+      ],
+      "explicacion": "El reconocimiento es una oportunidad única dentro de la EPJA, tanto humanística como técnica.",
+      "citaTextual": "se aplicará por única vez en las etapas de la educación humanística, así como en las carreras técnicas tecnológicas y productivas",
+      "referencia": "RM 0872/2024, Reglamento, Art. 2, pág. 7", "etiquetas": ["ámbito de aplicación"] }
+  ]},
+  { "fragmentoRef": "rm0872-2024-reg-art10", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "En la Comisión Evaluadora del Reconocimiento de Saberes (RM 0872/2024), ¿qué rol cumple el representante de la Comisión Pedagógica/Andragógica?",
+      "opciones": [
+        { "texto": "Fiscalizadora o fiscalizador", "correcta": true, "porQue": "Lo establece el Art. 10, par. I, inc. c)." },
+        { "texto": "Presidente de la comisión", "correcta": false, "porQue": "La preside la directora o el director del CEA." },
+        { "texto": "Veedora o veedor", "correcta": false, "porQue": "Es el rol (opcional) del representante de la Dirección Distrital." },
+        { "texto": "Secretaria o secretario de actas", "correcta": false, "porQue": "No es el rol que le asigna el Art. 10." }
+      ],
+      "explicacion": "Composición: director del CEA (presidente), facilitador con pertinencia, representante de la Comisión Pedagógica/Andragógica (fiscalizador), representante de la Distrital (veedor, opcional) y representante de la Subdirección de EAyE.",
+      "citaTextual": "Un representante de la Comisión Pedagógica/Andragogía, quien actuará como Fiscalizadora o Fiscalizador.",
+      "referencia": "RM 0872/2024, Reglamento, Art. 10, pág. 9", "etiquetas": ["comisión evaluadora"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según la RM 0872/2024, ¿quién preside la Comisión Evaluadora del Reconocimiento de Saberes?",
+      "opciones": [
+        { "texto": "La directora o el director encargado del Centro de Educación Alternativa", "correcta": true, "porQue": "Lo dispone el Art. 10, par. I, inc. a)." },
+        { "texto": "El representante de la Dirección Distrital", "correcta": false, "porQue": "Actúa como veedor, y su participación es opcional." },
+        { "texto": "El representante de la Subdirección de Educación Alternativa y Especial", "correcta": false, "porQue": "No preside la comisión." },
+        { "texto": "El facilitador con mayor antigüedad", "correcta": false, "porQue": "El facilitador integra la comisión por su pertinencia, no la preside." }
+      ],
+      "explicacion": "El director del CEA preside y es responsable de la convocatoria, la verificación de requisitos, las listas y la entrega de certificados.",
+      "citaTextual": "La Directora o Director encargado del Centro de Educación Alternativa, quien actuará como presidente.",
+      "referencia": "RM 0872/2024, Reglamento, Art. 10, pág. 9", "etiquetas": ["comisión evaluadora"] }
+  ]},
+  { "fragmentoRef": "rm0872-2024-reg-art11", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Un facilitador designado para la Comisión Evaluadora descubre que uno de los postulantes es su cuñado. Según la RM 0872/2024:",
+      "opciones": [
+        { "texto": "No cumple los requisitos para integrar la comisión, porque no debe tener parentesco con los postulantes hasta el tercer grado de consanguinidad o segundo de afinidad", "correcta": true, "porQue": "El cuñado es pariente en segundo grado de afinidad (Art. 11, inc. c))." },
+        { "texto": "Puede integrarla si declara el parentesco", "correcta": false, "porQue": "La norma es un requisito de integración, no una simple declaración." },
+        { "texto": "Puede integrarla, porque la prohibición solo alcanza a la consanguinidad", "correcta": false, "porQue": "Incluye la afinidad hasta el segundo grado." },
+        { "texto": "Puede integrarla si el veedor distrital lo autoriza", "correcta": false, "porQue": "El requisito no se dispensa." }
+      ],
+      "explicacion": "Requisitos: memorándum de designación del director, pertinencia académica, ausencia de parentesco (3.º de consanguinidad y 2.º de afinidad) y solicitud escrita a la Distrital.",
+      "citaTextual": "No tener parentesco con los postulantes hasta el tercer grado de consanguinidad o segundo de afinidad",
+      "referencia": "RM 0872/2024, Reglamento, Art. 11, págs. 9-10", "etiquetas": ["conflicto de interés", "caso"] }
+  ]},
+  { "fragmentoRef": "rm0872-2024-reg-art18", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según la RM 0872/2024, ¿quién publica la convocatoria para la evaluación del Reconocimiento de Saberes y en qué meses?",
+      "opciones": [
+        { "texto": "La directora o el director del CEA, durante octubre y noviembre de cada gestión", "correcta": true, "porQue": "Lo dispone el Art. 18." },
+        { "texto": "La Dirección Distrital, en enero y febrero", "correcta": false, "porQue": "La convocatoria la publica el director del CEA, en octubre y noviembre." },
+        { "texto": "El Ministerio, en una convocatoria nacional en marzo", "correcta": false, "porQue": "La convocatoria es del CEA, según su oferta académica." },
+        { "texto": "La directora o el director del CEA, en cualquier mes", "correcta": false, "porQue": "Los meses están fijados." }
+      ],
+      "explicacion": "El proceso de reconocimiento se concentra en octubre y noviembre: convocatoria, evaluación y registro en el SIE.",
+      "citaTextual": "durante los meses de octubre y JIS , noviembre de cada gestión educativa",
+      "referencia": "RM 0872/2024, Reglamento, Art. 18, pág. 12", "etiquetas": ["calendario", "convocatoria"] }
+  ]},
+  { "fragmentoRef": "rm0872-2024-reg-art19", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según la RM 0872/2024, ¿en qué plazo pueden postular los interesados al Reconocimiento de Saberes?",
+      "opciones": [
+        { "texto": "Dentro de dos semanas a partir del inicio del proceso", "correcta": true, "porQue": "Es el plazo del Art. 19." },
+        { "texto": "Dentro de un mes desde la convocatoria", "correcta": false, "porQue": "El plazo es de dos semanas." },
+        { "texto": "Dentro de 48 horas desde la convocatoria", "correcta": false, "porQue": "Las 48 horas son el plazo para publicar la lista de aprobados (Art. 24)." },
+        { "texto": "Hasta el cierre de la gestión", "correcta": false, "porQue": "El plazo es de dos semanas." }
+      ],
+      "explicacion": "Postulación: dos semanas. Lista de aprobados: 48 horas después de la evaluación. Registro en el SIE: las dos primeras semanas de octubre.",
+      "citaTextual": "dentro de un plazo de dos semanas a partir del inicio del proceso",
+      "referencia": "RM 0872/2024, Reglamento, Art. 19, pág. 12", "etiquetas": ["plazos"] }
+  ]},
+  { "fragmentoRef": "rm0872-2024-reg-art20", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Al verificar los requisitos de un postulante al Reconocimiento de Saberes, ¿qué debe controlar el director del CEA respecto de su historial académico en el SIE, según la RM 0872/2024?",
+      "opciones": [
+        { "texto": "Que no tenga más de 10 años registrados en el historial académico, y que no esté inscrito en la etapa, carrera o nivel al que postula", "correcta": true, "porQue": "Son las verificaciones del Art. 20, incs. c) y d)." },
+        { "texto": "Que tenga al menos 10 años de antigüedad en el SIE", "correcta": false, "porQue": "La regla es lo contrario: no más de 10 años registrados." },
+        { "texto": "Que haya aprobado la etapa anterior en Educación Regular", "correcta": false, "porQue": "El reconocimiento está dirigido a quienes no accedieron a esos niveles." },
+        { "texto": "Ninguno, porque basta la declaración jurada", "correcta": false, "porQue": "El director debe verificar el historial en el SIE." }
+      ],
+      "explicacion": "El director recibe y verifica la documentación, registra la inscripción en el SIE, comprueba que no tenga más de 10 años en el historial y que no esté inscrito en lo que postula.",
+      "citaTextual": "Verificar que el postulante no tenga más de 10 años registrados en el historial académico en el SIE.",
+      "referencia": "RM 0872/2024, Reglamento, Art. 20, págs. 12-13", "etiquetas": ["verificación de requisitos", "caso"] }
+  ]},
+  { "fragmentoRef": "rm0872-2024-reg-art24", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según la RM 0872/2024, ¿en qué plazo debe publicar la directora o el director del CEA la lista de postulantes aprobados en el Reconocimiento de Saberes?",
+      "opciones": [
+        { "texto": "En un plazo máximo de 48 horas después de la evaluación", "correcta": true, "porQue": "Es el plazo del Art. 24." },
+        { "texto": "En 24 horas", "correcta": false, "porQue": "El plazo es de 48 horas." },
+        { "texto": "En 72 horas", "correcta": false, "porQue": "El plazo es de 48 horas." },
+        { "texto": "Al cierre de la gestión", "correcta": false, "porQue": "El plazo es de 48 horas." }
+      ],
+      "explicacion": "Publicada la lista, el director convoca a los aprobados para entregarles el certificado de calificaciones.",
+      "citaTextual": "publicará. en un plazo máximo de 48 horas después de la evaluación, la lista de los postulantes aprobados",
+      "referencia": "RM 0872/2024, Reglamento, Art. 24, pág. 13", "etiquetas": ["plazos"] }
+  ]},
+  { "fragmentoRef": "rm0872-2024-reg-art23", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según la RM 0872/2024, al concluir la etapa de evaluación, ¿cuántas copias de las actas debe suscribir la Comisión Evaluadora?",
+      "opciones": [
+        { "texto": "Tres copias", "correcta": true, "porQue": "Lo dispone el Art. 23." },
+        { "texto": "Dos copias", "correcta": false, "porQue": "Son tres." },
+        { "texto": "Una copia original", "correcta": false, "porQue": "Son tres." },
+        { "texto": "Cinco copias, una por integrante", "correcta": false, "porQue": "Son tres." }
+      ],
+      "explicacion": "Las actas se suscriben en tres copias según el formato del anexo. Los formularios firmados tienen valor de declaración jurada (Art. 13).",
+      "citaTextual": "suscribirá tres copias de las actas de evaluación",
+      "referencia": "RM 0872/2024, Reglamento, Art. 23, pág. 13", "etiquetas": ["actas"] }
+  ]},
+  { "fragmentoRef": "rm0872-2024-reg-art13", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según la RM 0872/2024, ¿qué valor jurídico tienen los formularios de resultados de la Comisión Evaluadora debidamente firmados?",
+      "opciones": [
+        { "texto": "Constituyen declaraciones juradas con todos los efectos legales, y debe resguardarlos el CEA", "correcta": true, "porQue": "Es lo que dispone el Art. 13." },
+        { "texto": "Son documentos referenciales sin efectos legales", "correcta": false, "porQue": "Tienen valor de declaración jurada." },
+        { "texto": "Deben resguardarse en la Dirección Departamental", "correcta": false, "porQue": "Los resguarda el CEA." },
+        { "texto": "Solo tienen valor si los homologa un notario", "correcta": false, "porQue": "La norma no exige intervención notarial." }
+      ],
+      "explicacion": "Al tener valor de declaración jurada, los firmantes responden legalmente por su contenido.",
+      "citaTextual": "constituirán declaraciones juradas con todos los efectos legales correspondientes, y deberán ser resguardados por el Centro de Educación Alternativa",
+      "referencia": "RM 0872/2024, Reglamento, Art. 13, pág. 10", "etiquetas": ["declaración jurada"] }
+  ]},
+  { "fragmentoRef": "rm0872-2024-reg-art26", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según la RM 0872/2024, ¿con qué denominación imprime el SIE el certificado de calificaciones de quien aprueba por reconocimiento de saberes?",
+      "opciones": [
+        { "texto": "\"Promovido con Reconocimiento de Saberes, Conocimientos y Experiencias (RSCyE)\"", "correcta": true, "porQue": "Es la denominación del Art. 26." },
+        { "texto": "\"Promovido excelente\"", "correcta": false, "porQue": "Es una categoría de la escala de evaluación ordinaria." },
+        { "texto": "\"Convalidado\"", "correcta": false, "porQue": "La convalidación corresponde a estudios en el exterior." },
+        { "texto": "\"Aprobado por evaluación extraordinaria\"", "correcta": false, "porQue": "La evaluación extraordinaria es otro procedimiento." }
+      ],
+      "explicacion": "La denominación \"Promovido con RSCyE\" identifica la vía de aprobación; el certificado lo entrega el director del CEA.",
+      "citaTextual": "con la denominación \"Promovido con Reconocimiento de Saberes. Conocimientos y Experiencias (RSCyE)\"",
+      "referencia": "RM 0872/2024, Reglamento, Art. 26, pág. 14", "etiquetas": ["certificación"] }
+  ]},
+  { "fragmentoRef": "rm0872-2024-reg-art25", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según la RM 0872/2024, ¿cuándo se habilita el SIE para registrar e inscribir a los postulantes del Reconocimiento de Saberes?",
+      "opciones": [
+        { "texto": "Durante las dos primeras semanas del mes de octubre", "correcta": true, "porQue": "Lo dispone el Art. 25, par. I." },
+        { "texto": "Durante todo el mes de noviembre", "correcta": false, "porQue": "El registro se habilita las dos primeras semanas de octubre." },
+        { "texto": "Al inicio de la gestión, en enero", "correcta": false, "porQue": "No corresponde." },
+        { "texto": "Una semana después de publicar la lista de aprobados", "correcta": false, "porQue": "La ventana está fijada en octubre." }
+      ],
+      "explicacion": "El director recibe el informe de la comisión, registra al postulante con el RUDEAL y valida el centralizador de calificaciones.",
+      "citaTextual": "Durante las dos primeras semanas del mes de octubre, se habilitarán el Sistema de Información Educativa (SIE)",
+      "referencia": "RM 0872/2024, Reglamento, Art. 25, págs. 13-14", "etiquetas": ["SIE", "calendario"] }
+  ]},
+  { "fragmentoRef": "rm0872-2024-reg-art08", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Un CEA cobra un monto \"por gastos de evaluación\" a los postulantes al Reconocimiento de Saberes. Según la RM 0872/2024:",
+      "opciones": [
+        { "texto": "Está terminantemente prohibido: el proceso y el trámite son completamente gratuitos", "correcta": true, "porQue": "Lo dispone el Art. 8." },
+        { "texto": "Es válido si el monto es simbólico", "correcta": false, "porQue": "Está prohibido cualquier cobro." },
+        { "texto": "Es válido para las carreras técnicas, no para las humanísticas", "correcta": false, "porQue": "La gratuidad es para todos los participantes." },
+        { "texto": "Es válido si lo autoriza la Distrital", "correcta": false, "porQue": "Ninguna autoridad puede autorizar cobros." }
+      ],
+      "explicacion": "La gratuidad es además uno de los principios del reglamento (Art. 3).",
+      "citaTextual": "Queda terminantemente prohibido cualquier tipo de cobro para este proceso.",
+      "referencia": "RM 0872/2024, Reglamento, Art. 8, pág. 9", "etiquetas": ["gratuidad", "caso"] }
+  ]},
+  { "fragmentoRef": "rm0872-2024-reg-art22", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Una postulante quechua hablante se presenta al Reconocimiento de Saberes. Según el Art. 22 de la RM 0872/2024, ¿qué debe garantizar la Comisión Evaluadora?",
+      "opciones": [
+        { "texto": "Condiciones adecuadas, incluido el uso del idioma originario según el contexto", "correcta": true, "porQue": "El Art. 22 menciona expresamente el uso del idioma originario." },
+        { "texto": "Que rinda la evaluación exclusivamente en castellano", "correcta": false, "porQue": "Contradice el uso del idioma originario según el contexto." },
+        { "texto": "Que presente un certificado de dominio del castellano", "correcta": false, "porQue": "No es un requisito." },
+        { "texto": "Que la evalúe la Dirección Distrital", "correcta": false, "porQue": "La evaluación la aplica la Comisión Evaluadora del CEA." }
+      ],
+      "explicacion": "La evaluación debe aplicarse con pertinencia lingüística y cultural, en octubre y noviembre.",
+      "citaTextual": "incluyendo el uso del idioma originario según el contexto",
+      "referencia": "RM 0872/2024, Reglamento, Art. 22, pág. 13", "etiquetas": ["interculturalidad", "caso"] }
+  ]},
+  { "fragmentoRef": "rm0872-2024-t004", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "¿Qué resoluciones abroga expresamente el Reglamento de Reconocimiento de Saberes aprobado por la RM 0872/2024?",
+      "opciones": [
+        { "texto": "La RM 182/2022 y la RM 517/2014", "correcta": true, "porQue": "Lo dispone la Disposición Abrogatoria." },
+        { "texto": "La RM 0092/2025 y la RM 0183/2024", "correcta": false, "porQue": "Son reglamentos vigentes de otras materias." },
+        { "texto": "Solo la RM 517/2014", "correcta": false, "porQue": "También abroga la RM 182/2022." },
+        { "texto": "La RM 0001/2026", "correcta": false, "porQue": "La RM 0001/2026 es posterior y regula la gestión 2026." }
+      ],
+      "explicacion": "Se abrogan la RM 182/2022 (reconocimiento técnico) y la RM 517/2014 (reconocimiento de saberes), y el reglamento queda unificado.",
+      "citaTextual": "Se abroga la Resolución Ministerial N° 182/2022",
+      "referencia": "RM 0872/2024, Reglamento, Disposición Abrogatoria, pág. 15", "etiquetas": ["abrogación"] }
+  ]},
+  { "fragmentoRef": "rm0872-2024-t003", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según la Disposición Final Primera de la RM 0872/2024, ¿qué consecuencia tiene la inobservancia del reglamento?",
+      "opciones": [
+        { "texto": "Se considera una infracción y se sanciona conforme a la normativa vigente", "correcta": true, "porQue": "Es lo que dispone la Disposición Final Primera." },
+        { "texto": "Solo genera una observación administrativa sin sanción", "correcta": false, "porQue": "Se considera infracción sancionable." },
+        { "texto": "Anula automáticamente la Resolución Administrativa del CEA", "correcta": false, "porQue": "La norma no prevé esa consecuencia." },
+        { "texto": "Obliga a repetir todo el proceso en la siguiente gestión", "correcta": false, "porQue": "No es la consecuencia prevista." }
+      ],
+      "explicacion": "El reglamento obliga a todos los niveles (VEAE, DGEA, DDE, Subdirecciones, Distritales y CEA); incumplirlo es una infracción sancionable.",
+      "citaTextual": "La inobservancia será considerada una infracción y se sancionará conforme a la normativa vigente.",
+      "referencia": "RM 0872/2024, Reglamento, Disposición Final Primera, pág. 14", "etiquetas": ["sanciones"] }
+  ]},
+  { "fragmentoRef": "rm0872-2024-reg-art04", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según la RM 0872/2024, el Reconocimiento de Saberes, Conocimientos y Experiencias es un proceso de valoración:",
+      "opciones": [
+        { "texto": "Cualitativa y cuantitativa, mediante el cual se homologan los saberes, capacidades y destrezas adquiridos a lo largo de la vida", "correcta": true, "porQue": "Es la definición del Art. 4, inc. a)." },
+        { "texto": "Solo cuantitativa, mediante un examen escrito único", "correcta": false, "porQue": "La valoración es cualitativa y cuantitativa." },
+        { "texto": "Solo cualitativa, basada en una entrevista", "correcta": false, "porQue": "Incluye también la valoración cuantitativa." },
+        { "texto": "Documental, sin aplicación de instrumentos técnicos", "correcta": false, "porQue": "El proceso utiliza instrumentos técnicos." }
+      ],
+      "explicacion": "El reconocimiento determina el grado de desarrollo de los aprendizajes y su equivalencia en los niveles primario, secundario y técnico de la EPJA.",
+      "citaTextual": "Es un proceso de valoración cualitativa y cuantitativa mediante el cual se homologan los saberes, conocimientos, capacidades, habilidades y destrezas adquiridas a lo largo de la vida.",
+      "referencia": "RM 0872/2024, Reglamento, Art. 4, págs. 7-8", "etiquetas": ["definiciones"] }
+  ]}
+]
