@@ -1,0 +1,117 @@
+[
+  { "fragmentoRef": "rm0764-2025-reg-art20", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "El director de un CEA identifica a un grupo de trabajadoras del hogar que necesitan un programa específico. Según el Reglamento de la RM 0764/2025, ¿cuál es el primer paso formal?",
+      "opciones": [
+        { "texto": "Elaborar un informe técnico con una solicitud formal dirigida a la Dirección Distrital de Educación", "correcta": true, "porQue": "Art. 20, par. I." },
+        { "texto": "Abrir el programa directamente", "correcta": false, "porQue": "Requiere gestión formal." },
+        { "texto": "Enviar la solicitud directamente al Ministerio", "correcta": false, "porQue": "Capciosa: la primera instancia es la Distrital." },
+        { "texto": "Pedir autorización a la Junta Escolar", "correcta": false, "porQue": "No es lo que dispone el reglamento." }
+      ],
+      "explicacion": "La cadena es CEA (informe y solicitud), Distrital (evalúa e informa), Departamental y Subdirección (verifica infraestructura y población, y da la viabilidad).",
+      "citaTextual": "deberá elaborar un informe técnico acompañado de una solicitud formal dirigida a la Dirección Distrital de Educación",
+      "referencia": "RM 0764/2025, Reglamento, Art. 20, págs. 12-13", "etiquetas": ["gestión", "caso", "capciosa"] }
+  ]},
+  { "fragmentoRef": "rm0764-2025-reg-art47", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según el Reglamento de la RM 0764/2025, ¿qué requisitos debe cumplir un postulante a la atención educativa para Naciones y Pueblos IOC y Afrobolivianos?",
+      "opciones": [
+        { "texto": "Pertenecer a una NPIOC o al pueblo afroboliviano, contar con el aval de su organización comunitaria o autoridad originaria y presentar la documentación de la RM 0001", "correcta": true, "porQue": "Art. 47." },
+        { "texto": "Solo hablar una lengua originaria", "correcta": false, "porQue": "No es el requisito." },
+        { "texto": "Tener un certificado del SEGIP de pertenencia étnica", "correcta": false, "porQue": "No es lo que dispone el reglamento." },
+        { "texto": "Ser mayor de 25 años", "correcta": false, "porQue": "No es lo que dispone el reglamento." }
+      ],
+      "explicacion": "El currículo incorpora módulos emergentes con los saberes y cosmovisiones propias (Art. 48).",
+      "citaTextual": "Contar con el aval de su organización comunitaria o autoridad originaria.",
+      "referencia": "RM 0764/2025, Reglamento, Art. 47, págs. 19-20", "etiquetas": ["pueblos IOC", "requisitos"] }
+  ]},
+  { "fragmentoRef": "rm0764-2025-t005", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según el Reglamento de la RM 0764/2025, ¿con quién coordina el Ministerio de Educación la atención educativa de soldados y marineros, y conforme a qué norma?",
+      "opciones": [
+        { "texto": "Con el Alto Mando Militar, conforme al DS 1875", "correcta": true, "porQue": "Art. 26." },
+        { "texto": "Con el Ministerio de Gobierno, conforme al DS 26715", "correcta": false, "porQue": "Capciosa: el DS 26715 es el de ejecución de penas." },
+        { "texto": "Con cada CEA de forma aislada", "correcta": false, "porQue": "La coordinación la hacen el VEAE y la DGEA." },
+        { "texto": "Con la Policía", "correcta": false, "porQue": "No corresponde." }
+      ],
+      "explicacion": "Las modalidades son presencial y semipresencial, y los horarios se coordinan con las unidades militares.",
+      "citaTextual": "coordinará con el Aito Mando Militar, conforme al Decreto Supremo N* 1875",
+      "referencia": "RM 0764/2025, Reglamento, Arts. 24-26, págs. 15-16", "etiquetas": ["soldados y marineros", "capciosa"] }
+  ]},
+  { "fragmentoRef": "rm0764-2025-reg-df02", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según el Anexo 1 del Reglamento de la RM 0764/2025, ¿qué validez tiene la Declaración Jurada de Buena Fe para jóvenes con responsabilidad penal que no tienen documentos de identidad ni de escolaridad?",
+      "opciones": [
+        { "texto": "Tres meses", "correcta": true, "porQue": "Es lo que dice el Anexo 1." },
+        { "texto": "Un año", "correcta": false, "porQue": "No coincide." },
+        { "texto": "Indefinida", "correcta": false, "porQue": "No coincide." },
+        { "texto": "Seis meses", "correcta": false, "porQue": "No coincide." }
+      ],
+      "explicacion": "La firma el padre, la madre o el tutor.",
+      "citaTextual": "LA DECLARACIÓN JURADA TENDRÁ UNA VALIDEZ DE TRES MESES",
+      "referencia": "RM 0764/2025, Anexo 1, págs. 21-24", "etiquetas": ["declaración jurada", "memorística"] }
+  ]},
+  { "fragmentoRef": "rm0092-2025-reg-art17", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Un CEA de una zona urbana accesible tiene solo 8 participantes inscritos. Según el Reglamento de la RM 0092/2025, ¿esto es causal de cierre?",
+      "opciones": [
+        { "texto": "Sí: tener menos de 10 participantes es causal, salvo para los centros ubicados en zonas de difícil acceso", "correcta": true, "porQue": "Art. 17, num. 1." },
+        { "texto": "No: el mínimo es de 5 participantes", "correcta": false, "porQue": "El umbral es 10." },
+        { "texto": "Sí, en todos los casos sin excepción", "correcta": false, "porQue": "Capciosa: hay una excepción para las zonas de difícil acceso." },
+        { "texto": "No: el número de participantes no es causal", "correcta": false, "porQue": "Sí lo es." }
+      ],
+      "explicacion": "Otras causales: no tener inscritos, caso fortuito o fuerza mayor, reordenamiento distrital e incumplimiento de la normativa.",
+      "citaTextual": "Cantidad de estudiantes/participantes menores a 10, con excepción de los centros ubicados en zonas de difícil acceso.",
+      "referencia": "RM 0092/2025, Reglamento, Art. 17, pág. 17", "etiquetas": ["cierre", "caso", "capciosa"] }
+  ]},
+  { "fragmentoRef": "rm0092-2025-reg-art18", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Un CEA va a cerrar definitivamente. Según el Reglamento de la RM 0092/2025, ¿qué debe hacerse con el RUDEAL, los centralizadores y los boletines de los participantes?",
+      "opciones": [
+        { "texto": "Remitir los archivos electrónicos e impresos actualizados a la Dirección Distrital para su archivo y resguardo", "correcta": true, "porQue": "Art. 18, par. I, num. 2." },
+        { "texto": "Destruirlos", "correcta": false, "porQue": "Deben resguardarse." },
+        { "texto": "Entregarlos a cada participante y no guardar copias", "correcta": false, "porQue": "No es lo que dispone el reglamento." },
+        { "texto": "Guardarlos el director en su domicilio", "correcta": false, "porQue": "Contradice el resguardo institucional (CPE, Art. 237)." }
+      ],
+      "explicacion": "El director distrital elabora el informe técnico de justificación para la Departamental.",
+      "citaTextual": "debe remitir a la Dirección Distrital Educativa para su correspondiente archivo y resguardo",
+      "referencia": "RM 0092/2025, Reglamento, Art. 18, págs. 17-18", "etiquetas": ["cierre", "archivos", "caso"] }
+  ]},
+  { "fragmentoRef": "rm0092-2025-reg-art20", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según el Reglamento de la RM 0092/2025, para que un CEA inicie actividades en el segundo semestre de la gestión vigente, ¿en qué período deben iniciarse los trámites de apertura o modificación en el portal?",
+      "opciones": [
+        { "texto": "Del 1 de abril al 30 de mayo", "correcta": true, "porQue": "Art. 20, par. I." },
+        { "texto": "Del 1 de septiembre al 30 de octubre", "correcta": false, "porQue": "Capciosa: ese período es para iniciar en el primer semestre de la gestión siguiente." },
+        { "texto": "Del 1 de enero al 28 de febrero", "correcta": false, "porQue": "No coincide." },
+        { "texto": "En cualquier momento del año", "correcta": false, "porQue": "Hay períodos definidos." }
+      ],
+      "explicacion": "Los trámites no culminados vencen el 31 de diciembre de la gestión en que se iniciaron.",
+      "citaTextual": "Del 1 de abril al 30 de mayo",
+      "referencia": "RM 0092/2025, Reglamento, Art. 20, pág. 18", "etiquetas": ["plazos", "memorística", "capciosa"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según el Art. 20 del Reglamento de la RM 0092/2025, ¿qué ocurre con un trámite de apertura registrado en el portal que no culminó en los plazos?",
+      "opciones": [
+        { "texto": "Vence el 31 de diciembre de la gestión en que se inició, sea procedente o improcedente, y se da de baja", "correcta": true, "porQue": "Art. 20, par. II." },
+        { "texto": "Se prorroga automáticamente a la gestión siguiente", "correcta": false, "porQue": "No es lo que dispone el reglamento." },
+        { "texto": "Se aprueba de oficio", "correcta": false, "porQue": "No es lo que dispone el reglamento." },
+        { "texto": "Queda suspendido indefinidamente", "correcta": false, "porQue": "Se da de baja." }
+      ],
+      "explicacion": "Hay que reiniciar el trámite en el período siguiente.",
+      "citaTextual": "vencerán eI 31 de diciembre de la gestión en la que se inició el trámite, sea procedente o improcedente",
+      "referencia": "RM 0092/2025, Reglamento, Art. 20, pág. 18", "etiquetas": ["plazos"] }
+  ]},
+  { "fragmentoRef": "rm0092-2025-reg-art08", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según el Reglamento de la RM 0092/2025, la apertura de un Centro de Educación Alternativa Integrado se rige por el reglamento aprobado mediante:",
+      "opciones": [
+        { "texto": "La RM 0259/2024, de 12 de abril de 2024", "correcta": true, "porQue": "Art. 8, num. 1." },
+        { "texto": "La RM 1040/2022", "correcta": false, "porQue": "La RM 1040 trata de los lineamientos curriculares." },
+        { "texto": "La RM 0001/2026", "correcta": false, "porQue": "La RM 0001 trata de la gestión anual." },
+        { "texto": "El DS 813", "correcta": false, "porQue": "El DS 813 regula las Direcciones Departamentales." }
+      ],
+      "explicacion": "Para un centro de convenio se exige además el testimonio de constitución y el convenio interinstitucional vigente.",
+      "citaTextual": "aprobado mediante Resolución Ministerial N' 0259/2024 de fecha 12 de abril de 2024",
+      "referencia": "RM 0092/2025, Reglamento, Art. 8, págs. 10-11", "etiquetas": ["CEA-I", "memorística"] }
+  ]}
+]
