@@ -1,0 +1,143 @@
+[
+  { "fragmentoRef": "ley548-art169", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Un adolescente deja de asistir al CEA porque su padre no lo inscribe ni controla su asistencia. Según el Art. 169 de la Ley 548, ¿qué medida de protección puede imponer la Jueza o Juez de Niñez y Adolescencia al padre?",
+      "opciones": [
+        { "texto": "La obligación de inscribir y controlar la asistencia y el aprovechamiento escolar del hijo", "correcta": true, "porQue": "Art. 169, par. I, inc. a), num. 6." },
+        { "texto": "Una multa impuesta por el director del CEA", "correcta": false, "porQue": "El director no impone medidas de protección." },
+        { "texto": "La privación de libertad del padre", "correcta": false, "porQue": "No es una medida de protección del Art. 169." },
+        { "texto": "La expulsión del adolescente del sistema", "correcta": false, "porQue": "Contradice la protección." }
+      ],
+      "explicacion": "Se prefieren las medidas pedagógicas y las que fortalecen los vínculos familiares (Art. 170).",
+      "citaTextual": "Obligación de inscribir y controlar la asistencia y aprovechamiento escolar de la hija, hijo, pupila o pupilo",
+      "referencia": "Ley 548, Art. 169, págs. 66-67", "etiquetas": ["medidas de protección", "caso"] }
+  ]},
+  { "fragmentoRef": "ley548-art170", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según el Art. 170 de la Ley 548, ¿cada cuánto tiempo se revisan las medidas de protección, y cuál es la excepción?",
+      "opciones": [
+        { "texto": "Cada seis meses, excepto la adopción", "correcta": true, "porQue": "Art. 170, inc. d)." },
+        { "texto": "Cada año, excepto la guarda", "correcta": false, "porQue": "No coincide." },
+        { "texto": "Cada tres meses, sin excepción", "correcta": false, "porQue": "No coincide." },
+        { "texto": "Cada seis meses, excepto la tutela", "correcta": false, "porQue": "Capciosa: la excepción es la adopción." }
+      ],
+      "explicacion": "Las medidas pueden imponerse de forma aislada, simultánea o sucesiva, y concurrir con sanciones.",
+      "citaTextual": "Las medidas de protección, excepto la adopción, serán revisadas cada seis (6) meses",
+      "referencia": "Ley 548, Art. 170, pág. 67", "etiquetas": ["medidas de protección", "memorística", "capciosa"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según el Art. 170 de la Ley 548, al aplicar medidas de protección, ¿cuáles se prefieren?",
+      "opciones": [
+        { "texto": "Las pedagógicas y las que fomenten los vínculos con la familia y la comunidad", "correcta": true, "porQue": "Art. 170, inc. b)." },
+        { "texto": "Las de institucionalización en centros de acogida", "correcta": false, "porQue": "No son las preferidas." },
+        { "texto": "Las sancionatorias", "correcta": false, "porQue": "No son las preferidas." },
+        { "texto": "Las de separación familiar", "correcta": false, "porQue": "La separación es excepcional." }
+      ],
+      "explicacion": "La imposición de medidas no excluye aplicar sanciones civiles, administrativas o penales concurrentes.",
+      "citaTextual": "se deben preferir las pedagógicas y las que fomenten los vínculos con la familia y la comunidad",
+      "referencia": "Ley 548, Art. 170, pág. 67", "etiquetas": ["medidas de protección"] }
+  ]},
+  { "fragmentoRef": "ley548-art164", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Una política dirigida a adolescentes embarazadas, trabajadores o consumidores de alcohol, para prevenir o restablecer sus derechos vulnerados, es, según el Art. 164 de la Ley 548, una política:",
+      "opciones": [
+        { "texto": "De Protección Especial", "correcta": true, "porQue": "Art. 164, inc. c)." },
+        { "texto": "De Prevención", "correcta": false, "porQue": "La de Prevención promueve derechos en general (inc. a)." },
+        { "texto": "De Asistencia", "correcta": false, "porQue": "La de Asistencia atiende la vulnerabilidad por pobreza extrema o desastres (inc. b)." },
+        { "texto": "De Garantía", "correcta": false, "porQue": "No es la categoría que corresponde a este caso." }
+      ],
+      "explicacion": "Capciosa: tipos de política vecinos.",
+      "citaTextual": "De Protección Especial, que comprenden acciones encaminadas a prevenir o restablecer los derechos que se encuentren amenazados o vulnerados",
+      "referencia": "Ley 548, Art. 164, pág. 63", "etiquetas": ["políticas", "capciosa"] }
+  ]},
+  { "fragmentoRef": "ley548-art181", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según el Art. 181 de la Ley 548, ¿cada cuánto se reúne el Congreso de Derechos de la Niña, Niño y Adolescente, quién lo convoca y qué aprueba?",
+      "opciones": [
+        { "texto": "Cada cinco años; lo convoca el Ministerio de Justicia; aprueba el Plan Plurinacional, con decisiones vinculantes", "correcta": true, "porQue": "Art. 181." },
+        { "texto": "Cada año; lo convoca el Ministerio de Educación", "correcta": false, "porQue": "No coincide." },
+        { "texto": "Cada cinco años; lo convoca la Defensoría del Pueblo; sus decisiones son orientativas", "correcta": false, "porQue": "Capciosa: lo convoca el Ministerio de Justicia y sus decisiones son vinculantes." },
+        { "texto": "Cada dos años; lo convocan los municipios", "correcta": false, "porQue": "No coincide." }
+      ],
+      "explicacion": "Es una instancia deliberativa y contralora.",
+      "citaTextual": "El Congreso de Derechos se reunirá una vez cada cinco (5) años, a fi n de aprobar el Plan Plurinacional de la Niña, Niño y Adolescente",
+      "referencia": "Ley 548, Art. 181, pág. 73", "etiquetas": ["Congreso", "memorística", "capciosa"] }
+  ]},
+  { "fragmentoRef": "ley548-art182", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según la Ley 548, ¿a qué nivel de gobierno le corresponde ejercer la rectoría departamental en temáticas de la niña, niño y adolescente y diseñar el Plan Departamental?",
+      "opciones": [
+        { "texto": "A los Gobiernos Autónomos Departamentales", "correcta": true, "porQue": "Art. 182, incs. a) y c)." },
+        { "texto": "A las Direcciones Departamentales de Educación", "correcta": false, "porQue": "Confusión: dependen del Ministerio de Educación, no son la gobernación." },
+        { "texto": "A los Gobiernos Municipales", "correcta": false, "porQue": "Ejercen la rectoría municipal (Art. 184)." },
+        { "texto": "Al Ministerio de Justicia", "correcta": false, "porQue": "Es el ente rector nacional." }
+      ],
+      "explicacion": "La Instancia Técnica Departamental de Política Social depende de las gobernaciones (Art. 183).",
+      "citaTextual": "Ejercer la rectoría departamental en temáticas de la niña, niño y adolescente",
+      "referencia": "Ley 548, Art. 182, págs. 74-75", "etiquetas": ["competencias", "capciosa"] }
+  ]},
+  { "fragmentoRef": "ley548-art183", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Un niño de la comunidad queda sin cuidado familiar y necesita acogimiento temporal y una familia sustituta. Según la Ley 548, ¿qué instancia desarrolla esos programas?",
+      "opciones": [
+        { "texto": "La Instancia Técnica Departamental de Política Social, dependiente de la gobernación", "correcta": true, "porQue": "Art. 183, incs. c) y d)." },
+        { "texto": "La Defensoría de la Niñez municipal", "correcta": false, "porQue": "La Defensoría defiende; los programas de acogimiento y familia sustituta son de la instancia departamental." },
+        { "texto": "El CEA", "correcta": false, "porQue": "No es su competencia." },
+        { "texto": "El Ministerio de Educación", "correcta": false, "porQue": "No es su competencia." }
+      ],
+      "explicacion": "La instancia departamental debe agotar todos los medios para encontrar una familia sustituta en el territorio nacional.",
+      "citaTextual": "Desarrollar programas de acogimiento temporal; d) Ejecutar programas de familia sustituta",
+      "referencia": "Ley 548, Art. 183, págs. 75-76", "etiquetas": ["acogimiento", "caso"] }
+  ]},
+  { "fragmentoRef": "ley548-art184", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "En el municipio donde está el CEA no existe Defensoría de la Niñez. Según la Ley 548, ¿quién debe crearla y dotarla de recursos?",
+      "opciones": [
+        { "texto": "El Gobierno Autónomo Municipal", "correcta": true, "porQue": "Art. 184, inc. d)." },
+        { "texto": "La Gobernación", "correcta": false, "porQue": "Confusión de nivel." },
+        { "texto": "La Dirección Distrital de Educación", "correcta": false, "porQue": "No es su competencia." },
+        { "texto": "El Ministerio de Justicia", "correcta": false, "porQue": "Es el ente rector, pero la creación es municipal." }
+      ],
+      "explicacion": "El municipio también ejerce la rectoría municipal y diseña el Plan Municipal de la NNA.",
+      "citaTextual": "Institucionalizar y dotar de recursos humanos y materiales a las Defensorías de la Niñez y Adolescencia, y crearlas en los lugares donde no existan",
+      "referencia": "Ley 548, Art. 184, págs. 76-77", "etiquetas": ["Defensoría", "caso"] }
+  ]},
+  { "fragmentoRef": "ley548-art162", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según el Art. 162 de la Ley 548, ¿quiénes tienen la obligación compartida de garantizar la formulación, ejecución y control de los medios de protección del SIPPROINA?",
+      "opciones": [
+        { "texto": "El Estado y la sociedad, y es un derecho de las niñas, niños y adolescentes exigir su cumplimiento", "correcta": true, "porQue": "Art. 162, par. II." },
+        { "texto": "Solo el Estado central", "correcta": false, "porQue": "Es una obligación compartida con la sociedad." },
+        { "texto": "Solo las familias", "correcta": false, "porQue": "No es lo que dispone la ley." },
+        { "texto": "Solo las Defensorías", "correcta": false, "porQue": "No es lo que dispone la ley." }
+      ],
+      "explicacion": "Entre los medios están las políticas, los planes, los programas, las medidas de protección, las instancias, los procedimientos y las sanciones.",
+      "citaTextual": "El Estado y la sociedad tienen la obligación compartida de garantizar la formulación, ejecución y control de estos medios",
+      "referencia": "Ley 548, Art. 162, pág. 62", "etiquetas": ["SIPPROINA"] }
+  ]},
+  { "fragmentoRef": "ley548-art32", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según el Art. 32 de la Ley 548, ¿para qué se evalúa el grado de discapacidad de niñas, niños y adolescentes?",
+      "opciones": [
+        { "texto": "Para que ingresen preferentemente al sistema educativo regular o, en su caso, a centros de educación especial", "correcta": true, "porQue": "Art. 32." },
+        { "texto": "Para excluirlos del sistema regular", "correcta": false, "porQue": "La preferencia es el sistema regular." },
+        { "texto": "Solo para otorgar el bono de discapacidad", "correcta": false, "porQue": "No es lo que dispone el artículo." },
+        { "texto": "Para determinar su capacidad jurídica", "correcta": false, "porQue": "No es lo que dispone el artículo." }
+      ],
+      "explicacion": "Los internados en establecimientos de salud tienen derecho a una evaluación al menos cada seis meses.",
+      "citaTextual": "a fi n de que puedan ingresar preferentemente al sistema educativo regular o en su caso, a centros de educación especial",
+      "referencia": "Ley 548, Art. 32, pág. 20", "etiquetas": ["discapacidad", "inclusión"] }
+  ]},
+  { "fragmentoRef": "ley548-art84", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según el Art. 84 de la Ley 548, ¿qué requisito de edad debe cumplir quien solicita una adopción?",
+      "opciones": [
+        { "texto": "Tener al menos 25 años y ser por lo menos 18 años mayor que el adoptado", "correcta": true, "porQue": "Art. 84, par. I, inc. a)." },
+        { "texto": "Tener al menos 18 años y ser 10 años mayor", "correcta": false, "porQue": "No coincide." },
+        { "texto": "Tener al menos 30 años", "correcta": false, "porQue": "No coincide." },
+        { "texto": "Tener al menos 25 años, sin diferencia mínima de edad", "correcta": false, "porQue": "Capciosa: se exige una diferencia de 18 años." }
+      ],
+      "explicacion": "En las parejas, al menos uno de sus miembros debe tener menos de 55 años, salvo convivencia pre-adoptiva.",
+      "citaTextual": "Tener un mínimo de veinticinco (25) años de edad y ser por lo menos dieciocho (18) años mayor que la niña, niño o adolescente adoptado",
+      "referencia": "Ley 548, Art. 84, págs. 31-32", "etiquetas": ["adopción", "memorística", "capciosa"] }
+  ]}
+]

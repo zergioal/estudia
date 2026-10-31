@@ -1,0 +1,180 @@
+[
+  { "fragmentoRef": "ley348-reg-art15", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Una participante adulta del CEA, de 45 años, cuenta a la directora que su esposo la golpea. Según el Reglamento de la Ley 348 (DS 2145), ¿qué obligación tiene la directora?",
+      "opciones": [
+        { "texto": "Denunciar el caso a las instancias correspondientes, independientemente de la edad de la víctima, bajo responsabilidad en caso de incumplimiento", "correcta": true, "porQue": "Reglamento, Art. 15, par. II, inc. a)." },
+        { "texto": "Denunciar solo si la víctima es menor de edad", "correcta": false, "porQue": "Capciosa: la obligación es independiente de la edad." },
+        { "texto": "Esperar a que la víctima decida denunciar", "correcta": false, "porQue": "La responsable de la institución está obligada a denunciar." },
+        { "texto": "Promover una conciliación en el CEA", "correcta": false, "porQue": "La ley no prevé conciliar la violencia contra la mujer." }
+      ],
+      "explicacion": "Los delitos de la Ley 348 son de acción pública (Art. 90).",
+      "citaTextual": "tiene la obligación de denunciar a las instancias correspondientes los casos de violencia contra las mujeres independientemente de su edad, bajo responsabilidad en caso de incumplimiento",
+      "referencia": "Ley 348, Reglamento (DS 2145), Art. 15, págs. 102-103", "etiquetas": ["denuncia", "caso", "capciosa"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según el Reglamento de la Ley 348, ¿quién garantiza el traspaso inmediato de los hijos o dependientes de una mujer en situación de violencia a otra unidad educativa?",
+      "opciones": [
+        { "texto": "Las Direcciones Distritales de Educación", "correcta": true, "porQue": "Reglamento, Art. 15, par. II, inc. b)." },
+        { "texto": "Las Direcciones Departamentales", "correcta": false, "porQue": "Confusión de instancia." },
+        { "texto": "La Defensoría de la Niñez", "correcta": false, "porQue": "No es la instancia del reglamento." },
+        { "texto": "El juez de familia", "correcta": false, "porQue": "No es la instancia del reglamento." }
+      ],
+      "explicacion": "El Ministerio de Educación y el Ministerio de Justicia incorporan la prevención de la violencia en el currículo.",
+      "citaTextual": "Las Direcciones Distritales de Educación garantizarán el traspaso inmediato de hijos e hijas o dependientes de las mujeres que se encuentren en situación de violencia",
+      "referencia": "Ley 348, Reglamento, Art. 15, págs. 102-103", "etiquetas": ["traspaso", "capciosa"] }
+  ]},
+  { "fragmentoRef": "ley348-reg-art03", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Una docente del CEA sufre acoso laboral por parte de un colega. Según el Reglamento de la Ley 348, ¿ante quién se denuncia el acoso laboral?",
+      "opciones": [
+        { "texto": "Ante el Ministerio de Trabajo, Empleo y Previsión Social", "correcta": true, "porQue": "Reglamento, Art. 3, par. II, inc. c)." },
+        { "texto": "Solo ante la Dirección Distrital", "correcta": false, "porQue": "No es lo que dispone el reglamento." },
+        { "texto": "Ante la Defensoría de la Niñez", "correcta": false, "porQue": "No es competente." },
+        { "texto": "Ante el SEGIP", "correcta": false, "porQue": "No es competente." }
+      ],
+      "explicacion": "Las faltas que no son delitos se sancionan por la vía administrativa.",
+      "citaTextual": "El acoso laboral y la violencia laboral serán denunciados ante el Ministerio de Trabajo Empleo y Previsión Social",
+      "referencia": "Ley 348, Reglamento, Art. 3, págs. 96-97", "etiquetas": ["acoso laboral", "caso"] }
+  ]},
+  { "fragmentoRef": "ley348-reg-art05", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según el Reglamento de la Ley 348, ¿qué instancia centraliza la información de atención a mujeres en situación de violencia mediante el Registro Único de Violencia y emite certificados de antecedentes en violencia?",
+      "opciones": [
+        { "texto": "El SIPPASE", "correcta": true, "porQue": "Reglamento, Art. 5, incs. e) y f)." },
+        { "texto": "El SIPPROINA", "correcta": false, "porQue": "Capciosa: el SIPPROINA es el sistema de protección de la niñez (Ley 548)." },
+        { "texto": "El SIIARBE", "correcta": false, "porQue": "El SIIARBE es el sistema anticorrupción (Ley 004)." },
+        { "texto": "El SEPDAVI", "correcta": false, "porQue": "El SEPDAVI es el servicio de asistencia a víctimas." }
+      ],
+      "explicacion": "Hay que distinguir varias siglas parecidas.",
+      "citaTextual": "Centralizar y administrar la información proveniente de las instancias competentes de atención a mujeres en situación de violencia, a través del Registro Único de Violencia",
+      "referencia": "Ley 348, Reglamento, Art. 5, pág. 98", "etiquetas": ["SIPPASE", "capciosa"] }
+  ]},
+  { "fragmentoRef": "ley348-reg-art08", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según el Reglamento de la Ley 348, ¿mediante qué instrumento declaran alerta contra la violencia el Ministerio de Justicia y las entidades territoriales autónomas?",
+      "opciones": [
+        { "texto": "El Ministerio de Justicia, por Resolución Ministerial (nivel nacional); las ETA, por Ley de la autoridad competente (en su territorio)", "correcta": true, "porQue": "Reglamento, Art. 8, par. I y II." },
+        { "texto": "Ambos por Decreto Supremo", "correcta": false, "porQue": "No coincide." },
+        { "texto": "Las ETA por Resolución Ministerial y el Ministerio por Ley", "correcta": false, "porQue": "Capciosa: está invertido." },
+        { "texto": "Solo el Presidente, por decreto", "correcta": false, "porQue": "No coincide." }
+      ],
+      "explicacion": "La alerta exige definir la zona, conformar comisiones, elaborar un plan de acción y reasignar recursos.",
+      "citaTextual": "El Ministerio de Justicia declarará alerta contra la violencia en el ámbito nacional, a través de una Resolución Ministerial.",
+      "referencia": "Ley 348, Reglamento, Art. 8, pág. 99", "etiquetas": ["alerta", "capciosa"] }
+  ]},
+  { "fragmentoRef": "ley348-reg-art13", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según el Reglamento de la Ley 348, ¿qué porcentaje del IDH de seguridad ciudadana debían usar los gobiernos departamentales el primer año para construir y equipar casas de acogida?",
+      "opciones": [
+        { "texto": "30% el primer año y, desde el segundo año, 10% para mantenimiento y atención", "correcta": true, "porQue": "Reglamento, Art. 13, par. I y II." },
+        { "texto": "10% el primer año y 30% desde el segundo", "correcta": false, "porQue": "Capciosa: está invertido." },
+        { "texto": "50% el primer año", "correcta": false, "porQue": "No coincide." },
+        { "texto": "5% anual", "correcta": false, "porQue": "No coincide." }
+      ],
+      "explicacion": "Los municipios también destinan recursos a los Servicios Legales Integrales.",
+      "citaTextual": "utilizarán el treinta por ciento (30%) del total de los recursos del IDH de seguridad ciudadana",
+      "referencia": "Ley 348, Reglamento, Art. 13, págs. 100-101", "etiquetas": ["IDH", "memorística", "capciosa"] }
+  ]},
+  { "fragmentoRef": "ley348-reg-art20", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según el Reglamento de la Ley 348, ¿qué prohibición rige para el personal de las Casas de Acogida y Refugio Temporal?",
+      "opciones": [
+        { "texto": "No pueden tener contacto con el agresor ni con sus familiares, ni promover la conciliación con la mujer", "correcta": true, "porQue": "Reglamento, Art. 20, par. II." },
+        { "texto": "No pueden recibir a mujeres con hijos", "correcta": false, "porQue": "Reciben también a los dependientes." },
+        { "texto": "No pueden informar a la Policía", "correcta": false, "porQue": "No es lo que dispone el reglamento." },
+        { "texto": "Deben promover la reconciliación familiar", "correcta": false, "porQue": "Es lo contrario." }
+      ],
+      "explicacion": "La remisión pueden decidirla los promotores de la denuncia, los operadores de justicia y las organizaciones civiles.",
+      "citaTextual": "no podrán tener ningún contacto con el agresor o con familiares del mismo, ni podrán promover bajo ningún concepto la conciliación",
+      "referencia": "Ley 348, Reglamento, Art. 20, pág. 105", "etiquetas": ["casas de acogida"] }
+  ]},
+  { "fragmentoRef": "ley348-reg-art25", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Una mujer quechuahablante denuncia violencia. Según el Reglamento de la Ley 348, ¿en qué idioma deben informarle sus derechos las instituciones receptoras de la denuncia?",
+      "opciones": [
+        { "texto": "En un idioma de su comprensión, de forma diligente y en todas las etapas del proceso", "correcta": true, "porQue": "Reglamento, Art. 25." },
+        { "texto": "Solo en castellano, por ser el idioma oficial", "correcta": false, "porQue": "Capciosa: debe ser un idioma de su comprensión." },
+        { "texto": "Solo por escrito", "correcta": false, "porQue": "No es lo que dispone el reglamento." },
+        { "texto": "Solo al final del proceso", "correcta": false, "porQue": "Debe informarse en todas las etapas." }
+      ],
+      "explicacion": "Hay que informarle sobre derechos, acciones, servicios, medidas de protección y posibilidades de restitución.",
+      "citaTextual": "brindar información de forma diligente y adecuada a las mujeres en situación de violencia y en un idioma de su comprensión",
+      "referencia": "Ley 348, Reglamento, Art. 25, pág. 107", "etiquetas": ["deber de informar", "caso"] }
+  ]},
+  { "fragmentoRef": "ley348-reg-art19", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según el Reglamento de la Ley 348, ¿cómo deben difundir los medios de comunicación la información sobre violencia contra las mujeres?",
+      "opciones": [
+        { "texto": "Sin sensacionalismo, con objetividad y ética, preservando la intimidad, identidad y dignidad de las víctimas y sus dependientes", "correcta": true, "porQue": "Reglamento, Art. 19, par. II." },
+        { "texto": "Publicando el nombre de la víctima para visibilizar el caso", "correcta": false, "porQue": "Se debe preservar su identidad." },
+        { "texto": "Solo en horario nocturno", "correcta": false, "porQue": "No es lo que dispone el reglamento." },
+        { "texto": "Con imágenes explícitas para sensibilizar", "correcta": false, "porQue": "Se prohíbe el sensacionalismo." }
+      ],
+      "explicacion": "El Ministerio de Comunicación elabora contenidos mínimos de difusión gratuita.",
+      "citaTextual": "Difundir información relativa a violencia contra las mujeres sin sensacionalismo, con objetividad y ética.",
+      "referencia": "Ley 348, Reglamento, Art. 19, págs. 104-105", "etiquetas": ["medios"] }
+  ]},
+  { "fragmentoRef": "ley348-art84", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Un director distrital oculta una denuncia de violencia contra una maestra y obstaculiza la investigación. Según la Ley 348 (Art. 154 bis del Código Penal), ¿qué sanción corresponde?",
+      "opciones": [
+        { "texto": "Trabajos comunitarios de 90 a 120 días e inhabilitación de 1 a 4 años para la función pública", "correcta": true, "porQue": "Art. 84 (Art. 154 bis del CP)." },
+        { "texto": "Presidio de 30 años", "correcta": false, "porQue": "Es la pena del feminicidio (Art. 252 bis)." },
+        { "texto": "Una multa administrativa", "correcta": false, "porQue": "No coincide." },
+        { "texto": "Privación de libertad de 2 a 4 años", "correcta": false, "porQue": "Es la pena de la violencia económica (Art. 250 bis)." }
+      ],
+      "explicacion": "El delito es el incumplimiento de deberes de protección a mujeres en situación de violencia.",
+      "citaTextual": "recibirá sanción alternativa de trabajos comunitarios de noventa (90) días a ciento veinte (120) días e inhabilitación de uno (1) a cuatro (4) años",
+      "referencia": "Ley 348, Art. 84 (CP Art. 154 bis), págs. 77-80", "etiquetas": ["tipos penales", "caso"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según la Ley 348 (Art. 252 bis del Código Penal), ¿qué pena corresponde al feminicidio?",
+      "opciones": [
+        { "texto": "Presidio de treinta años sin derecho a indulto", "correcta": true, "porQue": "Art. 84 (Art. 252 bis del CP)." },
+        { "texto": "Presidio de 30 años con derecho a indulto", "correcta": false, "porQue": "Capciosa: es sin derecho a indulto." },
+        { "texto": "Presidio de 20 a 25 años", "correcta": false, "porQue": "No coincide." },
+        { "texto": "Reclusión de 2 a 8 años", "correcta": false, "porQue": "Es la pena del homicidio por emoción violenta." }
+      ],
+      "explicacion": "Una de las circunstancias es que el autor sea o haya sido cónyuge o conviviente de la víctima.",
+      "citaTextual": "Se sancionará con la pena de presidio de treinta (30) años sin derecho a indulto",
+      "referencia": "Ley 348, Art. 84 (CP Art. 252 bis), págs. 77-80", "etiquetas": ["feminicidio", "memorística", "capciosa"] }
+  ]},
+  { "fragmentoRef": "ley348-art85", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según la Ley 348 (Art. 250 bis del Código Penal), ¿cuál de las siguientes conductas constituye violencia económica?",
+      "opciones": [
+        { "texto": "Destruir u ocultar los documentos de identidad, títulos profesionales o instrumentos de trabajo de la mujer", "correcta": true, "porQue": "Art. 85 (Art. 250 bis, inc. b) del CP)." },
+        { "texto": "Insultar a la mujer en público", "correcta": false, "porQue": "Es violencia psicológica o verbal." },
+        { "texto": "Difundir imágenes sexistas", "correcta": false, "porQue": "Es violencia mediática o simbólica." },
+        { "texto": "Negarle atención en salud", "correcta": false, "porQue": "Es violencia en los servicios de salud." }
+      ],
+      "explicacion": "Se sanciona con dos a cuatro años de privación de libertad.",
+      "citaTextual": "Destruya u oculte documentos justificativos de dominio, de identificación personal, títulos profesionales o bienes",
+      "referencia": "Ley 348, Art. 85 (CP Art. 250 bis), págs. 81-82", "etiquetas": ["violencia económica"] }
+  ]},
+  { "fragmentoRef": "ley348-art54", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según el Art. 54 de la Ley 348, en caso de flagrancia, ¿en qué plazo debe la FELCV poner al aprehendido a disposición del Ministerio Público?",
+      "opciones": [
+        { "texto": "En un plazo máximo de ocho (8) horas", "correcta": true, "porQue": "Art. 54, num. 2." },
+        { "texto": "En 24 horas", "correcta": false, "porQue": "24 horas es el plazo para denunciar violencia contra NNA (Ley 548)." },
+        { "texto": "En 48 horas", "correcta": false, "porQue": "No coincide." },
+        { "texto": "En 72 horas", "correcta": false, "porQue": "No coincide." }
+      ],
+      "explicacion": "En flagrancia, la FELCV puede ingresar a un domicilio sin mandamiento ni limitación de horario.",
+      "citaTextual": "ponerlos a disposición del Ministerio Público, en el plazo máximo de ocho (8) horas",
+      "referencia": "Ley 348, Art. 54, págs. 52-53", "etiquetas": ["FELCV", "plazos", "memorística"] }
+  ]},
+  { "fragmentoRef": "ley348-art19", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según el Art. 19 de la Ley 348, ¿qué debe crearse en las unidades educativas para atender a los estudiantes que viven en familias en situación de violencia?",
+      "opciones": [
+        { "texto": "Un centro de atención psicológica con especialidad obligatoria en violencia, en convenio con universidades públicas o privadas", "correcta": true, "porQue": "Art. 19, par. I, num. 3." },
+        { "texto": "Una oficina de la FELCV", "correcta": false, "porQue": "No es lo que dispone la ley." },
+        { "texto": "Un juzgado escolar", "correcta": false, "porQue": "No existe." },
+        { "texto": "Una Defensoría escolar autónoma", "correcta": false, "porQue": "No es lo que dispone la ley." }
+      ],
+      "explicacion": "El enfoque de género y la resolución pacífica de conflictos se incorporan al currículo en todos los niveles.",
+      "citaTextual": "Crear en las unidades educativas un centro de atención psicológica, con especialidad obligatoria en violencia, en convenio con universidades públicas o privadas",
+      "referencia": "Ley 348, Art. 19, págs. 24-25", "etiquetas": ["ámbito educativo"] }
+  ]}
+]
