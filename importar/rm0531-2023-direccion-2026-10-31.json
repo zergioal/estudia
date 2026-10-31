@@ -1,0 +1,273 @@
+[
+  { "fragmentoRef": "rm0531-2023-reg-art03", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según el Reglamento para la Certificación de Competencias (RM 0531/2023), ¿qué centros quedan acreditados para realizar los procesos de certificación de competencias y mediante qué documento?",
+      "opciones": [
+        { "texto": "Los CEA fiscales y de convenio del área de Educación Permanente No Escolarizada, mediante un \"Acta de Acreditación\" emitida por la DGEA a través del SPCC", "correcta": true, "porQue": "Es lo que dispone el Art. 3." },
+        { "texto": "Los CEA del área de Educación de Personas Jóvenes y Adultas, mediante una Resolución Administrativa de la DDE", "correcta": false, "porQue": "Son los CEA del área de Educación Permanente No Escolarizada, y el documento es un Acta de la DGEA." },
+        { "texto": "Los institutos técnicos superiores, mediante una RM", "correcta": false, "porQue": "No corresponde a este reglamento." },
+        { "texto": "Cualquier CEA privado registrado", "correcta": false, "porQue": "La acreditación es para los fiscales y de convenio del área permanente." }
+      ],
+      "explicacion": "La certificación de competencias es propia de la Educación Permanente No Escolarizada; la acredita la DGEA mediante el Sistema Plurinacional de Certificación de Competencias (SPCC), en coordinación con las DDE.",
+      "citaTextual": "Quedan acreditados para realizar los procesos de Certificación de Competencias los Centros de Educación Alternativa fiscales y de convenio del área de Educación Permanente No Escolarizada",
+      "referencia": "RM 0531/2023, Reglamento, Art. 3, pág. 12", "etiquetas": ["certificación de competencias", "acreditación"] }
+  ]},
+  { "fragmentoRef": "rm0531-2023-reg-art06", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según la RM 0531/2023, ¿quiénes pueden beneficiarse de la certificación de competencias?",
+      "opciones": [
+        { "texto": "Las bolivianas y los bolivianos que habitan en el territorio nacional, y también quienes radican en el extranjero", "correcta": true, "porQue": "Lo establece el Art. 6, pars. I y II." },
+        { "texto": "Solo quienes residen en Bolivia", "correcta": false, "porQue": "Los que radican en el extranjero también pueden acceder." },
+        { "texto": "Solo quienes tienen título de bachiller", "correcta": false, "porQue": "La certificación reconoce competencias, no títulos previos." },
+        { "texto": "Solo los extranjeros con residencia permanente", "correcta": false, "porQue": "Los beneficiarios son bolivianas y bolivianos." }
+      ],
+      "explicacion": "La certificación de competencias alcanza a los bolivianos dentro y fuera del país.",
+      "citaTextual": "Las bolivianas y los bolivianos que radican en el extranjero, podrán acceder a la Certificación de Competencias.",
+      "referencia": "RM 0531/2023, Reglamento, Art. 6, págs. 12-13", "etiquetas": ["beneficiarios"] }
+  ]},
+  { "fragmentoRef": "rm0531-2023-reg-art07", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según la RM 0531/2023, ¿qué es la Licencia de Competencia Laboral?",
+      "opciones": [
+        { "texto": "Un documento en formato digital con los datos básicos y la ocupación del trabajador, que respalda que ya cuenta con su certificado de competencias", "correcta": true, "porQue": "Es la definición del Art. 7." },
+        { "texto": "Un permiso municipal para ejercer el oficio", "correcta": false, "porQue": "Lo emite el SPCC y no es un permiso municipal." },
+        { "texto": "El título de Técnico Medio de la EPJA", "correcta": false, "porQue": "Es otro documento, de otro reglamento (RM 0679)." },
+        { "texto": "El certificado impreso con sello seco", "correcta": false, "porQue": "La licencia es digital y complementa al certificado." }
+      ],
+      "explicacion": "La licencia digital atestigua el nivel de experiencia y las capacidades del trabajador ante autoridades públicas o en relaciones privadas.",
+      "citaTextual": "Es el documento en formato digital que contiene los datos personales básicos y la ocupación del trabajador/a y/o productor/a",
+      "referencia": "RM 0531/2023, Reglamento, Art. 7, pág. 13", "etiquetas": ["licencia de competencia laboral"] }
+  ]},
+  { "fragmentoRef": "rm0531-2023-reg-art12", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según la RM 0531/2023, el Estándar Ocupacional/Laboral es:",
+      "opciones": [
+        { "texto": "La referencia ocupacional de experiencias, saberes, conocimientos, habilidades, destrezas y valores, construida de manera comunitaria, que permite valorar el ser, saber, hacer y decidir", "correcta": true, "porQue": "Es la definición del Art. 12." },
+        { "texto": "El relevamiento de la situación de una ocupación en su contexto territorial", "correcta": false, "porQue": "Esa es la definición de \"mapeo ocupacional\" (Art. 10)." },
+        { "texto": "La descripción de los datos históricos, culturales y económicos de una ocupación", "correcta": false, "porQue": "Esa es la \"caracterización ocupacional\" (Art. 11)." },
+        { "texto": "El curso de fortalecimiento basado en la ocupación", "correcta": false, "porQue": "Esa es la \"formación complementaria\" (Art. 13)." }
+      ],
+      "explicacion": "Mapeo: relevamiento de la ocupación. Caracterización: descripción de la ocupación. Estándar: referencia comunitaria que se usa para evaluar. Formación complementaria: cursos de fortalecimiento.",
+      "citaTextual": "construido de manera comunitaria traducido en un documento normativo y el elemento de matriz ocupacional",
+      "referencia": "RM 0531/2023, Reglamento, Art. 12, pág. 16", "etiquetas": ["estándar ocupacional", "definiciones"] }
+  ]},
+  { "fragmentoRef": "rm0531-2023-reg-art22", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según la RM 0531/2023, una vez recibidas las solicitudes de certificación, ¿en qué plazo debe el CEA acreditado elaborar el cronograma de evaluación y a quién lo remite?",
+      "opciones": [
+        { "texto": "En un máximo de 5 días hábiles, al coordinador departamental del SPCC", "correcta": true, "porQue": "Es lo que dispone el Art. 22." },
+        { "texto": "En 15 días hábiles, a la Dirección Distrital", "correcta": false, "porQue": "Son 5 días hábiles, al coordinador departamental del SPCC." },
+        { "texto": "En 10 días hábiles, a la DGEA", "correcta": false, "porQue": "No corresponde." },
+        { "texto": "En 48 horas, al Viceministerio", "correcta": false, "porQue": "No corresponde." }
+      ],
+      "explicacion": "El cronograma incluye la lista de posibles evaluadores y la cantidad de supervisores, entre otros aspectos.",
+      "citaTextual": "una vez recibida las solicitudes en un plazo máximo de 5 días hábiles, el centro elaborarán y remitirá al coordinador departamental del SPCC, un cronograma de evaluación",
+      "referencia": "RM 0531/2023, Reglamento, Art. 22, pág. 25", "etiquetas": ["plazos", "cronograma"] }
+  ]},
+  { "fragmentoRef": "rm0531-2023-reg-art23", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según la RM 0531/2023, ¿cuántos postulantes deben considerar como mínimo los CEA acreditados para realizar un proceso de evaluación de certificación de competencias?",
+      "opciones": [
+        { "texto": "Treinta (30) postulantes", "correcta": true, "porQue": "Es el mínimo del Art. 23, par. I." },
+        { "texto": "Diez (10) postulantes", "correcta": false, "porQue": "Diez es el número mínimo de expertos para elaborar un estándar ocupacional (Art. 42)." },
+        { "texto": "Quince (15) postulantes", "correcta": false, "porQue": "El mínimo es de 30." },
+        { "texto": "Veinte (20) postulantes", "correcta": false, "porQue": "El mínimo es de 30." }
+      ],
+      "explicacion": "La regla general es un mínimo de 30 postulantes, con excepciones previstas en el par. II.",
+      "citaTextual": "deberán tomar en cuenta como mínimo a treinta (30) de postulantes",
+      "referencia": "RM 0531/2023, Reglamento, Art. 23, pág. 25", "etiquetas": ["postulantes"] }
+  ]},
+  { "fragmentoRef": "rm0531-2023-reg-art24", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Aprobado el cronograma de evaluación de competencias, ¿qué debe hacer la o el Director del CEA, según la RM 0531/2023?",
+      "opciones": [
+        { "texto": "Emitir un memorándum que designa a uno o más maestros como supervisores, y asignarles la custodia de toda la documentación del proceso de evaluación", "correcta": true, "porQue": "Es lo que dispone el Art. 24, par. I." },
+        { "texto": "Solicitar a la Dirección Distrital que designe a los supervisores", "correcta": false, "porQue": "La designación la hace el director del CEA." },
+        { "texto": "Supervisar personalmente todas las evaluaciones, sin designar a nadie", "correcta": false, "porQue": "La norma prevé la designación de supervisores." },
+        { "texto": "Contratar supervisores externos", "correcta": false, "porQue": "Se designa a maestros mediante memorándum." }
+      ],
+      "explicacion": "El director designa por memorándum a los supervisores (custodios de la documentación) y a los evaluadores, según el cronograma.",
+      "citaTextual": "emitirá un memorándum de designación al o los maestras/os en calidad de supervisoras/es en cada proceso de evaluación de postulantes, asignándole la responsabilidad de custodio de toda la documentación",
+      "referencia": "RM 0531/2023, Reglamento, Art. 24, pág. 25", "etiquetas": ["supervisor", "caso"] }
+  ]},
+  { "fragmentoRef": "rm0531-2023-reg-art26", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según la RM 0531/2023, ¿cuál es el PRIMER requisito, en orden de prioridad, que debe verificar el director al designar a los evaluadores?",
+      "opciones": [
+        { "texto": "Contar con un Certificado de Competencias en la ocupación a evaluar", "correcta": true, "porQue": "Es el requisito 1 del Art. 26." },
+        { "texto": "Ser una personalidad reconocida en el ámbito departamental, nacional o internacional", "correcta": false, "porQue": "Es el segundo requisito en el orden de prioridad." },
+        { "texto": "Tener título de licenciatura en el área", "correcta": false, "porQue": "No es el primer requisito." },
+        { "texto": "Ser maestro titular del CEA", "correcta": false, "porQue": "No es el primer requisito." }
+      ],
+      "explicacion": "Se privilegia a quien ya está certificado en la ocupación y, en segundo lugar, a una personalidad reconocida en ella.",
+      "citaTextual": "Contar con un Certificado de Competencias en la ocupación a evaluar.",
+      "referencia": "RM 0531/2023, Reglamento, Art. 26, pág. 26", "etiquetas": ["evaluadores"] }
+  ]},
+  { "fragmentoRef": "rm0531-2023-reg-art28", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según la RM 0531/2023, ¿con qué fondo deben presentar los postulantes a la certificación de competencias sus dos fotografías 4x4?",
+      "opciones": [
+        { "texto": "Fondo azul pastel", "correcta": true, "porQue": "Es el requisito del Art. 28." },
+        { "texto": "Fondo rojo", "correcta": false, "porQue": "El fondo rojo es para el Técnico Medio (RM 0679)." },
+        { "texto": "Fondo plomo claro", "correcta": false, "porQue": "Es para Técnico Básico y Auxiliar (RM 0679)." },
+        { "texto": "Fondo blanco", "correcta": false, "porQue": "No corresponde." }
+      ],
+      "explicacion": "Los documentos se presentan en un folder amarillo tamaño oficio, con las fotos a color, fondo azul pastel, en un sobre cerrado.",
+      "citaTextual": "Dos fotografías a color fondo azul pastel, tamaño 4X4, vista de frente.",
+      "referencia": "RM 0531/2023, Reglamento, Art. 28, pág. 27", "etiquetas": ["requisitos de postulación"] }
+  ]},
+  { "fragmentoRef": "rm0531-2023-reg-art31", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Una postulante a la certificación de competencias en gastronomía resulta tener formación académica en gastronomía. Según la RM 0531/2023:",
+      "opciones": [
+        { "texto": "Queda inhabilitada automáticamente, por contar con formación académica similar a la ocupación a certificar", "correcta": true, "porQue": "Lo dispone el Art. 31, par. I." },
+        { "texto": "Queda habilitada con prioridad por su formación", "correcta": false, "porQue": "La norma la inhabilita." },
+        { "texto": "Puede certificarse si paga un arancel adicional", "correcta": false, "porQue": "No existe esa opción." },
+        { "texto": "Debe certificarse directamente como experta, sin evaluación", "correcta": false, "porQue": "La norma la inhabilita." }
+      ],
+      "explicacion": "La certificación reconoce competencias adquiridas a lo largo de la vida, no la formación académica. También inhabilitan el incumplimiento de requisitos y la falsedad en la declaración jurada.",
+      "citaTextual": "Las y los postulantes que cuenten con formación académica similar a la ocupación a certificar, serán inhabilitados automáticamente.",
+      "referencia": "RM 0531/2023, Reglamento, Art. 31, pág. 28", "etiquetas": ["inhabilitación", "caso"] }
+  ]},
+  { "fragmentoRef": "rm0531-2023-reg-art32", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según la RM 0531/2023, ¿qué edad mínima se exige para contabilizar los años de experiencia en la certificación de competencias, y qué ocurre con quien no la cumple?",
+      "opciones": [
+        { "texto": "18 años; excepcionalmente puede habilitarse, por ejemplo, a personas con hijos o que asumen la responsabilidad de hermanos menores, con documentos de respaldo", "correcta": true, "porQue": "Es lo que establece el Art. 32." },
+        { "texto": "15 años, sin excepciones", "correcta": false, "porQue": "La edad mínima es 18, y hay excepciones." },
+        { "texto": "21 años, sin excepciones", "correcta": false, "porQue": "La edad es 18 y hay casos excepcionales." },
+        { "texto": "No existe edad mínima", "correcta": false, "porQue": "La norma fija 18 años." }
+      ],
+      "explicacion": "Las excepciones requieren documentos (por ejemplo, el certificado de nacimiento del hijo).",
+      "citaTextual": "No cumplan con la edad mínima (18 años) para la contabilización de años de experiencia",
+      "referencia": "RM 0531/2023, Reglamento, Art. 32, pág. 28", "etiquetas": ["casos excepcionales"] }
+  ]},
+  { "fragmentoRef": "rm0531-2023-reg-art34", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Un postulante alcanza el nivel \"Experto\" en todas las competencias menos en una, en la que obtiene \"Avanzado\". Según la RM 0531/2023:",
+      "opciones": [
+        { "texto": "No se le registra para el Certificado de Competencias, porque se requiere el nivel \"Experto\" en todas las competencias del instrumento", "correcta": true, "porQue": "El Art. 34, par. II exige el nivel Experto en todas." },
+        { "texto": "Obtiene el certificado, porque el promedio es suficiente", "correcta": false, "porQue": "No se promedia: se exige Experto en todas." },
+        { "texto": "Obtiene un certificado de nivel Avanzado", "correcta": false, "porQue": "El certificado se otorga solo al nivel Experto." },
+        { "texto": "Obtiene el certificado si el supervisor lo autoriza", "correcta": false, "porQue": "Es un criterio normativo." }
+      ],
+      "explicacion": "Los niveles de valoración son Experto, Avanzado e Intermedio; solo el nivel Experto en todas las competencias da acceso al certificado.",
+      "citaTextual": "Las y los postulantes que hayan alcanzado el nivel de “EXPERTO”, en todas las competencias del instrumento de evaluación deberán ser registrados en el Sistema de Certificación",
+      "referencia": "RM 0531/2023, Reglamento, Art. 34, págs. 29-30", "etiquetas": ["valoración de desempeño", "caso"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según la RM 0531/2023, ¿qué niveles de conocimiento identifica la valoración de desempeño de los postulantes?",
+      "opciones": [
+        { "texto": "Experto, avanzado e intermedio", "correcta": true, "porQue": "Son los niveles del Art. 34, par. I." },
+        { "texto": "Básico, auxiliar y medio", "correcta": false, "porQue": "Son los niveles de la formación técnica, no de la certificación de competencias." },
+        { "texto": "Excelente, promovido y postergado", "correcta": false, "porQue": "Son categorías de la evaluación de la EPJA (RM 0183)." },
+        { "texto": "Inicial, en proceso y logrado", "correcta": false, "porQue": "No corresponden." }
+      ],
+      "explicacion": "Hay que distinguir: niveles técnicos (Básico, Auxiliar, Medio); evaluación de la EPJA (postergado, promovido, promovido excelente); certificación de competencias (Experto, Avanzado, Intermedio).",
+      "citaTextual": "1. EXPERTO 2. AVANZADO 3. INTERMEDIO",
+      "referencia": "RM 0531/2023, Reglamento, Art. 34, págs. 29-30", "etiquetas": ["niveles"] }
+  ]},
+  { "fragmentoRef": "rm0531-2023-reg-art38", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según la RM 0531/2023, tras el registro oficial en el sistema del SPCC, ¿en qué plazo deben enviar los CEA acreditados las carpetas individuales a la Subdirección de Educación Alternativa y Especial?",
+      "opciones": [
+        { "texto": "En un tiempo no mayor a quince (15) días hábiles", "correcta": true, "porQue": "Es el plazo del Art. 38, par. I." },
+        { "texto": "En 5 días hábiles", "correcta": false, "porQue": "Cinco días es el plazo para elaborar el cronograma (Art. 22)." },
+        { "texto": "En 10 días hábiles", "correcta": false, "porQue": "Diez días es el plazo del informe técnico de aprobación del estándar (Art. 45)." },
+        { "texto": "Al cierre de la gestión", "correcta": false, "porQue": "El plazo es de 15 días hábiles." }
+      ],
+      "explicacion": "El CEA custodia temporalmente las carpetas hasta el registro oficial y luego las envía a la Subdirección en 15 días hábiles como máximo.",
+      "citaTextual": "debiendo posteriormente enviar las mismas a la Subdirección de Educación Alternativa y Especial en un tiempo no mayor a quince (15) días hábiles",
+      "referencia": "RM 0531/2023, Reglamento, Art. 38, págs. 30-31", "etiquetas": ["custodia de carpetas", "plazos"] }
+  ]},
+  { "fragmentoRef": "rm0531-2023-reg-art42", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según la RM 0531/2023, ¿con cuántas personas como mínimo se conforma el Equipo de Expertos de la Ocupación y cuánto puede durar como máximo el Taller de Elaboración y Validación del estándar?",
+      "opciones": [
+        { "texto": "Mínimo 10 personas; taller de máximo 5 días hábiles", "correcta": true, "porQue": "Es lo que establece el Art. 42, par. I." },
+        { "texto": "Mínimo 30 personas; taller de 10 días", "correcta": false, "porQue": "Treinta es el mínimo de postulantes para una evaluación." },
+        { "texto": "Mínimo 5 personas; taller de 3 días", "correcta": false, "porQue": "No corresponde." },
+        { "texto": "Mínimo 10 personas; taller de 45 días", "correcta": false, "porQue": "Cuarenta y cinco días es el plazo para organizar el taller (Art. 41), no su duración." }
+      ],
+      "explicacion": "Estándar ocupacional: equipo de al menos 10 expertos, taller de hasta 5 días hábiles, organización en un plazo de hasta 45 días e informe técnico en 10 días.",
+      "citaTextual": "con una participación mínima de 10 personas para el desarrollo adecuado del Taller de Elaboración y Validación con una duración máxima de 5 días hábiles",
+      "referencia": "RM 0531/2023, Reglamento, Art. 42, pág. 33", "etiquetas": ["estándar ocupacional"] }
+  ]},
+  { "fragmentoRef": "rm0531-2023-reg-art47", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según la RM 0531/2023, ¿qué vigencia tienen las competencias de especialidad y qué ocurre al vencer?",
+      "opciones": [
+        { "texto": "Seis años; una vez cumplida su vigencia, no se imprimen certificados", "correcta": true, "porQue": "Es lo que dispone el Art. 47." },
+        { "texto": "Son indefinidas, como el estándar ocupacional", "correcta": false, "porQue": "El estándar no tiene plazo perentorio (Art. 46), pero las competencias de especialidad duran 6 años." },
+        { "texto": "Tres años, con renovación automática", "correcta": false, "porQue": "Son 6 años y se actualizan coordinando con los sectores." },
+        { "texto": "Diez años; al vencer se reimprimen todos los certificados", "correcta": false, "porQue": "No corresponde." }
+      ],
+      "explicacion": "Estándar ocupacional: sin plazo perentorio y modificable a solicitud del sector. Competencias de especialidad: 6 años; vencidas, no se imprimen certificados.",
+      "citaTextual": "Las competencias de especialidad tendrá una vigencia de 6 años",
+      "referencia": "RM 0531/2023, Reglamento, Art. 47, pág. 34", "etiquetas": ["vigencia"] }
+  ]},
+  { "fragmentoRef": "rm0531-2023-reg-art46", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según la RM 0531/2023, ¿desde cuándo y por cuánto tiempo rige un Estándar Ocupacional?",
+      "opciones": [
+        { "texto": "Desde la emisión de la Resolución Ministerial que lo aprueba, sin tiempo concluyente o perentorio, y puede modificarse a solicitud del sector", "correcta": true, "porQue": "Es lo que dispone el Art. 46." },
+        { "texto": "Desde la conclusión del taller, por seis años", "correcta": false, "porQue": "Rige desde la RM que lo aprueba, sin plazo perentorio; los 6 años son de las competencias de especialidad." },
+        { "texto": "Desde su publicación en prensa, por tres años", "correcta": false, "porQue": "No corresponde." },
+        { "texto": "Desde la primera certificación, de manera indefinida e inmodificable", "correcta": false, "porQue": "Puede modificarse a solicitud del sector." }
+      ],
+      "explicacion": "La MAE del Ministerio aprueba el estándar mediante una RM, previo informe legal.",
+      "citaTextual": "entrará en vigencia a partir de su aprobación a través de la emisión de la Resolución Ministerial correspondiente, sin tiempo concluyente o perentorio",
+      "referencia": "RM 0531/2023, Reglamento, Art. 46, pág. 34", "etiquetas": ["estándar ocupacional", "vigencia"] }
+  ]},
+  { "fragmentoRef": "rm0531-2023-reg-art39", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Una asociación de bordadoras pide certificarse, pero no existe un estándar ocupacional para su oficio. Según la RM 0531/2023, ¿cuándo procede elaborar un nuevo estándar?",
+      "opciones": [
+        { "texto": "Cuando existe la solicitud de las trabajadoras y trabajadores o de los productores", "correcta": true, "porQue": "El Art. 39 establece esa condición." },
+        { "texto": "Solo por iniciativa del Ministerio de Trabajo", "correcta": false, "porQue": "La iniciativa es del sector ocupacional." },
+        { "texto": "Solo si lo solicita el director del CEA", "correcta": false, "porQue": "La solicitud debe venir de los trabajadores o productores." },
+        { "texto": "Nunca: solo se certifica en los estándares existentes", "correcta": false, "porQue": "Se puede abrir un nuevo estándar." }
+      ],
+      "explicacion": "La Subdirección verifica en el sistema si existe el estándar; si no, se tramita su elaboración con el equipo de expertos.",
+      "citaTextual": "Se procederá a la elaboración de un nuevo estándar ocupacional, cuando exista la solicitud por parte de las/os trabajadores/as y/o productoras/es.",
+      "referencia": "RM 0531/2023, Reglamento, Art. 39, pág. 31", "etiquetas": ["estándar ocupacional", "caso"] }
+  ]},
+  { "fragmentoRef": "rm0531-2023-reg-art13", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según la RM 0531/2023, ¿quiénes diseñan y ejecutan la \"formación complementaria\" basada en el estándar ocupacional?",
+      "opciones": [
+        { "texto": "Los CEA del área de Educación Permanente No Escolarizada, mediante cursos según los Lineamientos Metodológicos de esa área", "correcta": true, "porQue": "Es lo que dispone el Art. 13." },
+        { "texto": "Las universidades públicas", "correcta": false, "porQue": "No figuran en el Art. 13." },
+        { "texto": "Los CEA del área de Educación de Personas Jóvenes y Adultas, mediante módulos semestrales", "correcta": false, "porQue": "Corresponde al área permanente, mediante cursos." },
+        { "texto": "El Ministerio de Trabajo", "correcta": false, "porQue": "No corresponde." }
+      ],
+      "explicacion": "La formación complementaria fortalece saberes, habilidades y experiencias a partir del estándar ocupacional.",
+      "citaTextual": "diseñados y ejecutados por los Centros de Educación Alternativa del área de Educación Permanente No Escolarizada",
+      "referencia": "RM 0531/2023, Reglamento, Art. 13, pág. 16", "etiquetas": ["formación complementaria"] }
+  ]},
+  { "fragmentoRef": "rm0531-2023-reg-art05", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según la RM 0531/2023, ¿quién debe planificar en su POA los recursos para los procesos de certificación de competencias?",
+      "opciones": [
+        { "texto": "Las Direcciones Departamentales de Educación, a través de las Subdirecciones de Educación Alternativa y Especial", "correcta": true, "porQue": "Lo dispone el Art. 5." },
+        { "texto": "Cada CEA, con sus propios recursos", "correcta": false, "porQue": "La programación corresponde a las DDE." },
+        { "texto": "Los Gobiernos Autónomos Municipales", "correcta": false, "porQue": "No figuran en el Art. 5." },
+        { "texto": "Los postulantes, mediante aranceles", "correcta": false, "porQue": "Existen aranceles (papeleta valorada), pero la programación de recursos es de las DDE." }
+      ],
+      "explicacion": "Los recursos se planifican en el POA departamental, mediante la Subdirección de EAyE.",
+      "citaTextual": "deberán planificar la asignación de recursos en sus Planes Operativos Anuales – POA’s, para el desarrollo de los procesos de certificación de competencias",
+      "referencia": "RM 0531/2023, Reglamento, Art. 5, pág. 12", "etiquetas": ["POA", "financiamiento"] }
+  ]},
+  { "fragmentoRef": "rm0531-2023-reg-art09-b", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según las disposiciones sobre el Certificado de Competencias (RM 0531/2023 y su modificación), ¿cuál de los siguientes casos NO es causal de anulación de un certificado impreso?",
+      "opciones": [
+        { "texto": "El cambio de ocupación del beneficiario", "correcta": true, "porQue": "No figura entre las causales." },
+        { "texto": "La duplicidad de certificados", "correcta": false, "porQue": "Es la causal 1." },
+        { "texto": "Errores en la información del certificado", "correcta": false, "porQue": "Es la causal 2." },
+        { "texto": "La falsificación de los documentos de requisitos", "correcta": false, "porQue": "Es la causal 4." }
+      ],
+      "explicacion": "Causales de anulación: duplicidad, errores, pérdida comprobada y falsificación de requisitos. Ante documentos falsos, el caso pasa a Asuntos Jurídicos para la vía penal.",
+      "citaTextual": "1. Duplicidad de certificados. 2. Errores en la información del certificado de competencias 3. Evidenciarse la pérdida de Certificados. 4. En caso de evidenciar falsificación de documentos de requisitos.",
+      "referencia": "RM 0531/2023 – RM 1115/2023, Reglamento, Art. 9, pág. 42", "etiquetas": ["anulación de certificados"] }
+  ]}
+]
