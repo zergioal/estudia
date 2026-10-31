@@ -1,0 +1,278 @@
+[
+  { "fragmentoRef": "rm0092-2025-reg-art05", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según el Reglamento aprobado por la RM 0092/2025, ¿cuál es el requisito imprescindible para que funcione un Centro de Educación Alternativa fiscal o de convenio?",
+      "opciones": [
+        { "texto": "Contar con la Resolución Administrativa vigente de la Dirección Departamental de Educación que autorice su funcionamiento en los niveles correspondientes, y con el Certificado de Registro (RCEA)", "correcta": true, "porQue": "Son los dos requisitos del Art. 5." },
+        { "texto": "Contar con una Resolución de la Dirección Distrital y el aval del Gobierno Municipal", "correcta": false, "porQue": "La Resolución Administrativa la emite la Dirección Departamental." },
+        { "texto": "Contar solo con el Certificado de Registro (RCEA)", "correcta": false, "porQue": "Además del registro se requiere la Resolución Administrativa vigente." },
+        { "texto": "Contar con una Resolución Ministerial específica para cada centro", "correcta": false, "porQue": "La autorización es por Resolución Administrativa de la DDE." }
+      ],
+      "explicacion": "Para funcionar, el CEA necesita la Resolución Administrativa vigente de la DDE y el Certificado de Registro (RCEA, RCEP o RCEA-I, según el tipo de centro).",
+      "citaTextual": "el requisito imprescindible es contar con la Resolución Administrativa vigente que autorice su funcionamiento en los niveles correspondientes, emitida por la Dirección Departamental de Educación",
+      "referencia": "RM 0092/2025, Reglamento, Art. 5, pág. 8", "etiquetas": ["funcionamiento", "resolución administrativa"] }
+  ]},
+  { "fragmentoRef": "rm0092-2025-reg-art06", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Una fundación quiere abrir un nuevo Centro de Educación Alternativa. Según la RM 0092/2025, ¿a quién debe dirigir su solicitud de apertura?",
+      "opciones": [
+        { "texto": "A la Dirección Distrital Educativa", "correcta": true, "porQue": "El Art. 6 establece que la solicitud se dirige a la Dirección Distrital Educativa." },
+        { "texto": "A la Dirección Departamental de Educación, que emite la resolución", "correcta": false, "porQue": "La DDE emite la Resolución Administrativa (Art. 5), pero la solicitud se presenta a la Distrital." },
+        { "texto": "Al Viceministerio de Educación Alternativa y Especial", "correcta": false, "porQue": "El trámite empieza en la Dirección Distrital." },
+        { "texto": "Al Gobierno Autónomo Municipal", "correcta": false, "porQue": "El municipio no recibe las solicitudes de apertura." }
+      ],
+      "explicacion": "Las solicitudes de apertura (de CEA, CEP o CEAI) se presentan a la Dirección Distrital por el portal de trámites del Ministerio; la autorización final es una Resolución Administrativa de la DDE.",
+      "citaTextual": "Solicitud de apertura dirigida a la Dirección Distrital Educativa, presentada por personas naturales o jurídicas",
+      "referencia": "RM 0092/2025, Reglamento, Art. 6, págs. 8-9", "etiquetas": ["apertura de centros", "caso"] }
+  ]},
+  { "fragmentoRef": "rm0092-2025-reg-art03", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según la RM 0092/2025, los centros de educación alternativa de convenio son aquellos:",
+      "opciones": [
+        { "texto": "Administrados y sostenidos por instituciones de servicio social sin fines de lucro, que operan bajo las mismas normas, políticas y programas del Ministerio y pueden tener personal financiado por el Estado", "correcta": true, "porQue": "Es la definición del Art. 3." },
+        { "texto": "Sostenidos íntegramente por el Estado", "correcta": false, "porQue": "Esa es la característica de los centros fiscales." },
+        { "texto": "Administrados por particulares con fines de lucro, bajo convenio con el municipio", "correcta": false, "porQue": "Los de convenio son de servicio social y sin fines de lucro." },
+        { "texto": "Con planes y programas propios distintos de los del Ministerio", "correcta": false, "porQue": "Deben operar bajo las mismas normas, políticas y programas." }
+      ],
+      "explicacion": "Fiscales: sostenidos por el Estado. De convenio: administrados y sostenidos por instituciones de servicio social sin fines de lucro, bajo las mismas normas, y pueden tener personal pagado por el Estado.",
+      "citaTextual": "administrados y sostenidos por instituciones de servicio social sin fines de lucro",
+      "referencia": "RM 0092/2025, Reglamento, Art. 3, págs. 7-8", "etiquetas": ["centros de convenio"] }
+  ]},
+  { "fragmentoRef": "rm0092-2025-reg-art17", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Un CEA ubicado en una zona urbana de fácil acceso tiene 8 participantes inscritos. Según la RM 0092/2025, esa situación:",
+      "opciones": [
+        { "texto": "Es causal de cierre, porque la cantidad de participantes es menor a 10 y el centro no está en una zona de difícil acceso", "correcta": true, "porQue": "Es la causal 1 del Art. 17." },
+        { "texto": "No es causal de cierre mientras haya al menos un participante", "correcta": false, "porQue": "Sin participantes es otra causal; con menos de 10 también hay causal." },
+        { "texto": "Es causal de cierre solo si el número baja de 5", "correcta": false, "porQue": "El umbral es 10." },
+        { "texto": "Es causal de cierre incluso en zonas de difícil acceso", "correcta": false, "porQue": "Los centros en zonas de difícil acceso están exceptuados." }
+      ],
+      "explicacion": "Causales de cierre: menos de 10 participantes (salvo zonas de difícil acceso), ninguno inscrito en la gestión, pérdida total de infraestructura por caso fortuito o fuerza mayor, reordenamiento distrital, e incumplimiento de normas.",
+      "citaTextual": "Cantidad de estudiantes/participantes menores a 10, con excepción de los centros ubicados en zonas de difícil acceso.",
+      "referencia": "RM 0092/2025, Reglamento, Art. 17, pág. 17", "etiquetas": ["cierre de centros", "caso"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "¿Cuál de las siguientes situaciones NO figura entre las causales de cierre del Art. 17 de la RM 0092/2025?",
+      "opciones": [
+        { "texto": "El cambio de la directora o el director del centro", "correcta": true, "porQue": "No es causal de cierre." },
+        { "texto": "No contar con participantes inscritos en la gestión educativa vigente", "correcta": false, "porQue": "Es la causal 2." },
+        { "texto": "La pérdida total de la infraestructura por caso fortuito o fuerza mayor", "correcta": false, "porQue": "Es la causal 3." },
+        { "texto": "El reordenamiento administrativo distrital, previa valoración", "correcta": false, "porQue": "Es la causal 4." }
+      ],
+      "explicacion": "Las cinco causales son: menos de 10 participantes, ninguno inscrito, pérdida total de infraestructura, reordenamiento distrital e incumplimiento de disposiciones del Ministerio.",
+      "citaTextual": "No contar con estudiantes/participantes inscritos en la gestión educativa vigente.",
+      "referencia": "RM 0092/2025, Reglamento, Art. 17, pág. 17", "etiquetas": ["cierre de centros"] }
+  ]},
+  { "fragmentoRef": "rm0092-2025-reg-art18", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según la RM 0092/2025, cuando un CEA incumple la normativa vigente, ¿quién inicia el cierre?",
+      "opciones": [
+        { "texto": "La o el Director Distrital de Educación, de oficio o a solicitud de la autoridad superior", "correcta": true, "porQue": "Lo dispone el Art. 18, par. I, num. 1." },
+        { "texto": "Solo la o el Director del CEA, mediante solicitud", "correcta": false, "porQue": "Ante el incumplimiento, el Distrital actúa de oficio o a pedido de la autoridad superior." },
+        { "texto": "El Gobierno Autónomo Municipal", "correcta": false, "porQue": "El municipio no inicia el cierre." },
+        { "texto": "El Consejo Educativo Social Comunitario", "correcta": false, "porQue": "No tiene esa atribución." }
+      ],
+      "explicacion": "El cierre normal lo solicita el director del centro a la Distrital; si hay incumplimiento normativo, el Director Distrital lo inicia de oficio o a pedido de la autoridad superior.",
+      "citaTextual": "En caso de incumplimiento de normativa vigente, la o el Director Distrital de Educación realizará de oficio o a solicitud de la autoridad superior",
+      "referencia": "RM 0092/2025, Reglamento, Art. 18, págs. 17-18", "etiquetas": ["cierre de centros"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Al solicitar el cierre de su centro, ¿qué documentación de los participantes debe entregar el director, según la RM 0092/2025?",
+      "opciones": [
+        { "texto": "Archivos electrónicos e impresos actualizados de toda la documentación de los participantes (RUDEAL, centralizador de calificaciones, boletines y otros)", "correcta": true, "porQue": "Es el requisito del Art. 18, par. I, num. 2." },
+        { "texto": "Solo la lista de participantes del último semestre", "correcta": false, "porQue": "Se exige toda la documentación académica, en formato electrónico e impreso." },
+        { "texto": "Ninguna, porque la documentación queda en el sistema informático", "correcta": false, "porQue": "Deben entregarse los archivos electrónicos e impresos." },
+        { "texto": "Solo el inventario de bienes del centro", "correcta": false, "porQue": "El requisito se refiere a la documentación de los participantes." }
+      ],
+      "explicacion": "Resguardar la trayectoria académica de los participantes es indispensable en el cierre: RUDEAL, centralizadores y boletines.",
+      "citaTextual": "Archivos electrónicos e impresos actualizados de toda la documentación de los participantes que cursaron sus estudios en el Centro (RUDEAL, centralizador de calificaciones, boletines y otros)",
+      "referencia": "RM 0092/2025, Reglamento, Art. 18, págs. 17-18", "etiquetas": ["cierre de centros", "documentación", "caso"] }
+  ]},
+  { "fragmentoRef": "rm0092-2025-reg-art20", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según la RM 0092/2025, para que un trámite de apertura o modificación rija desde el SEGUNDO semestre de la gestión vigente, ¿en qué periodo debe iniciarse?",
+      "opciones": [
+        { "texto": "Del 1 de abril al 30 de mayo", "correcta": true, "porQue": "Es el periodo de inicio del Art. 20 para el segundo semestre de la gestión vigente." },
+        { "texto": "Del 1 de septiembre al 30 de octubre", "correcta": false, "porQue": "Ese periodo es para que rija en el primer semestre de la gestión siguiente." },
+        { "texto": "Del 2 de enero al 28 de febrero", "correcta": false, "porQue": "No es un periodo del Art. 20." },
+        { "texto": "En cualquier momento, hasta el 31 de diciembre", "correcta": false, "porQue": "Hay periodos fijos; el 31 de diciembre es la fecha de conclusión del segundo periodo." }
+      ],
+      "explicacion": "Hay dos periodos: 1 de abril a 30 de mayo (para el segundo semestre de la gestión vigente) y 1 de septiembre a 30 de octubre, con conclusión hasta el 31 de diciembre (para el primer semestre de la gestión siguiente).",
+      "citaTextual": "Del 1 de abril al 30 de mayo",
+      "referencia": "RM 0092/2025, Reglamento, Art. 20, pág. 18", "etiquetas": ["plazos", "trámites"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según la RM 0092/2025, los trámites iniciados entre el 1 de septiembre y el 30 de octubre, para el primer semestre de la gestión siguiente, deben concluir:",
+      "opciones": [
+        { "texto": "Hasta el 31 de diciembre", "correcta": true, "porQue": "Es la fecha de conclusión del segundo periodo del Art. 20." },
+        { "texto": "Hasta el 30 de noviembre", "correcta": false, "porQue": "La conclusión es hasta el 31 de diciembre." },
+        { "texto": "Hasta el inicio de inscripciones de enero", "correcta": false, "porQue": "La fecha fija es el 31 de diciembre." },
+        { "texto": "Hasta el 30 de junio", "correcta": false, "porQue": "Junio corresponde a la conclusión del primer periodo." }
+      ],
+      "explicacion": "Segundo periodo: inicio del 1 de septiembre al 30 de octubre y conclusión hasta el 31 de diciembre.",
+      "citaTextual": "Del 1 de septiembre al 30 de octubre",
+      "referencia": "RM 0092/2025, Reglamento, Art. 20, pág. 18", "etiquetas": ["plazos", "trámites"] }
+  ]},
+  { "fragmentoRef": "rm0092-2025-reg-art21", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según la RM 0092/2025, ¿cuándo deben iniciar los centros del ámbito de Educación Alternativa el trámite de actualización de su certificado de registro?",
+      "opciones": [
+        { "texto": "Cumplidos los diez años de vigencia", "correcta": true, "porQue": "Es el plazo del Art. 21." },
+        { "texto": "Cada cinco años", "correcta": false, "porQue": "El plazo es de diez años." },
+        { "texto": "Cada gestión, al inicio de las inscripciones", "correcta": false, "porQue": "La actualización es a los diez años." },
+        { "texto": "Solo cuando cambia el director", "correcta": false, "porQue": "El hecho que obliga a actualizar es el vencimiento de los diez años." }
+      ],
+      "explicacion": "El certificado de registro (RCEA, RCEP, RCEA-I) se actualiza a los diez años de vigencia, con los requisitos de apertura que correspondan.",
+      "citaTextual": "cumplidos los diez años de vigencia",
+      "referencia": "RM 0092/2025, Reglamento, Art. 21, págs. 18-19", "etiquetas": ["certificado de registro"] }
+  ]},
+  { "fragmentoRef": "rm0092-2025-reg-art22", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según la RM 0092/2025, ¿cuál de los siguientes cambios está PROHIBIDO a un Centro de Educación Alternativa?",
+      "opciones": [
+        { "texto": "Cambiar de dependencia a privada", "correcta": true, "porQue": "Es una prohibición expresa del Art. 22." },
+        { "texto": "Cambiar de dependencia fiscal a convenio", "correcta": false, "porQue": "Es un trámite permitido, con requisitos (Art. 12)." },
+        { "texto": "Cambiar de dependencia de convenio a fiscal", "correcta": false, "porQue": "Es un trámite permitido (Art. 13)." },
+        { "texto": "Registrar un cambio de nombre", "correcta": false, "porQue": "Es un trámite permitido (Art. 11)." }
+      ],
+      "explicacion": "Los cambios fiscal ↔ convenio son trámites regulados; el paso a privado está prohibido.",
+      "citaTextual": "Cambiar de dependencia a privada.",
+      "referencia": "RM 0092/2025, Reglamento, Art. 22, pág. 19", "etiquetas": ["prohibiciones", "dependencia"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "En septiembre, la directora de un CEA de convenio decide cerrar el centro de inmediato por falta de recursos, sin esperar el fin de la gestión. Según la RM 0092/2025, esa decisión:",
+      "opciones": [
+        { "texto": "Está prohibida: los centros no pueden cerrar antes de la conclusión de la gestión educativa", "correcta": true, "porQue": "Es una prohibición del Art. 22." },
+        { "texto": "Es válida si avisa a la Dirección Distrital con 15 días de anticipación", "correcta": false, "porQue": "La prohibición de cerrar antes de que termine la gestión no se levanta con un aviso." },
+        { "texto": "Es válida por tratarse de un centro de convenio", "correcta": false, "porQue": "La prohibición alcanza a los centros fiscales y de convenio." },
+        { "texto": "Es válida si traslada a los participantes a otro centro", "correcta": false, "porQue": "El traslado no habilita el cierre anticipado." }
+      ],
+      "explicacion": "Las prohibiciones del Art. 22 protegen a los participantes: no se puede funcionar sin autorización, pasar a privado, cambiar de municipio sin autorización ni cerrar antes de que concluya la gestión.",
+      "citaTextual": "Cerrar el Centro antes de la conclusión de la gestión educativa.",
+      "referencia": "RM 0092/2025, Reglamento, Art. 22, pág. 19", "etiquetas": ["prohibiciones", "caso"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según el Art. 22 de la RM 0092/2025, ¿en qué condición está prohibido que un centro cambie su ubicación geográfica de un Gobierno Autónomo Municipal a otro?",
+      "opciones": [
+        { "texto": "Sin autorización expresa", "correcta": true, "porQue": "La prohibición se refiere al cambio de municipio sin autorización expresa." },
+        { "texto": "En ningún caso, ni siquiera con autorización", "correcta": false, "porQue": "La prohibición es hacerlo sin autorización expresa." },
+        { "texto": "Solo si el nuevo municipio es de otro departamento", "correcta": false, "porQue": "La norma se refiere a cualquier cambio de municipio." },
+        { "texto": "Solo durante el primer semestre", "correcta": false, "porQue": "La norma no fija un periodo." }
+      ],
+      "explicacion": "Mudarse de municipio requiere una autorización expresa; los cambios de infraestructura dentro del mismo distrito siguen el trámite del Art. 15.",
+      "citaTextual": "Cambiar de ubicación geográfica de un Gobierno Autónomo Municipal a otro sin autorización expresa.",
+      "referencia": "RM 0092/2025, Reglamento, Art. 22, pág. 19", "etiquetas": ["prohibiciones"] }
+  ]},
+  { "fragmentoRef": "rm0092-2025-reg-art23", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según la RM 0092/2025, ¿a quiénes alcanzan las sanciones por incurrir en las prohibiciones del reglamento?",
+      "opciones": [
+        { "texto": "A los directores de centros, directores distritales, técnicos, subdirectores de educación y directores departamentales", "correcta": true, "porQue": "Es la enumeración del Art. 23." },
+        { "texto": "Solo a los directores de los centros", "correcta": false, "porQue": "Alcanzan también a las autoridades distritales y departamentales." },
+        { "texto": "Solo a los propietarios de los centros de convenio", "correcta": false, "porQue": "La norma se refiere a directores y autoridades." },
+        { "texto": "A los participantes inscritos en centros no autorizados", "correcta": false, "porQue": "Las sanciones recaen sobre directores y autoridades." }
+      ],
+      "explicacion": "La responsabilidad alcanza a toda la cadena: centro, distrito y departamento, incluidos los técnicos.",
+      "citaTextual": "directores distritales de educación, técnicos, subdirectores de educación y directores departamentales de educación",
+      "referencia": "RM 0092/2025, Reglamento, Art. 23, pág. 19", "etiquetas": ["sanciones"] }
+  ]},
+  { "fragmentoRef": "rm0092-2025-reg-df01", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según la RM 0092/2025, el Registro de Centro de Educación Alternativa (RCEA) es:",
+      "opciones": [
+        { "texto": "Gratuito", "correcta": true, "porQue": "Lo establece la Disposición Final Primera." },
+        { "texto": "Con un arancel fijado por la Dirección Departamental", "correcta": false, "porQue": "El registro es gratuito." },
+        { "texto": "Gratuito solo para los centros fiscales", "correcta": false, "porQue": "La gratuidad no distingue dependencia." },
+        { "texto": "Con un costo que cubre el Gobierno Municipal", "correcta": false, "porQue": "El registro es gratuito." }
+      ],
+      "explicacion": "La gratuidad alcanza a los registros RCEA, RCEP y RCEA-I.",
+      "citaTextual": "es gratuito",
+      "referencia": "RM 0092/2025, Reglamento, Disposición Final Primera, pág. 20", "etiquetas": ["gratuidad", "registro"] }
+  ]},
+  { "fragmentoRef": "rm0092-2025-reg-dt03", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según la RM 0092/2025, ¿hasta cuándo debían los CEA y CEP actualizar su Resolución Administrativa con los niveles que brindan actualmente?",
+      "opciones": [
+        { "texto": "Hasta diciembre de 2025; después, si se constata el incumplimiento, se procede según el Art. 22", "correcta": true, "porQue": "Es lo que dispone la Disposición Transitoria Tercera." },
+        { "texto": "Hasta el 30 de mayo de 2026", "correcta": false, "porQue": "El plazo fue diciembre de 2025." },
+        { "texto": "Hasta que venza su certificado de registro a los diez años", "correcta": false, "porQue": "Esa es la actualización del registro (Art. 21), no la de la Resolución Administrativa." },
+        { "texto": "Sin plazo, a solicitud de la Dirección Distrital", "correcta": false, "porQue": "Había un plazo expreso." }
+      ],
+      "explicacion": "La Resolución Administrativa debía actualizarse con los niveles vigentes hasta diciembre de 2025; el incumplimiento se trata según las prohibiciones del Art. 22.",
+      "citaTextual": "deberán actualizar hasta diciembre del 2025 su Resolución Administrativa con los niveles que brindan actualmente",
+      "referencia": "RM 0092/2025, Reglamento, Disposición Transitoria Tercera, pág. 20", "etiquetas": ["plazos", "resolución administrativa"] }
+  ]},
+  { "fragmentoRef": "rm0092-2025-reg-dt04", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Un CEA inició su trámite de modificación antes de que se aprobara el reglamento de la RM 0092/2025. ¿Por qué normas se rige ese trámite?",
+      "opciones": [
+        { "texto": "Por las normas jurídicas vigentes al inicio de su trámite, hasta su conclusión", "correcta": true, "porQue": "Es lo que dispone la Disposición Transitoria Cuarta." },
+        { "texto": "Por el nuevo reglamento, que se aplica de inmediato a todos los trámites", "correcta": false, "porQue": "Los trámites iniciados antes se rigen por las normas vigentes al iniciarse." },
+        { "texto": "Debe anularse y volver a iniciarse", "correcta": false, "porQue": "La ley no exige reiniciarlo." },
+        { "texto": "Por la norma que resulte más favorable, a elección del director", "correcta": false, "porQue": "La regla es la norma vigente al inicio del trámite." }
+      ],
+      "explicacion": "Regla de transición: el trámite iniciado conserva el régimen normativo del momento de su inicio.",
+      "citaTextual": "se sujetarán a las normas jurídicas vigentes al inicio de su trámite hasta su conclusión",
+      "referencia": "RM 0092/2025, Reglamento, Disposición Transitoria Cuarta, pág. 20", "etiquetas": ["disposiciones transitorias", "caso"] }
+  ]},
+  { "fragmentoRef": "rm0092-2025-reg-df03-b", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según la RM 0092/2025, ¿cómo se regulan los aspectos técnico-administrativos no previstos en el reglamento?",
+      "opciones": [
+        { "texto": "Mediante instructivos del Viceministerio de Educación Alternativa y Especial, previa revisión", "correcta": true, "porQue": "Es lo que dispone la Disposición Final Tercera." },
+        { "texto": "Mediante resoluciones de cada Dirección Distrital", "correcta": false, "porQue": "La competencia es del Viceministerio." },
+        { "texto": "Por acuerdo del director con el Consejo Educativo", "correcta": false, "porQue": "No es la vía que prevé la norma." },
+        { "texto": "Por la Dirección General de Educación Alternativa, mediante el manual de procedimientos", "correcta": false, "porQue": "Ese manual es para habilitar carreras, menciones y subcentros (Disposición Final Segunda); lo no previsto lo regula el Viceministerio." }
+      ],
+      "explicacion": "Lo no previsto lo regula el VEAE por instructivos; el manual de la Dirección General de Educación Alternativa trata de carreras, menciones y subcentros.",
+      "citaTextual": "serán regulados, previa revisión, mediante instructivos emitidos por el Viceministerio de Educación Alternativa y Especial",
+      "referencia": "RM 0092/2025, Reglamento, Disposición Final Tercera, pág. 20", "etiquetas": ["vacíos normativos"] }
+  ]},
+  { "fragmentoRef": "rm0092-2025-reg-df02", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según la RM 0092/2025, ¿quién elaborará el manual de procedimiento para habilitar carreras, menciones de cursos cortos y largos y subcentros?",
+      "opciones": [
+        { "texto": "La Dirección General de Educación Alternativa", "correcta": true, "porQue": "Lo dispone la Disposición Final Segunda." },
+        { "texto": "El Viceministerio de Educación Alternativa y Especial", "correcta": false, "porQue": "El Viceministerio emite instructivos para lo no previsto; el manual es de la Dirección General." },
+        { "texto": "Cada Dirección Departamental", "correcta": false, "porQue": "No le corresponde." },
+        { "texto": "La UGPSEP-SI del Ministerio", "correcta": false, "porQue": "La UGPSEP-SI implementa el sistema de trámites (Disposición Transitoria Segunda)." }
+      ],
+      "explicacion": "Hay que distinguir: manual de carreras, menciones y subcentros → Dirección General de Educación Alternativa; sistema RCEA-WEB → UGPSEP-SI; lo no previsto → VEAE.",
+      "citaTextual": "La Dirección General de Educación Alternativa realizará el manual de procedimiento para habilitar carrera, menciones de cursos cortos, largos y subcentro",
+      "referencia": "RM 0092/2025, Reglamento, Disposición Final Segunda, pág. 20", "etiquetas": ["carreras", "subcentros"] }
+  ]},
+  { "fragmentoRef": "rm0092-2025-reg-art15", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Un CEA se traslada a otra infraestructura dentro del mismo distrito educativo. Según la RM 0092/2025, ¿qué informe técnico de justificación se requiere y quién lo emite?",
+      "opciones": [
+        { "texto": "Un informe técnico de justificación del cambio de infraestructura, emitido por el Director Distrital de Educación", "correcta": true, "porQue": "Es el requisito 3 del Art. 15." },
+        { "texto": "Un informe del Gobierno Municipal sobre la propiedad del inmueble", "correcta": false, "porQue": "El informe técnico de justificación lo emite el Director Distrital." },
+        { "texto": "Un informe del Director Departamental", "correcta": false, "porQue": "El informe lo emite el Director Distrital." },
+        { "texto": "Ningún informe, solo el formulario M-CEA-CEP-CEAI 002", "correcta": false, "porQue": "Además del formulario se requiere el informe técnico." }
+      ],
+      "explicacion": "El cambio de infraestructura dentro del distrito requiere solicitud del director, formulario de modificación e informe técnico del Director Distrital.",
+      "citaTextual": "Informe técnico de justificación de cambio de infraestructura, emitido por el Director Distrital de Educación",
+      "referencia": "RM 0092/2025, Reglamento, Art. 15, págs. 15-16", "etiquetas": ["modificaciones", "infraestructura", "caso"] }
+  ]},
+  { "fragmentoRef": "rm0092-2025-reg-art02", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según su Art. 2, ¿a qué centros se aplica obligatoriamente el Reglamento de apertura, modificación y cierre de la RM 0092/2025?",
+      "opciones": [
+        { "texto": "A los centros de educación alternativa, los de educación permanente no escolarizada y los de educación alternativa integrados, fiscales y de convenio", "correcta": true, "porQue": "Es el ámbito del Art. 2." },
+        { "texto": "A los centros fiscales, de convenio y privados de todo el Sistema Educativo", "correcta": false, "porQue": "No menciona a los privados, y se limita al ámbito de educación alternativa." },
+        { "texto": "Solo a los centros fiscales", "correcta": false, "porQue": "Incluye también a los de convenio." },
+        { "texto": "A las unidades educativas de educación regular y alternativa", "correcta": false, "porQue": "Se limita al ámbito de educación alternativa." }
+      ],
+      "explicacion": "El reglamento rige para CEA, CEP y CEAI fiscales y de convenio, y para todas las instancias de gestión del ámbito de educación alternativa.",
+      "citaTextual": "es de aplicación obligatoria en todos los centros de educación alternativa, centros de educación permanente no escolarizada, centros de educación alternativa integrados, fiscales y de convenio",
+      "referencia": "RM 0092/2025, Reglamento, Art. 2, pág. 7", "etiquetas": ["ámbito de aplicación"] }
+  ]},
+  { "fragmentoRef": "rm0092-2025-reg-art08", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según la RM 0092/2025, la apertura de un Centro de Educación Alternativa Integrado se enmarca en el Reglamento para la Constitución de CEAI aprobado por:",
+      "opciones": [
+        { "texto": "La RM 0259/2024", "correcta": true, "porQue": "Lo menciona el Art. 8." },
+        { "texto": "La RM 0001/2026", "correcta": false, "porQue": "La RM 0001/2026 contiene las normas generales de la gestión 2026." },
+        { "texto": "La RM 0660/2021", "correcta": false, "porQue": "La RM 0660/2021 aprobó el reglamento anterior de apertura de CEA, no el de los CEAI." },
+        { "texto": "La RM 0872/2024", "correcta": false, "porQue": "Trata del reconocimiento de saberes, conocimientos y experiencias." }
+      ],
+      "explicacion": "Los Centros de Educación Alternativa Integrados se constituyen según la RM 0259/2024, de 12 de abril de 2024.",
+      "citaTextual": "Resolución Ministerial N' 0259/2024 de fecha 12 de abril de 2024",
+      "referencia": "RM 0092/2025, Reglamento, Art. 8, págs. 10-11", "etiquetas": ["CEA integrados"] }
+  ]}
+]
