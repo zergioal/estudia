@@ -1,0 +1,93 @@
+[
+  { "fragmentoRef": "ley045-art09", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "El reglamento interno de personal de una Dirección Distrital contiene una cláusula que discrimina por la vestimenta originaria. Según el Art. 9 de la Ley 045, ¿qué función del Comité contra el Racismo es aplicable?",
+      "opciones": [
+        { "texto": "Velar porque los reglamentos internos de personal, disciplinarios u otros de la Administración Pública no contengan disposiciones discriminatorias", "correcta": true, "porQue": "Art. 9, inc. e)." },
+        { "texto": "Sancionar penalmente al autor del reglamento", "correcta": false, "porQue": "El Comité no tiene competencia penal." },
+        { "texto": "Elaborar el Plan Nacional de Acción", "correcta": false, "porQue": "Es otra función (inc. a), que no responde a este caso." },
+        { "texto": "Suspender la licencia del medio que lo difundió", "correcta": false, "porQue": "Eso se refiere a los medios de comunicación (Art. 16)." }
+      ],
+      "explicacion": "El Comité también cuida la igualdad en las propuestas de políticas públicas y proyectos de ley.",
+      "citaTextual": "Velar porque los Reglamentos Internos de Personal, Reglamentos disciplinarios u otros al interior de la Administración Públic",
+      "referencia": "Ley 045, Art. 9, inc. e), págs. 5-6", "etiquetas": ["Comité", "caso"] }
+  ]},
+  { "fragmentoRef": "ley045-art10", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según el Art. 10 de la Ley 045, ¿a través de qué instancia sistematiza el Ministerio de Culturas la información sobre los procesos por racismo y discriminación?",
+      "opciones": [
+        { "texto": "A través del Viceministerio de Descolonización", "correcta": true, "porQue": "Art. 10." },
+        { "texto": "A través del Viceministerio de Igualdad de Oportunidades", "correcta": false, "porQue": "No es el que nombra la ley." },
+        { "texto": "A través de la Defensoría del Pueblo", "correcta": false, "porQue": "No pertenece al Ministerio de Culturas." },
+        { "texto": "A través del Ministerio de Justicia", "correcta": false, "porQue": "No es el que nombra la ley." }
+      ],
+      "explicacion": "El Tesoro General de la Nación asigna anualmente recursos al Ministerio de Culturas para estas funciones (Art. 11).",
+      "citaTextual": "el Ministerio de Culturas a través del Viceministerio de Descolonización, sistematizará y producirá información",
+      "referencia": "Ley 045, Art. 10, pág. 6", "etiquetas": ["institucionalidad", "memorística"] }
+  ]},
+  { "fragmentoRef": "ley045-art16", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según el Art. 16 de la Ley 045, ¿qué sanciones corresponden al medio de comunicación que autorice y publique ideas racistas y discriminatorias?",
+      "opciones": [
+        { "texto": "Sanciones económicas y suspensión de la licencia de funcionamiento, sujetas a reglamentación", "correcta": true, "porQue": "Art. 16." },
+        { "texto": "Solo una amonestación escrita", "correcta": false, "porQue": "La ley prevé sanciones económicas y la suspensión de la licencia." },
+        { "texto": "La clausura definitiva sin reglamentación", "correcta": false, "porQue": "Capciosa: es una suspensión, sujeta a reglamentación." },
+        { "texto": "Ninguna, por la libertad de prensa", "correcta": false, "porQue": "La ley sí prevé sanciones." }
+      ],
+      "explicacion": "Este artículo fue objeto de debate sobre la libertad de expresión, pero sigue vigente en el texto de la ley.",
+      "citaTextual": "será pasible de sanciones económicas y de suspensión de licencia de funcionamiento, sujeto a reglamentación",
+      "referencia": "Ley 045, Art. 16, pág. 7", "etiquetas": ["medios", "capciosa"] }
+  ]},
+  { "fragmentoRef": "ley045-art19", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según el Art. 19 de la Ley 045, en delitos de racismo y discriminación, el Ministerio Público:",
+      "opciones": [
+        { "texto": "Buscará, en el marco de la legalidad, la solución del conflicto penal mediante las salidas alternativas previstas por ley (Art. 26 del CPP)", "correcta": true, "porQue": "Art. 19." },
+        { "texto": "Tiene prohibido aplicar salidas alternativas", "correcta": false, "porQue": "Capciosa: la ley las promueve." },
+        { "texto": "Debe remitir el caso a la jurisdicción indígena", "correcta": false, "porQue": "No es lo que dispone la ley." },
+        { "texto": "Debe esperar la conciliación administrativa previa", "correcta": false, "porQue": "No es lo que dispone la ley." }
+      ],
+      "explicacion": "Hay un contraste con la Ley 348, que restringe la conciliación en casos de violencia contra la mujer.",
+      "citaTextual": "mediante la aplicación de las salidas alternativas previstas por ley",
+      "referencia": "Ley 045, Art. 19, pág. 8", "etiquetas": ["salidas alternativas", "capciosa"] }
+  ]},
+  { "fragmentoRef": "ley045-art22", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según el Art. 22 de la Ley 045, ¿cómo pasó a denominarse el Título VIII del Libro Segundo del Código Penal?",
+      "opciones": [
+        { "texto": "«Delitos Contra la Vida, la Integridad y la Dignidad del Ser Humano»", "correcta": true, "porQue": "Art. 22." },
+        { "texto": "«Delitos de Racismo y Discriminación»", "correcta": false, "porQue": "No es la denominación adoptada." },
+        { "texto": "«Delitos Contra los Derechos Humanos»", "correcta": false, "porQue": "No es la denominación adoptada." },
+        { "texto": "«Delitos Contra la Libertad»", "correcta": false, "porQue": "No es la denominación adoptada." }
+      ],
+      "explicacion": "Se agregó la «Dignidad del Ser Humano» al título.",
+      "citaTextual": "Delitos Contra la Vida, la Integridad y la Dignidad del Ser Humano",
+      "referencia": "Ley 045, Art. 22, pág. 8", "etiquetas": ["Código Penal", "memorística"] }
+  ]},
+  { "fragmentoRef": "ley045-art02", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según el Art. 2 de la Ley 045, para lograr la igualdad real y efectiva, el Estado adoptará:",
+      "opciones": [
+        { "texto": "Medidas y políticas de acción afirmativa y/o diferenciada que valoren la diversidad", "correcta": true, "porQue": "Art. 2, inc. b)." },
+        { "texto": "Un trato idéntico a todos, sin distinción alguna", "correcta": false, "porQue": "Capciosa: la igualdad real admite medidas diferenciadas." },
+        { "texto": "Cuotas obligatorias en todos los cargos privados", "correcta": false, "porQue": "No es lo que dispone el artículo." },
+        { "texto": "La prohibición de toda diferencia cultural", "correcta": false, "porQue": "Se valora la diversidad." }
+      ],
+      "explicacion": "La interculturalidad es el instrumento de cohesión y convivencia armónica (inc. a).",
+      "citaTextual": "adoptando medidas y políticas de acción afirmativa y/o diferenciada que valoren la diversidad",
+      "referencia": "Ley 045, Art. 2, inc. b), pág. 1", "etiquetas": ["igualdad", "capciosa"] }
+  ]},
+  { "fragmentoRef": "ley045-art08", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "¿Qué instancia del Órgano Legislativo integra el Comité contra el Racismo y toda forma de Discriminación, según el Art. 8 de la Ley 045?",
+      "opciones": [
+        { "texto": "La Comisión de Derechos Humanos de la Cámara de Diputados", "correcta": true, "porQue": "Art. 8, par. I, inc. a), num. 4." },
+        { "texto": "La Cámara de Senadores en pleno", "correcta": false, "porQue": "No coincide con la ley." },
+        { "texto": "La Comisión de Educación del Senado", "correcta": false, "porQue": "No coincide con la ley." },
+        { "texto": "La Vicepresidencia del Estado", "correcta": false, "porQue": "No coincide con la ley." }
+      ],
+      "explicacion": "Por el Ejecutivo participan, entre otros, el Ministerio de Educación; también integran el Comité los gobiernos subnacionales y las organizaciones sociales.",
+      "citaTextual": "Órgano Legislativo: Comisión de Derechos Humanos de la Cámara de Diputados",
+      "referencia": "Ley 045, Art. 8, pág. 5", "etiquetas": ["Comité", "memorística"] }
+  ]}
+]

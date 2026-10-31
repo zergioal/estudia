@@ -1,0 +1,93 @@
+[
+  { "fragmentoRef": "ley223-art21", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "La directora de un CEA detecta que una familia, pese a contar con servicios de apoyo e información, no deja salir de casa a su hijo con discapacidad ni le permite estudiar. Según el Art. 21 de la Ley 223, ¿qué consecuencia prevé la ley para la familia?",
+      "opciones": [
+        { "texto": "Pierde los beneficios establecidos a su favor en la ley, por limitar las oportunidades de desarrollo y autonomía de su miembro con discapacidad", "correcta": true, "porQue": "Art. 21, inc. a)." },
+        { "texto": "Ninguna, porque es una decisión familiar", "correcta": false, "porQue": "La ley la considera causal de pérdida de beneficios." },
+        { "texto": "La pérdida automática de la patria potestad", "correcta": false, "porQue": "No es la consecuencia que prevé el Art. 21." },
+        { "texto": "Una multa municipal", "correcta": false, "porQue": "No es la consecuencia que prevé el Art. 21." }
+      ],
+      "explicacion": "También pierden los beneficios quienes cometen violencia, abusos o discriminación contra la persona con discapacidad.",
+      "citaTextual": "a pesar de contar con servicios de apoyo e información, limitan oportunidades de desarrollo y de autonomía a sus miembros con discapacidad",
+      "referencia": "Ley 223, Art. 21, pág. 7", "etiquetas": ["pérdida de beneficios", "caso"] }
+  ]},
+  { "fragmentoRef": "ley223-art04", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según el Art. 4 de la Ley 223, el principio por el cual todas las personas con discapacidad participan plena y efectivamente en la sociedad en igualdad de oportunidades, en los ámbitos económico, político, cultural, social, educativo, deportivo y recreacional, se denomina:",
+      "opciones": [
+        { "texto": "Inclusión", "correcta": true, "porQue": "Art. 4, inc. c)." },
+        { "texto": "Igualdad en Dignidad", "correcta": false, "porQue": "Se refiere a tener la misma dignidad y los mismos derechos (inc. a)." },
+        { "texto": "No Discriminación", "correcta": false, "porQue": "Se refiere a no anular derechos por la discapacidad (inc. b)." },
+        { "texto": "Accesibilidad", "correcta": false, "porQue": "Es otro principio del mismo artículo." }
+      ],
+      "explicacion": "Capciosa: principios vecinos del mismo artículo.",
+      "citaTextual": "Todas las personas con discapacidad participan plena y efectivamente en la sociedad en igualdad de oportunidades",
+      "referencia": "Ley 223, Art. 4, inc. c), págs. 2-3", "etiquetas": ["principios", "capciosa"] }
+  ]},
+  { "fragmentoRef": "ley223-art09", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según el Art. 9 de la Ley 223, si una persona con discapacidad queda en estado de abandono u orfandad:",
+      "opciones": [
+        { "texto": "El Estado asume la responsabilidad, según sus competencias nacionales, departamentales, regionales, municipales e IOC", "correcta": true, "porQue": "Art. 9, par. II." },
+        { "texto": "La responsabilidad recae solo en el municipio", "correcta": false, "porQue": "Capciosa: alcanza a todos los niveles según sus competencias." },
+        { "texto": "La asume la unidad educativa donde estudia", "correcta": false, "porQue": "No es lo que dispone la ley." },
+        { "texto": "La asumen las organizaciones de personas con discapacidad", "correcta": false, "porQue": "No es lo que dispone la ley." }
+      ],
+      "explicacion": "El Estado también protege a la familia o a los tutores de la persona con discapacidad.",
+      "citaTextual": "En caso que la persona con discapacidad quede en estado de abandono u orfandad el Estado asumirá la responsabilidad del mismo",
+      "referencia": "Ley 223, Art. 9, pág. 6", "etiquetas": ["protección", "capciosa"] }
+  ]},
+  { "fragmentoRef": "ley223-art38", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Un participante sordo del CEA es citado a declarar como testigo en un juicio. Según el Art. 38 de la Ley 223, ¿qué garantiza el Estado?",
+      "opciones": [
+        { "texto": "Acceso a la justicia con ayuda psicológica, social y comunicacional en igualdad de condiciones, incluida su declaración como testigo", "correcta": true, "porQue": "Art. 38, par. I." },
+        { "texto": "Que queda eximido de declarar", "correcta": false, "porQue": "Se garantiza su participación, no su exclusión." },
+        { "texto": "Que su testimonio se recibe solo por escrito", "correcta": false, "porQue": "No es lo que dispone la ley." },
+        { "texto": "Que debe pagar su propio intérprete", "correcta": false, "porQue": "Es el Estado el que asegura la ayuda comunicacional." }
+      ],
+      "explicacion": "Se capacita a los operadores de justicia, incluido el personal policial y penitenciario.",
+      "citaTextual": "incluida la declaración como testigos, en todos los procedimientos judiciales",
+      "referencia": "Ley 223, Art. 38, págs. 11-12", "etiquetas": ["acceso a la justicia", "caso"] }
+  ]},
+  { "fragmentoRef": "ley223-art35", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según el Art. 35 de la Ley 223, ¿quiénes otorgan gratuidad en el trámite de personalidad jurídica a las organizaciones de personas con discapacidad?",
+      "opciones": [
+        { "texto": "El Ministerio de Autonomías y los Gobiernos Departamentales", "correcta": true, "porQue": "Art. 35." },
+        { "texto": "Los Gobiernos Municipales", "correcta": false, "porQue": "Confusión de nivel." },
+        { "texto": "El Ministerio de Justicia", "correcta": false, "porQue": "No es lo que dispone la ley." },
+        { "texto": "La Fundación para el Desarrollo", "correcta": false, "porQue": "No figura en la ley." }
+      ],
+      "explicacion": "La gratuidad alcanza también a las asociaciones de familiares o tutores.",
+      "citaTextual": "El Ministerio de Autonomías y los Gobiernos Departamentales del Estado Plurinacional otorgarán el beneficio de gratuidad",
+      "referencia": "Ley 223, Art. 35, pág. 11", "etiquetas": ["personalidad jurídica", "memorística"] }
+  ]},
+  { "fragmentoRef": "ley223-art12", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según el Art. 12 de la Ley 223, los servicios integrales de salud para personas con discapacidad se brindan:",
+      "opciones": [
+        { "texto": "Con carácter gratuito, de calidad y con calidez, en la red de Servicios Públicos y en los tres niveles de atención", "correcta": true, "porQue": "Art. 12." },
+        { "texto": "Solo en el primer nivel de atención", "correcta": false, "porQue": "Capciosa: en los tres niveles." },
+        { "texto": "Con copago según los ingresos", "correcta": false, "porQue": "Son gratuitos." },
+        { "texto": "Solo en clínicas privadas en convenio", "correcta": false, "porQue": "En la red de servicios públicos." }
+      ],
+      "explicacion": "Incluyen promoción, prevención, atención, rehabilitación y habilitación.",
+      "citaTextual": "con carácter gratuito, de calidad y con calidez, en la red de Servicios Públicos y en los tres niveles de atención",
+      "referencia": "Ley 223, Art. 12, pág. 6", "etiquetas": ["salud", "capciosa"] }
+  ]},
+  { "fragmentoRef": "ley223-art30", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "El director de un CEA busca apoyo de empresas locales para equipar un taller inclusivo. Según el Art. 30 de la Ley 223, ¿en qué obligación de las empresas puede fundar su pedido?",
+      "opciones": [
+        { "texto": "En la responsabilidad social empresarial a favor de las personas con discapacidad, que deben cumplir todas las empresas privadas legalmente constituidas", "correcta": true, "porQue": "Art. 30." },
+        { "texto": "En un impuesto especial para la discapacidad", "correcta": false, "porQue": "No es lo que dispone la ley." },
+        { "texto": "En una obligación que rige solo para las empresas públicas", "correcta": false, "porQue": "Capciosa: alcanza a las empresas privadas." },
+        { "texto": "En ninguna: la contribución es voluntaria y no está regulada", "correcta": false, "porQue": "La ley dice «deberán cumplir»." }
+      ],
+      "explicacion": "La responsabilidad social se cumple mediante actividades de apoyo a las personas con discapacidad.",
+      "citaTextual": "deberán cumplir con la responsabilidad social empresarial a favor de las personas con discapacidad",
+      "referencia": "Ley 223, Art. 30, pág. 9", "etiquetas": ["RSE", "caso"] }
+  ]}
+]
