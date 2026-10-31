@@ -1,0 +1,267 @@
+[
+  { "fragmentoRef": "rm0679-2025-reg4-art06", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según el Reglamento de Certificación de la RM 0679/2025, ¿cuál es la única instancia autorizada para otorgar la certificación de la Educación Técnica Tecnológica y Productiva de Personas Jóvenes y Adultas?",
+      "opciones": [
+        { "texto": "El Ministerio de Educación, a través del Viceministerio de Educación Alternativa y Especial, mediante las Direcciones Departamentales de Educación", "correcta": true, "porQue": "Lo establece el Art. 6, par. I." },
+        { "texto": "Cada Centro de Educación Alternativa, mediante su director", "correcta": false, "porQue": "El CEA inicia el trámite, pero no certifica." },
+        { "texto": "Las Direcciones Distritales Educativas", "correcta": false, "porQue": "Las Distritales entregan los certificados; no los otorgan." },
+        { "texto": "Las universidades públicas, por convenio", "correcta": false, "porQue": "No intervienen en esta certificación." }
+      ],
+      "explicacion": "Se certifican el Técnico Básico y el Técnico Auxiliar y se titula el Técnico Medio, siempre a través del VEAE y las DDE.",
+      "citaTextual": "es la única instancia autorizada para otorgar la certificación de la Educación Técnica Tecnológica y Productiva de Personas Jóvenes y Adultas",
+      "referencia": "RM 0679/2025, Reglamento, Art. 6, págs. 8-9", "etiquetas": ["certificación técnica"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según la RM 0679/2025, ¿qué documento se otorga al concluir el nivel Técnico Medio, a diferencia de los niveles Básico y Auxiliar?",
+      "opciones": [
+        { "texto": "Un Título de Nivel Técnico Medio, mientras que para Básico y Auxiliar se otorgan certificados", "correcta": true, "porQue": "Es la distinción del Art. 6." },
+        { "texto": "Un certificado de nivel, igual que en los otros niveles", "correcta": false, "porQue": "El Técnico Medio otorga título." },
+        { "texto": "Un diploma de bachiller técnico", "correcta": false, "porQue": "No corresponde a esta certificación." },
+        { "texto": "Un título de técnico superior", "correcta": false, "porQue": "La EPJA técnica llega al Técnico Medio." }
+      ],
+      "explicacion": "Certificado de Técnico Básico, certificado de Técnico Auxiliar y título de Técnico Medio.",
+      "citaTextual": "1. Certificado de Nivel Técnico Básico 2. Certificado de Nivel Técnico Auxiliar 3. Título de Nivel Técnico Medio",
+      "referencia": "RM 0679/2025, Reglamento, Art. 6, págs. 8-9", "etiquetas": ["certificación técnica"] }
+  ]},
+  { "fragmentoRef": "rm0679-2025-reg4-art11", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según la RM 0679/2025, ¿con qué color de fondo deben presentarse las fotografías 4x4 para la certificación de Técnico Medio?",
+      "opciones": [
+        { "texto": "Fondo rojo", "correcta": true, "porQue": "El Art. 11 exige fondo rojo para Técnico Medio." },
+        { "texto": "Fondo plomo claro", "correcta": false, "porQue": "El plomo claro es para Técnico Básico y Técnico Auxiliar." },
+        { "texto": "Fondo azul", "correcta": false, "porQue": "No corresponde." },
+        { "texto": "Fondo blanco", "correcta": false, "porQue": "No corresponde." }
+      ],
+      "explicacion": "Las carpetas individuales llevan declaración jurada, CUT-ETTP y dos fotos 4x4: plomo claro (Básico y Auxiliar) o rojo (Medio).",
+      "citaTextual": "Fondo rojo para Técnico Medio.",
+      "referencia": "RM 0679/2025, Reglamento, Art. 11, pág. 10", "etiquetas": ["requisitos", "certificación"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según la RM 0679/2025, ¿cuáles son los requisitos de la carpeta individual para la certificación técnica?",
+      "opciones": [
+        { "texto": "Declaración Jurada, Certificado Único de Trámite (CUT-ETTP) y dos fotos 4x4", "correcta": true, "porQue": "Son los requisitos del Art. 11." },
+        { "texto": "Fotocopia de la cédula, certificado de nacimiento y libreta escolar", "correcta": false, "porQue": "No son los requisitos del Art. 11." },
+        { "texto": "Solo el CUT-ETTP", "correcta": false, "porQue": "Faltan la declaración jurada y las fotos." },
+        { "texto": "Declaración jurada y comprobante de pago del trámite", "correcta": false, "porQue": "La certificación es gratuita (Art. 4); no hay pago." }
+      ],
+      "explicacion": "La certificación es gratuita: la carpeta solo lleva declaración jurada, CUT-ETTP y fotos.",
+      "citaTextual": "1. Declaración Jurada. 2. Certificado Único de Trámite de Educación Técnica Tecnológica y Productiva CUT-ETTP 3. Dos (2) fotos tamaño 4x4",
+      "referencia": "RM 0679/2025, Reglamento, Art. 11, pág. 10", "etiquetas": ["requisitos"] }
+  ]},
+  { "fragmentoRef": "rm0679-2025-reg3-art04", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Un CEA privado cobra a sus participantes por tramitar el certificado de Técnico Auxiliar. Según la RM 0679/2025:",
+      "opciones": [
+        { "texto": "Está prohibido: la certificación es gratuita y se prohíbe cualquier cobro indebido en los CEA fiscales, de convenio y privados", "correcta": true, "porQue": "El Art. 4 incluye expresamente a los centros privados." },
+        { "texto": "Es válido por tratarse de un centro privado", "correcta": false, "porQue": "La gratuidad alcanza también a los privados." },
+        { "texto": "Es válido si el cobro no supera Bs 100", "correcta": false, "porQue": "Bs 100 es el costo del certificado supletorio y de la reimpresión, no de la certificación ordinaria." },
+        { "texto": "Solo la Dirección Distrital puede cobrar", "correcta": false, "porQue": "La prohibición alcanza también a las Distritales y las Departamentales." }
+      ],
+      "explicacion": "La certificación técnica ordinaria es gratuita. Solo tienen costo el certificado supletorio y la anulación y reimpresión (Bs 100).",
+      "citaTextual": "es de carácter gratuito, quedando prohibido cualquier cobro",
+      "referencia": "RM 0679/2025, Reglamento, Art. 4, págs. 7-8", "etiquetas": ["gratuidad", "caso"] }
+  ]},
+  { "fragmentoRef": "rm0679-2025-reg3-art02", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "A diferencia del reglamento de apertura y cierre (RM 0092/2025), ¿qué centros incluye expresamente el ámbito del Reglamento de Certificación de la RM 0679/2025?",
+      "opciones": [
+        { "texto": "Los centros de educación alternativa fiscales, de convenio y privados que desarrollan Educación Técnica Tecnológica y Productiva", "correcta": true, "porQue": "El Art. 2 menciona también a los privados." },
+        { "texto": "Solo los fiscales y de convenio", "correcta": false, "porQue": "Ese es el ámbito de la RM 0092/2025; la RM 0679 incluye también a los privados." },
+        { "texto": "Solo los centros fiscales", "correcta": false, "porQue": "Incluye a los tres tipos." },
+        { "texto": "Solo los institutos técnicos de educación superior", "correcta": false, "porQue": "Se refiere a la EPJA en educación alternativa." }
+      ],
+      "explicacion": "El Reglamento de Certificación alcanza a los CEA de todas las dependencias y a las DDE, Subdirecciones y Distritales.",
+      "citaTextual": "son de cumplimiento obligatorio en todos los centros de educación alternativa fiscales, de convenio y privadas",
+      "referencia": "RM 0679/2025, Reglamento, Art. 2, pág. 7", "etiquetas": ["ámbito de aplicación"] }
+  ]},
+  { "fragmentoRef": "rm0679-2025-reg4-art10", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Concluido el proceso formativo, ¿quién debe iniciar el trámite de certificación y por qué sistema, según la RM 0679/2025?",
+      "opciones": [
+        { "texto": "La o el Director del CEA, por el sistema certificacionalt.sie.gob.bo, tras verificar la carga horaria, la aprobación de módulos, los datos personales y el registro de calificaciones", "correcta": true, "porQue": "Es lo que dispone el Art. 10." },
+        { "texto": "El propio participante, ante la Dirección Departamental", "correcta": false, "porQue": "El trámite ordinario lo inicia el director del CEA." },
+        { "texto": "El facilitador del módulo, por el SIE Alternativa", "correcta": false, "porQue": "El facilitador carga notas; el trámite lo inicia el director, en el sistema de certificación." },
+        { "texto": "El Director Distrital, por correo institucional", "correcta": false, "porQue": "No corresponde." }
+      ],
+      "explicacion": "Las calificaciones se registran en alternativa.sie.gob.bo; la certificación se tramita en certificacionalt.sie.gob.bo, a cargo del director del CEA.",
+      "citaTextual": "la o el Director del Centro de Educación Alternativa debe iniciar el trámite de certificación correspondiente a través del sistema certificacionalt.sie.gob.bo",
+      "referencia": "RM 0679/2025, Reglamento, Art. 10, pág. 10", "etiquetas": ["trámite de certificación", "caso"] }
+  ]},
+  { "fragmentoRef": "rm0679-2025-reg4-art13", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según la RM 0679/2025, ¿en qué plazo debe la Dirección Departamental organizar la distribución de los títulos y certificados impresos a las Direcciones Distritales?",
+      "opciones": [
+        { "texto": "En un máximo de 48 horas posteriores a la impresión", "correcta": true, "porQue": "Es el plazo del Art. 13, num. 1." },
+        { "texto": "En un máximo de 24 horas", "correcta": false, "porQue": "Las 24 horas son el plazo de la Distrital para entregar a los centros." },
+        { "texto": "En 10 días hábiles", "correcta": false, "porQue": "Los 10 días son para el certificado supletorio y la reimpresión." },
+        { "texto": "Al cierre del semestre", "correcta": false, "porQue": "Hay un plazo en horas." }
+      ],
+      "explicacion": "Cadena de entrega: la DDE distribuye en 48 h a las Distritales, y estas entregan en 24 h.",
+      "citaTextual": "en un plazo máximo de 48 horas posteriores a la impresión de los títulos y certificados, organizará la entrega y distribución a las Direcciones Distritales Educativas",
+      "referencia": "RM 0679/2025, Reglamento, Art. 13, pág. 11", "etiquetas": ["plazos", "entrega de títulos"] }
+  ]},
+  { "fragmentoRef": "rm0679-2025-reg4-art15", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según la RM 0679/2025, ¿quién debe custodiar y almacenar de manera segura la documentación que generan los CEA en el proceso de certificación técnica?",
+      "opciones": [
+        { "texto": "Las Direcciones Departamentales de Educación", "correcta": true, "porQue": "Lo dispone el Art. 15." },
+        { "texto": "Cada Centro de Educación Alternativa", "correcta": false, "porQue": "El CEA genera y remite la documentación; la custodia es departamental." },
+        { "texto": "Las Direcciones Distritales", "correcta": false, "porQue": "No es su función según el Art. 15." },
+        { "texto": "El Archivo Central del Ministerio", "correcta": false, "porQue": "La custodia corresponde a las DDE." }
+      ],
+      "explicacion": "Hay que distinguir: en el reconocimiento de saberes, los formularios los resguarda el CEA (RM 0872, Art. 13); en la certificación técnica, la documentación la custodia la DDE (RM 0679, Art. 15).",
+      "citaTextual": "deberá ser custodiada y almacenada de manera segura por las Direcciones Departamentales de Educación",
+      "referencia": "RM 0679/2025, Reglamento, Art. 15, pág. 12", "etiquetas": ["custodia de documentación"] }
+  ]},
+  { "fragmentoRef": "rm0679-2025-reg5-art22", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según la RM 0679/2025, ¿cuál es el costo del Certificado Supletorio del Título de Técnico Medio y cómo se distribuye?",
+      "opciones": [
+        { "texto": "Bs 100: Bs 30 para la Dirección Departamental y Bs 70 para el Ministerio de Educación", "correcta": true, "porQue": "Es la distribución del Art. 22, par. II." },
+        { "texto": "Bs 100: Bs 70 para la Dirección Departamental y Bs 30 para el Ministerio", "correcta": false, "porQue": "Invierte la distribución." },
+        { "texto": "Es gratuito, como toda certificación técnica", "correcta": false, "porQue": "El supletorio tiene costo; la gratuidad rige para la certificación ordinaria." },
+        { "texto": "Bs 50 íntegros para la Dirección Departamental", "correcta": false, "porQue": "El costo es de Bs 100, repartido 30/70." }
+      ],
+      "explicacion": "El supletorio (por extravío, robo o deterioro) cuesta Bs 100 (30 DDE / 70 Ministerio) y se emite en 10 días hábiles.",
+      "citaTextual": "será de Bs 100 Bolivianos, distribuido de la siguiente manera: a. Bs 30 Bolivianos: Depósito a la cuenta de la Dirección Departamental de Educación.",
+      "referencia": "RM 0679/2025, Reglamento, Art. 22, pág. 16", "etiquetas": ["certificado supletorio", "costos"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según la RM 0679/2025, ¿en qué plazo debe la Dirección Departamental emitir el Certificado Supletorio del Título de Técnico Medio?",
+      "opciones": [
+        { "texto": "En un máximo de diez (10) días hábiles desde que recibe el comprobante de pago y la documentación", "correcta": true, "porQue": "Es el plazo del Art. 22, par. I." },
+        { "texto": "En 24 horas hábiles", "correcta": false, "porQue": "Las 24 horas son el plazo de la legalización (Art. 23)." },
+        { "texto": "En 48 horas", "correcta": false, "porQue": "Las 48 horas son el plazo de distribución de títulos (Art. 13)." },
+        { "texto": "En treinta días calendario", "correcta": false, "porQue": "Son 10 días hábiles." }
+      ],
+      "explicacion": "Plazos: supletorio y reimpresión, 10 días hábiles; legalización, 24 horas hábiles; distribución DDE→Distrital, 48 h; Distrital→CEA, 24 h.",
+      "citaTextual": "en un plazo máximo de diez (10) días hábiles, contados a partir de la recepción del comprobante de pago y la documentación requerida",
+      "referencia": "RM 0679/2025, Reglamento, Art. 22, pág. 16", "etiquetas": ["plazos", "certificado supletorio"] }
+  ]},
+  { "fragmentoRef": "rm0679-2025-reg5-art20", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Un egresado perdió su Título de Técnico Medio y pide el supletorio. Según la RM 0679/2025, además de la cédula y las fotos, ¿qué debe presentar por la pérdida?",
+      "opciones": [
+        { "texto": "Una denuncia escrita ante la FELCC y la publicación del extravío en al menos un medio escrito de circulación nacional", "correcta": true, "porQue": "Son los requisitos del Art. 20, num. 2, para extravío o robo." },
+        { "texto": "El título original deteriorado", "correcta": false, "porQue": "Eso se exige en caso de deterioro, no de pérdida." },
+        { "texto": "Una resolución judicial de reposición", "correcta": false, "porQue": "No se exige resolución judicial para el supletorio." },
+        { "texto": "Una declaración jurada notariada, sin denuncia", "correcta": false, "porQue": "Se exigen la denuncia ante la FELCC y la publicación." }
+      ],
+      "explicacion": "Extravío o robo: denuncia ante la FELCC y publicación en prensa. Deterioro: presentar el título original. En ambos casos: cédula y dos fotos 4x4 con fondo rojo.",
+      "citaTextual": "Denuncia escrita presentada ante la Fuerza Especial de Lucha Contra el Crimen (FELCC) por la pérdida o robo del título.",
+      "referencia": "RM 0679/2025, Reglamento, Art. 20, págs. 15-16", "etiquetas": ["certificado supletorio", "caso"] }
+  ]},
+  { "fragmentoRef": "rm0679-2025-reg5-art23", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según la RM 0679/2025, ¿dónde se legaliza un Título de Técnico Medio, a diferencia de los certificados de Técnico Básico y Auxiliar?",
+      "opciones": [
+        { "texto": "Ante el Ministerio de Educación y/o sus oficinas regionales en las DDE; los certificados de Básico y Auxiliar se legalizan ante la Dirección Departamental", "correcta": true, "porQue": "Es la distinción del Art. 23, pars. I y II." },
+        { "texto": "Todos se legalizan en la Dirección Distrital", "correcta": false, "porQue": "La Distrital no legaliza." },
+        { "texto": "El título se legaliza en la DDE; los certificados, en el CEA", "correcta": false, "porQue": "El CEA no legaliza." },
+        { "texto": "Todos se legalizan solo en el Viceministerio, en La Paz", "correcta": false, "porQue": "Los certificados de Básico y Auxiliar se legalizan en la DDE." }
+      ],
+      "explicacion": "La legalización la pide el interesado y se resuelve en 24 horas hábiles.",
+      "citaTextual": "Los Títulos de Técnico Medio deberán ser presentados ante el Ministerio de Educación y/o oficinas regionales en las direcciones departamentales de educación",
+      "referencia": "RM 0679/2025, Reglamento, Art. 23, págs. 16-17", "etiquetas": ["legalización"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según la RM 0679/2025, ¿en qué plazo debe realizarse la legalización de certificados y títulos técnicos?",
+      "opciones": [
+        { "texto": "En un máximo de veinticuatro (24) horas hábiles, equivalentes a un día", "correcta": true, "porQue": "Es el plazo del Art. 23, par. III." },
+        { "texto": "En diez días hábiles", "correcta": false, "porQue": "Es el plazo del supletorio y de la reimpresión." },
+        { "texto": "En 48 horas", "correcta": false, "porQue": "Es el plazo de distribución de la DDE." },
+        { "texto": "En cinco días hábiles", "correcta": false, "porQue": "No corresponde." }
+      ],
+      "explicacion": "La legalización es el trámite más rápido: 24 horas hábiles.",
+      "citaTextual": "en un plazo máximo de veinticuatro (24) horas",
+      "referencia": "RM 0679/2025, Reglamento, Art. 23, págs. 16-17", "etiquetas": ["legalización", "plazos"] }
+  ]},
+  { "fragmentoRef": "rm0679-2025-reg5-art25", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Una egresada pide corregir su apellido en el certificado de Técnico Auxiliar, alegando un error de tipeo, sin otro respaldo. Según la RM 0679/2025, la anulación y reimpresión procede:",
+      "opciones": [
+        { "texto": "Solo si la modificación está respaldada por una resolución judicial o por una resolución administrativa del SERECI o del SEGIP", "correcta": true, "porQue": "El Art. 25 exige ese respaldo." },
+        { "texto": "Con la sola nota del director del CEA", "correcta": false, "porQue": "Se exige una resolución judicial o administrativa." },
+        { "texto": "Con una declaración jurada de la interesada", "correcta": false, "porQue": "No basta: se requiere la resolución." },
+        { "texto": "De oficio, en cualquier caso", "correcta": false, "porQue": "Se requiere el respaldo legal." }
+      ],
+      "explicacion": "La anulación y reimpresión cambia, corrige o suprime datos solo con respaldo legal (resolución judicial, SERECI o SEGIP); cuesta Bs 100 y se emite en 10 días hábiles.",
+      "citaTextual": "únicamente cuando dichas modificaciones estén respaldadas por una Resolución emitida por la autoridad judicial competente o por una Resolución Administrativa expedida por el Servicio de Registro Cívico (SERECI) o el Servicio General de Identificación Personal (SEGIP)",
+      "referencia": "RM 0679/2025, Reglamento, Art. 25, pág. 17", "etiquetas": ["anulación y reimpresión", "caso"] }
+  ]},
+  { "fragmentoRef": "rm0679-2025-reg5-df02", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Un director valida la emisión de un certificado de Técnico Básico para un participante que no cumplió la carga horaria. Según la RM 0679/2025:",
+      "opciones": [
+        { "texto": "Queda sujeto a procesos administrativos y legales, bajo responsabilidad directa de la DDE a través de su Unidad de Asuntos Jurídicos", "correcta": true, "porQue": "Es lo que dispone la Disposición Final Segunda." },
+        { "texto": "No tiene responsabilidad si el certificado ya se emitió", "correcta": false, "porQue": "Quien autoriza o valida la emisión irregular responde." },
+        { "texto": "Solo se anula el certificado, sin consecuencias para el director", "correcta": false, "porQue": "El certificado irregular se retiene (Disposición Final Tercera), y además hay responsabilidad." },
+        { "texto": "Responde solo el técnico distrital", "correcta": false, "porQue": "Alcanza al personal docente, directivo y técnico." }
+      ],
+      "explicacion": "Validar certificaciones irregulares expone a procesos administrativos y legales; los certificados irregulares se rotulan y retienen.",
+      "citaTextual": "estará sujeto a proceso administrativo y legales conforme a la normativa vigente, bajo responsabilidad directa de la Dirección Departamental de Educación a través de la Unidad de Asuntos Jurídicos",
+      "referencia": "RM 0679/2025, Reglamento, Disposición Final Segunda, pág. 19", "etiquetas": ["responsabilidades", "caso"] }
+  ]},
+  { "fragmentoRef": "rm0679-2025-reg5-df03", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según la RM 0679/2025, ¿qué ocurre con los certificados y títulos irregulares, falsificados o emitidos en contravención del reglamento?",
+      "opciones": [
+        { "texto": "Se rotulan, se retienen y quedan sujetos a las medidas legales correspondientes", "correcta": true, "porQue": "Es lo que dispone la Disposición Final Tercera." },
+        { "texto": "Se regularizan de oficio", "correcta": false, "porQue": "No se regularizan: se retienen." },
+        { "texto": "Se devuelven al titular con una observación", "correcta": false, "porQue": "Se retienen." },
+        { "texto": "Mantienen su validez hasta una sentencia firme", "correcta": false, "porQue": "Se rotulan y retienen de inmediato." }
+      ],
+      "explicacion": "La medida busca garantizar la integridad y validez del sistema de certificación.",
+      "citaTextual": "serán rotulados, retenidos y sujetos a las medidas legales correspondientes",
+      "referencia": "RM 0679/2025, Reglamento, Disposición Final Tercera, pág. 19", "etiquetas": ["certificados irregulares"] }
+  ]},
+  { "fragmentoRef": "rm0679-2025-art03", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "¿Qué resoluciones ministeriales abroga la RM 0679/2025?",
+      "opciones": [
+        { "texto": "La RM 873/2014 y la RM 1068/2022", "correcta": true, "porQue": "Lo dispone el Art. 3 de la RM." },
+        { "texto": "La RM 517/2014 y la RM 182/2022", "correcta": false, "porQue": "Esas las abrogó la RM 0872/2024." },
+        { "texto": "La RM 0183/2024", "correcta": false, "porQue": "La RM 0183/2024 forma parte de su marco normativo." },
+        { "texto": "La RM 1040/2022", "correcta": false, "porQue": "La RM 1040/2022 forma parte de su marco normativo." }
+      ],
+      "explicacion": "Ojo con las abrogaciones: RM 0679/2025 → RM 873/2014 y RM 1068/2022; RM 0872/2024 → RM 517/2014 y RM 182/2022.",
+      "citaTextual": "Se abroga la Resolución Ministerial N* 873/2014 de 7 de noviembre de 2014 y la Resolución Ministerial N* 1068/2022 de 28 de noviembre de 2022.",
+      "referencia": "RM 0679/2025, Art. 3, pág. 3", "etiquetas": ["abrogación"] }
+  ]},
+  { "fragmentoRef": "rm0679-2025-art01", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "¿Cuál es la estructura del Reglamento de Certificación aprobado por la RM 0679/2025?",
+      "opciones": [
+        { "texto": "Cinco capítulos, veintiocho artículos, cuatro disposiciones finales, cuatro disposiciones transitorias y siete anexos", "correcta": true, "porQue": "Es la estructura que aprueba el Art. 1." },
+        { "texto": "Cuatro capítulos, treinta artículos y cinco anexos", "correcta": false, "porQue": "No coincide con el Art. 1." },
+        { "texto": "Cinco capítulos, veintiocho artículos y dos disposiciones finales", "correcta": false, "porQue": "Son cuatro disposiciones finales, cuatro transitorias y siete anexos." },
+        { "texto": "Seis capítulos y cuarenta artículos", "correcta": false, "porQue": "No coincide con el Art. 1." }
+      ],
+      "explicacion": "El reglamento tiene 5 capítulos, 28 artículos, 4 disposiciones finales, 4 transitorias y 7 anexos.",
+      "citaTextual": "en sus cinco (5) capítulos, veintiocho (28) artículos, cuatro (4) disposiciones finales, cuatro (4) disposiciones transitorias y siete (7) anexos",
+      "referencia": "RM 0679/2025, Art. 1, pág. 3", "etiquetas": ["estructura normativa"] }
+  ]},
+  { "fragmentoRef": "rm0679-2025-reg4-art08", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según la RM 0679/2025, ¿qué autoridades firman electrónicamente los Títulos de Técnico Medio?",
+      "opciones": [
+        { "texto": "La o el Ministro de Educación y la o el Viceministro de Educación Alternativa y Especial", "correcta": true, "porQue": "Lo autoriza el Art. 8, par. I." },
+        { "texto": "La o el Director Departamental y la o el Director del CEA", "correcta": false, "porQue": "La firma electrónica es del Ministro y del Viceministro." },
+        { "texto": "La o el Director General de Educación Alternativa", "correcta": false, "porQue": "La DGEA tramita la autorización de la firma, pero no firma." },
+        { "texto": "La o el Director Distrital", "correcta": false, "porQue": "No firma los títulos." }
+      ],
+      "explicacion": "La DGEA tramita la autorización de las firmas electrónicas y la envía a la UGPSEP-SI para cargarla en el sistema.",
+      "citaTextual": "Se autoriza la firma electrónica de la o el Ministro de Educación y de la o el Viceministro de Educación Alternativa y Especial en los Títulos de Técnico Medio",
+      "referencia": "RM 0679/2025, Reglamento, Art. 8, págs. 9-10", "etiquetas": ["firma electrónica"] }
+  ]},
+  { "fragmentoRef": "rm0679-2025-reg5-dt03", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Un trámite de certificación técnica se inició antes de que se aprobara la RM 0679/2025. ¿Cómo debe concluir?",
+      "opciones": [
+        { "texto": "Conforme a la normativa con la que se inició", "correcta": true, "porQue": "Lo dispone la Disposición Transitoria Tercera." },
+        { "texto": "Conforme al nuevo reglamento, desde su aprobación", "correcta": false, "porQue": "Los trámites iniciados mantienen la norma anterior." },
+        { "texto": "Debe anularse y reiniciarse", "correcta": false, "porQue": "No se exige reiniciarlo." },
+        { "texto": "Según lo que decida la Dirección Distrital", "correcta": false, "porQue": "La regla está fijada en la norma." }
+      ],
+      "explicacion": "La misma regla de transición rige en la RM 0092/2025 (Disposición Transitoria Cuarta).",
+      "citaTextual": "deberán concluir conforme a la normativa con la que fueron iniciados",
+      "referencia": "RM 0679/2025, Reglamento, Disposición Transitoria Tercera, pág. 19", "etiquetas": ["disposiciones transitorias", "caso"] }
+  ]}
+]
