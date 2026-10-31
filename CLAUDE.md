@@ -130,12 +130,21 @@ pondera 65% y los méritos 35%. La bibliografía del usuario (`fuentes/examenDir
    como duplicadas. Quedan en BORRADOR: el usuario las aprueba en la bandeja (solo APROBADAS entran a los quizzes,
    y solo de tipo OPCION_MULTIPLE).
 
+## Repetición espaciada y progreso
+- SM-2 simplificado en `apps/api/src/modulos/quiz/srs.ts`: fallo o "adiviné" → 1 día; "dudé" ×1,2; "seguro" ×facilidad
+  (facilidad 2,5, −0,2 por fallo, mín. 1,3); tope 180 días. Respuesta sin confianza (simulacro) cuenta como "dudé".
+  **Dominada** = intervalo ≥ 7 días. Corte del día en hora de Bolivia (UTC-4).
+- Práctica: 40% vencidas (las más atrasadas primero), 30% temas débiles (dominio < 60%), 30% nuevas repartidas por tema.
+- Modos `REPASO_DIARIO` (solo vencidas; 409 `SIN_REPASO` si no hay) y `REPASO_ERRORES` (falladas no dominadas, o
+  `preguntaIds` exactas; 409 `SIN_ERRORES`). API: `GET /api/v1/me/repaso-hoy`, `/me/errores?contenidoId=`, `/me/progreso`.
+- Web: botón "Repaso de hoy" y tarjeta "Cuaderno de errores" en Estudiar; pestaña Mi progreso (`#/progreso`).
+
 ## Hoja de ruta (marcar al completar)
 - [x] Hito 0 — Base: monorepo, Docker (pgvector), Prisma con esquema núcleo, seed de admin, login
 - [x] Hito 1 — Banco e importador: CRUD Colección/Contenido/Tema, importador JSON con Zod, bandeja de revisión
 - [x] Hito 2 — Quiz mínimo: crear quiz por filtros y cantidad (10/20/50/100), modo Práctica, resumen, XP
 - [x] Hito 3 — Ingesta PDF: extracción por página, OCR, fragmentación por artículos, exportar a `fuentes/`
-- [ ] Hito 4 — Repetición espaciada con confianza, repaso del día, cuaderno de errores, dominio por tema
+- [x] Hito 4 — Repetición espaciada con confianza, repaso del día, cuaderno de errores, dominio por tema
 - [ ] Hito 5 — Embeddings, deduplicación, validador automático, estadísticas de preguntas
 - [ ] Hito 6 — Servidor MCP (listar_fragmentos, guardar_preguntas, ver_estadisticas)
 - [ ] Hito 7 — Multiusuario, asignaciones, reportes, despliegue

@@ -11,6 +11,7 @@ import {
 } from '@estudia/shared';
 import { api, mensajeDeError } from '../api/cliente';
 import { ir } from '../navegacion';
+import { BotonRepasar } from './Resultado';
 
 const LETRAS = ['A', 'B', 'C', 'D', 'E', 'F'];
 
@@ -334,6 +335,7 @@ function ResultadoSimulacro({ id }: { id: string }) {
       <div className="rounded-2xl bg-white p-4 shadow-sm sm:p-5">
         <div className="mb-3 flex flex-wrap items-center gap-2">
           <h2 className="mr-auto font-semibold">Repaso de errores ({errores.length})</h2>
+          <BotonRepasar ids={errores.map((f) => f.preguntaId)} />
           {s.sinResponder > 0 && (
             <label className="flex items-center gap-2 text-sm text-slate-600">
               <input type="checkbox" checked={verSinResponder} onChange={(e) => setVerSinResponder(e.target.checked)} />

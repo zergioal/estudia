@@ -1,6 +1,21 @@
 import { useQuery } from '@tanstack/react-query';
 import type { ResumenQuiz } from '@estudia/shared';
 import { api, mensajeDeError } from '../api/cliente';
+import { useCrearQuiz } from '../componentes/useCrearQuiz';
+
+/** Quiz inmediato solo con estas preguntas (modo cuaderno de errores). */
+export function BotonRepasar({ ids }: { ids: string[] }) {
+  const repasar = useCrearQuiz();
+  return (
+    <button
+      className="btn-primario py-1.5"
+      disabled={repasar.isPending || ids.length === 0}
+      onClick={() => repasar.mutate({ modo: 'REPASO_ERRORES', preguntaIds: ids.slice(0, 100), cantidad: ids.length > 50 ? 100 : ids.length > 20 ? 50 : ids.length > 10 ? 20 : 10 })}
+    >
+      {repasar.isPending ? 'Armando…' : `Repasar estas ${ids.length} ahora`}
+    </button>
+  );
+}
 
 export function Resultado({ id }: { id: string }) {
   const r = useQuery({ queryKey: ['resumen', id], queryFn: () => api<ResumenQuiz>(`/quizzes/${id}/resumen`) });
@@ -67,7 +82,10 @@ export function Resultado({ id }: { id: string }) {
 
       {d.falladas.length > 0 && (
         <div className="rounded-2xl bg-white p-4 shadow-sm">
-          <h2 className="mb-2 font-semibold">Para repasar ({d.falladas.length})</h2>
+          <div className="mb-2 flex flex-wrap items-center gap-2">
+            <h2 className="mr-auto font-semibold">Para repasar ({d.falladas.length})</h2>
+            <BotonRepasar ids={d.falladas.map((f) => f.preguntaId)} />
+          </div>
           <ul className="space-y-3">
             {d.falladas.map((f) => (
               <li key={f.preguntaId} className="rounded-xl border border-slate-200 p-3 text-sm">

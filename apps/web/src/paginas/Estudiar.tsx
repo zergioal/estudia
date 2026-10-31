@@ -7,12 +7,16 @@ import {
   type ContenidoEstudio,
   type Dificultad,
   type Panel,
-  type QuizCrear,
+  type QuizCrearEntrada,
   type QuizEstado,
   type TemaEstudio,
 } from '@estudia/shared';
 import { api, mensajeDeError } from '../api/cliente';
 import { ir } from '../navegacion';
+import { useCrearQuiz } from '../componentes/useCrearQuiz';
+
+/** Cantidad permitida (10/20/50/100) que alcanza para n preguntas. */
+const cantidadPara = (n: number) => (n > 50 ? 100 : n > 20 ? 50 : n > 10 ? 20 : 10);
 
 /** Bloques del examen (Reglamento 0001/2026, Art. 11): normativa 35%, técnico-pedagógico 65%. */
 const BLOQUES = [
@@ -32,7 +36,7 @@ export function Estudiar({ preseleccion }: { preseleccion?: string } = {}) {
   const [cantidad, setCantidad] = useState<number>(20);
 
   const crear = useMutation({
-    mutationFn: (datos: QuizCrear) => api<QuizEstado>('/quizzes', { metodo: 'POST', cuerpo: datos }),
+    mutationFn: (datos: QuizCrearEntrada) => api<QuizEstado>('/quizzes', { metodo: 'POST', cuerpo: datos }),
     onSuccess: (q) => ir(`quiz/${q.id}`),
     onError: (e) => alert(mensajeDeError(e)),
   });
@@ -53,6 +57,7 @@ export function Estudiar({ preseleccion }: { preseleccion?: string } = {}) {
     }
     setContenidos(n);
   };
+  const repaso = useCrearQuiz();
   const seleccionadas = contarSeleccion(arbol.data ?? [], contenidos, temas);
   const p = panel.data;
 
@@ -62,7 +67,37 @@ export function Estudiar({ preseleccion }: { preseleccion?: string } = {}) {
         <Dato titulo="XP acumulado" valor={p?.xpTotal ?? '–'} />
         <Dato titulo="Racha" valor={p ? `${p.rachaDias} ${p.rachaDias === 1 ? 'día' : 'días'}` : '–'} />
         <Dato titulo="Respondidas hoy" valor={p?.respondidasHoy ?? '–'} />
-        <Dato titulo="Preguntas en el banco" valor={p?.preguntasDisponibles ?? '–'} />
+        <Dato titulo="Dominio" valor={p ? `${p.dominio}%` : '–'} />
+      </div>
+
+      <div className="grid gap-3 sm:grid-cols-2">
+        <button
+          className="flex items-center gap-3 rounded-2xl bg-indigo-600 p-4 text-left text-blanco shadow-sm transition hover:brightness-110 disabled:opacity-60"
+          disabled={!p || p.repasoHoy === 0 || repaso.isPending}
+          onClick={() => p && repaso.mutate({ modo: 'REPASO_DIARIO', cantidad: cantidadPara(p.repasoHoy) })}
+        >
+          <span className="text-3xl" aria-hidden>
+            🔁
+          </span>
+          <span>
+            <span className="block text-lg font-semibold">Repaso de hoy{p ? ` (${p.repasoHoy})` : ''}</span>
+            <span className="block text-sm opacity-90">
+              {p && p.repasoHoy === 0 ? 'Nada pendiente: ¡estás al día!' : 'Lo que toca repasar según tu memoria'}
+            </span>
+          </span>
+        </button>
+        <a
+          href="#/progreso"
+          className="flex items-center gap-3 rounded-2xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300"
+        >
+          <span className="text-3xl" aria-hidden>
+            📕
+          </span>
+          <span>
+            <span className="block text-lg font-semibold">Cuaderno de errores{p ? ` (${p.errores})` : ''}</span>
+            <span className="block text-sm text-slate-600">Tus falladas que aún no dominas · ver mi progreso</span>
+          </span>
+        </a>
       </div>
 
       <div className="space-y-4 rounded-2xl bg-white p-4 shadow-sm sm:p-5">

@@ -1,5 +1,5 @@
 import { useMutation, useQuery } from '@tanstack/react-query';
-import type { GuiaDetalle, GuiaResumida, ParteLectura, QuizCrear, QuizEstado } from '@estudia/shared';
+import type { GuiaDetalle, GuiaResumida, ParteLectura, QuizCrearEntrada, QuizEstado } from '@estudia/shared';
 import { api, mensajeDeError } from '../api/cliente';
 import { ir } from '../navegacion';
 
@@ -72,7 +72,7 @@ function ListaGuias() {
 function DetalleGuia({ id }: { id: string }) {
   const guia = useQuery({ queryKey: ['guia', id], queryFn: () => api<GuiaDetalle>(`/guias/${id}`) });
   const crear = useMutation({
-    mutationFn: (datos: QuizCrear) => api<QuizEstado>('/quizzes', { metodo: 'POST', cuerpo: datos }),
+    mutationFn: (datos: QuizCrearEntrada) => api<QuizEstado>('/quizzes', { metodo: 'POST', cuerpo: datos }),
     onSuccess: (q) => ir(`quiz/${q.id}`),
     onError: (e) => alert(mensajeDeError(e)),
   });

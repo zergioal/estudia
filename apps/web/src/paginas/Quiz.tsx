@@ -5,6 +5,11 @@ import { api, mensajeDeError } from '../api/cliente';
 import { ir } from '../navegacion';
 
 const LETRAS = ['A', 'B', 'C', 'D', 'E', 'F'];
+const NOMBRE_MODO: Record<string, string> = { REPASO_DIARIO: '🔁 Repaso de hoy', REPASO_ERRORES: '📕 Cuaderno de errores' };
+
+/** "mañana", "en 3 días", "en 2 semanas"… */
+const cuando = (dias: number) =>
+  dias <= 1 ? 'mañana' : dias < 14 ? `en ${dias} días` : dias < 60 ? `en ${Math.round(dias / 7)} semanas` : `en ${Math.round(dias / 30)} meses`;
 const CONFIANZAS = [
   { valor: 3, texto: 'Seguro' },
   { valor: 2, texto: 'Dudé' },
@@ -68,6 +73,7 @@ export function Quiz({ id }: { id: string }) {
 
   return (
     <section className="mx-auto max-w-2xl space-y-4">
+      {NOMBRE_MODO[q.modo] && <p className="text-sm font-semibold text-indigo-700">{NOMBRE_MODO[q.modo]}</p>}
       <div className="flex items-center gap-3 text-sm">
         <span className="font-medium">
           {indice + 1} / {q.cantidad}
@@ -219,6 +225,9 @@ function TarjetaPregunta(props: {
         <div className="space-y-3">
           <p className={`rounded-xl px-4 py-3 font-semibold ${fb.correcta ? 'bg-emerald-50 text-emerald-800' : 'bg-red-50 text-red-800'}`}>
             {fb.correcta ? `¡Correcto! +${fb.xp} XP` : 'Incorrecto'}
+            {fb.proximoRepasoDias !== null && (
+              <span className="block text-xs font-normal opacity-80">Próximo repaso de esta pregunta: {cuando(fb.proximoRepasoDias)}</span>
+            )}
           </p>
           <div className="text-sm">
             <p className="text-xs font-semibold uppercase text-slate-500">Explicación</p>
