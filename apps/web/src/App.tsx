@@ -1,28 +1,37 @@
 import { useEffect, useState } from 'react';
+import type { Rol } from '@estudia/shared';
 import { useSesion } from './auth/sesion';
 import { Contenidos } from './paginas/Contenidos';
 import { Documentos } from './paginas/Documentos';
+import { Estudiar } from './paginas/Estudiar';
 import { Login } from './paginas/Login';
+import { Quiz } from './paginas/Quiz';
+import { Resultado } from './paginas/Resultado';
 import { Revision } from './paginas/Revision';
 
 const PAGINAS = {
-  contenidos: { titulo: 'Contenidos', componente: Contenidos },
-  documentos: { titulo: 'Documentos', componente: Documentos },
-  revision: { titulo: 'Revisión', componente: Revision },
-} as const;
+  estudiar: { titulo: 'Estudiar', roles: ['ADMIN', 'REVISOR', 'ESTUDIANTE'] },
+  contenidos: { titulo: 'Contenidos', roles: ['ADMIN'] },
+  documentos: { titulo: 'Documentos', roles: ['ADMIN'] },
+  revision: { titulo: 'Revisión', roles: ['ADMIN', 'REVISOR'] },
+} satisfies Record<string, { titulo: string; roles: Rol[] }>;
 type Pagina = keyof typeof PAGINAS;
 
-function paginaDelHash(): Pagina {
-  const h = window.location.hash.replace('#/', '');
-  return h in PAGINAS ? (h as Pagina) : 'contenidos';
+/** "#/quiz/abc" → { ruta: 'quiz', id: 'abc' } */
+function leerHash() {
+  const [ruta = '', id] = window.location.hash.replace(/^#\/?/, '').split('/');
+  return { ruta, id };
 }
 
 export function App() {
   const { usuario, cargando, cerrar } = useSesion();
-  const [pagina, setPagina] = useState<Pagina>(paginaDelHash);
+  const [hash, setHash] = useState(leerHash);
 
   useEffect(() => {
-    const alCambiar = () => setPagina(paginaDelHash());
+    const alCambiar = () => {
+      setHash(leerHash());
+      window.scrollTo(0, 0);
+    };
     window.addEventListener('hashchange', alCambiar);
     return () => window.removeEventListener('hashchange', alCambiar);
   }, []);
@@ -30,22 +39,29 @@ export function App() {
   if (cargando) return <p className="p-6 text-center text-slate-500">Cargando…</p>;
   if (!usuario) return <Login />;
 
-  const esStaff = usuario.rol === 'ADMIN' || usuario.rol === 'REVISOR';
-  const visibles = (Object.keys(PAGINAS) as Pagina[]).filter((p) => usuario.rol === 'ADMIN' || p === 'revision');
-  const actual = visibles.includes(pagina) ? pagina : visibles[0];
-  const Componente = actual ? PAGINAS[actual].componente : null;
+  const visibles = (Object.keys(PAGINAS) as Pagina[]).filter((p) => (PAGINAS[p].roles as Rol[]).includes(usuario.rol));
+  const enQuiz = hash.ruta === 'quiz' || hash.ruta === 'resultado';
+  const actual: Pagina = enQuiz ? 'estudiar' : visibles.includes(hash.ruta as Pagina) ? (hash.ruta as Pagina) : 'estudiar';
+
+  let contenido;
+  if (hash.ruta === 'quiz' && hash.id) contenido = <Quiz id={hash.id} />;
+  else if (hash.ruta === 'resultado' && hash.id) contenido = <Resultado id={hash.id} />;
+  else if (actual === 'contenidos') contenido = <Contenidos />;
+  else if (actual === 'documentos') contenido = <Documentos />;
+  else if (actual === 'revision') contenido = <Revision />;
+  else contenido = <Estudiar />;
 
   return (
     <div className="min-h-screen">
       <header className="sticky top-0 z-10 border-b border-slate-200 bg-white/90 backdrop-blur">
         <div className="mx-auto flex max-w-5xl items-center gap-3 px-4 py-3">
           <span className="text-lg font-bold text-indigo-700">EstudIA</span>
-          <nav className="flex gap-1">
+          <nav className="flex gap-1 overflow-x-auto">
             {visibles.map((p) => (
               <a
                 key={p}
                 href={`#/${p}`}
-                className={`rounded-md px-3 py-1.5 text-sm font-medium ${
+                className={`whitespace-nowrap rounded-md px-3 py-1.5 text-sm font-medium ${
                   p === actual ? 'bg-indigo-50 text-indigo-700' : 'text-slate-600 hover:bg-slate-100'
                 }`}
               >
@@ -63,15 +79,7 @@ export function App() {
           </div>
         </div>
       </header>
-      <main className="mx-auto max-w-5xl px-4 py-6">
-        {esStaff && Componente ? (
-          <Componente />
-        ) : (
-          <p className="rounded-lg bg-white p-6 text-center text-slate-600 shadow-sm">
-            Hola, {usuario.nombre}. Los quizzes llegan en el Hito 2.
-          </p>
-        )}
-      </main>
+      <main className="mx-auto max-w-5xl px-4 py-6">{contenido}</main>
     </div>
   );
 }
