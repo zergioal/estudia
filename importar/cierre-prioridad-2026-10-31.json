@@ -1,0 +1,100 @@
+[
+  { "fragmentoRef": "rm0872-2024-reg-art25", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según el Reglamento de la RM 0872/2024, ¿cuándo se habilita el SIE para registrar e inscribir a los postulantes al Reconocimiento de Saberes?",
+      "opciones": [
+        { "texto": "Durante las dos primeras semanas del mes de octubre", "correcta": true, "porQue": "Art. 25, par. I." },
+        { "texto": "Durante todo el año", "correcta": false, "porQue": "Hay un período definido." },
+        { "texto": "En la primera semana de febrero", "correcta": false, "porQue": "No coincide." },
+        { "texto": "Durante las dos últimas semanas de diciembre", "correcta": false, "porQue": "No coincide." }
+      ],
+      "explicacion": "El director registra a los postulantes completando el formulario RUDEAL.",
+      "citaTextual": "Durante las dos primeras semanas del mes de octubre, se habilitarán el Sistema de Información Educativa (SIE)",
+      "referencia": "RM 0872/2024, Reglamento, Art. 25, págs. 13-14", "etiquetas": ["SIE", "memorística"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según el Art. 25 del Reglamento de la RM 0872/2024, ¿en qué plazo deben verificar la información del SIE la Dirección Distrital y la Subdirección?",
+      "opciones": [
+        { "texto": "En 48 horas cada una, pudiendo validar o devolver la documentación", "correcta": true, "porQue": "Art. 25, par. III y IV." },
+        { "texto": "En 72 horas cada una", "correcta": false, "porQue": "Capciosa: 72 horas es el plazo de remisión de carpetas de la RM 0679." },
+        { "texto": "En 10 días hábiles", "correcta": false, "porQue": "No coincide." },
+        { "texto": "Sin plazo", "correcta": false, "porQue": "Hay plazo." }
+      ],
+      "explicacion": "El director del CEA remite a la Distrital el informe de los aprobados, con sello y firma.",
+      "citaTextual": "remitirá la información a la Subdirección de Educación Alternativa y Especial en un plazo de 48 horas",
+      "referencia": "RM 0872/2024, Reglamento, Art. 25, págs. 13-14", "etiquetas": ["plazos", "capciosa"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Tras la evaluación de Reconocimiento de Saberes, ¿qué formulario completa el director del CEA al registrar a los postulantes en el SIE, según la RM 0872/2024?",
+      "opciones": [
+        { "texto": "El formulario RUDEAL, en el nivel o etapa correspondiente", "correcta": true, "porQue": "Art. 25, par. II, inc. b)." },
+        { "texto": "El CUT-DB-ALT", "correcta": false, "porQue": "Es para el Diploma de Bachiller." },
+        { "texto": "El M-CEA-CEP-CEAI 002", "correcta": false, "porQue": "Es para la modificación de datos de centros." },
+        { "texto": "El CUT-ETTP", "correcta": false, "porQue": "Es para la certificación técnica." }
+      ],
+      "explicacion": "También valida el centralizador de calificaciones (Anexo 7).",
+      "citaTextual": "Registrar a los postulantes en el Sistema de Información Educativa (SIE), completando el formulario RUDEAL",
+      "referencia": "RM 0872/2024, Reglamento, Art. 25, págs. 13-14", "etiquetas": ["formularios", "caso"] }
+  ]},
+  { "fragmentoRef": "rm0183-2024-reg-art04", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según el Reglamento de la RM 0183/2024, ¿cuál es el objetivo del diagnóstico?",
+      "opciones": [
+        { "texto": "Comprender con precisión el nivel inicial de conocimientos, capacidades, destrezas y habilidades de los participantes, e identificar sus fortalezas y áreas de mejora", "correcta": true, "porQue": "Art. 4, inc. b)." },
+        { "texto": "Calificar el logro final", "correcta": false, "porQue": "El diagnóstico es inicial." },
+        { "texto": "Certificar competencias", "correcta": false, "porQue": "No es su objetivo." },
+        { "texto": "Sancionar el bajo rendimiento", "correcta": false, "porQue": "No es su objetivo." }
+      ],
+      "explicacion": "La evaluación cualitativa usa entrevistas y observación; la cuantitativa, datos numéricos.",
+      "citaTextual": "Tiene como objetivo obtener una comprensión precisa del nivel de conocimientos, capacidades, destrezas y habilidades iniciales de los participantes",
+      "referencia": "RM 0183/2024, Reglamento, Art. 4, págs. 7-8", "etiquetas": ["diagnóstico"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según el Reglamento de la RM 0183/2024, el enfoque que comprende y analiza los fenómenos educativos desde una perspectiva descriptiva e interpretativa es:",
+      "opciones": [
+        { "texto": "El cualitativo", "correcta": true, "porQue": "Art. 4, inc. d)." },
+        { "texto": "El cuantitativo", "correcta": false, "porQue": "Capciosa: el cuantitativo se basa en datos numéricos (inc. c)." },
+        { "texto": "El diagnóstico", "correcta": false, "porQue": "Es otro concepto (inc. b)." },
+        { "texto": "La heteroevaluación", "correcta": false, "porQue": "No se define en ese inciso." }
+      ],
+      "explicacion": "Hay que distinguir el enfoque cualitativo del cuantitativo.",
+      "citaTextual": "Se utiliza para comprender y analizar fenómenos educativos desde una perspectiva descriptiva e interpretativa.",
+      "referencia": "RM 0183/2024, Reglamento, Art. 4, págs. 7-8", "etiquetas": ["evaluación", "capciosa"] }
+  ]},
+  { "fragmentoRef": "ley045-art04", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según el Art. 4 de la Ley 045, ¿quiénes deben observar la ley contra el racismo y toda forma de discriminación?",
+      "opciones": [
+        { "texto": "Las autoridades nacionales, departamentales, regionales, municipales e IOC, de cualquier jerarquía", "correcta": true, "porQue": "Art. 4." },
+        { "texto": "Solo las autoridades nacionales", "correcta": false, "porQue": "Capciosa: alcanza a todos los niveles." },
+        { "texto": "Solo los jueces", "correcta": false, "porQue": "No es lo que dispone la ley." },
+        { "texto": "Solo las instituciones privadas", "correcta": false, "porQue": "No es lo que dispone la ley." }
+      ],
+      "explicacion": "Se aplica de conformidad con la CPE y los instrumentos internacionales ratificados.",
+      "citaTextual": "Las autoridades nacionales, departamentales, regionales, municipales e indígena originario campesinas o de cualquier jerarquía, observarán la presente Ley",
+      "referencia": "Ley 045, Art. 4, pág. 2", "etiquetas": ["ámbito", "capciosa"] }
+  ]},
+  { "fragmentoRef": "ley045-art11", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según el Art. 11 de la Ley 045, ¿quién otorga anualmente los recursos al Ministerio de Culturas para cumplir las funciones de la ley?",
+      "opciones": [
+        { "texto": "El Tesoro General de la Nación", "correcta": true, "porQue": "Art. 11." },
+        { "texto": "Los gobiernos municipales", "correcta": false, "porQue": "No es lo que dispone la ley." },
+        { "texto": "La cooperación internacional", "correcta": false, "porQue": "No es lo que dispone la ley." },
+        { "texto": "Las multas a los medios de comunicación", "correcta": false, "porQue": "No es lo que dispone la ley." }
+      ],
+      "explicacion": "Dato fino de la ley.",
+      "citaTextual": "El Tesoro General de la Nación, otorgará los recursos económicos necesarios anualmente, al Ministerio de Culturas",
+      "referencia": "Ley 045, Art. 11, pág. 6", "etiquetas": ["presupuesto", "memorística"] }
+  ]},
+  { "fragmentoRef": "ley045-art18", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Un participante del CEA denunció a un docente por insultos racistas y ahora teme represalias. Según el Art. 18 de la Ley 045, ¿qué garantiza el Estado?",
+      "opciones": [
+        { "texto": "La seguridad física y psicológica de las víctimas, testigos y denunciantes de delitos de racismo y discriminación", "correcta": true, "porQue": "Art. 18." },
+        { "texto": "Solo la reserva de su nombre", "correcta": false, "porQue": "Garantiza la seguridad física y psicológica." },
+        { "texto": "Una indemnización automática", "correcta": false, "porQue": "No es lo que dispone el artículo." },
+        { "texto": "Nada, porque es un asunto escolar", "correcta": false, "porQue": "La protección es una obligación del Estado." }
+      ],
+      "explicacion": "La protección alcanza también a los testigos y a los denunciantes.",
+      "citaTextual": "El Estado garantizará la seguridad física y psicológica de las víctimas, testigos y denunciantes",
+      "referencia": "Ley 045, Art. 18, pág. 8", "etiquetas": ["protección", "caso"] }
+  ]}
+]
