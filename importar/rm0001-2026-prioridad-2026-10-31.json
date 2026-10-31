@@ -1,0 +1,421 @@
+[
+  { "fragmentoRef": "rm0001-2026-art23", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según los lineamientos del Art. 23 de la RM 0001/2026, ¿qué mecanismos se prevén para garantizar el acceso, la permanencia y la conclusión de la Primaria y la Secundaria de PJA en zonas fronterizas, dispersas y de difícil acceso?",
+      "opciones": [
+        { "texto": "Acciones flexibles, maestros itinerantes, reconocimiento de saberes, modalidad semipresencial y horarios adaptados", "correcta": true, "porQue": "Art. 23, num. 1, inc. a)." },
+        { "texto": "El cierre de los centros pequeños y el traslado de los participantes a la ciudad", "correcta": false, "porQue": "Contradice el lineamiento." },
+        { "texto": "Solo la modalidad a distancia por internet", "correcta": false, "porQue": "Es solo una de las vías posibles." },
+        { "texto": "Exámenes de suficiencia sin clases", "correcta": false, "porQue": "No es lo que dispone la RM." }
+      ],
+      "explicacion": "Los beneficiarios son personas mayores de quince años.",
+      "citaTextual": "mediante acciones flexibles, maestros itinerantes, reconocimiento de saberes e implementación de la modalidad semipresencial",
+      "referencia": "RM 0001/2026, Art. 23, págs. 19-22", "etiquetas": ["lineamientos", "EPJA"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "El director de un CEA debe reorganizar su oferta técnica para la gestión 2026. Según el Art. 23 de la RM 0001/2026, ¿qué debe considerar?",
+      "opciones": [
+        { "texto": "Estudios de mercado, vocaciones productivas, potencialidades del contexto, tendencias actuales, desarrollo sostenible, soberanía alimentaria, necesidades de los participantes y transitabilidad a la educación superior", "correcta": true, "porQue": "Art. 23, num. 2, inc. a)." },
+        { "texto": "Solo la preferencia de los docentes con ítem", "correcta": false, "porQue": "No es lo que dispone la RM." },
+        { "texto": "Solo las carreras más baratas de implementar", "correcta": false, "porQue": "No es lo que dispone la RM." },
+        { "texto": "Mantener las mismas carreras sin cambios", "correcta": false, "porQue": "Se pide una reorganización." }
+      ],
+      "explicacion": "También se impulsa la comercialización de productos del CEA mediante ferias y espacios de mercadeo.",
+      "citaTextual": "considerando estudios de mercado, vocaciones productivas y potencialidades del contexto",
+      "referencia": "RM 0001/2026, Art. 23, num. 2, págs. 19-22", "etiquetas": ["ETTP", "caso"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según el Art. 23 de la RM 0001/2026, ¿mediante qué se implementan las competencias digitales en Primaria, Secundaria y ETTP?",
+      "opciones": [
+        { "texto": "Mediante módulos emergentes contextualizados en Tecnologías de la Información y la Inteligencia Artificial", "correcta": true, "porQue": "Art. 23, num. 1, inc. c) y num. 2, inc. d)." },
+        { "texto": "Mediante una nueva área obligatoria de Informática", "correcta": false, "porQue": "Son módulos emergentes, no un área nueva." },
+        { "texto": "Mediante la compra de tabletas para cada participante", "correcta": false, "porQue": "No es lo que dispone la RM." },
+        { "texto": "Solo en la Educación Permanente", "correcta": false, "porQue": "Se implementan en Primaria, Secundaria y ETTP." }
+      ],
+      "explicacion": "También se elaboran directrices para el bachillerato diversificado con enfoque dual.",
+      "citaTextual": "a través de módulos emergentes, contextualizados en Tecnologías de la Información y la Inteligencia Artificial",
+      "referencia": "RM 0001/2026, Art. 23, págs. 19-22", "etiquetas": ["competencias digitales"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según los lineamientos del Art. 23 de la RM 0001/2026 para la Educación Permanente, ¿qué programa se elaborará para una población específica?",
+      "opciones": [
+        { "texto": "Un programa de atención integral para personas adultas mayores", "correcta": true, "porQue": "Art. 23, num. 3, inc. b)." },
+        { "texto": "Un programa de becas universitarias", "correcta": false, "porQue": "No figura en el lineamiento." },
+        { "texto": "Un programa de educación inicial", "correcta": false, "porQue": "No corresponde a la Educación Permanente." },
+        { "texto": "Un programa de servicio militar", "correcta": false, "porQue": "No figura en el lineamiento." }
+      ],
+      "explicacion": "Además, se integran institucionalmente la Educación Permanente y el SPCC.",
+      "citaTextual": "Elaboración e implementación de un programa de atención integral para personas adultas mayores",
+      "referencia": "RM 0001/2026, Art. 23, num. 3, págs. 19-22", "etiquetas": ["educación permanente"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según el Art. 23 de la RM 0001/2026, ¿con qué enfoque se busca articular la formación técnica con la producción, el trabajo, el emprendimiento y la inserción laboral?",
+      "opciones": [
+        { "texto": "Con el enfoque de Educación Dual", "correcta": true, "porQue": "Art. 23, num. 2, inc. e)." },
+        { "texto": "Con el enfoque por competencias de la OCDE", "correcta": false, "porQue": "No figura en la RM." },
+        { "texto": "Con la Educación Popular exclusivamente", "correcta": false, "porQue": "La Educación Popular se menciona en la RM 1040, no en este inciso." },
+        { "texto": "Con el enfoque conductista", "correcta": false, "porQue": "No figura en la RM." }
+      ],
+      "explicacion": "Se busca un aprendizaje pertinente y contextualizado.",
+      "citaTextual": "mediante la implementación de estrategias educativas basadas en el enfoque de Educación Dual",
+      "referencia": "RM 0001/2026, Art. 23, num. 2, págs. 19-22", "etiquetas": ["educación dual"] }
+  ]},
+  { "fragmentoRef": "rm0001-2026-art31", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según el Art. 31 de la RM 0001/2026, ¿cuántos períodos diarios se desarrollan en la EPJA y cuánto dura cada uno?",
+      "opciones": [
+        { "texto": "Cuatro períodos en Humanística y cinco en Técnica, de 40 minutos cada uno, de lunes a viernes", "correcta": true, "porQue": "Art. 31, par. I." },
+        { "texto": "Cinco en Humanística y cuatro en Técnica, de 45 minutos", "correcta": false, "porQue": "Capciosa: las cantidades están invertidas y la duración es otra." },
+        { "texto": "Seis períodos de 40 minutos en ambas", "correcta": false, "porQue": "No coincide." },
+        { "texto": "Cuatro en ambas, de 60 minutos", "correcta": false, "porQue": "No coincide." }
+      ],
+      "explicacion": "La hora académica de 40 minutos también se usa en la RM 1040.",
+      "citaTextual": "con cuatro períodos en Educación Humanística y cinco periodos en Educación Técnica, con una duración de cuarenta (40) minutos por período",
+      "referencia": "RM 0001/2026, Art. 31, pág. 25", "etiquetas": ["carga horaria", "memorística", "capciosa"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Una organización campesina solo puede asistir a la formación del Centro de Educación Permanente los fines de semana. Según el Art. 31 de la RM 0001/2026:",
+      "opciones": [
+        { "texto": "Es posible: la planificación se organiza prioritariamente en jornadas educativas, que pueden incluir fines de semana o feriados, según la región y la disponibilidad", "correcta": true, "porQue": "Art. 31, par. II." },
+        { "texto": "No es posible: se trabaja solo de lunes a viernes", "correcta": false, "porQue": "Capciosa: lunes a viernes rige para la EPJA, no para la Educación Permanente." },
+        { "texto": "Solo con autorización del Ministerio", "correcta": false, "porQue": "No es lo que dispone la RM." },
+        { "texto": "Solo en la modalidad a distancia", "correcta": false, "porQue": "No es lo que dispone la RM." }
+      ],
+      "explicacion": "La Educación Permanente responde a las características de la región y a los tiempos de las organizaciones.",
+      "citaTextual": "La planificación del centro, prioritariamente deberá estar organizada en jornadas educativas que inclusive pueden abarcar fines de semana o feriados.",
+      "referencia": "RM 0001/2026, Art. 31, par. II, pág. 25", "etiquetas": ["educación permanente", "caso"] }
+  ]},
+  { "fragmentoRef": "rm0001-2026-art38", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "En el SIE aparecen notas duplicadas de un participante en un área. Según el Art. 38 de la RM 0001/2026, ¿qué debe hacer el director del CEA?",
+      "opciones": [
+        { "texto": "Gestionar la anulación, previa autorización de la Subdirección y una declaración jurada del director; el trámite es gratuito en la Dirección Departamental", "correcta": true, "porQue": "Art. 38." },
+        { "texto": "Borrar él mismo las notas en el SIE", "correcta": false, "porQue": "Requiere autorización y lo realiza la Departamental." },
+        { "texto": "Pagar un arancel en la Distrital", "correcta": false, "porQue": "El trámite es gratuito y se hace en la Departamental." },
+        { "texto": "Inscribir de nuevo al participante", "correcta": false, "porQue": "No es lo que dispone la RM." }
+      ],
+      "explicacion": "La Unidad de Sistemas habilita el SIE a los técnicos departamentales.",
+      "citaTextual": "previa autorización de la Subdirección de Educación Alternativa y Especial y la presentación de una declaración jurada del director",
+      "referencia": "RM 0001/2026, Art. 38, pág. 29", "etiquetas": ["notas duplicadas", "caso"] }
+  ]},
+  { "fragmentoRef": "rm0001-2026-art39", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según el Art. 39 de la RM 0001/2026, ¿con quién coordinan los directores de CEA la remisión de la información de los participantes destacados (Bachiller Destacado), y qué norma se cumple?",
+      "opciones": [
+        { "texto": "Con la Comisión Técnico Andragógica, en cumplimiento del DS 1887 de 4 de febrero de 2014", "correcta": true, "porQue": "Art. 39, par. I." },
+        { "texto": "Con la Junta Escolar, en cumplimiento de la Ley 3991", "correcta": false, "porQue": "La Ley 3991 trata de la gratuidad del diploma." },
+        { "texto": "Con la Distrital, en cumplimiento del DS 813", "correcta": false, "porQue": "El DS 813 regula las Direcciones Departamentales." },
+        { "texto": "Con el SPCC, en cumplimiento de la RM 0531", "correcta": false, "porQue": "No corresponde." }
+      ],
+      "explicacion": "Los directores que inscriban a estudiantes en una etapa que no corresponde a su trayectoria serán sancionados.",
+      "citaTextual": "en coordinación con la Comisión Técnico Andragógica, son responsables de remitir de manera oportuna al Ministerio de Educación la información de los estudiantes/participantes destacados",
+      "referencia": "RM 0001/2026, Art. 39, pág. 29", "etiquetas": ["bachiller destacado", "memorística"] }
+  ]},
+  { "fragmentoRef": "rm0001-2026-art47", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "La facilitadora de Contabilidad de un CEA urbano sale con licencia y el director propone como suplente a un ingeniero agrónomo. Según el Art. 47 de la RM 0001/2026:",
+      "opciones": [
+        { "texto": "No corresponde: la suplencia debe cubrirla personal con formación similar a la del titular; la formación solo afín se admite en centros alejados o inaccesibles", "correcta": true, "porQue": "Art. 47." },
+        { "texto": "Corresponde, porque cualquier profesional puede suplir", "correcta": false, "porQue": "Se exige formación similar." },
+        { "texto": "Corresponde si lo aprueba la Junta Escolar", "correcta": false, "porQue": "No es lo que dispone la RM." },
+        { "texto": "Corresponde, porque las suplencias no requieren justificación", "correcta": false, "porQue": "Deben estar debidamente justificadas." }
+      ],
+      "explicacion": "Capciosa: la excepción de «formación afín» solo rige para centros alejados o inaccesibles.",
+      "citaTextual": "necesariamente deberán ser cubiertas por personal con formación similar al del titular",
+      "referencia": "RM 0001/2026, Art. 47, pág. 32", "etiquetas": ["suplencias", "caso", "capciosa"] }
+  ]},
+  { "fragmentoRef": "rm0001-2026-art49", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según el Art. 49 de la RM 0001/2026, respecto de los centros de educación alternativa privados:",
+      "opciones": [
+        { "texto": "Se prohíbe abrir nuevos CEA privados, y los existentes no pueden aplicar la modalidad semipresencial o a distancia sin autorización expresa de la Dirección Departamental", "correcta": true, "porQue": "Art. 49, par. I y II." },
+        { "texto": "Pueden abrirse con autorización de la Distrital", "correcta": false, "porQue": "Se prohíbe la apertura de nuevos CEA privados." },
+        { "texto": "Pueden implementar libremente la modalidad a distancia", "correcta": false, "porQue": "Requiere autorización expresa de la Departamental." },
+        { "texto": "Las irregularidades las sanciona el Ministerio de Trabajo", "correcta": false, "porQue": "Las sanciona la Dirección Distrital." }
+      ],
+      "explicacion": "Capciosa: autoriza la Departamental y sanciona la Distrital.",
+      "citaTextual": "Queda prohibida la apertura de nuevos centros de educación alternativa privados.",
+      "referencia": "RM 0001/2026, Art. 49, págs. 32-33", "etiquetas": ["CEA privados", "capciosa"] }
+  ]},
+  { "fragmentoRef": "rm0001-2026-art51", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Un CEA privado retiene la libreta de un participante que debe dos meses de pensión. Según el Art. 51 de la RM 0001/2026:",
+      "opciones": [
+        { "texto": "Está prohibido suspender a los participantes o retener sus libretas por falta de pago de pensiones", "correcta": true, "porQue": "Art. 51." },
+        { "texto": "Es lícito hasta que pague", "correcta": false, "porQue": "La RM lo prohíbe." },
+        { "texto": "Es lícito si lo prevé el contrato", "correcta": false, "porQue": "El contrato no puede contradecir la prohibición." },
+        { "texto": "Puede suspenderlo, pero no retener la libreta", "correcta": false, "porQue": "Capciosa: ambas cosas están prohibidas." }
+      ],
+      "explicacion": "Las denuncias se presentan ante la Dirección Distrital (Art. 50).",
+      "citaTextual": "están prohibidos de suspender a los participantes de sus procesos educativos o retener libretas de calificaciones por falta del pago de pensiones",
+      "referencia": "RM 0001/2026, Art. 51, pág. 33", "etiquetas": ["CEA privados", "caso", "capciosa"] }
+  ]},
+  { "fragmentoRef": "rm0001-2026-art52", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según el Art. 52 de la RM 0001/2026, ¿qué régimen de becas deben establecer los CEA privados?",
+      "opciones": [
+        { "texto": "Becas completas para el 10% del total de su población matriculada por semestre, entregadas a la Subdirección para distribuirlas a la población vulnerable", "correcta": true, "porQue": "Art. 52." },
+        { "texto": "Medias becas para el 10%, asignadas por el propio centro", "correcta": false, "porQue": "Capciosa: son becas completas y las distribuye la Subdirección." },
+        { "texto": "Becas para el 5% anual", "correcta": false, "porQue": "No coincide." },
+        { "texto": "Becas voluntarias sin porcentaje", "correcta": false, "porQue": "Son obligatorias." }
+      ],
+      "explicacion": "Las supervisa la Subdirección de Educación Alternativa y Especial.",
+      "citaTextual": "regímenes de becas completas al 10% del total de su población matriculada por semestre",
+      "referencia": "RM 0001/2026, Art. 52, pág. 33", "etiquetas": ["becas", "memorística", "capciosa"] }
+  ]},
+  { "fragmentoRef": "rm0001-2026-art53", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según el Art. 53 de la RM 0001/2026, ¿con qué frecuencia mínima deben las Distritales y Subdirecciones hacer seguimiento a los procesos educativos de los CEA privados?",
+      "opciones": [
+        { "texto": "Al menos dos veces por semestre", "correcta": true, "porQue": "Art. 53." },
+        { "texto": "Una vez al año", "correcta": false, "porQue": "No coincide." },
+        { "texto": "Una vez al mes", "correcta": false, "porQue": "No coincide." },
+        { "texto": "Solo ante denuncias", "correcta": false, "porQue": "Es un seguimiento periódico." }
+      ],
+      "explicacion": "El seguimiento busca garantizar la calidad educativa.",
+      "citaTextual": "al menos dos veces por semestre a fin de garantizar la calidad educativa",
+      "referencia": "RM 0001/2026, Art. 53, pág. 33", "etiquetas": ["supervisión", "memorística"] }
+  ]},
+  { "fragmentoRef": "rm0001-2026-art78", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Un participante del CEA es acosado por compañeros en la parada del bus, fuera del centro. Según el Art. 78 de la RM 0001/2026, ¿alcanza al CEA la política de «Cero Tolerancia»?",
+      "opciones": [
+        { "texto": "Sí: rige contra el acoso y la violencia en el ámbito educativo dentro y fuera de los predios de los centros, aplicando el Protocolo de Prevención, Actuación y Denuncia", "correcta": true, "porQue": "Art. 78, par. II." },
+        { "texto": "No: solo rige dentro del centro", "correcta": false, "porQue": "Capciosa: alcanza también fuera de los predios." },
+        { "texto": "Solo si la víctima es menor de edad", "correcta": false, "porQue": "No es lo que dispone la RM." },
+        { "texto": "Solo si hay lesiones físicas", "correcta": false, "porQue": "Comprende la violencia física, psicológica y sexual." }
+      ],
+      "explicacion": "Los maestros también deben desarrollar contenidos contra toda forma de violencia.",
+      "citaTextual": "dará continuidad a la política de “CERO TOLERANCIA” al acoso y violencia en el ámbito educativo dentro y fuera de los predios de los centros",
+      "referencia": "RM 0001/2026, Art. 78, pág. 45", "etiquetas": ["violencia", "caso", "capciosa"] }
+  ]},
+  { "fragmentoRef": "rm0001-2026-art79", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según el Art. 79 de la RM 0001/2026, ¿ante quién se gestiona la Alimentación Complementaria Escolar para los CEA, y en cumplimiento de qué ley?",
+      "opciones": [
+        { "texto": "Ante los gobiernos autónomos municipales o IOC, en cumplimiento de la Ley 622", "correcta": true, "porQue": "Art. 79, par. I." },
+        { "texto": "Ante el Ministerio de Salud, en cumplimiento de la Ley 775", "correcta": false, "porQue": "Capciosa: la Ley 775 es la de Alimentación Saludable, que orienta la calidad de los alimentos, no la gestión." },
+        { "texto": "Ante la Gobernación, en cumplimiento de la Ley 070", "correcta": false, "porQue": "Confusión de instancia y de norma." },
+        { "texto": "Ante el SENASAG", "correcta": false, "porQue": "El SENASAG otorga el registro sanitario." }
+      ],
+      "explicacion": "La gestionan las Distritales en coordinación con los directores.",
+      "citaTextual": "la dotación de Alimentación Complementaria Escolar en cumplimiento a la Ley Nº 0622",
+      "referencia": "RM 0001/2026, Art. 79, pág. 45", "etiquetas": ["alimentación", "capciosa"] }
+  ]},
+  { "fragmentoRef": "rm0001-2026-art81", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Para pintar las aulas, el director de un CEA fiscal propone un «aporte voluntario» de Bs 10 por participante. Según el Art. 81 de la RM 0001/2026:",
+      "opciones": [
+        { "texto": "Está prohibido cualquier tipo de cobro o aporte de los participantes; todos los servicios son gratuitos", "correcta": true, "porQue": "Art. 81, par. I y II." },
+        { "texto": "Es válido si es voluntario", "correcta": false, "porQue": "Capciosa: se prohíbe cualquier tipo de aporte." },
+        { "texto": "Es válido si lo aprueba la asamblea de participantes", "correcta": false, "porQue": "La prohibición es terminante." },
+        { "texto": "Es válido solo para infraestructura", "correcta": false, "porQue": "No hay excepción." }
+      ],
+      "explicacion": "La alternativa son las jornadas de trabajo comunitario (Art. 82) y la gestión ante el GAM.",
+      "citaTextual": "Queda prohibido cualquier tipo de aportes de los estudiantes/participantes en los centros de educación alternativa y centros de educación especial",
+      "referencia": "RM 0001/2026, Art. 81, pág. 46", "etiquetas": ["cobros", "caso", "capciosa"] }
+  ]},
+  { "fragmentoRef": "rm0001-2026-art82", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según el Art. 82 de la RM 0001/2026, ¿cuándo deben organizar los CEA las «Jornadas de Trabajo Comunitario»?",
+      "opciones": [
+        { "texto": "Al inicio, durante y a la culminación de la gestión educativa", "correcta": true, "porQue": "Art. 82." },
+        { "texto": "Solo al inicio de la gestión", "correcta": false, "porQue": "Capciosa: son tres momentos." },
+        { "texto": "Cada mes", "correcta": false, "porQue": "No coincide." },
+        { "texto": "Solo cuando lo pide la Distrital", "correcta": false, "porQue": "No coincide." }
+      ],
+      "explicacion": "Comprenden limpieza, desinfección y arreglo de mobiliario; si se comparte infraestructura, las coordinan los directores.",
+      "citaTextual": "al inicio, durante y a la culminación de la gestión educativa",
+      "referencia": "RM 0001/2026, Art. 82, pág. 46", "etiquetas": ["trabajo comunitario", "memorística"] }
+  ]},
+  { "fragmentoRef": "rm0001-2026-art84", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según el Art. 84 de la RM 0001/2026, ¿hasta qué fecha deben conformarse las organizaciones estudiantiles de los CEA?",
+      "opciones": [
+        { "texto": "Hasta el 2 de marzo de 2026", "correcta": true, "porQue": "Art. 84." },
+        { "texto": "Hasta el 27 de febrero de 2026", "correcta": false, "porQue": "Es el plazo de los Planes Anuales Departamentales (Art. 25)." },
+        { "texto": "Hasta el 23 de enero de 2026", "correcta": false, "porQue": "Es el plazo del Comité Intersectorial de Educación Productiva (Art. 27)." },
+        { "texto": "Hasta el 30 de junio de 2026", "correcta": false, "porQue": "No coincide." }
+      ],
+      "explicacion": "Las organizaciones estudiantiles fortalecen la gestión y la defensa de derechos.",
+      "citaTextual": "los cuales se deben conformarse hasta el 2 de marzo de 2026",
+      "referencia": "RM 0001/2026, Art. 84, pág. 47", "etiquetas": ["plazos", "memorística", "capciosa"] }
+  ]},
+  { "fragmentoRef": "rm0001-2026-art86", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Una institución externa invita al CEA a un desfile en horario de clases que no figura en el POA. Según el Art. 86 de la RM 0001/2026:",
+      "opciones": [
+        { "texto": "No se deben realizar actividades extracurriculares salvo las contempladas en el POA, para cumplir los 200 días de clases", "correcta": true, "porQue": "Art. 86." },
+        { "texto": "Se debe participar siempre en actividades cívicas", "correcta": false, "porQue": "Solo las contempladas en el POA." },
+        { "texto": "Se puede participar si lo aprueban los participantes", "correcta": false, "porQue": "No es lo que dispone la RM." },
+        { "texto": "Se puede participar recuperando las clases después", "correcta": false, "porQue": "La RM no prevé esa vía." }
+      ],
+      "explicacion": "Entre las actividades destacadas están el Encuentro Internacional de Educación Alternativa y Especial y el Día Plurinacional de la Lectura.",
+      "citaTextual": "no se deberá realizar actividades extracurriculares, salvo las contempladas en el POA",
+      "referencia": "RM 0001/2026, Art. 86, pág. 47", "etiquetas": ["actividades", "caso"] }
+  ]},
+  { "fragmentoRef": "rm0001-2026-art02", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "¿Cuál de las siguientes instituciones NO está expresamente comprendida en el ámbito de aplicación de la RM 0001/2026 (Art. 2)?",
+      "opciones": [
+        { "texto": "Las universidades públicas", "correcta": true, "porQue": "No figuran en el Art. 2." },
+        { "texto": "El CEPEAD", "correcta": false, "porQue": "Sí figura." },
+        { "texto": "Los Centros de Capacitación Técnica Privados (CCTP)", "correcta": false, "porQue": "Sí figuran." },
+        { "texto": "Los procesos de Alfabetización y Post-alfabetización", "correcta": false, "porQue": "Sí figuran." }
+      ],
+      "explicacion": "La RM se aplica en los niveles nacional, departamental y distrital del Subsistema.",
+      "citaTextual": "Centro Plurinacional de Educación Alternativa a Distancia – CEPEAD, Centros de Capacitación Técnica Privados – CCTP",
+      "referencia": "RM 0001/2026, Art. 2, pág. 9", "etiquetas": ["ámbito", "EXCEPTO"] }
+  ]},
+  { "fragmentoRef": "rm0001-2026-art05", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Hay una alerta sanitaria en el municipio. Según el Art. 5 de la RM 0001/2026, ¿quién instruye a los CEA qué modalidad de atención aplicar según el nivel de riesgo?",
+      "opciones": [
+        { "texto": "Las direcciones departamentales y distritales, que coordinan e instruyen a los CEA optar por la modalidad presencial, semipresencial o a distancia", "correcta": true, "porQue": "Art. 5." },
+        { "texto": "El director del CEA, por su cuenta", "correcta": false, "porQue": "La instrucción viene de la Departamental y la Distrital." },
+        { "texto": "El Ministerio de Salud", "correcta": false, "porQue": "Las autoridades de salud informan del riesgo; la instrucción es educativa." },
+        { "texto": "La Junta Escolar", "correcta": false, "porQue": "No es lo que dispone la RM." }
+      ],
+      "explicacion": "La decisión depende de los reportes de las autoridades competentes sobre el riesgo.",
+      "citaTextual": "deberán coordinar e instruir a los centros de educación alternativa y centros de educación especial, optar por las modalidades educativas",
+      "referencia": "RM 0001/2026, Art. 5, pág. 10", "etiquetas": ["contingencias", "caso"] }
+  ]},
+  { "fragmentoRef": "rm0001-2026-art06", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según el Art. 6 de la RM 0001/2026, ¿cuándo y a quiénes deben socializar los maestros los perfiles de salida?",
+      "opciones": [
+        { "texto": "Al inicio de la gestión, a los estudiantes/participantes, sus tutores y padres de familia", "correcta": true, "porQue": "Art. 6." },
+        { "texto": "Al final del semestre, solo a la Distrital", "correcta": false, "porQue": "Es al inicio y a los participantes y sus familias." },
+        { "texto": "Solo cuando lo solicite la Junta", "correcta": false, "porQue": "No es lo que dispone la RM." },
+        { "texto": "Al concluir la etapa, en la entrega de libretas", "correcta": false, "porQue": "Es al inicio." }
+      ],
+      "explicacion": "Su propósito es orientar, verificar y evaluar el logro de los aprendizajes.",
+      "citaTextual": "Al inicio de la Gestión Educativa, los maestros de las diferentes etapas y niveles de aprendizaje deberán socializar los perfiles de salida",
+      "referencia": "RM 0001/2026, Art. 6, pág. 10", "etiquetas": ["perfiles de salida"] }
+  ]},
+  { "fragmentoRef": "rm0001-2026-art15", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según el Art. 15 de la RM 0001/2026, ¿quién está obligado a resguardar la documentación que presentan los participantes al inscribirse?",
+      "opciones": [
+        { "texto": "Los directores de los centros de educación alternativa", "correcta": true, "porQue": "Art. 15." },
+        { "texto": "La Dirección Distrital", "correcta": false, "porQue": "No es lo que dispone la RM." },
+        { "texto": "El propio participante", "correcta": false, "porQue": "No es lo que dispone la RM." },
+        { "texto": "La secretaría de la Departamental", "correcta": false, "porQue": "No es lo que dispone la RM." }
+      ],
+      "explicacion": "Alcanza a la documentación de participantes nuevos y antiguos.",
+      "citaTextual": "Los directores de los centros de educación alternativa tienen la obligación de resguardar la documentación presentada por los estudiantes/participantes",
+      "referencia": "RM 0001/2026, Art. 15, pág. 17", "etiquetas": ["documentación"] }
+  ]},
+  { "fragmentoRef": "rm0001-2026-art18", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Una participante de Post-alfabetización cambia de residencia a mitad de ciclo y quiere seguir estudiando en un CEA. Según el Art. 18 de la RM 0001/2026, ¿cuándo puede hacerse el traspaso?",
+      "opciones": [
+        { "texto": "Una vez concluido el ciclo de calificaciones, cumpliendo los requisitos del Art. 14, par. I", "correcta": true, "porQue": "Art. 18." },
+        { "texto": "En cualquier momento, sin requisitos", "correcta": false, "porQue": "Capciosa: hay requisitos y un momento definido." },
+        { "texto": "Solo al año siguiente", "correcta": false, "porQue": "No es lo que dispone la RM." },
+        { "texto": "Nunca: debe volver a iniciar", "correcta": false, "porQue": "Se permite la continuidad." }
+      ],
+      "explicacion": "Los motivos justificados incluyen el cambio de trabajo, el traslado o la enfermedad.",
+      "citaTextual": "Los traspasos pueden realizarse una vez concluido el ciclo de calificaciones.",
+      "referencia": "RM 0001/2026, Art. 18, pág. 18", "etiquetas": ["traspasos", "caso", "capciosa"] }
+  ]},
+  { "fragmentoRef": "rm0001-2026-art24", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "¿Cuál de los siguientes NO es un componente de la organización de la gestión educativa de la Educación Alternativa según el Art. 24 de la RM 0001/2026?",
+      "opciones": [
+        { "texto": "Plan de Desarrollo Económico y Social del departamento", "correcta": true, "porQue": "No figura en el Art. 24." },
+        { "texto": "Planificación Anual a Nivel Departamental (PAD)", "correcta": false, "porQue": "Es el num. 1." },
+        { "texto": "Plan Regional de Educación Productiva", "correcta": false, "porQue": "Es el num. 3." },
+        { "texto": "Planificación Educativa de Centros de Educación Alternativa", "correcta": false, "porQue": "Es el num. 4." }
+      ],
+      "explicacion": "El num. 2 es la organización de la gestión institucional de las Subdirecciones.",
+      "citaTextual": "1. Planificación Anual a Nivel Departamental (PAD). 2. Organización de la Gestión Institucional de las Subdirecciones de Educación Alternativa y Especial. 3. Plan Regional de Educación Productiva.",
+      "referencia": "RM 0001/2026, Art. 24, pág. 22", "etiquetas": ["gestión", "EXCEPTO"] }
+  ]},
+  { "fragmentoRef": "rm0001-2026-art33", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según el Art. 33 de la RM 0001/2026, una persona certificada por el SPCC puede acceder a formación complementaria:",
+      "opciones": [
+        { "texto": "Mediante cursos cortos y largos en las tres áreas del SPCC, en los Centros de Educación Permanente", "correcta": true, "porQue": "Art. 33." },
+        { "texto": "Solo en universidades", "correcta": false, "porQue": "No es lo que dispone la RM." },
+        { "texto": "Solo en la EPJA humanística", "correcta": false, "porQue": "No es lo que dispone la RM." },
+        { "texto": "No puede: la certificación es terminal", "correcta": false, "porQue": "Sí puede acceder." }
+      ],
+      "explicacion": "Las autoridades departamentales incorporan indicadores de esta formación en el PAD.",
+      "citaTextual": "podrán acceder a la formación complementaria a través de cursos cortos y cursos largos en las tres áreas del SPCC en los centros de Educación Permanente",
+      "referencia": "RM 0001/2026, Art. 33, pág. 26", "etiquetas": ["formación complementaria"] }
+  ]},
+  { "fragmentoRef": "rm0001-2026-art41", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según el Art. 41 de la RM 0001/2026, ¿quiénes son responsables del reporte, la consolidación y el resguardo de la información de los CEA en el SIE?",
+      "opciones": [
+        { "texto": "Los técnicos departamentales y distritales", "correcta": true, "porQue": "Art. 41, par. I." },
+        { "texto": "Los directores de CEA exclusivamente", "correcta": false, "porQue": "No es lo que dispone la RM." },
+        { "texto": "La Subdirección", "correcta": false, "porQue": "Capciosa: la Subdirección hace el seguimiento de las estadísticas (par. III), pero no es la responsable del reporte." },
+        { "texto": "El Ministerio de Planificación", "correcta": false, "porQue": "No es lo que dispone la RM." }
+      ],
+      "explicacion": "Los Centros de Educación Permanente registran sus datos al concluir cada curso.",
+      "citaTextual": "será responsabilidad de los técnicos departamentales y distritales",
+      "referencia": "RM 0001/2026, Art. 41, pág. 30", "etiquetas": ["SIE", "capciosa"] }
+  ]},
+  { "fragmentoRef": "rm0001-2026-art42", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según el Art. 42 de la RM 0001/2026, ¿qué instancia es la única reconocida por el Ministerio de Educación para certificar competencias?",
+      "opciones": [
+        { "texto": "El Sistema Plurinacional de Certificación de Competencias (SPCC), conforme al Art. 82 de la Ley 070", "correcta": true, "porQue": "Art. 42." },
+        { "texto": "Cada CEA de forma autónoma", "correcta": false, "porQue": "No es lo que dispone la RM." },
+        { "texto": "El Ministerio de Trabajo", "correcta": false, "porQue": "No es lo que dispone la RM." },
+        { "texto": "Los institutos técnicos privados", "correcta": false, "porQue": "No es lo que dispone la RM." }
+      ],
+      "explicacion": "Para estándares urgentes existe un Procedimiento Abreviado de Ratificación de Estándares Ocupacionales.",
+      "citaTextual": "El Sistema Plurinacional de Certificación de Competencias es la única instancia reconocida por el Ministerio de Educación",
+      "referencia": "RM 0001/2026, Art. 42, pág. 30", "etiquetas": ["SPCC"] }
+  ]},
+  { "fragmentoRef": "rm0001-2026-art46", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Un egresado del CEA con título de Técnico Medio en Transformación de Alimentos quiere continuar en la Educación Superior. Según el Art. 46 de la RM 0001/2026, ¿con qué carrera técnica se corresponde su especialidad?",
+      "opciones": [
+        { "texto": "Industria de Alimentos", "correcta": true, "porQue": "Es la equivalencia del cuadro del Art. 46." },
+        { "texto": "Gastronomía", "correcta": false, "porQue": "Gastronomía corresponde a Gastronomía." },
+        { "texto": "Agropecuaria", "correcta": false, "porQue": "No es la equivalencia." },
+        { "texto": "Agroecología", "correcta": false, "porQue": "No es la equivalencia." }
+      ],
+      "explicacion": "Otro caso: Textil y Confección corresponde a Industria Textil y Confección.",
+      "citaTextual": "Transformación de Alimentos Industria de Alimentos",
+      "referencia": "RM 0001/2026, Art. 46, págs. 31-32", "etiquetas": ["transitabilidad", "caso"] }
+  ]},
+  { "fragmentoRef": "rm0001-2026-dt01", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según la Disposición Transitoria Primera de la RM 0001/2026, ¿de qué gestiones son los procesos de certificación de Educación Permanente rezagados que deben regularizarse en 2026?",
+      "opciones": [
+        { "texto": "De las gestiones 2020 y 2021", "correcta": true, "porQue": "Disposición Transitoria Primera." },
+        { "texto": "De 2022 y 2023", "correcta": false, "porQue": "No coincide." },
+        { "texto": "Antes de 2015", "correcta": false, "porQue": "Antes de 2015 es el criterio de legalización del Art. 37." },
+        { "texto": "Solo de 2025", "correcta": false, "porQue": "No coincide." }
+      ],
+      "explicacion": "La UGPSEP-SI habilita el Sistema Académico de Educación Permanente para emitir esos certificados.",
+      "citaTextual": "Los procesos de certificación del área de Educación Permanente, rezagados de las gestiones 2020 y 2021",
+      "referencia": "RM 0001/2026, Disposición Transitoria Primera, págs. 49-53", "etiquetas": ["transitorias", "memorística"] }
+  ]},
+  { "fragmentoRef": "rm0001-2026-df03", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según la Disposición Final Tercera de la RM 0001/2026, ¿qué deben mapear las Direcciones Departamentales, mediante las Subdirecciones y las Distritales?",
+      "opciones": [
+        { "texto": "Las unidades educativas y los CEA inclusivos por área de atención (discapacidad, dificultades en el aprendizaje y talento extraordinario)", "correcta": true, "porQue": "Disposición Final Tercera." },
+        { "texto": "Los ítems vacantes", "correcta": false, "porQue": "No es lo que dispone la RM." },
+        { "texto": "La infraestructura deteriorada", "correcta": false, "porQue": "No es lo que dispone la RM." },
+        { "texto": "Los centros privados irregulares", "correcta": false, "porQue": "No es lo que dispone la RM." }
+      ],
+      "explicacion": "La información sistematizada se remite al VEAE.",
+      "citaTextual": "realizarán un mapeo con la identificación y especialización correspondiente de las unidades educativas y centros de educación alternativa inclusivas por área de atención",
+      "referencia": "RM 0001/2026, Disposición Final Tercera, pág. 48", "etiquetas": ["inclusión", "mapeo"] }
+  ]},
+  { "fragmentoRef": "rm0001-2026-art08", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Un estudiante proveniente de un Centro de Educación Especial pide inscribirse en el CEA. Según el Art. 8 de la RM 0001/2026, ¿qué debe hacer el director?",
+      "opciones": [
+        { "texto": "Brindarle atención educativa y continuidad, previa presentación del informe de evaluación de diagnóstico o de transitabilidad, con certificación y libretas", "correcta": true, "porQue": "Art. 8." },
+        { "texto": "Rechazarlo y derivarlo de vuelta a Educación Especial", "correcta": false, "porQue": "Existe la obligación de darle continuidad." },
+        { "texto": "Inscribirlo solo como oyente", "correcta": false, "porQue": "No es lo que dispone la RM." },
+        { "texto": "Exigirle un examen de suficiencia", "correcta": false, "porQue": "Se exige el informe de evaluación o de transitabilidad." }
+      ],
+      "explicacion": "Es la transitabilidad en el marco de la Educación Inclusiva.",
+      "citaTextual": "tienen la obligación de brindar atención educativa y dar continuidad a la formación de los estudiantes del ámbito de Educación Especial",
+      "referencia": "RM 0001/2026, Art. 8, pág. 11", "etiquetas": ["inclusión", "caso"] }
+  ]}
+]

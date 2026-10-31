@@ -1,0 +1,329 @@
+[
+  { "fragmentoRef": "ley070-art03", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según el Art. 3 de la Ley 070, la educación es «única» en cuanto a:",
+      "opciones": [
+        { "texto": "Calidad, política educativa y currículo base, erradicando las diferencias entre lo fiscal y lo privado, lo urbano y lo rural", "correcta": true, "porQue": "Base 4 del Art. 3." },
+        { "texto": "Su aplicación en cada contexto geográfico, social, cultural y lingüístico", "correcta": false, "porQue": "Capciosa: eso es lo que la hace «diversa y plural», no «única»." },
+        { "texto": "La lengua de enseñanza, que es solo el castellano", "correcta": false, "porQue": "La educación es plurilingüe." },
+        { "texto": "La administración centralizada de todas las unidades educativas", "correcta": false, "porQue": "No es lo que define la base 4." }
+      ],
+      "explicacion": "La base 4 dice que la educación es única, diversa y plural: única en calidad, política y currículo base; diversa en su aplicación.",
+      "citaTextual": "Única en cuanto a calidad, política educativa y currículo base, erradicando las diferencias entre lo fiscal y privado, lo urbano y rural.",
+      "referencia": "Ley 070, Art. 3, num. 4, págs. 4-6", "etiquetas": ["bases", "capciosa"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según el Art. 3 de la Ley 070, ¿por qué la educación es «universal»?",
+      "opciones": [
+        { "texto": "Porque atiende a todos los habitantes del Estado y a los bolivianos que viven en el exterior, y se desarrolla a lo largo de toda la vida sin limitación ni condicionamiento", "correcta": true, "porQue": "Base 3 del Art. 3." },
+        { "texto": "Porque se basa en conocimientos científicos universales", "correcta": false, "porQue": "Eso se acerca a la base 10 (científica, técnica, tecnológica y artística)." },
+        { "texto": "Porque es gratuita en todos los niveles", "correcta": false, "porQue": "La gratuidad no es lo que define a la universalidad en el Art. 3." },
+        { "texto": "Porque es obligatoria hasta el bachillerato", "correcta": false, "porQue": "La obligatoriedad no es lo que define a la universalidad en el Art. 3." }
+      ],
+      "explicacion": "Este alcance a bolivianos en el exterior explica, por ejemplo, el CEPEAD.",
+      "citaTextual": "así como a las bolivianas y los bolivianos que viven en el exterior, se desarrolla a lo largo de toda la vida, sin limitación ni condicionamiento alguno",
+      "referencia": "Ley 070, Art. 3, num. 3, págs. 4-6", "etiquetas": ["bases", "universal"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Un docente del CEA exige a todos los participantes rezar una oración de su religión al iniciar la clase. Según la base 6 del Art. 3 de la Ley 070, esto contradice que la educación es:",
+      "opciones": [
+        { "texto": "Laica, pluralista y espiritual, sin imposición dogmática y con diálogo interreligioso", "correcta": true, "porQue": "Base 6 del Art. 3." },
+        { "texto": "Productiva y territorial", "correcta": false, "porQue": "Es la base 9, que no se refiere a lo religioso." },
+        { "texto": "Comunitaria, democrática y participativa", "correcta": false, "porQue": "Es la base 2, que no trata lo religioso." },
+        { "texto": "Unitaria e integradora", "correcta": false, "porQue": "Es la base 5." }
+      ],
+      "explicacion": "La base 6 garantiza la libertad de conciencia y de fe, y la enseñanza de religión sin imposición dogmática.",
+      "citaTextual": "Es laica, pluralista y espiritual, reconoce y garantiza la libertad de conciencia y de fe y de la enseñanza de religión",
+      "referencia": "Ley 070, Art. 3, num. 6, págs. 4-6", "etiquetas": ["bases", "laicidad", "caso"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según el Art. 3 de la Ley 070, ¿cuál es la primera base de la educación?",
+      "opciones": [
+        { "texto": "Es descolonizadora, liberadora, revolucionaria, anti-imperialista, despatriarcalizadora y transformadora de las estructuras económicas y sociales", "correcta": true, "porQue": "Base 1 del Art. 3." },
+        { "texto": "Es universal y gratuita", "correcta": false, "porQue": "La universal es la base 3." },
+        { "texto": "Es intracultural, intercultural y plurilingüe", "correcta": false, "porQue": "Es la base 8." },
+        { "texto": "Es inclusiva", "correcta": false, "porQue": "Es la base 7." }
+      ],
+      "explicacion": "Hay que diferenciar las bases (Art. 3), los fines (Art. 4) y los objetivos (Art. 5).",
+      "citaTextual": "Es descolonizadora, liberadora, revolucionaria, anti-imperialista, despatriarcalizadora y transformadora de las estructuras económicas y sociales",
+      "referencia": "Ley 070, Art. 3, num. 1, págs. 4-6", "etiquetas": ["bases", "memorística"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "¿Cuál de las siguientes NO es una de las bases de la educación del Art. 3 de la Ley 070?",
+      "opciones": [
+        { "texto": "Es competitiva y meritocrática", "correcta": true, "porQue": "No figura en el Art. 3." },
+        { "texto": "Es promotora de la convivencia pacífica y contribuye a erradicar toda forma de violencia en el ámbito educativo", "correcta": false, "porQue": "Es la base 12." },
+        { "texto": "Es productiva y territorial", "correcta": false, "porQue": "Es la base 9." },
+        { "texto": "Es educación de la vida y en la vida, para Vivir Bien", "correcta": false, "porQue": "Es la base 11." }
+      ],
+      "explicacion": "Las bases incluyen también los principios ético-morales: ama qhilla, ama llulla, ama suwa, suma qamaña y otros.",
+      "citaTextual": "Es promotora de la convivencia pacífica, contribuye a erradicar toda forma de violencia en el ámbito educativo",
+      "referencia": "Ley 070, Art. 3, págs. 4-6", "etiquetas": ["bases", "EXCEPTO"] }
+  ]},
+  { "fragmentoRef": "ley070-art04", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según el Art. 4 de la Ley 070, ¿cuál es el primer fin de la educación?",
+      "opciones": [
+        { "texto": "Contribuir a la consolidación de la educación descolonizada, para garantizar un Estado Plurinacional y una sociedad del Vivir Bien con justicia social, productiva y soberana", "correcta": true, "porQue": "Fin 1 del Art. 4." },
+        { "texto": "Desarrollar la formación integral de las personas y la conciencia social crítica", "correcta": false, "porQue": "Capciosa: es el primer objetivo (Art. 5, num. 1), no el primer fin." },
+        { "texto": "Universalizar los saberes y conocimientos propios", "correcta": false, "porQue": "Es el fin 3." },
+        { "texto": "Garantizar el acceso y la permanencia en igualdad de condiciones", "correcta": false, "porQue": "Es el objetivo 10 del Art. 5." }
+      ],
+      "explicacion": "Es una confusión frecuente entre fines (Art. 4) y objetivos (Art. 5).",
+      "citaTextual": "Contribuir a la consolidación de la educación descolonizada, para garantizar un Estado Plurinacional y una sociedad del Vivir Bien con justicia social, productiva y soberana.",
+      "referencia": "Ley 070, Art. 4, num. 1, págs. 6-7", "etiquetas": ["fines", "capciosa"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "¿Cuál de los siguientes es un FIN de la educación según el Art. 4 de la Ley 070?",
+      "opciones": [
+        { "texto": "Contribuir a reafirmar el derecho irrenunciable e imprescriptible del territorio que dé acceso al Océano Pacífico y su espacio marítimo", "correcta": true, "porQue": "Fin 10 del Art. 4." },
+        { "texto": "Priorizar la educación en las fronteras para resguardar la soberanía", "correcta": false, "porQue": "Es un objetivo (Art. 5, num. 6), no un fin." },
+        { "texto": "Implementar políticas de formación continua de maestros", "correcta": false, "porQue": "Es un objetivo (Art. 5, num. 13)." },
+        { "texto": "Implementar programas de alfabetización y postalfabetización", "correcta": false, "porQue": "Es un objetivo (Art. 5, num. 17)." }
+      ],
+      "explicacion": "Rebuscada: la reivindicación marítima es un fin; la educación en fronteras es un objetivo.",
+      "citaTextual": "Contribuir a reafirmar el derecho irrenunciable e imprescriptible del territorio que le dé acceso al Océano Pacífico y su espacio marítimo",
+      "referencia": "Ley 070, Art. 4, num. 10, págs. 6-7", "etiquetas": ["fines", "rebuscada"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según el Art. 4 de la Ley 070, el fin de promover una sociedad despatriarcalizada se cimenta en:",
+      "opciones": [
+        { "texto": "La equidad de género, la no diferencia de roles, la no violencia y la vigencia plena de los derechos humanos", "correcta": true, "porQue": "Fin 6 del Art. 4." },
+        { "texto": "La paridad salarial exclusivamente", "correcta": false, "porQue": "Es incompleto." },
+        { "texto": "La separación de estudiantes por sexo", "correcta": false, "porQue": "Contradice el fin." },
+        { "texto": "Los valores del civismo y la disciplina", "correcta": false, "porQue": "No es lo que dice el texto." }
+      ],
+      "explicacion": "El texto coincide con el Art. 79 de la CPE.",
+      "citaTextual": "Promover una sociedad despatriarcalizada, cimentada en la equidad de género, la no diferencia de roles, la no violencia y la vigencia plena de los derechos humanos.",
+      "referencia": "Ley 070, Art. 4, num. 6, págs. 6-7", "etiquetas": ["fines", "despatriarcalización"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según el Art. 4 de la Ley 070, la investigación científica y tecnológica asociada a la innovación y producción de conocimientos se impulsa como:",
+      "opciones": [
+        { "texto": "Rector de lucha contra la pobreza, la exclusión social y la degradación del medio ambiente", "correcta": true, "porQue": "Fin 11 del Art. 4." },
+        { "texto": "Requisito para el ingreso a la universidad", "correcta": false, "porQue": "No es lo que dice el texto." },
+        { "texto": "Exclusiva de la educación superior", "correcta": false, "porQue": "No es lo que dice el texto." },
+        { "texto": "Medio para la competitividad internacional", "correcta": false, "porQue": "No es lo que dice el texto." }
+      ],
+      "explicacion": "Es el último de los once fines.",
+      "citaTextual": "como rector de lucha contra la pobreza, exclusión social y degradación del medio ambiente",
+      "referencia": "Ley 070, Art. 4, num. 11, págs. 6-7", "etiquetas": ["fines", "memorística"] }
+  ]},
+  { "fragmentoRef": "ley070-art05", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Un CEA de una comunidad dispersa gestiona ante el municipio alimentación, transporte y material para participantes de escasos recursos. ¿Qué objetivo del Art. 5 de la Ley 070 fundamenta esa gestión?",
+      "opciones": [
+        { "texto": "Implementar, desde todos los niveles de gobierno, programas sociales para estudiantes con menos posibilidades económicas (alimentación, vestimenta, transporte, material escolar y residencias en áreas dispersas)", "correcta": true, "porQue": "Objetivo 11 del Art. 5." },
+        { "texto": "Priorizar la educación en las fronteras", "correcta": false, "porQue": "Es el objetivo 6, que no responde a este caso." },
+        { "texto": "Formar una conciencia productiva y ambiental", "correcta": false, "porQue": "Es el objetivo 12." },
+        { "texto": "Implementar la formación continua de maestros", "correcta": false, "porQue": "Es el objetivo 13." }
+      ],
+      "explicacion": "El mismo objetivo prevé becas para los estudiantes de excelente aprovechamiento.",
+      "citaTextual": "mediante recursos económicos, programas de alimentación, vestimenta, transporte y material escolar; en áreas dispersas con residencias estudiantiles",
+      "referencia": "Ley 070, Art. 5, num. 11, págs. 7-9", "etiquetas": ["objetivos", "caso"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según el Art. 5 de la Ley 070, ¿qué objetivo se refiere específicamente a la población atendida por los CEA?",
+      "opciones": [
+        { "texto": "Implementar políticas de alfabetización y postalfabetización integral y de formación para jóvenes y adultos que posibiliten la continuidad de sus estudios hasta la educación superior", "correcta": true, "porQue": "Objetivo 17 del Art. 5." },
+        { "texto": "Establecer la secuencialidad desde la educación inicial hasta la superior", "correcta": false, "porQue": "Es el objetivo 16, de alcance general." },
+        { "texto": "Promover el acceso de personas con discapacidad", "correcta": false, "porQue": "Es el objetivo 14, propio de la Educación Especial." },
+        { "texto": "Priorizar la educación en las fronteras", "correcta": false, "porQue": "Es el objetivo 6." }
+      ],
+      "explicacion": "El objetivo 17 incluye también los procesos de educación permanente.",
+      "citaTextual": "Implementar políticas y programas de alfabetización y postalfabetización integral de carácter intracultural, intercultural y plurilingüe, de formación para personas jóvenes y adultas",
+      "referencia": "Ley 070, Art. 5, num. 17, págs. 7-9", "etiquetas": ["objetivos", "alternativa"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según el Art. 5 de la Ley 070, ¿qué objetivo prevé priorizar la educación en las fronteras?",
+      "opciones": [
+        { "texto": "Contribuir al fortalecimiento de la seguridad, defensa y desarrollo del Estado Plurinacional, priorizando la educación en las fronteras para resguardar la soberanía", "correcta": true, "porQue": "Objetivo 6 del Art. 5." },
+        { "texto": "Fortalecer la unidad e integridad territorial (fin 9)", "correcta": false, "porQue": "Capciosa: es un fin del Art. 4 y no menciona las fronteras." },
+        { "texto": "Garantizar el acceso y la permanencia en igualdad de condiciones", "correcta": false, "porQue": "Es el objetivo 10." },
+        { "texto": "Desarrollar programas pertinentes a cada contexto", "correcta": false, "porQue": "Es el objetivo 15." }
+      ],
+      "explicacion": "Se relaciona con los maestros itinerantes en fronteras (RM 0718/2025).",
+      "citaTextual": "priorizando la educación en las fronteras para resguardar la soberanía",
+      "referencia": "Ley 070, Art. 5, num. 6, págs. 7-9", "etiquetas": ["objetivos", "fronteras"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según el objetivo 5 del Art. 5 de la Ley 070, ¿con la participación directa de quiénes se consolida el Sistema Educativo Plurinacional?",
+      "opciones": [
+        { "texto": "De madres y padres, organizaciones sociales, sindicales y populares, instituciones, pueblos IOC, afrobolivianos y comunidades interculturales", "correcta": true, "porQue": "Objetivo 5 del Art. 5." },
+        { "texto": "Solo del Ministerio de Educación", "correcta": false, "porQue": "Requiere participación social directa." },
+        { "texto": "Solo de las juntas escolares", "correcta": false, "porQue": "Es más amplia." },
+        { "texto": "De organismos internacionales de cooperación", "correcta": false, "porQue": "No figuran en el texto." }
+      ],
+      "explicacion": "La participación abarca la formulación de políticas, la planificación, la organización, el seguimiento y la evaluación.",
+      "citaTextual": "con la directa participación de madres y padres de familia, de las organizaciones sociales, sindicales y populares",
+      "referencia": "Ley 070, Art. 5, num. 5, págs. 7-9", "etiquetas": ["objetivos", "participación"] }
+  ]},
+  { "fragmentoRef": "ley070-art07", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Un CEA funciona en una comunidad monolingüe con predominio del quechua. Según el Art. 7 de la Ley 070, ¿cómo se usan las lenguas?",
+      "opciones": [
+        { "texto": "El quechua (lengua originaria) como primera lengua y el castellano como segunda", "correcta": true, "porQue": "Art. 7, num. 1." },
+        { "texto": "El castellano como primera lengua y el quechua como segunda", "correcta": false, "porQue": "Capciosa: esa regla es para las comunidades con predominio del castellano (num. 2)." },
+        { "texto": "Solo el castellano", "correcta": false, "porQue": "No es lo que dispone la ley." },
+        { "texto": "Lo decide libremente el director", "correcta": false, "porQue": "Son principios obligatorios." }
+      ],
+      "explicacion": "La educación debe iniciarse en la lengua materna.",
+      "citaTextual": "En poblaciones o comunidades monolingües y de predominio de la lengua originaria, la lengua originaria como primera lengua y el castellano como segunda lengua.",
+      "referencia": "Ley 070, Art. 7, num. 1, pág. 10", "etiquetas": ["lenguas", "caso", "capciosa"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según el Art. 7 de la Ley 070, en las comunidades trilingües o plurilingües, ¿quién define la elección de la lengua originaria que será la primera lengua?",
+      "opciones": [
+        { "texto": "Los consejos comunitarios, según criterios de territorialidad y transterritorialidad", "correcta": true, "porQue": "Art. 7, num. 3." },
+        { "texto": "La Dirección Distrital", "correcta": false, "porQue": "No es lo que dispone la ley." },
+        { "texto": "El director de la unidad o centro", "correcta": false, "porQue": "No es lo que dispone la ley." },
+        { "texto": "El Instituto Plurinacional de Estudio de Lenguas y Culturas", "correcta": false, "porQue": "Investiga las lenguas, pero no decide la primera lengua." }
+      ],
+      "explicacion": "La enseñanza de una lengua extranjera es gradual y obligatoria desde los primeros años, y la lengua de señas es un derecho.",
+      "citaTextual": "se sujeta a criterios de territorialidad y transterritorialidad definidos por los consejos comunitarios",
+      "referencia": "Ley 070, Art. 7, num. 3, pág. 10", "etiquetas": ["lenguas", "competencia"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según el Art. 7 de la Ley 070, la enseñanza del lenguaje de señas:",
+      "opciones": [
+        { "texto": "Es un derecho de los estudiantes que lo requieran y forma parte de la formación plurilingüe de los maestros", "correcta": true, "porQue": "Art. 7, num. 6." },
+        { "texto": "Es optativa y solo para centros de Educación Especial", "correcta": false, "porQue": "Es un derecho en el sistema educativo." },
+        { "texto": "Se enseña solo a partir de la secundaria", "correcta": false, "porQue": "No es lo que dispone la ley." },
+        { "texto": "Reemplaza a la lengua extranjera", "correcta": false, "porQue": "No es lo que dispone la ley." }
+      ],
+      "explicacion": "Esto coincide con el Art. 70 de la CPE (comunicación en lenguaje alternativo).",
+      "citaTextual": "La enseñanza del lenguaje en señas es un derecho de las y los estudiantes que lo requieran en el sistema educativo.",
+      "referencia": "Ley 070, Art. 7, num. 6, pág. 10", "etiquetas": ["lengua de señas"] }
+  ]},
+  { "fragmentoRef": "ley070-art08", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según el Art. 8 de la Ley 070, ¿qué subsistemas comprende el Sistema Educativo Plurinacional?",
+      "opciones": [
+        { "texto": "Educación Regular; Educación Alternativa y Especial; y Educación Superior de Formación Profesional", "correcta": true, "porQue": "Art. 8." },
+        { "texto": "Educación Regular, Alternativa, Especial y Superior, como cuatro subsistemas", "correcta": false, "porQue": "Capciosa: Alternativa y Especial forman un solo subsistema." },
+        { "texto": "Inicial, Primaria y Secundaria", "correcta": false, "porQue": "Son niveles de la Educación Regular." },
+        { "texto": "Fiscal, privada y de convenio", "correcta": false, "porQue": "Son tipos de dependencia." }
+      ],
+      "explicacion": "Son tres subsistemas.",
+      "citaTextual": "1. Subsistema de Educación Regular. 2. Subsistema de Educación Alternativa y Especial. 3. Subsistema de Educación Superior de Formación Profesional.",
+      "referencia": "Ley 070, Art. 8, pág. 10", "etiquetas": ["estructura", "capciosa"] }
+  ]},
+  { "fragmentoRef": "ley070-art12", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según el Art. 12 de la Ley 070, ¿cuál es la duración total de la Educación Inicial en Familia Comunitaria y cómo se distribuye?",
+      "opciones": [
+        { "texto": "Cinco años: tres no escolarizados y dos escolarizados", "correcta": true, "porQue": "Art. 12." },
+        { "texto": "Cinco años: dos no escolarizados y tres escolarizados", "correcta": false, "porQue": "Capciosa: la distribución está invertida." },
+        { "texto": "Dos años, solo escolarizados", "correcta": false, "porQue": "No coincide." },
+        { "texto": "Seis años", "correcta": false, "porQue": "No coincide." }
+      ],
+      "explicacion": "La etapa no escolarizada es una responsabilidad compartida entre la familia, la comunidad y el Estado.",
+      "citaTextual": "De cinco años de duración, comprende dos etapas",
+      "referencia": "Ley 070, Art. 12, págs. 11-12", "etiquetas": ["inicial", "memorística", "capciosa"] }
+  ]},
+  { "fragmentoRef": "ley070-art20", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según el Art. 20 de la Ley 070, ¿de qué subsistema dependen los Centros de Capacitación Técnica y qué carácter pueden tener?",
+      "opciones": [
+        { "texto": "Del Subsistema de Educación Alternativa y Especial; pueden ser fiscales, de convenio o privados", "correcta": true, "porQue": "Art. 20." },
+        { "texto": "Del Subsistema de Educación Superior; solo privados", "correcta": false, "porQue": "Dependen de Alternativa y Especial." },
+        { "texto": "Del Ministerio de Trabajo", "correcta": false, "porQue": "No es lo que dispone la ley." },
+        { "texto": "De Alternativa y Especial; solo fiscales", "correcta": false, "porQue": "Capciosa: también pueden ser de convenio o privados." }
+      ],
+      "explicacion": "Desarrollan programas de corta duración (ver categorías A y B en la RM 1040).",
+      "citaTextual": "dependen del Subsistema de Educación Alternativa y Especial. Son instituciones de carácter fiscal, de convenio y privado",
+      "referencia": "Ley 070, Art. 20, pág. 14", "etiquetas": ["capacitación técnica", "capciosa"] }
+  ]},
+  { "fragmentoRef": "ley070-art81", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Un CEA quiere cobrar a los egresados de Secundaria de Adultos un monto por la emisión del Diploma de Bachiller. Según el Art. 81 de la Ley 070:",
+      "opciones": [
+        { "texto": "Es indebido: el Ministerio, a través de las Direcciones Departamentales, otorga gratuitamente el Diploma de Bachiller", "correcta": true, "porQue": "Art. 81." },
+        { "texto": "Es correcto si el monto lo aprueba la Junta", "correcta": false, "porQue": "La ley establece la gratuidad." },
+        { "texto": "Es correcto solo en los CEA de convenio", "correcta": false, "porQue": "La gratuidad no distingue dependencias." },
+        { "texto": "El diploma lo otorga la Dirección Distrital, previo pago", "correcta": false, "porQue": "Confusión de instancia y de gratuidad." }
+      ],
+      "explicacion": "Se otorga al culminar la Secundaria Comunitaria Productiva y la Secundaria de Adultos.",
+      "citaTextual": "otorgará gratuitamente el Diploma de Bachiller, sujeto a reglamentación",
+      "referencia": "Ley 070, Art. 81, pág. 34", "etiquetas": ["diploma de bachiller", "caso"] }
+  ]},
+  { "fragmentoRef": "ley070-art82", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según el Art. 82 de la Ley 070, ¿qué reconoce el Estado a través del Sistema Plurinacional de Certificación de Competencias?",
+      "opciones": [
+        { "texto": "Las competencias laborales y artísticas desarrolladas en la práctica a lo largo de la vida", "correcta": true, "porQue": "Art. 82." },
+        { "texto": "Solo los títulos universitarios extranjeros", "correcta": false, "porQue": "No es lo que dispone la ley." },
+        { "texto": "Solo los cursos de formación continua de maestros", "correcta": false, "porQue": "No es lo que dispone la ley." },
+        { "texto": "Las competencias académicas de bachillerato", "correcta": false, "porQue": "No es lo que dispone la ley." }
+      ],
+      "explicacion": "El Sistema se reglamenta en la RM 0531/2023.",
+      "citaTextual": "El Estado reconocerá las competencias laborales y artísticas de ciudadanas y ciudadanos bolivianos que desarrollaron competencias en la práctica a lo largo de la vida",
+      "referencia": "Ley 070, Art. 82, pág. 34", "etiquetas": ["certificación de competencias"] }
+  ]},
+  { "fragmentoRef": "ley070-art85", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según el Art. 85 de la Ley 070, ¿a quiénes brinda apoyo técnico la estructura de Apoyo Técnico de Recursos y Servicios?",
+      "opciones": [
+        { "texto": "A las autoridades administrativas y al personal docente del sistema educativo, de la jerarquía y la función directiva", "correcta": true, "porQue": "Art. 85, num. 1." },
+        { "texto": "Solo a los estudiantes", "correcta": false, "porQue": "No es lo que dispone la ley." },
+        { "texto": "A las empresas privadas", "correcta": false, "porQue": "No es lo que dispone la ley." },
+        { "texto": "Solo al Ministerio de Educación", "correcta": false, "porQue": "No es lo que dispone la ley." }
+      ],
+      "explicacion": "Se organiza en equipos multidisciplinarios (Art. 86).",
+      "citaTextual": "Brindar apoyo técnico oportuno y de calidad a las autoridades administrativas y personal docente del sistema educativo, de la jerarquía y la función directiva.",
+      "referencia": "Ley 070, Art. 85, pág. 34", "etiquetas": ["apoyo técnico"] }
+  ]},
+  { "fragmentoRef": "ley070-art88", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según el Art. 88 de la Ley 070, ¿quiénes financian y sostienen los institutos de lenguas y culturas de cada nación o pueblo IOC?",
+      "opciones": [
+        { "texto": "Las entidades territoriales autónomas", "correcta": true, "porQue": "Art. 88, par. 2." },
+        { "texto": "El Ministerio de Educación", "correcta": false, "porQue": "Capciosa: el Instituto Plurinacional (IPELC) es una entidad descentralizada del Ministerio, pero los institutos de cada pueblo los sostienen las ETA." },
+        { "texto": "Los propios pueblos indígenas, sin apoyo estatal", "correcta": false, "porQue": "No es lo que dispone la ley." },
+        { "texto": "La cooperación internacional", "correcta": false, "porQue": "No es lo que dispone la ley." }
+      ],
+      "explicacion": "El IPELC es una entidad descentralizada del Ministerio de Educación.",
+      "citaTextual": "los mismos que serán financiados y sostenidos por las entidades territoriales autónomas",
+      "referencia": "Ley 070, Art. 88, pág. 35", "etiquetas": ["lenguas", "financiamiento", "capciosa"] }
+  ]},
+  { "fragmentoRef": "ley070-art89", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según el Art. 89 de la Ley 070, ¿cómo se financia el Sistema Educativo Plurinacional?",
+      "opciones": [
+        { "texto": "Con recursos del Tesoro General del Estado y de las entidades territoriales autónomas, según corresponda y acorde a la Ley del Presupuesto General del Estado", "correcta": true, "porQue": "Art. 89." },
+        { "texto": "Solo con aportes de los padres de familia", "correcta": false, "porQue": "No es lo que dispone la ley." },
+        { "texto": "Solo con recursos municipales", "correcta": false, "porQue": "Es incompleto." },
+        { "texto": "Con cooperación internacional exclusivamente", "correcta": false, "porQue": "No es lo que dispone la ley." }
+      ],
+      "explicacion": "Es concordante con el Art. 77 de la CPE (la educación como función suprema y primera responsabilidad financiera del Estado).",
+      "citaTextual": "a través de recursos del Tesoro General del Estado y de las entidades territoriales autónomas",
+      "referencia": "Ley 070, Art. 89, pág. 35", "etiquetas": ["financiamiento"] }
+  ]},
+  { "fragmentoRef": "ley070-art27", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Una participante con discapacidad auditiva estudia en un CEA regular, que sensibiliza a la comunidad educativa para incluirla. Según el Art. 27 de la Ley 070, ¿en qué modalidad de Educación Especial se encuadra?",
+      "opciones": [
+        { "texto": "Modalidad indirecta, mediante la inclusión de la persona con discapacidad en el Sistema Educativo Plurinacional", "correcta": true, "porQue": "Art. 27, modalidad 2." },
+        { "texto": "Modalidad directa", "correcta": false, "porQue": "Capciosa: la directa es para quienes requieren servicios especializados e integrales." },
+        { "texto": "Modalidad a distancia", "correcta": false, "porQue": "No es una modalidad de la Educación Especial." },
+        { "texto": "Modalidad itinerante", "correcta": false, "porQue": "No es una modalidad de la Educación Especial." }
+      ],
+      "explicacion": "Las áreas de la Educación Especial son discapacidad, dificultades en el aprendizaje y talento extraordinario (Art. 26).",
+      "citaTextual": "Modalidad indirecta, a través de la inclusión de las personas con discapacidad",
+      "referencia": "Ley 070, Art. 27, págs. 16-17", "etiquetas": ["educación especial", "caso", "capciosa"] }
+  ]},
+  { "fragmentoRef": "ley070-art38", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según el Art. 38 de la Ley 070, ¿qué título otorga el Ministerio de Educación a los egresados de las Escuelas Superiores de Formación de Maestros?",
+      "opciones": [
+        { "texto": "El Título de Maestro con grado de Licenciatura y su reconocimiento en el Escalafón", "correcta": true, "porQue": "Art. 38." },
+        { "texto": "El Título de Técnico Superior en Educación", "correcta": false, "porQue": "No coincide." },
+        { "texto": "El Título de Normalista sin grado académico", "correcta": false, "porQue": "No coincide." },
+        { "texto": "El Título de Maestría en Educación", "correcta": false, "porQue": "Capciosa: es Licenciatura, no Maestría." }
+      ],
+      "explicacion": "El Escalafón reconoce a los profesionales formados en las ESFM.",
+      "citaTextual": "El Ministerio de Educación otorgará el Título de Maestro con grado de Licenciatura",
+      "referencia": "Ley 070, Art. 38, pág. 19", "etiquetas": ["formación de maestros", "capciosa"] }
+  ]},
+  { "fragmentoRef": "ley070-dt01", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según la Disposición Transitoria Primera de la Ley 070, ¿en qué plazo debía el Observatorio de la Calidad Educativa adecuar su estructura a la CPE y a la ley?",
+      "opciones": [
+        { "texto": "En noventa días", "correcta": true, "porQue": "Disposición Transitoria Primera." },
+        { "texto": "En un año", "correcta": false, "porQue": "No coincide." },
+        { "texto": "En treinta días", "correcta": false, "porQue": "No coincide." },
+        { "texto": "En seis meses", "correcta": false, "porQue": "No coincide." }
+      ],
+      "explicacion": "Dato fino de las disposiciones transitorias.",
+      "citaTextual": "En el plazo de noventa días el Observatorio de la Calidad Educativa adecuará su estructura",
+      "referencia": "Ley 070, Disposición Transitoria Primera, pág. 37", "etiquetas": ["transitorias", "memorística"] }
+  ]}
+]
