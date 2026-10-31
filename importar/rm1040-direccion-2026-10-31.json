@@ -1,0 +1,236 @@
+[
+  { "fragmentoRef": "rm1040-b004", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según los Lineamientos Metodológicos de Educación Permanente (RM 1040), ¿cuáles fueron los cuatro pilares de la Escuela Ayllu de Warisata?",
+      "opciones": [
+        { "texto": "Aula, taller, chacra y ulaqa", "correcta": true, "porQue": "Son los cuatro pilares que menciona el documento." },
+        { "texto": "Aula, taller, comunidad y producción", "correcta": false, "porQue": "\"Comunidad\" y \"producción\" no son los nombres de los pilares." },
+        { "texto": "Ayllu, chacra, escuela y familia", "correcta": false, "porQue": "No coinciden con los pilares." },
+        { "texto": "Aula, iglesia, taller y cuartel", "correcta": false, "porQue": "No corresponde." }
+      ],
+      "explicacion": "Warisata (1931-1938) se basó en el aula, el taller, la chacra y la ulaqa (el comité de gobierno de la escuela, con representantes de los ayllus).",
+      "citaTextual": "sobre la base de cuatro pilares: Aula, taller, chacra y ulaqa",
+      "referencia": "RM 1040, Lineamientos Metodológicos de Educación Permanente, págs. 15-17", "etiquetas": ["Warisata", "historia de la educación"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según el documento de la RM 1040, ¿quiénes fundaron la Escuela Ayllu de Warisata, en qué año y hasta cuándo se desarrolló esa experiencia?",
+      "opciones": [
+        { "texto": "El amauta Avelino Siñani y el profesor Elizardo Pérez, en 1931; se desarrolló hasta 1938", "correcta": true, "porQue": "Son los datos del documento." },
+        { "texto": "Elizardo Pérez y Franz Tamayo, en 1921; hasta 1931", "correcta": false, "porQue": "Los fundadores y las fechas no coinciden." },
+        { "texto": "Avelino Siñani y Elizardo Pérez, en 1936; hasta 1952", "correcta": false, "porQue": "El año de fundación es 1931 y la experiencia llegó hasta 1938." },
+        { "texto": "La Iglesia Católica, en 1931; hasta la Reforma de 1955", "correcta": false, "porQue": "No corresponde." }
+      ],
+      "explicacion": "Warisata es la experiencia más importante de una educación surgida de las culturas propias, y su modelo se irradió a otros núcleos del país.",
+      "citaTextual": "En 1931, el amauta Avelino Siñani y el profesor Elizardo Pérez fundaron la Escuela Ayllu de Warisata",
+      "referencia": "RM 1040, Lineamientos Metodológicos de Educación Permanente, págs. 15-17", "etiquetas": ["Warisata"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según el documento de la RM 1040, ¿qué aportó la escuela indígena de Caiza \"D\" (Potosí) a la irradiación del modelo de Warisata?",
+      "opciones": [
+        { "texto": "El enriquecimiento del concepto y procedimiento del \"Sistema Nuclear\" Seccional y la formación de educadores de origen campesino", "correcta": true, "porQue": "Es el aporte que le atribuye el documento." },
+        { "texto": "La capacitación radiofónica de campesinos", "correcta": false, "porQue": "Ese fue el aporte de ACLO (1966)." },
+        { "texto": "La creación de los Centros Integrados", "correcta": false, "porQue": "Los Centros Integrados se crearon en 1975." },
+        { "texto": "La campaña \"Yo sí puedo\"", "correcta": false, "porQue": "Es un plan muy posterior (siglo XXI)." }
+      ],
+      "explicacion": "La formación de educadores campesinos de Caiza \"D\" se plasmó luego en la Normal Indígena de Cañadas (Cochabamba).",
+      "citaTextual": "que aportó con el enriquecimiento del concepto y procedimiento del “Sistema Nuclear” Seccional y la formación de educadores de origen campesino",
+      "referencia": "RM 1040, Lineamientos Metodológicos de Educación Permanente, págs. 15-17", "etiquetas": ["núcleos escolares", "historia"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según el recorrido histórico de la RM 1040, ¿qué ocurrió con las escuelas ambulantes y las normales rurales en 1921, durante el gobierno de Bautista Saavedra?",
+      "opciones": [
+        { "texto": "Fueron clausuradas", "correcta": true, "porQue": "Es lo que relata el documento." },
+        { "texto": "Se convirtieron en núcleos escolares", "correcta": false, "porQue": "Los núcleos surgen después de 1931." },
+        { "texto": "Se integraron a la Escuela de Warisata", "correcta": false, "porQue": "Warisata se fundó en 1931." },
+        { "texto": "Fueron elevadas a universidades", "correcta": false, "porQue": "No corresponde." }
+      ],
+      "explicacion": "La clausura de 1921 antecede a la experiencia de Warisata (1931).",
+      "citaTextual": "durante el gobierno de Bautista Saavedra, en 1921, las escuelas ambulantes y las normales rurales fueron clausuradas",
+      "referencia": "RM 1040, Lineamientos Metodológicos de Educación Permanente, pág. 15", "etiquetas": ["historia de la educación"] }
+  ]},
+  { "fragmentoRef": "rm1040-b005", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según la RM 1040, ¿qué experiencia nace en Sucre en 1966, basada en la capacitación radiofónica de campesinos, indígenas y sectores excluidos?",
+      "opciones": [
+        { "texto": "Acción Cultural Loyola (ACLO)", "correcta": true, "porQue": "Es la experiencia que menciona el documento, extendida luego a Potosí y Tarija." },
+        { "texto": "Los Centros de Educación Media de Adultos (CEMA)", "correcta": false, "porQue": "Los CEMA se impulsan desde 1969, en ámbitos urbanos." },
+        { "texto": "Los Centros Integrados (CI)", "correcta": false, "porQue": "Se crean en 1975." },
+        { "texto": "El Instituto Boliviano del Aprendizaje (IBA)", "correcta": false, "porQue": "El IBA ofrecía formación técnica de mano de obra calificada." }
+      ],
+      "explicacion": "Cronología: 1966 ACLO; 1969 CEMA; 1970 Primer Congreso Pedagógico; 1975 Centros Integrados; 1976 RM 294 (modalidades de adultos).",
+      "citaTextual": "En 1966 nace en Sucre Acción Cultural Loyola (ACLO)",
+      "referencia": "RM 1040, Lineamientos Metodológicos de Educación Permanente, págs. 17-18", "etiquetas": ["historia de la educación de adultos"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según la RM 1040, ¿con qué propósito se crearon en 1975 los Centros Integrados (CI)?",
+      "opciones": [
+        { "texto": "Superar las dificultades del uso de metodologías escolarizadas en la Educación de Adultos", "correcta": true, "porQue": "Es el propósito que menciona el documento." },
+        { "texto": "Impartir capacitación radiofónica en el área rural", "correcta": false, "porQue": "Esa fue la experiencia de ACLO." },
+        { "texto": "Otorgar el bachillerato por madurez y suficiencia", "correcta": false, "porQue": "Esa posibilidad la ofrecía el CEMA." },
+        { "texto": "Alfabetizar mediante el método \"Yo sí puedo\"", "correcta": false, "porQue": "Es un programa muy posterior." }
+      ],
+      "explicacion": "Los CI integraron las modalidades IBA, EBA y CEMA, con formación técnico-ocupacional, humanístico-científica y de promoción sociocultural.",
+      "citaTextual": "En 1975 se crean los Centros Integrados (CI) con el propósito de superar las dificultades provenientes del uso de metodologías escolarizadas en la Educación de Adultos.",
+      "referencia": "RM 1040, Lineamientos Metodológicos de Educación Permanente, págs. 17-18", "etiquetas": ["historia de la educación de adultos"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según la RM 1040, ¿qué planteó el Primer Congreso Pedagógico Nacional de 1970?",
+      "opciones": [
+        { "texto": "Que la educación debía ser revolucionaria y formar parte de los cambios estructurales como instrumento de liberación", "correcta": true, "porQue": "Es lo que relata el documento." },
+        { "texto": "Que la educación de adultos debía ser escolarizada y uniforme", "correcta": false, "porQue": "El planteamiento fue liberador, y la Educación Popular ganó protagonismo." },
+        { "texto": "Que debía crearse la Escuela de Warisata", "correcta": false, "porQue": "Warisata es de 1931." },
+        { "texto": "Que debía privatizarse la educación técnica", "correcta": false, "porQue": "No corresponde." }
+      ],
+      "explicacion": "En ese marco, la Educación Popular asumió protagonismo en la campaña masiva de alfabetización.",
+      "citaTextual": "En 1970 se realiza el Primer Congreso Pedagógico Nacional, donde se plantea que la educación debe ser revolucionaria",
+      "referencia": "RM 1040, Lineamientos Metodológicos de Educación Permanente, págs. 17-18", "etiquetas": ["educación popular"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según la RM 1040, ¿cómo estaba organizada la Educación Básica de Adultos (EBA) normada por la RM 294 de 1976?",
+      "opciones": [
+        { "texto": "En seis grados (uno inicial, tres complementarios y dos avanzados), con una duración de tres años", "correcta": true, "porQue": "Es la estructura descrita en el documento." },
+        { "texto": "En cuatro grados, con una duración de dos años", "correcta": false, "porQue": "Eran seis grados en tres años." },
+        { "texto": "En ocho grados, con una duración de cuatro años", "correcta": false, "porQue": "No corresponde." },
+        { "texto": "En tres niveles: básico, auxiliar y medio", "correcta": false, "porQue": "Esos son niveles técnicos actuales." }
+      ],
+      "explicacion": "La RM 294/1976 normó las modalidades EBA, CEMA e IBA de la Educación de Adultos y la Educación No Formal.",
+      "citaTextual": "Educación Básica de Adultos (EBA), que comprendía seis grados: uno inicial, tres complementarios y dos avanzados, con una duración de tres años",
+      "referencia": "RM 1040, Lineamientos Metodológicos de Educación Permanente, págs. 17-18", "etiquetas": ["historia", "EBA"] }
+  ]},
+  { "fragmentoRef": "rm1040-b006", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según la RM 1040, ¿qué objetivo tuvo el programa \"Yo sí puedo seguir\", continuación del Plan Nacional de Alfabetización?",
+      "opciones": [
+        { "texto": "Proporcionar educación primaria a los recién alfabetizados y a todas las personas mayores de 15 años que abandonaron o no tuvieron acceso a la educación", "correcta": true, "porQue": "Es el objetivo que describe el documento." },
+        { "texto": "Erradicar el analfabetismo, meta cumplida en 2008", "correcta": false, "porQue": "Ese fue el objetivo de \"Yo sí puedo\", no de \"Yo sí puedo seguir\"." },
+        { "texto": "Otorgar títulos de Técnico Medio a los alfabetizados", "correcta": false, "porQue": "Su objetivo era la educación primaria." },
+        { "texto": "Atender a bolivianos en el exterior", "correcta": false, "porQue": "Esa es la función del CEPEAD." }
+      ],
+      "explicacion": "\"Yo sí puedo\" erradicó el analfabetismo (meta cumplida en 2008); \"Yo sí puedo seguir\" dio continuidad con educación primaria.",
+      "citaTextual": "con el objetivo de proporcionar educación primaria a los recién alfabetizados y a todas las personas mayores de 15 años que han abandonado o no han tenido acceso a la educación",
+      "referencia": "RM 1040, Lineamientos Metodológicos de Educación Permanente, págs. 18-20", "etiquetas": ["alfabetización", "post-alfabetización"] }
+  ]},
+  { "fragmentoRef": "rm1040-b010", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según los Lineamientos Metodológicos de Educación Permanente (RM 1040), la acción educativa como proceso dialéctico sigue la secuencia:",
+      "opciones": [
+        { "texto": "Práctica - teoría - práctica, cíclica y continua, para apropiarse conscientemente de la realidad y transformarla", "correcta": true, "porQue": "Es la secuencia que describe el documento." },
+        { "texto": "Teoría - práctica - evaluación, de forma lineal", "correcta": false, "porQue": "El proceso parte de la práctica y es cíclico." },
+        { "texto": "Diagnóstico - planificación - ejecución", "correcta": false, "porQue": "Son etapas de gestión, no la lógica dialéctica." },
+        { "texto": "Exposición - memorización - examen", "correcta": false, "porQue": "Contradice el enfoque de la Educación Popular." }
+      ],
+      "explicacion": "La Educación Permanente parte de la realidad, la analiza y teoriza, y vuelve a una práctica transformada y transformadora.",
+      "citaTextual": "Es un proceso de “práctica -teoría -práctica”, que conduce a la apropiación consciente de la realidad para transformarla",
+      "referencia": "RM 1040, Lineamientos Metodológicos de Educación Permanente, págs. 28-30", "etiquetas": ["dialéctica", "educación popular"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "En la Educación Permanente, el énfasis en \"el reconocimiento de las causas\" se ilustra en la RM 1040 con la idea de:",
+      "opciones": [
+        { "texto": "Entender el árbol desde sus raíces, no desde sus ramas", "correcta": true, "porQue": "Es la imagen que usa el documento." },
+        { "texto": "Partir siempre de la teoría antes que de la práctica", "correcta": false, "porQue": "El proceso parte de la práctica." },
+        { "texto": "Dejarse guiar por las apariencias de los hechos", "correcta": false, "porQue": "El documento pide justamente no dejarse engañar por las apariencias." },
+        { "texto": "Analizar los hechos de forma aislada", "correcta": false, "porQue": "El documento pide relacionar o vincular las cosas entre sí." }
+      ],
+      "explicacion": "Lo participativo implica reconocer las causas, vincular las cosas entre sí y no dejarse engañar por las apariencias; \"nadie educa a nadie, todos enseñan y aprenden\".",
+      "citaTextual": "El reconocimiento de la causas; se trata de entender el árbol desde sus raíces, no desde sus ramas.",
+      "referencia": "RM 1040, Lineamientos Metodológicos de Educación Permanente, págs. 28-30", "etiquetas": ["pensamiento crítico"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Un facilitador planifica él solo todo el curso y los participantes únicamente asisten. Según los principios participativos de la RM 1040, ¿qué principio desatiende?",
+      "opciones": [
+        { "texto": "Que los participantes intervengan en todo el proceso (gestión, planificación, diseño, evaluación y sistematización), porque nadie educa a nadie y todos enseñan y aprenden simultáneamente", "correcta": true, "porQue": "Es lo que plantea el documento sobre lo participativo." },
+        { "texto": "El principio de autoridad exclusiva del facilitador", "correcta": false, "porQue": "El documento no plantea ese principio." },
+        { "texto": "La gratuidad de los procesos formativos", "correcta": false, "porQue": "No guarda relación con el caso." },
+        { "texto": "La educación escolarizada con contenidos fijos", "correcta": false, "porQue": "La Educación Permanente es no escolarizada y se construye con la comunidad." }
+      ],
+      "explicacion": "La participación no elimina las tareas propias del facilitador, pero todos son sujetos que conocen, aportan y aprenden.",
+      "citaTextual": "(Nadie educa a nadie, todos enseñan y aprenden simultáneamente)",
+      "referencia": "RM 1040, Lineamientos Metodológicos de Educación Permanente, págs. 28-30", "etiquetas": ["participación", "caso"] }
+  ]},
+  { "fragmentoRef": "rm1040-b011", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "En el diseño metodológico de la Educación Permanente (RM 1040), ¿a qué elemento corresponde la pregunta \"A TRAVÉS DE\"?",
+      "opciones": [
+        { "texto": "Al eje temático: el aspecto específico sobre el que gira ordenadamente el contenido", "correcta": true, "porQue": "Es la definición del documento." },
+        { "texto": "A los objetivos", "correcta": false, "porQue": "Los objetivos responden al \"PARA QUÉ\"." },
+        { "texto": "Al método", "correcta": false, "porQue": "El método responde al \"CÓMO\"." },
+        { "texto": "A los resultados", "correcta": false, "porQue": "Los resultados son los \"LOGROS\"." }
+      ],
+      "explicacion": "QUÉ: tema; PARA QUÉ: objetivos; CÓMO: método; A TRAVÉS DE: eje temático; LOGROS: resultados.",
+      "citaTextual": "A TRAVÉS DE (EJE TEMÁTICO) Es el aspecto específico que verá y desarrollará el tema",
+      "referencia": "RM 1040, Lineamientos Metodológicos de Educación Permanente, págs. 30-33", "etiquetas": ["diseño metodológico"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "En el instrumento de diseño metodológico de la RM 1040, ¿cuál de las dos lógicas NO está sujeta a cambios y cuál puede ajustarse?",
+      "opciones": [
+        { "texto": "La lógica dialéctica (práctica-teoría-valoración-producción) no cambia; la lógica metodológica (técnicas, recursos, tiempos, responsables) puede ajustarse a los participantes", "correcta": true, "porQue": "Es lo que establece el documento." },
+        { "texto": "La lógica metodológica no cambia; la dialéctica se ajusta", "correcta": false, "porQue": "Es al revés." },
+        { "texto": "Ambas son fijas", "correcta": false, "porQue": "La metodológica puede modificarse." },
+        { "texto": "Ambas pueden cambiar, incluso el punto de partida", "correcta": false, "porQue": "El proceso siempre comienza por la práctica." }
+      ],
+      "explicacion": "El proceso siempre comienza con la práctica o el análisis de la realidad; lo adaptable son las técnicas, los recursos y los tiempos.",
+      "citaTextual": "Esta lógica dialéctica no está sujeta a cambios, ya que un proceso educativo siempre comenzará con el momento de la práctica",
+      "referencia": "RM 1040, Lineamientos Metodológicos de Educación Permanente, págs. 30-33", "etiquetas": ["diseño metodológico", "momentos metodológicos"] }
+  ]},
+  { "fragmentoRef": "rm1040-b013", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según la RM 1040, ¿qué distingue a la Educación Permanente de otros subsistemas en cuanto a sus contenidos?",
+      "opciones": [
+        { "texto": "Que no tiene contenidos curriculares predefinidos: se construye en y con la comunidad, a partir de sus necesidades, y su particularidad fundamental es la dimensión comunitaria", "correcta": true, "porQue": "Es lo que plantea el documento." },
+        { "texto": "Que sigue la misma malla curricular que la EPJA", "correcta": false, "porQue": "A diferencia de otros subsistemas, sus contenidos no están predefinidos." },
+        { "texto": "Que sus contenidos los fija cada año el Ministerio", "correcta": false, "porQue": "Se construyen con la comunidad." },
+        { "texto": "Que solo enseña oficios técnicos certificables", "correcta": false, "porQue": "Abarca programas de arte, convivencia con la Madre Tierra, educación abierta, etc." }
+      ],
+      "explicacion": "La Educación Permanente parte de las necesidades, expectativas e intereses de la población; son \"las otras educaciones\", en constante innovación.",
+      "citaTextual": "en Educación Permanente se construye en y con la comunidad, a partir de sus necesidades",
+      "referencia": "RM 1040, Lineamientos Metodológicos de Educación Permanente, págs. 35-37", "etiquetas": ["educación permanente", "dimensión comunitaria"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según la cita de Silvia de Alarcón en la RM 1040, ¿qué entiende la Ley por \"dimensión comunitaria\"?",
+      "opciones": [
+        { "texto": "No la comunidad ancestral o históricamente existente, sino la comunidad como forma de lo social", "correcta": true, "porQue": "Es lo que señala la cita." },
+        { "texto": "La comunidad ancestral, tal como existió antes de la colonia", "correcta": false, "porQue": "La autora aclara que no se trata de la comunidad ancestral." },
+        { "texto": "Solo el ayllu andino", "correcta": false, "porQue": "La autora habla de la comunidad como forma de lo social, no de una organización concreta." },
+        { "texto": "La comunidad educativa de cada unidad escolar", "correcta": false, "porQue": "No es la acepción que da la autora." }
+      ],
+      "explicacion": "La dimensión comunitaria se entiende como forma de lo social y búsqueda, no como reconstrucción de una comunidad histórica.",
+      "citaTextual": "no es la comunidad ancestral, la comunidad históricamente existente, sino la comunidad como forma de lo social",
+      "referencia": "RM 1040, Lineamientos Metodológicos de Educación Permanente, págs. 35-37", "etiquetas": ["dimensión comunitaria"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Entre los fundamentos de la Educación Permanente que recoge la RM 1040, ¿cuál es CORRECTO?",
+      "opciones": [
+        { "texto": "Los tiempos y espacios para el aprendizaje no están definidos, y la persona está en un constante proceso de aprendizaje", "correcta": true, "porQue": "Son fundamentos enumerados en el documento." },
+        { "texto": "El aprendizaje ocurre en etapas especiales fijadas por la edad", "correcta": false, "porQue": "El documento dice que no hay etapas especiales." },
+        { "texto": "Solo el facilitador tiene algo que enseñar", "correcta": false, "porQue": "Todos tienen algo que enseñar y algo que aprender." },
+        { "texto": "Solo se reconoce la educación escolarizada formal", "correcta": false, "porQue": "Se reconocen otras formas de educación sustentadas en la vida." }
+      ],
+      "explicacion": "Todos enseñan y aprenden, el aprendizaje es constante, sin tiempos ni espacios definidos, y se reconocen las otras formas de educación de la vida cotidiana.",
+      "citaTextual": "Los tiempos y espacios para el aprendizaje, no están definidos.",
+      "referencia": "RM 1040, Lineamientos Metodológicos de Educación Permanente, págs. 35-37", "etiquetas": ["fundamentos"] }
+  ]},
+  { "fragmentoRef": "rm1040-b014", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según la RM 1040, ¿qué carácter tiene la Formación de Facilitadores Comunitarios respecto de los programas de Educación Permanente?",
+      "opciones": [
+        { "texto": "Es un eje transversal que se enlaza con cada uno de los programas", "correcta": true, "porQue": "Es lo que establece el documento." },
+        { "texto": "Es un programa independiente, sin relación con los demás", "correcta": false, "porQue": "Es transversal y se enlaza con todos." },
+        { "texto": "Es un requisito para ingresar a la EPJA", "correcta": false, "porQue": "No corresponde." },
+        { "texto": "Es una modalidad de la educación superior", "correcta": false, "porQue": "No corresponde." }
+      ],
+      "explicacion": "Programas: Arte y Cultura, Educación Abierta y Plural, Convivencia con la Madre Tierra; la Formación de Facilitadores Comunitarios atraviesa a todos.",
+      "citaTextual": "Es un eje transversal que se enlaza con cada uno de los programas",
+      "referencia": "RM 1040, Lineamientos Metodológicos de Educación Permanente, págs. 37-40", "etiquetas": ["facilitadores comunitarios", "programas"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Un CEP quiere un programa de Educación Permanente para desarrollar la conciencia socioambiental en defensa de los derechos de la Madre Tierra. ¿Qué programa de la RM 1040 corresponde?",
+      "opciones": [
+        { "texto": "Educación para la Convivencia con la Madre Tierra", "correcta": true, "porQue": "Su objetivo es justamente la conciencia socioambiental en defensa de los derechos de la Madre Tierra." },
+        { "texto": "Educación Abierta y Plural", "correcta": false, "porQue": "Ese programa se orienta a procesos inclusivos con poblaciones vulnerables y en riesgo social." },
+        { "texto": "Educación para el Arte y la Cultura", "correcta": false, "porQue": "Ese programa promueve las artes y la cultura de los pueblos." },
+        { "texto": "Formación de Facilitadores Comunitarios", "correcta": false, "porQue": "Es un eje transversal, no un programa temático." }
+      ],
+      "explicacion": "Cada programa tiene su objetivo: Arte y Cultura (identidad cultural), Abierta y Plural (inclusión), Madre Tierra (conciencia socioambiental).",
+      "citaTextual": "para el desarrollo de la conciencia socio-ambiental en defensa de los derechos de la Madre Tierra",
+      "referencia": "RM 1040, Lineamientos Metodológicos de Educación Permanente, págs. 37-40", "etiquetas": ["programas", "caso"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según la estructura de la Formación de Facilitadores Comunitarios (FA.COM.) de la RM 1040, ¿qué carga horaria corresponde al nivel Avanzado?",
+      "opciones": [
+        { "texto": "400 horas", "correcta": true, "porQue": "El cuadro asigna 400 horas al nivel Avanzado." },
+        { "texto": "200 horas", "correcta": false, "porQue": "Doscientas horas corresponden a los niveles Inicial e Intermedio." },
+        { "texto": "500 horas", "correcta": false, "porQue": "Quinientas horas es la carga de Técnico Básico y Auxiliar en la EPJA técnica (RM 0183)." },
+        { "texto": "1000 horas", "correcta": false, "porQue": "Mil horas es la carga de Técnico Medio." }
+      ],
+      "explicacion": "FA.COM.: Inicial 200 h, Intermedio 200 h, Avanzado 400 h.",
+      "citaTextual": "FA.COM. - AVANZADO 400 HORAS",
+      "referencia": "RM 1040, Lineamientos Metodológicos de Educación Permanente, págs. 37-40", "etiquetas": ["facilitadores comunitarios", "carga horaria"] }
+  ]}
+]
