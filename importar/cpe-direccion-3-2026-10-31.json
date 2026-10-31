@@ -1,0 +1,358 @@
+[
+  { "fragmentoRef": "cpe-art01", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según el Art. 1 de la CPE, Bolivia se constituye en un Estado:",
+      "opciones": [
+        { "texto": "Unitario Social de Derecho Plurinacional Comunitario, libre, independiente, soberano, democrático, intercultural, descentralizado y con autonomías", "correcta": true, "porQue": "Es el texto literal del Art. 1." },
+        { "texto": "Federal Social de Derecho Plurinacional, libre, independiente, soberano y democrático", "correcta": false, "porQue": "Capciosa: Bolivia es un Estado unitario, no federal." },
+        { "texto": "Unitario Social de Derecho Plurinacional Comunitario, laico, centralizado y con autonomías", "correcta": false, "porQue": "Es descentralizado, no centralizado." },
+        { "texto": "Unitario de Derecho Republicano, democrático y representativo", "correcta": false, "porQue": "Es la fórmula republicana anterior a 2009." }
+      ],
+      "explicacion": "Se funda en la pluralidad y el pluralismo político, económico, jurídico, cultural y lingüístico.",
+      "citaTextual": "Bolivia se constituye en un Estado Unitario Social de Derecho Plurinacional Comunitario, libre, independiente, soberano, democrático, intercultural, descentralizado y con autonomías.",
+      "referencia": "CPE, Art. 1, pág. 2", "etiquetas": ["modelo de Estado", "memorística"] }
+  ]},
+  { "fragmentoRef": "cpe-art02", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según el Art. 2 de la CPE, la libre determinación de las naciones y pueblos indígena originario campesinos se garantiza:",
+      "opciones": [
+        { "texto": "En el marco de la unidad del Estado, y consiste en su derecho a la autonomía, al autogobierno, a su cultura, al reconocimiento de sus instituciones y a la consolidación de sus entidades territoriales", "correcta": true, "porQue": "Art. 2." },
+        { "texto": "Como derecho a la secesión y a constituir Estados independientes", "correcta": false, "porQue": "Se garantiza en el marco de la unidad del Estado." },
+        { "texto": "Solo en materia lingüística", "correcta": false, "porQue": "Es mucho más amplia." },
+        { "texto": "Siempre que no contradiga los estatutos departamentales", "correcta": false, "porQue": "Se rige por la Constitución y la ley." }
+      ],
+      "explicacion": "Se funda en la existencia precolonial de los pueblos IOC y en su dominio ancestral sobre sus territorios.",
+      "citaTextual": "se garantiza su libre determinación en el marco de la unidad del Estado",
+      "referencia": "CPE, Art. 2, pág. 2", "etiquetas": ["pueblos IOC", "libre determinación"] }
+  ]},
+  { "fragmentoRef": "cpe-art05", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según el Art. 5 de la CPE, ¿cuántos idiomas oficiales deben utilizar como mínimo el Gobierno plurinacional y los gobiernos departamentales?",
+      "opciones": [
+        { "texto": "Al menos dos, uno de los cuales debe ser el castellano", "correcta": true, "porQue": "Art. 5, par. II." },
+        { "texto": "Al menos tres, incluido el castellano", "correcta": false, "porQue": "Son al menos dos." },
+        { "texto": "Solo el castellano", "correcta": false, "porQue": "Son al menos dos." },
+        { "texto": "Al menos dos, sin que ninguno deba ser obligatoriamente el castellano", "correcta": false, "porQue": "Capciosa: uno debe ser el castellano." }
+      ],
+      "explicacion": "El segundo idioma se decide según el uso, la conveniencia, las circunstancias, las necesidades y las preferencias de la población.",
+      "citaTextual": "El Gobierno plurinacional y los gobiernos departamentales deben utilizar al menos dos idiomas oficiales. Uno de ellos debe ser el castellano",
+      "referencia": "CPE, Art. 5, par. II, págs. 2-3", "etiquetas": ["idiomas", "memorística"] }
+  ]},
+  { "fragmentoRef": "cpe-art234", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Un postulante a director de CEA cumple todos los requisitos, pero solo habla castellano. Según el Art. 234 de la CPE:",
+      "opciones": [
+        { "texto": "No cumple un requisito para acceder a funciones públicas: hablar al menos dos idiomas oficiales del país", "correcta": true, "porQue": "Art. 234, num. 7." },
+        { "texto": "Cumple, porque el castellano es suficiente para la función pública", "correcta": false, "porQue": "Se exigen al menos dos idiomas oficiales." },
+        { "texto": "Cumple si se compromete a aprender un idioma originario en cinco años", "correcta": false, "porQue": "La CPE no prevé ese compromiso como sustituto del requisito." },
+        { "texto": "Solo se exige el segundo idioma para cargos electivos", "correcta": false, "porQue": "El requisito es para acceder a cualquier función pública." }
+      ],
+      "explicacion": "Otros requisitos: nacionalidad boliviana, mayoría de edad, deberes militares, no tener pliego de cargo ni sentencia penal ejecutoriados pendientes, e inscripción en el padrón electoral.",
+      "citaTextual": "Hablar al menos dos idiomas oficiales del país.",
+      "referencia": "CPE, Art. 234, num. 7, pág. 58", "etiquetas": ["requisitos", "función pública", "caso"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "¿Cuál de los siguientes NO es un requisito para acceder a funciones públicas según el Art. 234 de la CPE?",
+      "opciones": [
+        { "texto": "Contar con título universitario", "correcta": true, "porQue": "No figura en el Art. 234." },
+        { "texto": "Estar inscrito en el padrón electoral", "correcta": false, "porQue": "Es el num. 6." },
+        { "texto": "Haber cumplido con los deberes militares", "correcta": false, "porQue": "Es el num. 3." },
+        { "texto": "No tener pliego de cargo ejecutoriado pendiente de cumplimiento", "correcta": false, "porQue": "Es el num. 4." }
+      ],
+      "explicacion": "El título puede ser un requisito específico de un cargo, pero no es un requisito constitucional general.",
+      "citaTextual": "No tener pliego de cargo ejecutoriado, ni sentencia condenatoria ejecutoriada en materia penal, pendientes de cumplimiento.",
+      "referencia": "CPE, Art. 234, pág. 58", "etiquetas": ["requisitos", "EXCEPTO"] }
+  ]},
+  { "fragmentoRef": "cpe-art233", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según el Art. 233 de la CPE, ¿quiénes NO forman parte de la carrera administrativa?",
+      "opciones": [
+        { "texto": "Quienes desempeñan cargos electivos, los designados y quienes ejercen funciones de libre nombramiento", "correcta": true, "porQue": "Art. 233." },
+        { "texto": "Todos los servidores públicos del sector educación", "correcta": false, "porQue": "La excepción no es por sector." },
+        { "texto": "Solo los servidores con menos de dos años de antigüedad", "correcta": false, "porQue": "La excepción no depende de la antigüedad." },
+        { "texto": "Los servidores públicos institucionalizados por concurso", "correcta": false, "porQue": "Ellos sí forman parte de la carrera." }
+      ],
+      "explicacion": "Son servidores públicos todas las personas que desempeñan funciones públicas.",
+      "citaTextual": "excepto aquellas personas que desempeñen cargos electivos, las designadas y los designados, y quienes ejerzan funciones de libre nombramiento",
+      "referencia": "CPE, Art. 233, pág. 58", "etiquetas": ["carrera administrativa"] }
+  ]},
+  { "fragmentoRef": "cpe-art232", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "¿Cuál de los siguientes NO figura entre los principios de la Administración Pública del Art. 232 de la CPE?",
+      "opciones": [
+        { "texto": "Discrecionalidad", "correcta": true, "porQue": "No figura; además se opone a la legalidad." },
+        { "texto": "Calidez", "correcta": false, "porQue": "Sí figura." },
+        { "texto": "Publicidad", "correcta": false, "porQue": "Sí figura." },
+        { "texto": "Resultados", "correcta": false, "porQue": "Sí figura." }
+      ],
+      "explicacion": "Principios: legitimidad, legalidad, imparcialidad, publicidad, compromiso e interés social, ética, transparencia, igualdad, competencia, eficiencia, calidad, calidez, honestidad, responsabilidad y resultados.",
+      "citaTextual": "competencia, eficiencia, calidad, calidez, honestidad, responsabilidad y resultados",
+      "referencia": "CPE, Art. 232, pág. 58", "etiquetas": ["Administración Pública", "EXCEPTO"] }
+  ]},
+  { "fragmentoRef": "cpe-art410", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Una RM del Ministerio de Educación contradice una ley nacional. Según la jerarquía normativa del Art. 410 de la CPE:",
+      "opciones": [
+        { "texto": "Prevalece la ley nacional, porque las leyes se ubican por encima de los decretos, reglamentos y demás resoluciones", "correcta": true, "porQue": "Art. 410, par. II: la CPE, los tratados internacionales, las leyes y estatutos, y después los decretos y resoluciones." },
+        { "texto": "Prevalece la RM por ser más específica", "correcta": false, "porQue": "La especialidad no altera la jerarquía constitucional." },
+        { "texto": "Prevalece la RM por ser posterior", "correcta": false, "porQue": "Una norma de rango inferior no deroga a una de rango superior." },
+        { "texto": "Ambas tienen el mismo rango", "correcta": false, "porQue": "Están en niveles distintos." }
+      ],
+      "explicacion": "El bloque de constitucionalidad lo integran los tratados de derechos humanos y las normas de derecho comunitario ratificados.",
+      "citaTextual": "La Constitución es la norma suprema del ordenamiento jurídico boliviano y goza de primacía frente a cualquier otra disposición normativa.",
+      "referencia": "CPE, Art. 410, par. II, pág. 105", "etiquetas": ["jerarquía normativa", "caso"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según el Art. 410 de la CPE, ¿qué integra el bloque de constitucionalidad?",
+      "opciones": [
+        { "texto": "Los Tratados y Convenios internacionales en materia de Derechos Humanos y las normas de Derecho Comunitario, ratificados por el país", "correcta": true, "porQue": "Art. 410, par. II." },
+        { "texto": "Las leyes orgánicas y los decretos supremos", "correcta": false, "porQue": "No integran el bloque." },
+        { "texto": "Los estatutos autonómicos", "correcta": false, "porQue": "Están en el tercer nivel de la jerarquía." },
+        { "texto": "Todos los tratados internacionales, en cualquier materia", "correcta": false, "porQue": "Capciosa: el bloque lo integran solo los tratados de derechos humanos y el derecho comunitario." }
+      ],
+      "explicacion": "Los tratados en general ocupan el segundo nivel de la jerarquía; los de derechos humanos integran el bloque de constitucionalidad.",
+      "citaTextual": "El bloque de constitucionalidad está integrado por los Tratados y Convenios internacionales en materia de Derechos Humanos y las normas de Derecho Comunitario, ratificados por el país.",
+      "referencia": "CPE, Art. 410, par. II, pág. 105", "etiquetas": ["bloque de constitucionalidad", "capciosa"] }
+  ]},
+  { "fragmentoRef": "cpe-art08", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según el Art. 8 de la CPE, ¿qué significa el principio ético-moral «ñandereko»?",
+      "opciones": [
+        { "texto": "Vida armoniosa", "correcta": true, "porQue": "Art. 8, par. I." },
+        { "texto": "Vivir bien", "correcta": false, "porQue": "Es suma qamaña." },
+        { "texto": "Tierra sin mal", "correcta": false, "porQue": "Es ivi maraei." },
+        { "texto": "Camino o vida noble", "correcta": false, "porQue": "Es qhapaj ñan." }
+      ],
+      "explicacion": "Teko kavi significa vida buena. Ama qhilla, ama llulla, ama suwa: no seas flojo, no seas mentiroso ni seas ladrón.",
+      "citaTextual": "ñandereko (vida armoniosa)",
+      "referencia": "CPE, Art. 8, par. I, pág. 3", "etiquetas": ["principios ético-morales", "memorística"] }
+  ]},
+  { "fragmentoRef": "cpe-art11", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según el Art. 11 de la CPE, la consulta previa es un mecanismo de la democracia:",
+      "opciones": [
+        { "texto": "Directa y participativa", "correcta": true, "porQue": "Art. 11, par. II, num. 1, junto al referendo, la iniciativa legislativa ciudadana, la revocatoria, la asamblea y el cabildo." },
+        { "texto": "Representativa", "correcta": false, "porQue": "La representativa se ejerce eligiendo representantes por voto universal." },
+        { "texto": "Comunitaria", "correcta": false, "porQue": "Capciosa: aunque se aplica a los pueblos IOC, la CPE la ubica en la democracia directa y participativa." },
+        { "texto": "Delegativa", "correcta": false, "porQue": "La CPE no contempla esa forma." }
+      ],
+      "explicacion": "La democracia comunitaria se ejerce mediante la elección o designación de autoridades por normas y procedimientos propios.",
+      "citaTextual": "por medio del referendo, la iniciativa legislativa ciudadana, la revocatoria de mandato, la asamblea, el cabildo y la consulta previa",
+      "referencia": "CPE, Art. 11, par. II, pág. 4", "etiquetas": ["democracia", "capciosa"] }
+  ]},
+  { "fragmentoRef": "cpe-art13", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según el Art. 13 de la CPE, ¿qué implica la clasificación de los derechos establecida en la Constitución?",
+      "opciones": [
+        { "texto": "No determina jerarquía alguna ni superioridad de unos derechos sobre otros", "correcta": true, "porQue": "Art. 13, par. III." },
+        { "texto": "Los derechos fundamentales prevalecen sobre los sociales", "correcta": false, "porQue": "No hay jerarquía." },
+        { "texto": "Solo los derechos enunciados existen", "correcta": false, "porQue": "Los derechos proclamados no niegan otros no enunciados (par. II)." },
+        { "texto": "Los derechos civiles prevalecen sobre los colectivos", "correcta": false, "porQue": "No hay jerarquía." }
+      ],
+      "explicacion": "Los derechos son inviolables, universales, interdependientes, indivisibles y progresivos.",
+      "citaTextual": "no determina jerarquía alguna ni superioridad de unos derechos sobre otros",
+      "referencia": "CPE, Art. 13, par. III, págs. 4-5", "etiquetas": ["derechos"] }
+  ]},
+  { "fragmentoRef": "cpe-art24", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Una madre presenta al director del CEA un pedido escrito, y la secretaría le exige una carta notariada y el visto bueno de la Junta Escolar. Según el Art. 24 de la CPE:",
+      "opciones": [
+        { "texto": "Es indebido: para ejercer el derecho de petición no se exige más requisito que la identificación del peticionario", "correcta": true, "porQue": "Art. 24." },
+        { "texto": "Es correcto, para garantizar la seriedad del pedido", "correcta": false, "porQue": "La CPE prohíbe exigir requisitos adicionales a la identificación." },
+        { "texto": "Es correcto solo si el pedido es colectivo", "correcta": false, "porQue": "La petición puede ser individual o colectiva, con el mismo requisito." },
+        { "texto": "Solo debe responder si el pedido es oral", "correcta": false, "porQue": "La petición puede ser oral o escrita." }
+      ],
+      "explicacion": "El peticionario tiene derecho a obtener una respuesta formal y pronta.",
+      "citaTextual": "Para el ejercicio de este derecho no se exigirá más requisito que la identificación del peticionario.",
+      "referencia": "CPE, Art. 24, pág. 8", "etiquetas": ["petición", "caso"] }
+  ]},
+  { "fragmentoRef": "cpe-art48", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Un administrativo del CEA firma un documento en el que renuncia a sus vacaciones y beneficios sociales a cambio de mantener su puesto. Según el Art. 48 de la CPE, ese acuerdo es:",
+      "opciones": [
+        { "texto": "Nulo: los derechos y beneficios laborales no pueden renunciarse, y son nulas las convenciones contrarias", "correcta": true, "porQue": "Art. 48, par. III." },
+        { "texto": "Válido, porque fue firmado libremente", "correcta": false, "porQue": "Los derechos laborales son irrenunciables." },
+        { "texto": "Válido si lo homologa la Dirección Distrital", "correcta": false, "porQue": "Ninguna autoridad puede validar esa renuncia." },
+        { "texto": "Anulable solo por la vía penal", "correcta": false, "porQue": "Es nulo por mandato constitucional." }
+      ],
+      "explicacion": "Los salarios devengados y los beneficios sociales son inembargables e imprescriptibles, con inversión de la prueba a favor del trabajador.",
+      "citaTextual": "Los derechos y beneficios reconocidos en favor de las trabajadoras y los trabajadores no pueden renunciarse, y son nulas las convenciones contrarias",
+      "referencia": "CPE, Art. 48, par. III, págs. 13-14", "etiquetas": ["derechos laborales", "caso"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según el Art. 48 de la CPE, ¿qué carácter tienen los salarios devengados y los aportes a la seguridad social no pagados?",
+      "opciones": [
+        { "texto": "Tienen privilegio y preferencia sobre cualquier otra acreencia, y son inembargables e imprescriptibles", "correcta": true, "porQue": "Art. 48, par. IV." },
+        { "texto": "Prescriben en dos años", "correcta": false, "porQue": "Son imprescriptibles." },
+        { "texto": "Son embargables por deudas tributarias", "correcta": false, "porQue": "Son inembargables." },
+        { "texto": "Se pagan después de las demás acreencias", "correcta": false, "porQue": "Tienen preferencia." }
+      ],
+      "explicacion": "Principios laborales: protección, primacía de la relación laboral, continuidad y estabilidad, no discriminación e inversión de la prueba.",
+      "citaTextual": "tienen privilegio y preferencia sobre cualquier otra acreencia, y son inembargables e imprescriptibles",
+      "referencia": "CPE, Art. 48, par. IV, págs. 13-14", "etiquetas": ["derechos laborales", "memorística"] }
+  ]},
+  { "fragmentoRef": "cpe-art70", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Un participante sordo del CEA pide que las clases se apoyen con lengua de señas. Según el Art. 70 de la CPE, ¿qué derecho lo respalda?",
+      "opciones": [
+        { "texto": "El derecho a la comunicación en lenguaje alternativo", "correcta": true, "porQue": "Art. 70, num. 3." },
+        { "texto": "El derecho de petición", "correcta": false, "porQue": "La petición es el medio para reclamar, no el derecho sustantivo en juego." },
+        { "texto": "El derecho a la libertad de expresión", "correcta": false, "porQue": "No es el derecho específico." },
+        { "texto": "El derecho a la jubilación", "correcta": false, "porQue": "No es aplicable." }
+      ],
+      "explicacion": "Las personas con discapacidad tienen además derecho a educación y salud integral gratuitas.",
+      "citaTextual": "A la comunicación en lenguaje alternativo.",
+      "referencia": "CPE, Art. 70, num. 3, pág. 18", "etiquetas": ["discapacidad", "caso"] }
+  ]},
+  { "fragmentoRef": "cpe-art79", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según el Art. 79 de la CPE, los valores que fomentará la educación incorporarán:",
+      "opciones": [
+        { "texto": "La equidad de género, la no diferencia de roles, la no violencia y la vigencia plena de los derechos humanos", "correcta": true, "porQue": "Art. 79." },
+        { "texto": "La disciplina, la obediencia y el patriotismo", "correcta": false, "porQue": "No es el texto constitucional." },
+        { "texto": "La competitividad y la meritocracia", "correcta": false, "porQue": "No es el texto constitucional." },
+        { "texto": "La unidad, la igualdad y la libertad, únicamente", "correcta": false, "porQue": "Son valores del Estado (Art. 8), no los que enumera el Art. 79." }
+      ],
+      "explicacion": "La educación fomentará el civismo, el diálogo intercultural y los valores ético-morales.",
+      "citaTextual": "Los valores incorporarán la equidad de género, la no diferencia de roles, la no violencia y la vigencia plena de los derechos humanos.",
+      "referencia": "CPE, Art. 79, pág. 20", "etiquetas": ["educación", "valores"] }
+  ]},
+  { "fragmentoRef": "cpe-art80", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según el Art. 80 de la CPE, ¿cuál es el objetivo de la educación?",
+      "opciones": [
+        { "texto": "La formación integral de las personas y el fortalecimiento de la conciencia social crítica en la vida y para la vida", "correcta": true, "porQue": "Art. 80, par. I." },
+        { "texto": "La preparación para el mercado laboral exclusivamente", "correcta": false, "porQue": "Es una visión parcial." },
+        { "texto": "La formación de mano de obra calificada para la industria", "correcta": false, "porQue": "No es el texto constitucional." },
+        { "texto": "La transmisión de contenidos científicos universales", "correcta": false, "porQue": "No es el texto constitucional." }
+      ],
+      "explicacion": "La educación vincula la teoría con la práctica productiva y protege el medio ambiente para vivir bien. El Art. 5 de la Ley 070 lo desarrolla.",
+      "citaTextual": "La educación tendrá como objetivo la formación integral de las personas y el fortalecimiento de la conciencia social crítica en la vida y para la vida.",
+      "referencia": "CPE, Art. 80, par. I, pág. 20", "etiquetas": ["educación", "objetivo"] }
+  ]},
+  { "fragmentoRef": "cpe-art83", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según el Art. 83 de la CPE, ¿cómo se garantiza la participación social, comunitaria y de los padres de familia en el sistema educativo?",
+      "opciones": [
+        { "texto": "Mediante organismos representativos en todos los niveles del Estado y en las naciones y pueblos IOC, con composición y atribuciones establecidas en la ley", "correcta": true, "porQue": "Art. 83." },
+        { "texto": "Solo mediante juntas escolares a nivel de unidad educativa", "correcta": false, "porQue": "Es en todos los niveles del Estado." },
+        { "texto": "Mediante la elección directa de los directores por los padres", "correcta": false, "porQue": "No es lo que establece la CPE." },
+        { "texto": "Mediante consulta voluntaria del Ministerio", "correcta": false, "porQue": "Es un derecho reconocido y garantizado, no una consulta voluntaria." }
+      ],
+      "explicacion": "La Ley 070 desarrolla esta participación en sus artículos 90 a 92.",
+      "citaTextual": "mediante organismos representativos en todos los niveles del Estado y en las naciones y pueblos indígena originario campesinos",
+      "referencia": "CPE, Art. 83, pág. 20", "etiquetas": ["participación social"] }
+  ]},
+  { "fragmentoRef": "cpe-art84", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Un CEA diseña un programa de alfabetización para una comunidad guaraní. Según el Art. 84 de la CPE, ¿cómo deben ser los programas para erradicar el analfabetismo?",
+      "opciones": [
+        { "texto": "Acordes con la realidad cultural y lingüística de la población, como deber del Estado y de la sociedad", "correcta": true, "porQue": "Art. 84." },
+        { "texto": "Uniformes en castellano para todo el país", "correcta": false, "porQue": "Deben adecuarse a la realidad cultural y lingüística." },
+        { "texto": "Exclusivamente estatales, sin participación social", "correcta": false, "porQue": "Es un deber del Estado y de la sociedad." },
+        { "texto": "Dirigidos solo a menores de 15 años", "correcta": false, "porQue": "No es lo que establece la CPE." }
+      ],
+      "explicacion": "Este mandato coincide con la Educación de Personas Jóvenes y Adultas de la Ley 070.",
+      "citaTextual": "El Estado y la sociedad tienen el deber de erradicar el analfabetismo a través de programas acordes con la realidad cultural y lingüística de la población.",
+      "referencia": "CPE, Art. 84, pág. 20", "etiquetas": ["alfabetización", "caso"] }
+  ]},
+  { "fragmentoRef": "cpe-art88", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según el Art. 88 de la CPE, las unidades educativas privadas:",
+      "opciones": [
+        { "texto": "Se rigen por las políticas, planes, programas y autoridades del sistema educativo, y el Estado garantiza su funcionamiento previa verificación de requisitos", "correcta": true, "porQue": "Art. 88, par. I." },
+        { "texto": "Se rigen por su propio currículo, al margen del sistema educativo", "correcta": false, "porQue": "Se rigen por las políticas del sistema educativo." },
+        { "texto": "Solo pueden funcionar en el nivel superior", "correcta": false, "porQue": "Funcionan en todos los niveles y modalidades." },
+        { "texto": "Están prohibidas en la educación alternativa", "correcta": false, "porQue": "Funcionan en todos los niveles y modalidades." }
+      ],
+      "explicacion": "Se respeta el derecho de los padres a elegir la educación de sus hijos (par. II). La RM 0001/2026 regula los CEA privados.",
+      "citaTextual": "éstas se regirán por las políticas, planes, programas y autoridades del sistema educativo",
+      "referencia": "CPE, Art. 88, pág. 21", "etiquetas": ["educación privada"] }
+  ]},
+  { "fragmentoRef": "cpe-art98", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según el Art. 98 de la CPE, ¿qué constituye la base esencial del Estado Plurinacional Comunitario y cuál es el instrumento para la cohesión?",
+      "opciones": [
+        { "texto": "La diversidad cultural es la base esencial y la interculturalidad es el instrumento para la cohesión y la convivencia armónica", "correcta": true, "porQue": "Art. 98, par. I." },
+        { "texto": "La interculturalidad es la base y la diversidad, el instrumento", "correcta": false, "porQue": "Capciosa: los conceptos están invertidos." },
+        { "texto": "La unidad lingüística es la base y la educación, el instrumento", "correcta": false, "porQue": "No es el texto constitucional." },
+        { "texto": "La descolonización es la base y la intraculturalidad, el instrumento", "correcta": false, "porQue": "No es el texto constitucional." }
+      ],
+      "explicacion": "La interculturalidad se da con respeto a las diferencias y en igualdad de condiciones.",
+      "citaTextual": "La diversidad cultural constituye la base esencial del Estado Plurinacional Comunitario. La interculturalidad es el instrumento para la cohesión",
+      "referencia": "CPE, Art. 98, par. I, págs. 23-24", "etiquetas": ["interculturalidad", "capciosa"] }
+  ]},
+  { "fragmentoRef": "cpe-art108", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según el Art. 108 de la CPE, ¿hasta qué nivel es deber de las bolivianas y los bolivianos formarse en el sistema educativo?",
+      "opciones": [
+        { "texto": "Hasta el bachillerato", "correcta": true, "porQue": "Art. 108, num. 6." },
+        { "texto": "Hasta la primaria", "correcta": false, "porQue": "Es hasta el bachillerato." },
+        { "texto": "Hasta el nivel técnico superior", "correcta": false, "porQue": "Es hasta el bachillerato." },
+        { "texto": "Hasta los 14 años", "correcta": false, "porQue": "La CPE no fija una edad, sino el nivel de bachillerato." }
+      ],
+      "explicacion": "Coincide con la obligatoriedad hasta el bachillerato del Art. 81. Otro deber es denunciar y combatir los actos de corrupción (num. 8).",
+      "citaTextual": "Formarse en el sistema educativo hasta el bachillerato.",
+      "referencia": "CPE, Art. 108, num. 6, pág. 26", "etiquetas": ["deberes", "memorística"] },
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Un docente del CEA descubre que un colega cobra a los participantes por la entrega de certificados. Según el Art. 108 de la CPE, ¿qué deber constitucional tiene?",
+      "opciones": [
+        { "texto": "Denunciar y combatir todos los actos de corrupción", "correcta": true, "porQue": "Art. 108, num. 8." },
+        { "texto": "Guardar silencio por lealtad institucional", "correcta": false, "porQue": "Contradice el deber constitucional." },
+        { "texto": "Denunciar solo si el monto supera un salario mínimo", "correcta": false, "porQue": "Capciosa: el deber alcanza a todos los actos de corrupción." },
+        { "texto": "Comunicarlo solo a los participantes afectados", "correcta": false, "porQue": "Eso no cumple el deber de denunciar." }
+      ],
+      "explicacion": "La Ley 004 desarrolla este deber.",
+      "citaTextual": "Denunciar y combatir todos los actos de corrupción.",
+      "referencia": "CPE, Art. 108, num. 8, pág. 26", "etiquetas": ["corrupción", "caso"] }
+  ]},
+  { "fragmentoRef": "cpe-art116", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "En un proceso disciplinario contra un docente hay duda sobre qué norma aplicar. Según el Art. 116 de la CPE:",
+      "opciones": [
+        { "texto": "Rige la norma más favorable al procesado, y cualquier sanción debe fundarse en una ley anterior al hecho", "correcta": true, "porQue": "Art. 116, par. I y II." },
+        { "texto": "Rige la norma más severa, para proteger a la institución", "correcta": false, "porQue": "Es lo contrario." },
+        { "texto": "Rige la norma más reciente, aunque sea posterior al hecho", "correcta": false, "porQue": "La sanción debe fundarse en una ley anterior al hecho." },
+        { "texto": "Decide libremente la autoridad sumariante", "correcta": false, "porQue": "La CPE fija la regla." }
+      ],
+      "explicacion": "Se garantiza la presunción de inocencia.",
+      "citaTextual": "Durante el proceso, en caso duda sobre la norma aplicable, regirá la más favorable al imputado o procesado.",
+      "referencia": "CPE, Art. 116, pág. 27", "etiquetas": ["garantías", "caso"] }
+  ]},
+  { "fragmentoRef": "cpe-art128", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Un director distrital deja sin efecto, sin proceso ni fundamento, la inscripción de un participante del CEA, y vulnera su derecho a la educación. ¿Qué acción constitucional corresponde?",
+      "opciones": [
+        { "texto": "La Acción de Amparo Constitucional, contra actos u omisiones ilegales o indebidos de los servidores públicos que restrinjan derechos", "correcta": true, "porQue": "Art. 128." },
+        { "texto": "La Acción de Libertad", "correcta": false, "porQue": "La Acción de Libertad protege la vida y la libertad personal, y la persecución o el procesamiento indebidos (Art. 125)." },
+        { "texto": "La Acción de Inconstitucionalidad", "correcta": false, "porQue": "Se dirige contra normas, no contra actos concretos." },
+        { "texto": "La Acción Popular", "correcta": false, "porQue": "Protege derechos colectivos." }
+      ],
+      "explicacion": "El amparo procede contra servidores públicos y también contra personas individuales o colectivas.",
+      "citaTextual": "La Acción de Amparo Constitucional tendrá lugar contra actos u omisiones ilegales o indebidos de los servidores públicos",
+      "referencia": "CPE, Art. 128, pág. 30", "etiquetas": ["acciones de defensa", "caso"] }
+  ]},
+  { "fragmentoRef": "cpe-art125", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según el Art. 125 de la CPE, la Acción de Libertad puede interponerse:",
+      "opciones": [
+        { "texto": "De manera oral o escrita, por sí o por cualquiera a su nombre y sin ninguna formalidad procesal, ante cualquier juez o tribunal competente en materia penal", "correcta": true, "porQue": "Art. 125." },
+        { "texto": "Solo por escrito y con patrocinio de abogado", "correcta": false, "porQue": "No requiere ninguna formalidad." },
+        { "texto": "Solo ante el Tribunal Constitucional Plurinacional", "correcta": false, "porQue": "Se interpone ante cualquier juez o tribunal en materia penal." },
+        { "texto": "Solo por el afectado, en persona", "correcta": false, "porQue": "Puede presentarla cualquiera a su nombre." }
+      ],
+      "explicacion": "Procede cuando la vida está en peligro o hay persecución, procesamiento o privación de libertad indebidos.",
+      "citaTextual": "de manera oral o escrita, por sí o por cualquiera a su nombre y sin ninguna formalidad procesal",
+      "referencia": "CPE, Art. 125, pág. 29", "etiquetas": ["acción de libertad"] }
+  ]},
+  { "fragmentoRef": "cpe-art26", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según el Art. 26 de la CPE, ¿cómo es el sufragio y desde qué edad se ejerce?",
+      "opciones": [
+        { "texto": "Voto igual, universal, directo, individual, secreto, libre y obligatorio, escrutado públicamente, a partir de los 18 años cumplidos", "correcta": true, "porQue": "Art. 26, par. II, num. 2." },
+        { "texto": "Voto igual, universal, directo y voluntario, a partir de los 16 años", "correcta": false, "porQue": "El voto es obligatorio y se ejerce desde los 18." },
+        { "texto": "Voto secreto, libre y obligatorio, a partir de los 21 años", "correcta": false, "porQue": "Se ejerce desde los 18." },
+        { "texto": "Voto público y obligatorio, desde los 18 años", "correcta": false, "porQue": "El voto es secreto; lo público es el escrutinio." }
+      ],
+      "explicacion": "En la democracia comunitaria se aplican normas y procedimientos propios, supervisados por el Órgano Electoral.",
+      "citaTextual": "El sufragio se ejercerá a partir de los dieciocho años cumplidos.",
+      "referencia": "CPE, Art. 26, pág. 8", "etiquetas": ["sufragio", "memorística"] }
+  ]}
+]

@@ -1,0 +1,210 @@
+[
+  { "fragmentoRef": "cpe-art14", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Un CEA rechaza inscribir a una participante porque está embarazada, alegando que «no podrá asistir regularmente». Según el Art. 14 de la CPE:",
+      "opciones": [
+        { "texto": "Es discriminación prohibida y sancionada: el embarazo figura expresamente entre los motivos prohibidos", "correcta": true, "porQue": "Art. 14, par. II." },
+        { "texto": "Es una decisión administrativa válida si se justifica por escrito", "correcta": false, "porQue": "Ninguna justificación salva una exclusión basada en el embarazo." },
+        { "texto": "Es lícita en la modalidad presencial", "correcta": false, "porQue": "La prohibición no depende de la modalidad." },
+        { "texto": "Solo es discriminación si la participante es menor de edad", "correcta": false, "porQue": "Capciosa: protege a toda persona." }
+      ],
+      "explicacion": "También se prohíbe discriminar por grado de instrucción, condición económica, tipo de ocupación o discapacidad, entre otros motivos.",
+      "citaTextual": "estado civil, condición económica o social, tipo de ocupación, grado de instrucción, discapacidad, embarazo",
+      "referencia": "CPE, Art. 14, par. II, pág. 5", "etiquetas": ["no discriminación", "caso"] }
+  ]},
+  { "fragmentoRef": "cpe-art18", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según el Art. 18 de la CPE, el sistema único de salud será:",
+      "opciones": [
+        { "texto": "Universal, gratuito, equitativo, intracultural, intercultural, participativo, con calidad, calidez y control social", "correcta": true, "porQue": "Art. 18, par. III." },
+        { "texto": "Universal, productivo, gratuito, integral e intercultural", "correcta": false, "porQue": "Son las características del derecho a la educación (Art. 17)." },
+        { "texto": "Unitario, público, universal, democrático y descolonizador", "correcta": false, "porQue": "Son características del sistema educativo (Art. 78)." },
+        { "texto": "Contributivo, solidario y focalizado", "correcta": false, "porQue": "No es el texto constitucional." }
+      ],
+      "explicacion": "Los principios del sistema son la solidaridad, la eficiencia y la corresponsabilidad.",
+      "citaTextual": "El sistema único de salud será universal, gratuito, equitativo, intracultural, intercultural, participativo, con calidad, calidez y control social.",
+      "referencia": "CPE, Art. 18, par. III, pág. 6", "etiquetas": ["salud", "capciosa"] }
+  ]},
+  { "fragmentoRef": "cpe-art46", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según el Art. 46 de la CPE, ¿qué se prohíbe en materia de trabajo?",
+      "opciones": [
+        { "texto": "Toda forma de trabajo forzoso u otro modo análogo de explotación que obligue a una persona a realizar labores sin su consentimiento y justa retribución", "correcta": true, "porQue": "Art. 46, par. III." },
+        { "texto": "Todo trabajo de menores de 18 años", "correcta": false, "porQue": "El Art. 46 no establece esa prohibición." },
+        { "texto": "El trabajo por cuenta propia", "correcta": false, "porQue": "El Estado protege el trabajo en todas sus formas." },
+        { "texto": "Las horas extraordinarias", "correcta": false, "porQue": "No es lo que dispone el artículo." }
+      ],
+      "explicacion": "Toda persona tiene derecho a un trabajo digno y a una fuente laboral estable.",
+      "citaTextual": "Se prohíbe toda forma de trabajo forzoso u otro modo análogo de explotación",
+      "referencia": "CPE, Art. 46, par. III, pág. 13", "etiquetas": ["trabajo"] }
+  ]},
+  { "fragmentoRef": "cpe-art58", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "¿Cómo define la CPE (Art. 58) a la niña, niño o adolescente, frente a la Ley 548?",
+      "opciones": [
+        { "texto": "La CPE considera NNA a toda persona menor de edad; la Ley 548 distingue la niñez (hasta los 12 años) y la adolescencia (de 12 a 18)", "correcta": true, "porQue": "Art. 58 de la CPE y Art. 5 de la Ley 548." },
+        { "texto": "La CPE fija la niñez hasta los 12 años", "correcta": false, "porQue": "Esa división está en la Ley 548, no en la CPE." },
+        { "texto": "La CPE considera NNA a los menores de 14 años", "correcta": false, "porQue": "No es lo que establece el Art. 58." },
+        { "texto": "La CPE no define a los NNA", "correcta": false, "porQue": "Sí los define, en el Art. 58." }
+      ],
+      "explicacion": "Los NNA son titulares de derechos generales y de derechos específicos propios de su desarrollo.",
+      "citaTextual": "Se considera niña, niño o adolescente a toda persona menor de edad.",
+      "referencia": "CPE, Art. 58, págs. 15-16", "etiquetas": ["niñez", "capciosa"] }
+  ]},
+  { "fragmentoRef": "cpe-art92", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según el Art. 92 de la CPE, ¿qué requisito necesitan las universidades públicas para negociar empréstitos con garantía de sus bienes?",
+      "opciones": [
+        { "texto": "Aprobación legislativa previa", "correcta": true, "porQue": "Art. 92, par. I." },
+        { "texto": "Autorización del Ministerio de Educación", "correcta": false, "porQue": "La CPE exige aprobación legislativa." },
+        { "texto": "Ninguno, por su autonomía", "correcta": false, "porQue": "Capciosa: la autonomía no alcanza a los empréstitos sin aprobación legislativa." },
+        { "texto": "Aprobación del Consejo Universitario solamente", "correcta": false, "porQue": "No basta." }
+      ],
+      "explicacion": "La autonomía universitaria comprende la libre administración de recursos, el nombramiento de autoridades y personal, y la aprobación de estatutos, planes de estudio y presupuestos.",
+      "citaTextual": "podrán negociar empréstitos con garantía de sus bienes y recursos, previa aprobación legislativa",
+      "referencia": "CPE, Art. 92, par. I, pág. 22", "etiquetas": ["universidades", "autonomía"] }
+  ]},
+  { "fragmentoRef": "cpe-art97", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según el Art. 97 de la CPE, la formación post-gradual será coordinada por:",
+      "opciones": [
+        { "texto": "Una instancia conformada por las universidades del sistema educativo, de acuerdo con la ley", "correcta": true, "porQue": "Art. 97." },
+        { "texto": "El Ministerio de Educación de forma exclusiva", "correcta": false, "porQue": "No es lo que establece el Art. 97." },
+        { "texto": "Cada universidad de forma independiente, sin coordinación", "correcta": false, "porQue": "Hay una instancia de coordinación." },
+        { "texto": "El Observatorio Plurinacional de la Calidad Educativa", "correcta": false, "porQue": "El Observatorio evalúa la calidad en los subsistemas regular, alternativo y especial." }
+      ],
+      "explicacion": "Su misión fundamental es la cualificación de profesionales mediante la investigación vinculada con la realidad.",
+      "citaTextual": "será coordinada por una instancia conformada por las universidades del sistema educativo",
+      "referencia": "CPE, Art. 97, pág. 23", "etiquetas": ["posgrado"] }
+  ]},
+  { "fragmentoRef": "cpe-art99", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según el Art. 99 de la CPE, el patrimonio cultural del pueblo boliviano es:",
+      "opciones": [
+        { "texto": "Inalienable, inembargable e imprescriptible", "correcta": true, "porQue": "Art. 99, par. I." },
+        { "texto": "Enajenable con autorización legislativa", "correcta": false, "porQue": "Es inalienable." },
+        { "texto": "Imprescriptible, pero embargable", "correcta": false, "porQue": "Capciosa: es inembargable." },
+        { "texto": "Propiedad de los gobiernos municipales", "correcta": false, "porQue": "Es patrimonio del pueblo boliviano." }
+      ],
+      "explicacion": "Los recursos que genera se destinan prioritariamente a su conservación, preservación y promoción.",
+      "citaTextual": "El patrimonio cultural del pueblo boliviano es inalienable, inembargable e imprescriptible.",
+      "referencia": "CPE, Art. 99, par. I, pág. 24", "etiquetas": ["patrimonio cultural", "memorística"] }
+  ]},
+  { "fragmentoRef": "cpe-art130", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Un exparticipante del CEA descubre que en la base de datos del centro figura con una sanción que nunca recibió, y la dirección se niega a corregirla. ¿Qué acción constitucional corresponde?",
+      "opciones": [
+        { "texto": "La Acción de Protección de Privacidad, para obtener la eliminación o rectificación de los datos registrados", "correcta": true, "porQue": "Art. 130, par. I." },
+        { "texto": "La Acción de Libertad", "correcta": false, "porQue": "Protege la vida y la libertad personal." },
+        { "texto": "La Acción Popular", "correcta": false, "porQue": "Protege derechos colectivos." },
+        { "texto": "La Acción de Cumplimiento", "correcta": false, "porQue": "Procede contra el incumplimiento de normas, no para rectificar datos personales." }
+      ],
+      "explicacion": "Se tramita con el procedimiento del Amparo, y la decisión se eleva de oficio al TCP en 24 horas (Art. 131).",
+      "citaTextual": "podrá interponer la Acción de Protección de Privacidad",
+      "referencia": "CPE, Art. 130, págs. 30-31", "etiquetas": ["protección de privacidad", "caso"] }
+  ]},
+  { "fragmentoRef": "cpe-art131", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según el Art. 131 de la CPE, la decisión sobre una Acción de Protección de Privacidad se eleva de oficio en revisión ante el TCP:",
+      "opciones": [
+        { "texto": "En las 24 horas siguientes a la emisión del fallo, sin que se suspenda su ejecución", "correcta": true, "porQue": "Art. 131, par. III." },
+        { "texto": "En 72 horas, con suspensión de la ejecución", "correcta": false, "porQue": "Son 24 horas y la ejecución no se suspende." },
+        { "texto": "En 10 días hábiles", "correcta": false, "porQue": "Son 24 horas." },
+        { "texto": "En 24 horas, con suspensión de la ejecución hasta la revisión", "correcta": false, "porQue": "Capciosa: el plazo es correcto, pero la ejecución no se suspende." }
+      ],
+      "explicacion": "Si se concede, la decisión se ejecuta de inmediato y sin observación.",
+      "citaTextual": "en el plazo de las veinticuatro horas siguientes a la emisión del fallo, sin que por ello se suspenda su ejecución",
+      "referencia": "CPE, Art. 131, par. III, pág. 31", "etiquetas": ["plazos", "capciosa"] }
+  ]},
+  { "fragmentoRef": "cpe-art135", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Una empresa vierte desechos tóxicos junto a un CEA, afectando la salubridad de toda la comunidad. ¿Qué acción constitucional procede?",
+      "opciones": [
+        { "texto": "La Acción Popular, por vulneración de derechos e intereses colectivos como la salubridad pública y el medio ambiente", "correcta": true, "porQue": "Art. 135." },
+        { "texto": "La Acción de Protección de Privacidad", "correcta": false, "porQue": "Protege los datos personales." },
+        { "texto": "La Acción de Libertad", "correcta": false, "porQue": "Protege la libertad personal." },
+        { "texto": "Ninguna, solo procede la vía administrativa", "correcta": false, "porQue": "No es necesario agotar la vía administrativa (Art. 136)." }
+      ],
+      "explicacion": "Puede interponerla cualquier persona; el Ministerio Público y el Defensor del Pueblo están obligados a hacerlo cuando conocen el hecho.",
+      "citaTextual": "relacionados con el patrimonio, el espacio, la seguridad y salubridad pública, el medio ambiente",
+      "referencia": "CPE, Art. 135, pág. 32", "etiquetas": ["acción popular", "caso"] }
+  ]},
+  { "fragmentoRef": "cpe-art136", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "ANALIZAR",
+      "enunciado": "Según el Art. 136 de la CPE, ¿qué característica distingue a la Acción Popular?",
+      "opciones": [
+        { "texto": "Puede interponerse mientras subsista la vulneración o amenaza, sin necesidad de agotar la vía judicial o administrativa", "correcta": true, "porQue": "Art. 136, par. I." },
+        { "texto": "Debe interponerse en un plazo de seis meses", "correcta": false, "porQue": "Puede interponerse mientras subsista la vulneración." },
+        { "texto": "Exige agotar previamente la vía administrativa", "correcta": false, "porQue": "No es necesario." },
+        { "texto": "Solo puede interponerla el Defensor del Pueblo", "correcta": false, "porQue": "Puede interponerla cualquier persona." }
+      ],
+      "explicacion": "Se aplica el procedimiento de la Acción de Amparo Constitucional.",
+      "citaTextual": "Para interponer esta acción no será necesario agotar la vía judicial o administrativa que pueda existir.",
+      "referencia": "CPE, Art. 136, pág. 32", "etiquetas": ["acción popular"] }
+  ]},
+  { "fragmentoRef": "cpe-art237", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Al dejar el cargo, una directora quiere llevarse a su casa los archivos de kárdex y actas del CEA «para que no se pierdan». Según el Art. 237 de la CPE:",
+      "opciones": [
+        { "texto": "No puede: es obligación inventariar y custodiar en las oficinas públicas los documentos de la función pública, sin sustraerlos ni destruirlos", "correcta": true, "porQue": "Art. 237, par. I, num. 1." },
+        { "texto": "Puede, si deja copias en el CEA", "correcta": false, "porQue": "Los originales deben quedar en la oficina pública." },
+        { "texto": "Puede, con autorización de la Junta Escolar", "correcta": false, "porQue": "La Junta no puede autorizarlo." },
+        { "texto": "Puede destruir los que tengan más de cinco años", "correcta": false, "porQue": "La destrucción la regula la ley; no queda a criterio de la directora." }
+      ],
+      "explicacion": "También hay que guardar secreto sobre la información reservada, incluso después de dejar el cargo.",
+      "citaTextual": "Inventariar y custodiar en oficinas públicas los documentos propios de la función pública, sin que puedan sustraerlos ni destruirlos.",
+      "referencia": "CPE, Art. 237, pág. 59", "etiquetas": ["archivos", "obligaciones", "caso"] }
+  ]},
+  { "fragmentoRef": "cpe-art239", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "La esposa del director del CEA es dueña de una librería y quiere arrendar al CEA un ambiente público del centro a nombre de ella. Según el Art. 239 de la CPE:",
+      "opciones": [
+        { "texto": "Es incompatible con la función pública adquirir o arrendar bienes públicos a nombre del servidor o de terceras personas", "correcta": true, "porQue": "Art. 239, num. 1." },
+        { "texto": "Es válido porque el contrato es a nombre de la esposa, no del director", "correcta": false, "porQue": "Capciosa: la incompatibilidad alcanza también a terceras personas." },
+        { "texto": "Es válido si el precio es de mercado", "correcta": false, "porQue": "El precio no salva la incompatibilidad." },
+        { "texto": "Solo se prohíbe si el director firma el contrato", "correcta": false, "porQue": "No es lo que dispone la norma." }
+      ],
+      "explicacion": "También son incompatibles celebrar contratos administrativos o trabajar para empresas que contratan con el Estado.",
+      "citaTextual": "La adquisición o arrendamiento de bienes públicos a nombre de la servidora pública o del servidor público, o de terceras personas.",
+      "referencia": "CPE, Art. 239, num. 1, pág. 60", "etiquetas": ["incompatibilidades", "caso"] }
+  ]},
+  { "fragmentoRef": "cpe-art240", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "RECORDAR",
+      "enunciado": "Según el Art. 240 de la CPE, ¿cuándo puede solicitarse la revocatoria del mandato y qué porcentaje de firmas se requiere?",
+      "opciones": [
+        { "texto": "Cuando haya transcurrido al menos la mitad del mandato, no en el último año, con al menos el 15% de votantes del padrón de la circunscripción", "correcta": true, "porQue": "Art. 240, par. II y III." },
+        { "texto": "En cualquier momento, con el 10% de votantes", "correcta": false, "porQue": "Debe haber transcurrido al menos la mitad del mandato y se requiere el 15%." },
+        { "texto": "En el último año, con el 25%", "correcta": false, "porQue": "En el último año no procede." },
+        { "texto": "Tras un tercio del mandato, con el 15%", "correcta": false, "porQue": "Capciosa: el porcentaje es correcto, pero debe transcurrir la mitad del mandato." }
+      ],
+      "explicacion": "Procede contra todo cargo electo, excepto el Órgano Judicial, y una sola vez por mandato.",
+      "citaTextual": "a solicitud de al menos el quince por ciento de votantes del padrón electoral de la circunscripción",
+      "referencia": "CPE, Art. 240, pág. 60", "etiquetas": ["revocatoria", "memorística"] }
+  ]},
+  { "fragmentoRef": "cpe-art238", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "APLICAR",
+      "enunciado": "Un director de CEA (cargo de designación) quiere postularse a concejal municipal. Según el Art. 238 de la CPE, ¿con qué anticipación debe renunciar a su cargo?",
+      "opciones": [
+        { "texto": "Al menos tres meses antes del día de la elección", "correcta": true, "porQue": "Art. 238, num. 3." },
+        { "texto": "Al menos cinco años antes", "correcta": false, "porQue": "Cinco años se aplica a directivos de transnacionales que contratan con el Estado (num. 2)." },
+        { "texto": "Al menos un mes antes", "correcta": false, "porQue": "Son tres meses." },
+        { "texto": "No necesita renunciar", "correcta": false, "porQue": "Sí, es causal de inelegibilidad." }
+      ],
+      "explicacion": "La excepción a esta regla son el Presidente y el Vicepresidente.",
+      "citaTextual": "Quienes ocupen cargos electivos, de designación o de libre nombramiento, que no hayan renunciado a éste, al menos tres meses antes al día de la elección",
+      "referencia": "CPE, Art. 238, num. 3, págs. 59-60", "etiquetas": ["inelegibilidad", "caso", "plazos"] }
+  ]},
+  { "fragmentoRef": "cpe-art91", "preguntas": [
+    { "tipo": "OPCION_MULTIPLE", "dificultad": "DIFICIL", "nivelBloom": "COMPRENDER",
+      "enunciado": "Según el Art. 91 de la CPE, ¿qué conocimientos debe tomar en cuenta la educación superior?",
+      "opciones": [
+        { "texto": "Los conocimientos universales y los saberes colectivos de las naciones y pueblos indígena originario campesinos", "correcta": true, "porQue": "Art. 91, par. I." },
+        { "texto": "Solo los conocimientos científicos universales", "correcta": false, "porQue": "Incluye los saberes colectivos de los pueblos IOC." },
+        { "texto": "Solo los saberes ancestrales", "correcta": false, "porQue": "Incluye los conocimientos universales." },
+        { "texto": "Los que defina el mercado laboral", "correcta": false, "porQue": "No es lo que establece el Art. 91." }
+      ],
+      "explicacion": "La educación superior es intracultural, intercultural y plurilingüe.",
+      "citaTextual": "tomará en cuenta los conocimientos universales y los saberes colectivos de las naciones y pueblos indígena originario campesinos",
+      "referencia": "CPE, Art. 91, par. I, págs. 21-22", "etiquetas": ["educación superior"] }
+  ]}
+]
