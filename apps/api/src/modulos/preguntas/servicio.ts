@@ -52,11 +52,24 @@ export async function importarLote(
 
   return prisma.$transaction(
     async (tx) => {
-      const contenidoId = await obtenerOCrearContenido(tx, contenido, coleccion ?? COLECCION_POR_DEFECTO);
-      const temaId = await obtenerOCrearRutaTema(tx, contenidoId, tema);
       const fragmento = fragmentoRef
-        ? await tx.fragmento.findUnique({ where: { ref: fragmentoRef }, select: { id: true, texto: true } })
+        ? await tx.fragmento.findUnique({
+            where: { ref: fragmentoRef },
+            select: { id: true, texto: true, temaId: true, documento: { select: { contenidoId: true } } },
+          })
         : null;
+      let contenidoId: string;
+      let temaId: string;
+      if (contenido && tema) {
+        contenidoId = await obtenerOCrearContenido(tx, contenido, coleccion ?? COLECCION_POR_DEFECTO);
+        temaId = await obtenerOCrearRutaTema(tx, contenidoId, tema);
+      } else if (fragmento?.temaId) {
+        // Lote mínimo: contenido y tema salen del fragmento.
+        contenidoId = fragmento.documento.contenidoId;
+        temaId = fragmento.temaId;
+      } else {
+        throw new ErrorApp(400, 'LOTE_INVALIDO', `El fragmento "${fragmentoRef}" no existe; indica "contenido" y "tema"`);
+      }
       const textoFragmento = fragmento ? normalizar(fragmento.texto) : null;
 
       const existentes = await tx.pregunta.findMany({

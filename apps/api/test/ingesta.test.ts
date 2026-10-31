@@ -104,6 +104,22 @@ describe('fragmentos y preguntas', () => {
     expect(p.temaId).toBe(fragmento.temaId);
   });
 
+  it('un lote con solo fragmentoRef toma contenido y tema del fragmento', async () => {
+    await subir(PDF_LEY);
+    const res = await importar({
+      fragmentoRef: 'ley999-art03',
+      preguntas: [preguntaValida('¿De quién dependen las direcciones distritales?', { citaTextual: 'dependen del Ministerio' })],
+    });
+    expect(res.status).toBe(201);
+    expect(res.body.importadas).toBe(1);
+    const fragmento = await prisma.fragmento.findUniqueOrThrow({ where: { ref: 'ley999-art03' } });
+    expect(res.body).toMatchObject({ contenidoId, temaId: fragmento.temaId });
+
+    const sinFragmento = await importar({ fragmentoRef: 'no-existe-art01', preguntas: [preguntaValida('¿X?')] });
+    expect(sinFragmento.status).toBe(400);
+    expect(sinFragmento.body.error.codigo).toBe('LOTE_INVALIDO');
+  });
+
   it('re-fragmentar conserva el enlace de las preguntas por fragmentoRef', async () => {
     const doc = (await subir(PDF_LEY)).body;
     await importar(loteLey([preguntaValida('¿Qué regula?', { citaTextual: 'regula la educación fiscal' })]));

@@ -89,14 +89,20 @@ export type PreguntaImportacion = z.infer<typeof preguntaImportacionSchema>;
  * Lote de importación. Las preguntas se validan una por una en el servicio
  * (una pregunta inválida no invalida el lote), por eso aquí son `unknown`.
  */
-export const loteImportacionSchema = z.object({
-  coleccion: texto.optional(),
-  contenido: texto,
-  tema: texto,
-  fragmentoRef: z.string().trim().min(1).optional().nullable(),
-  origen: z.enum(ORIGENES_PREGUNTA).optional(),
-  preguntas: z.array(z.unknown()).min(1, 'El lote no tiene preguntas'),
-});
+export const loteImportacionSchema = z
+  .object({
+    coleccion: texto.optional(),
+    /** Opcionales si `fragmentoRef` apunta a un fragmento existente: se toman de él. */
+    contenido: texto.optional(),
+    tema: texto.optional(),
+    fragmentoRef: z.string().trim().min(1).optional().nullable(),
+    origen: z.enum(ORIGENES_PREGUNTA).optional(),
+    preguntas: z.array(z.unknown()).min(1, 'El lote no tiene preguntas'),
+  })
+  .refine((l) => (l.contenido && l.tema) || l.fragmentoRef, {
+    message: 'Indica "contenido" y "tema", o un "fragmentoRef" existente',
+    path: ['contenido'],
+  });
 export type LoteImportacion = z.infer<typeof loteImportacionSchema>;
 
 export interface ItemRechazado {

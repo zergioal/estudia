@@ -23,12 +23,20 @@ async function main() {
     console.log(`\n▶ ${path.relative(base, ruta)}`);
     try {
       const json: unknown = JSON.parse(await readFile(ruta, 'utf8'));
-      const r = await importarLote(json, 'CLAUDE_CODE');
-      console.log(`  Importadas: ${r.importadas}`);
-      console.log(`  Rechazadas: ${r.rechazadas.length}`);
-      for (const x of r.rechazadas) console.log(`    #${x.indice}: ${x.motivo}`);
-      console.log(`  Duplicadas: ${r.duplicadas.length}`);
-      for (const x of r.duplicadas) console.log(`    #${x.indice}: ${x.motivo}`);
+      // Un archivo puede traer un lote o un arreglo de lotes (uno por fragmento).
+      const lotes = Array.isArray(json) ? json : [json];
+      const total = { importadas: 0, rechazadas: 0, duplicadas: 0 };
+      for (const [n, lote] of lotes.entries()) {
+        const r = await importarLote(lote, 'CLAUDE_CODE');
+        const ref = (lote as { fragmentoRef?: string }).fragmentoRef ?? `lote ${n + 1}`;
+        console.log(`  [${ref}] importadas ${r.importadas}, rechazadas ${r.rechazadas.length}, duplicadas ${r.duplicadas.length}`);
+        for (const x of r.rechazadas) console.log(`    rechazada #${x.indice}: ${x.motivo}`);
+        for (const x of r.duplicadas) console.log(`    duplicada #${x.indice}: ${x.motivo}`);
+        total.importadas += r.importadas;
+        total.rechazadas += r.rechazadas.length;
+        total.duplicadas += r.duplicadas.length;
+      }
+      console.log(`  Total: ${total.importadas} importadas, ${total.rechazadas} rechazadas, ${total.duplicadas} duplicadas`);
     } catch (e) {
       huboError = true;
       if (e instanceof ErrorApp) {
