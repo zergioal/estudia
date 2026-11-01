@@ -1,0 +1,1102 @@
+[
+  {
+    "preguntaId": "cmvvvzspt0001vdygkpwdl2cl",
+    "opciones": [
+      {
+        "opcionId": "cmvvvzspt0002vdyghixxicim",
+        "antes": "El liderazgo pedagógico, centrado en la enseñanza, el aprendizaje y el rendimiento, y el liderazgo de transformación, basado en una visión sistémica e integrada del centro",
+        "despues": "El liderazgo pedagógico, centrado en la enseñanza, el aprendizaje y el rendimiento, y el liderazgo de transformación, basado en una visión sistémica e integrada"
+      },
+      {
+        "opcionId": "cmvvvzspt0003vdyg0ozqry6z",
+        "antes": "El liderazgo instruccional, centrado en el currículo, y el liderazgo situacional, adaptado a cada contexto",
+        "despues": "El liderazgo instruccional, centrado en el currículo y la supervisión de clases, y el liderazgo situacional, que adapta el estilo de dirección a cada contexto"
+      },
+      {
+        "opcionId": "cmvvvzspt0004vdyg7t6dtpdx",
+        "antes": "El liderazgo distribuido, centrado en compartir el poder, y el liderazgo transaccional, basado en incentivos",
+        "despues": "El liderazgo distribuido, centrado en compartir el poder con el profesorado, y el liderazgo transaccional, basado en incentivos y en el control de resultados"
+      },
+      {
+        "opcionId": "cmvvvzspt0005vdygi7n12vjx",
+        "antes": "El liderazgo pedagógico y el liderazgo de servicio, centrado en las necesidades de la comunidad",
+        "despues": "El liderazgo pedagógico, centrado en la enseñanza y el aprendizaje, y el liderazgo de servicio, centrado en las necesidades de la comunidad educativa"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvvzsqu0011vdygfh46pl1x",
+    "opciones": [
+      {
+        "opcionId": "cmvvvzsqu0012vdygsu273hpd",
+        "antes": "El profesorado en su desarrollo profesional, el alumnado en su tarea de formación y educación, y la escuela a través de la autoevaluación institucional",
+        "despues": "El profesorado en su desarrollo profesional, el alumnado en su tarea de formación y educación, y la escuela a través de la autoevaluación institucional"
+      },
+      {
+        "opcionId": "cmvvvzsqu0013vdyghhr8qvcq",
+        "antes": "El profesorado, el alumnado y las familias, mediante la participación comunitaria",
+        "despues": "El profesorado en su desarrollo profesional, el alumnado en su formación y las familias mediante la participación comunitaria en la vida del centro"
+      },
+      {
+        "opcionId": "cmvvvzsqu0014vdygcoi2v7zx",
+        "antes": "El currículo, la evaluación y la gestión directiva",
+        "despues": "El currículo como marco de la enseñanza, la evaluación externa de los aprendizajes y la gestión directiva a través de la planificación institucional"
+      },
+      {
+        "opcionId": "cmvvvzsqu0015vdygm0pvhbfj",
+        "antes": "El profesorado en su formación inicial, el alumnado en sus resultados académicos y el Estado mediante la normativa",
+        "despues": "El profesorado en su formación inicial, el alumnado en sus resultados académicos y el Estado mediante la normativa y la evaluación externa"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvvzsqx0017vdyge94d3ir4",
+    "opciones": [
+      {
+        "opcionId": "cmvvvzsqx0018vdygw4iv0yx6",
+        "antes": "A las personas y su aprendizaje, más que la eficacia de los resultados, aunque el compromiso de la dirección sea siempre mejorar el éxito de los alumnos",
+        "despues": "A las personas y su aprendizaje, más que la eficacia de los resultados, aunque el compromiso de la dirección sea siempre mejorar el éxito de los alumnos"
+      },
+      {
+        "opcionId": "cmvvvzsqx0019vdygbh26vkhn",
+        "antes": "La eficacia de los resultados medidos en evaluaciones externas, como garantía de calidad",
+        "despues": "La eficacia de los resultados medidos en evaluaciones externas, como garantía de calidad y como primer compromiso de la dirección con los alumnos"
+      },
+      {
+        "opcionId": "cmvvvzsqx001avdyg96ixj4d4",
+        "antes": "La valoración de los resultados de los alumnos como criterio central de la dirección",
+        "despues": "La valoración de los resultados académicos de los alumnos como criterio central de la dirección, más que el aprendizaje de las personas del centro"
+      },
+      {
+        "opcionId": "cmvvvzsqx001bvdyg4kl89uzl",
+        "antes": "El cumplimiento normativo como condición previa del aprendizaje",
+        "despues": "El cumplimiento normativo como condición previa del aprendizaje, porque sin orden institucional no es posible mejorar el éxito de los alumnos"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvvzsr1001dvdygw9u5veaf",
+    "opciones": [
+      {
+        "opcionId": "cmvvvzsr1001evdygj4pzr47z",
+        "antes": "Como una práctica dirigida a la mejora de la calidad y fuente de información para la toma de decisiones, no tanto como ejercicio burocrático de control del cumplimiento normativo",
+        "despues": "Como una práctica dirigida a la mejora de la calidad y fuente de información para la toma de decisiones, no tanto como ejercicio burocrático de control normativo"
+      },
+      {
+        "opcionId": "cmvvvzsr1001fvdygz4k6n2sp",
+        "antes": "Como un mecanismo de verificación del cumplimiento normativo para informar a la autoridad superior",
+        "despues": "Como un mecanismo de verificación del cumplimiento normativo del centro, cuyos resultados se informan a la autoridad superior para su supervisión"
+      },
+      {
+        "opcionId": "cmvvvzsr1001gvdygxjci36rk",
+        "antes": "Como una evaluación externa del desempeño docente a cargo de inspectores",
+        "despues": "Como una evaluación externa del desempeño docente a cargo de inspectores, que aporta información para la toma de decisiones de la dirección"
+      },
+      {
+        "opcionId": "cmvvvzsr1001hvdygsuibda0o",
+        "antes": "Como un ejercicio limitado a la dimensión pedagógica, sin abordar lo organizativo",
+        "despues": "Como una práctica de mejora limitada a la dimensión pedagógica del centro, sin abordar lo organizativo ni la toma de decisiones institucionales"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvxx1cn0001vdnosrq6oass",
+    "opciones": [
+      {
+        "opcionId": "cmvvxx1cn0002vdnocglagdl0",
+        "antes": "Como un modelo de gestión democrática con mandos intermedios de coordinación y supervisión, que coexiste con una gestión centralizada y se somete a evaluación externa en ciclos de cuatro a cinco años",
+        "despues": "Como un modelo de gestión democrática con mandos intermedios de coordinación y supervisión, que coexiste con una gestión centralizada y se somete a evaluación externa cada cuatro a cinco años"
+      },
+      {
+        "opcionId": "cmvvxx1cn0003vdnofnp9yopy",
+        "antes": "Como un modelo totalmente descentralizado y sin evaluación externa",
+        "despues": "Como un modelo totalmente descentralizado, en el que cada escuela define su propia organización sin mandos intermedios ni evaluación externa, bajo la supervisión de los municipios"
+      },
+      {
+        "opcionId": "cmvvxx1cn0004vdno4fvhibo9",
+        "antes": "Como un modelo de liderazgo unipersonal con evaluación anual",
+        "despues": "Como un modelo de liderazgo unipersonal, en el que el director concentra las decisiones sin mandos intermedios de coordinación, con evaluación externa anual de cada centro"
+      },
+      {
+        "opcionId": "cmvvxx1cn0005vdnoe5vm6dkj",
+        "antes": "Como un modelo neoliberal basado en la competitividad entre escuelas",
+        "despues": "Como un modelo neoliberal basado en la competitividad entre escuelas, con gestión centralizada, rankings públicos de resultados y evaluación externa en ciclos de dos años"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvxx1cu0007vdno6o1sysuz",
+    "opciones": [
+      {
+        "opcionId": "cmvvxx1cu0008vdno20woii33",
+        "antes": "La lógica de la competitividad, el fortalecimiento de la jerarquía escolar y la concentración de las decisiones en líderes unipersonales",
+        "despues": "La lógica de la competitividad, el fortalecimiento de la jerarquía escolar y la concentración de las decisiones en líderes unipersonales"
+      },
+      {
+        "opcionId": "cmvvxx1cu0009vdno66ycfndd",
+        "antes": "La participación de toda la comunidad educativa en la toma de decisiones",
+        "despues": "La participación de toda la comunidad educativa en la toma de decisiones y la distribución del liderazgo entre el profesorado"
+      },
+      {
+        "opcionId": "cmvvxx1cu000avdnof2sauk53",
+        "antes": "El reconocimiento de las diferencias como base de la justicia social",
+        "despues": "El reconocimiento de las diferencias como base de la justicia social y la inclusión de los más desfavorecidos en la escuela"
+      },
+      {
+        "opcionId": "cmvvxx1cu000bvdnoq2fp4qk0",
+        "antes": "La autonomía escolar como forma de participación democrática",
+        "despues": "La autonomía escolar como forma de participación democrática y la elección del director por la comunidad educativa"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvxx1d7000jvdnow3z2ry12",
+    "opciones": [
+      {
+        "opcionId": "cmvvxx1d7000kvdnotsj2dxc6",
+        "antes": "El proyecto de dirección (67%), seguido de los años de experiencia (64%)",
+        "despues": "El proyecto de dirección (67%), seguido de los años de experiencia (64%)"
+      },
+      {
+        "opcionId": "cmvvxx1d7000lvdnoludoan7k",
+        "antes": "La superación de un examen",
+        "despues": "La superación de un examen de oposición específico para directores (67%)"
+      },
+      {
+        "opcionId": "cmvvxx1d7000mvdno7yqxdxpr",
+        "antes": "Las habilidades de liderazgo (93%)",
+        "despues": "Las habilidades de liderazgo (93%), seguidas del proyecto de dirección (67%)"
+      },
+      {
+        "opcionId": "cmvvxx1d7000nvdnoqj8presg",
+        "antes": "Los años de experiencia (69%)",
+        "despues": "Los años de experiencia (69%), seguidos del proyecto de dirección (64%)"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvyusfr0001vda8i05ts144",
+    "opciones": [
+      {
+        "opcionId": "cmvvyusfr0002vda8h5wka69j",
+        "antes": "La «disciplina fanática», aprender de los buenos datos y la «paranoia productiva»",
+        "despues": "La «disciplina fanática», aprender de los buenos datos y la «paranoia productiva»"
+      },
+      {
+        "opcionId": "cmvvyusfr0003vda8ejtaqdz4",
+        "antes": "Visión y objetivos, recursos y pedagogía ejemplar",
+        "despues": "La visión y los objetivos, los recursos estratégicos y la pedagogía ejemplar"
+      },
+      {
+        "opcionId": "cmvvyusfr0004vda8y6vpudot",
+        "antes": "Resiliencia, empatía y autoridad",
+        "despues": "La resiliencia, la empatía con el profesorado y la autoridad pedagógica"
+      },
+      {
+        "opcionId": "cmvvyusfr0005vda82n242oc0",
+        "antes": "Conectividad, dataficación y digitalización",
+        "despues": "La conectividad, la dataficación de la gestión y la digitalización del aula"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvyusg4000dvda8d5ouuw2y",
+    "opciones": [
+      {
+        "opcionId": "cmvvyusg4000evda8o5cigsal",
+        "antes": "Fortalecer el liderazgo escolar y la función directiva para la mejora de la calidad, y promover la innovación para mejorar las políticas públicas de liderazgo educativo",
+        "despues": "Fortalecer el liderazgo escolar y la función directiva para mejorar la calidad, y promover la innovación para mejorar las políticas públicas de liderazgo educativo"
+      },
+      {
+        "opcionId": "cmvvyusg4000fvda8d4er0cbm",
+        "antes": "Evaluar a los directores y certificarlos internacionalmente",
+        "despues": "Evaluar el desempeño de los directores de la región y certificarlos internacionalmente, para mejorar la calidad de las políticas públicas de liderazgo"
+      },
+      {
+        "opcionId": "cmvvyusg4000gvda8cgqtuswr",
+        "antes": "Unificar la normativa de dirección escolar de todos los países",
+        "despues": "Unificar la normativa de dirección escolar de todos los países iberoamericanos, para fortalecer la función directiva y la calidad de la educación"
+      },
+      {
+        "opcionId": "cmvvyusg4000hvda8y2ca8sfi",
+        "antes": "Reducir la carga administrativa y aumentar el salario de los directores",
+        "despues": "Reducir la carga administrativa de los directores y aumentar su salario, para promover la innovación en las políticas de liderazgo educativo"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvyusgh000jvda8q2yc2rf4",
+    "opciones": [
+      {
+        "opcionId": "cmvvyusgi000kvda8qtwj9a9a",
+        "antes": "De forma más amplia, compartida o distribuida, situado en el centro de la institución educativa",
+        "despues": "De forma más amplia, compartida o distribuida, situado en el centro de la institución educativa"
+      },
+      {
+        "opcionId": "cmvvyusgi000lvda8f7fg0pgl",
+        "antes": "Como una atribución exclusiva y unipersonal del director",
+        "despues": "Como una atribución exclusiva y unipersonal del director, situada en la cúspide de la institución"
+      },
+      {
+        "opcionId": "cmvvyusgi000mvda87tp63tc1",
+        "antes": "Como una función administrativa separada de lo pedagógico",
+        "despues": "Como una función administrativa separada de lo pedagógico, a cargo del equipo directivo"
+      },
+      {
+        "opcionId": "cmvvyusgi000nvda85skiotbb",
+        "antes": "Como un rasgo innato de la personalidad del líder",
+        "despues": "Como un rasgo innato de la personalidad del líder, que se ejerce desde la dirección del centro"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvyush30011vda86t7g25xc",
+    "opciones": [
+      {
+        "opcionId": "cmvvyush30012vda8pax287b1",
+        "antes": "La labor de movilizar e influenciar a otros para articular y lograr los objetivos y metas compartidas",
+        "despues": "La labor de movilizar e influenciar a otros para articular y lograr los objetivos y metas compartidas"
+      },
+      {
+        "opcionId": "cmvvyush30013vda88ep4la44",
+        "antes": "La capacidad del director de hacer cumplir la normativa",
+        "despues": "La capacidad del director de hacer cumplir la normativa y las metas fijadas por la autoridad"
+      },
+      {
+        "opcionId": "cmvvyush30014vda8f6zm3bsc",
+        "antes": "Un atributo personal innato del líder",
+        "despues": "Un atributo personal innato del líder, que le permite influir sobre los demás miembros del centro"
+      },
+      {
+        "opcionId": "cmvvyush30015vda83omzpab2",
+        "antes": "La gestión eficiente de los recursos financieros",
+        "despues": "La gestión eficiente de los recursos financieros y humanos para lograr las metas institucionales"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvyushc001dvda8txab3wz8",
+    "opciones": [
+      {
+        "opcionId": "cmvvyushc001evda8mw1cjsga",
+        "antes": "Que el liderazgo efectivo es contextual y contingente: varía según el contexto, la vulnerabilidad, el tipo de establecimiento y su etapa de mejoramiento",
+        "despues": "Que el liderazgo efectivo es contextual y contingente: varía según el contexto, la vulnerabilidad, el tipo de establecimiento y su etapa de mejoramiento"
+      },
+      {
+        "opcionId": "cmvvyushc001fvda8resm1p4p",
+        "antes": "Que el liderazgo depende solo del carisma del director",
+        "despues": "Que el liderazgo efectivo depende sobre todo del carisma y de las cualidades personales del director, más que de las estrategias que aplica en el centro"
+      },
+      {
+        "opcionId": "cmvvyushc001gvda8xs1j5y5k",
+        "antes": "Que las buenas prácticas son universales y replicables sin ajustes",
+        "despues": "Que las buenas prácticas de liderazgo son universales y pueden replicarse sin ajustes, siempre que se apliquen con la misma intensidad y constancia"
+      },
+      {
+        "opcionId": "cmvvyushc001hvda8kp6ruiik",
+        "antes": "Que el liderazgo debe ser exclusivamente administrativo",
+        "despues": "Que el liderazgo directivo debe ser exclusivamente administrativo en los contextos vulnerables, dejando lo pedagógico al equipo docente del centro"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvyushg001jvda8be7qeb6u",
+    "opciones": [
+      {
+        "opcionId": "cmvvyushg001kvda8uk45cx5y",
+        "antes": "Un conjunto de acciones fundadas en conocimientos, habilidades y hábitos que pueden ser enseñados y aprendidos",
+        "despues": "Un conjunto de acciones fundadas en conocimientos, habilidades y hábitos que pueden ser enseñados y aprendidos"
+      },
+      {
+        "opcionId": "cmvvyushg001lvda8r068pql4",
+        "antes": "Un atributo o característica personal del líder",
+        "despues": "Un atributo o característica personal del líder, que se manifiesta en su capacidad de influir en los demás"
+      },
+      {
+        "opcionId": "cmvvyushg001mvda81myd2znu",
+        "antes": "Un cargo jerárquico asignado por la autoridad",
+        "despues": "Un cargo jerárquico asignado por la autoridad, con atribuciones definidas en la normativa del sistema"
+      },
+      {
+        "opcionId": "cmvvyushg001nvda8hbywqd83",
+        "antes": "Un talento que no puede desarrollarse con formación",
+        "despues": "Un talento natural que no puede desarrollarse con formación, aunque sí perfeccionarse con la experiencia"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvyushq001pvda8gmv0kac1",
+    "opciones": [
+      {
+        "opcionId": "cmvvyushq001qvda8ankz2vja",
+        "antes": "Responsabilidades del director, autonomía del director, promoción del liderazgo distribuido y atractivo de la dirección escolar",
+        "despues": "Responsabilidades del director, autonomía del director, promoción del liderazgo distribuido y atractivo de la dirección escolar"
+      },
+      {
+        "opcionId": "cmvvyushq001rvda87y9exfil",
+        "antes": "Visión, capacidades, enseñanza-aprendizaje y convivencia",
+        "despues": "Visión estratégica compartida, desarrollo de capacidades, liderazgo de la enseñanza-aprendizaje y gestión de la convivencia"
+      },
+      {
+        "opcionId": "cmvvyushq001svda8sadlneo5",
+        "antes": "Gobernanza, territorialidad, vinculación y participación",
+        "despues": "Gobernanza del sistema, territorialidad, vinculación con el entorno y participación de la comunidad en la dirección escolar"
+      },
+      {
+        "opcionId": "cmvvyushq001tvda881h6a82r",
+        "antes": "Acceso, formación inicial, formación continua y evaluación",
+        "despues": "Acceso a la dirección, formación inicial de directores, formación continua y evaluación del desempeño de la dirección escolar"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvyusht001vvda8caj5tq6o",
+    "opciones": [
+      {
+        "opcionId": "cmvvyushu001wvda8lvz9ibw0",
+        "antes": "Una sección relativa al «liderazgo situacional» en situación de pandemia por COVID-19",
+        "despues": "Una sección relativa al «liderazgo situacional» en situación de pandemia por COVID-19"
+      },
+      {
+        "opcionId": "cmvvyushu001xvda8pnh95vc5",
+        "antes": "Una sección sobre salarios docentes",
+        "despues": "Una sección sobre los salarios docentes y los complementos por cargo directivo"
+      },
+      {
+        "opcionId": "cmvvyushu001yvda8f00mqibe",
+        "antes": "Una sección sobre infraestructura digital",
+        "despues": "Una sección sobre la infraestructura digital y la conectividad de los centros"
+      },
+      {
+        "opcionId": "cmvvyushu001zvda8nlx9a34u",
+        "antes": "Una sección sobre resultados PISA",
+        "despues": "Una sección sobre los resultados de los estudiantes en las pruebas PISA"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvyvwau0007vd38x4l5xjqr",
+    "opciones": [
+      {
+        "opcionId": "cmvvyvwau0008vd38nblonx4a",
+        "antes": "En la participación de todos, la motivación de los actores, la confianza, el respeto a las personas y la capacidad de ser escuchados en un clima de aprendizaje mutuo",
+        "despues": "En la participación de todos, la motivación de los actores, la confianza, el respeto a las personas y la capacidad de ser escuchados en un clima de aprendizaje mutuo"
+      },
+      {
+        "opcionId": "cmvvyvwau0009vd38j4pykcau",
+        "antes": "En la elección del director por votación estudiantil",
+        "despues": "En la elección del director por votación de estudiantes, profesores y familias, que le otorga legitimidad para decidir en nombre de toda la comunidad educativa"
+      },
+      {
+        "opcionId": "cmvvyvwau000avd383iuiufwn",
+        "antes": "En la concentración de decisiones en el director electo",
+        "despues": "En la concentración de las decisiones en el director electo, que responde ante el consejo general del agrupamiento por los resultados de su proyecto educativo"
+      },
+      {
+        "opcionId": "cmvvyvwau000bvd38x5uok7ux",
+        "antes": "En la aplicación estricta de la normativa central",
+        "despues": "En la aplicación estricta de la normativa central por los mandos intermedios, que coordinan y supervisan el trabajo de los docentes en cada agrupamiento"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvyvwb9000jvd38o522bvgx",
+    "opciones": [
+      {
+        "opcionId": "cmvvyvwb9000kvd381m3am979",
+        "antes": "67,2% (65,8% en primaria y 41,0% en secundaria)",
+        "despues": "67,2% (65,8% en primaria y 41,0% en secundaria)"
+      },
+      {
+        "opcionId": "cmvvyvwb9000lvd388w2zd3n5",
+        "antes": "33%",
+        "despues": "33% (35,4% en primaria y 28,0% en secundaria)"
+      },
+      {
+        "opcionId": "cmvvyvwb9000mvd38a162ij81",
+        "antes": "50%",
+        "despues": "50% (52,1% en primaria y 46,3% en secundaria)"
+      },
+      {
+        "opcionId": "cmvvyvwb9000nvd38f2siujh8",
+        "antes": "41,0% en total",
+        "despues": "41,0% en total (67,2% en primaria y 33,0% en secundaria)"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvyvwbk000pvd38t7kk7w36",
+    "opciones": [
+      {
+        "opcionId": "cmvvyvwbk000qvd38lkjmlvug",
+        "antes": "El 72% de los directores está «muy poco de acuerdo», mientras la Administración educativa lo valora con 6 sobre 6",
+        "despues": "El 72% de los directores está «muy poco de acuerdo», mientras la Administración educativa lo valora con 6 sobre 6"
+      },
+      {
+        "opcionId": "cmvvyvwbk000rvd38hx5b70j6",
+        "antes": "Directores y Administración coinciden en que el salario es adecuado",
+        "despues": "Directores y Administración coinciden en que el salario es adecuado: ambos lo valoran con 5 sobre 6"
+      },
+      {
+        "opcionId": "cmvvyvwbk000svd385la9e2ea",
+        "antes": "El 72% de los directores está satisfecho con su salario",
+        "despues": "El 72% de los directores está satisfecho con su salario, y la Administración lo valora con 6 sobre 6"
+      },
+      {
+        "opcionId": "cmvvyvwbk000tvd38yre48vwu",
+        "antes": "La Administración lo valora con 1 sobre 6",
+        "despues": "El 72% de los directores está «muy poco de acuerdo», y la Administración lo valora con 1 sobre 6"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvyvwbo000vvd38w5oqvtbc",
+    "opciones": [
+      {
+        "opcionId": "cmvvyvwbo000wvd38j6gdhc3z",
+        "antes": "Al impulsar prácticas que fomenten la equidad, la integración y el respeto, en concreto de los más desfavorecidos",
+        "despues": "Al impulsar prácticas que fomenten la equidad, la integración y el respeto, en concreto de los más desfavorecidos"
+      },
+      {
+        "opcionId": "cmvvyvwbo000xvd387ua8hawz",
+        "antes": "Al seleccionar y renovar la plantilla docente",
+        "despues": "Al seleccionar y renovar la plantilla docente del centro según las necesidades de su proyecto de dirección"
+      },
+      {
+        "opcionId": "cmvvyvwbo000yvd38k0zl4rdo",
+        "antes": "Al gestionar el presupuesto del centro",
+        "despues": "Al gestionar el presupuesto del centro y distribuirlo en partidas según las prioridades del proyecto educativo"
+      },
+      {
+        "opcionId": "cmvvyvwbo000zvd38gy3rek3d",
+        "antes": "Al fijar los salarios del personal",
+        "despues": "Al fijar los salarios y complementos del personal docente y administrativo según su desempeño"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvyvwc5001dvd38x7fq88zv",
+    "opciones": [
+      {
+        "opcionId": "cmvvyvwc5001evd383lqtf5uc",
+        "antes": "En gestionar la resolución de conflictos de convivencia entre profesorado, familias y alumnado, más que en adaptar la documentación que regula la convivencia",
+        "despues": "En gestionar la resolución de conflictos de convivencia entre profesorado, familias y alumnado, más que en adaptar la documentación que regula la convivencia"
+      },
+      {
+        "opcionId": "cmvvyvwc5001fvd38drjqj4q4",
+        "antes": "En adaptar la documentación oficial de convivencia, más que en resolver conflictos",
+        "despues": "En adaptar la documentación oficial que regula la convivencia del centro, más que en gestionar la resolución de conflictos entre profesorado, familias y alumnado"
+      },
+      {
+        "opcionId": "cmvvyvwc5001gvd380x959a2l",
+        "antes": "En resolver conflictos laborales por incumplimiento de funciones del personal",
+        "despues": "En resolver los conflictos laborales por incumplimiento de funciones del personal, más que en gestionar los conflictos de convivencia con las familias"
+      },
+      {
+        "opcionId": "cmvvyvwc5001hvd3841shqq7l",
+        "antes": "En sancionar a las familias",
+        "despues": "En sancionar a las familias que incumplen las normas de convivencia del centro, más que en adaptar la documentación que regula la convivencia"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvyvwc9001jvd385rirk8rs",
+    "opciones": [
+      {
+        "opcionId": "cmvvyvwc9001kvd388koxuqk1",
+        "antes": "Parte de un presupuesto determinado por indicadores como el número de grupos y de alumnos, con independencia para repartirlo en partidas debidamente justificadas, sin incluir gastos de personal",
+        "despues": "Parte de un presupuesto fijado por indicadores como el número de grupos y de alumnos, con independencia para repartirlo en partidas justificadas, sin incluir gastos de personal"
+      },
+      {
+        "opcionId": "cmvvyvwc9001lvd38qlq4w5yj",
+        "antes": "El director fija libremente los salarios del personal",
+        "despues": "El director recibe un presupuesto global que incluye los gastos de personal, y fija libremente los salarios y complementos de los docentes según su desempeño"
+      },
+      {
+        "opcionId": "cmvvyvwc9001mvd38749vzl9t",
+        "antes": "El presupuesto se asigna según los resultados en pruebas estandarizadas",
+        "despues": "El presupuesto se asigna a cada centro según los resultados de sus alumnos en las pruebas estandarizadas, y el director lo reparte en partidas justificadas"
+      },
+      {
+        "opcionId": "cmvvyvwc9001nvd38xvgwzwji",
+        "antes": "Los centros no tienen presupuesto propio",
+        "despues": "Los centros no tienen presupuesto propio: la Administración ejecuta todos sus gastos según los indicadores de número de grupos y de alumnos"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvyx02n0007vdu4uh3dwdei",
+    "opciones": [
+      {
+        "opcionId": "cmvvyx02n0008vdu4h5r7ja8k",
+        "antes": "Porque sus baremos de antigüedad son más altos que los de los profesores, y la experiencia como director pesa más en el concurso-oposición de inspección",
+        "despues": "Porque sus baremos de antigüedad son más altos que los de los profesores, y la experiencia como director pesa más en el concurso-oposición de inspección"
+      },
+      {
+        "opcionId": "cmvvyx02n0009vdu433z47a63",
+        "antes": "Porque reciben un complemento salarial por evaluación",
+        "despues": "Porque reciben un complemento salarial por la evaluación positiva de su desempeño, que también se computa como mérito en los concursos de traslado"
+      },
+      {
+        "opcionId": "cmvvyx02n000avdu41o5icutv",
+        "antes": "Porque son designados por la comunidad educativa",
+        "despues": "Porque son designados por la comunidad educativa, y esa designación se valora como mérito preferente en los concursos de traslado y vacantes"
+      },
+      {
+        "opcionId": "cmvvyx02n000bvdu4rhouacyo",
+        "antes": "Porque la Administración les consulta la oferta de formación",
+        "despues": "Porque la Administración les consulta la oferta de formación y de vacantes, lo que les permite conocer antes las plazas que salen a concurso"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvyx032000jvdu4mycyhqfy",
+    "opciones": [
+      {
+        "opcionId": "cmvvyx032000kvdu4g6eoqymv",
+        "antes": "Avanzar en el conocimiento del estado de la cuestión para fundamentar las decisiones que los países soberanamente decidan, no evaluar a los países",
+        "despues": "Avanzar en el conocimiento del estado de la cuestión para fundamentar las decisiones que los países soberanamente decidan, no evaluar a los países"
+      },
+      {
+        "opcionId": "cmvvyx032000lvdu4vz4t4qcs",
+        "antes": "Establecer un ranking de países según su liderazgo",
+        "despues": "Establecer un ranking de países según el grado en que su normativa y sus directores se ajustan al modelo de liderazgo pedagógico, inclusivo y distribuido"
+      },
+      {
+        "opcionId": "cmvvyx032000mvdu48qwuasdb",
+        "antes": "Condicionar la cooperación de la OEI a los resultados",
+        "despues": "Condicionar la cooperación técnica y financiera de la OEI a los resultados de cada país en las encuestas sobre liderazgo escolar"
+      },
+      {
+        "opcionId": "cmvvyx032000nvdu4paygf7dl",
+        "antes": "Certificar a los directores con mejor desempeño",
+        "despues": "Certificar a los directores con mejor desempeño en cada país, para que lideren redes regionales de formación de directores noveles"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvyx036000pvdu4lc965zu8",
+    "opciones": [
+      {
+        "opcionId": "cmvvyx036000qvdu4vqaw2p9j",
+        "antes": "Que no realizan encuestas para conocer las propuestas de formación de los directores y que, en más de la mitad, la normativa no establece incentivos no salariales de formación",
+        "despues": "Que no realizan encuestas para conocer las propuestas de formación de los directores y que, en más de la mitad, la normativa no establece incentivos no salariales"
+      },
+      {
+        "opcionId": "cmvvyx036000rvdu4lfuaa753",
+        "antes": "Que consultan sistemáticamente a los directores sobre su formación",
+        "despues": "Que consultan sistemáticamente a los directores sobre sus propuestas de formación y que, en más de la mitad, la normativa establece incentivos no salariales"
+      },
+      {
+        "opcionId": "cmvvyx036000svdu4vpqn9a2g",
+        "antes": "Que todos ofrecen incentivos salariales por formación",
+        "despues": "Que todos ofrecen incentivos salariales por formación, aunque no realizan encuestas para conocer las propuestas de formación de los directores"
+      },
+      {
+        "opcionId": "cmvvyx036000tvdu4et1k7i2f",
+        "antes": "Que la formación de directores está fuera de la normativa",
+        "despues": "Que la formación de directores está fuera de la normativa en más de la mitad de los países, y depende de la iniciativa de cada director"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvyx03g000vvdu43scizy5r",
+    "opciones": [
+      {
+        "opcionId": "cmvvyx03g000wvdu4ek6cpiqb",
+        "antes": "El acompañamiento emocional de los estudiantes, por encima de la enseñanza de los contenidos",
+        "despues": "El acompañamiento emocional de los estudiantes, por encima de la enseñanza de los contenidos"
+      },
+      {
+        "opcionId": "cmvvyx03g000xvdu4tq2wwuw5",
+        "antes": "Completar la totalidad de los contenidos curriculares",
+        "despues": "Completar la totalidad de los contenidos curriculares, por encima del acompañamiento emocional"
+      },
+      {
+        "opcionId": "cmvvyx03g000yvdu4afr32pqp",
+        "antes": "Aplicar exámenes estandarizados en línea",
+        "despues": "Aplicar exámenes estandarizados en línea para medir la pérdida de aprendizajes de los estudiantes"
+      },
+      {
+        "opcionId": "cmvvyx03g000zvdu44t3s4van",
+        "antes": "Reducir la comunicación con las familias",
+        "despues": "Reducir la comunicación con las familias para no sobrecargarlas durante la emergencia sanitaria"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvyx03o0017vdu4fh8ozg8y",
+    "opciones": [
+      {
+        "opcionId": "cmvvyx03o0018vdu4v7ibw7pm",
+        "antes": "La profesionalización de la función directiva: procesos selectivos objetivos, funciones más reguladas, un nivel diferenciado del profesorado y salarios ajustados a su responsabilidad",
+        "despues": "La profesionalización de la función directiva: procesos selectivos objetivos, funciones más reguladas, un nivel diferenciado del profesorado y salarios acordes"
+      },
+      {
+        "opcionId": "cmvvyx03o0019vdu42zoehwoj",
+        "antes": "Eliminar la evaluación del desempeño",
+        "despues": "La eliminación de la evaluación del desempeño de los directores, para que puedan ejercer su autonomía sin la presión de los resultados de la Administración"
+      },
+      {
+        "opcionId": "cmvvyx03o001avdu4biy1d1zz",
+        "antes": "Volver al aula como docentes",
+        "despues": "La posibilidad de volver al aula como docentes al terminar su mandato, conservando el complemento salarial y la antigüedad acumulada en la dirección"
+      },
+      {
+        "opcionId": "cmvvyx03o001bvdu4ldzg5qqt",
+        "antes": "Elegir a los directores por sorteo",
+        "despues": "La elección de los directores por sorteo entre los docentes del centro, para evitar la politización de los procesos selectivos de la Administración"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvyx03y001dvdu4ul1vd45s",
+    "opciones": [
+      {
+        "opcionId": "cmvvyx03y001evdu4dvygeqjq",
+        "antes": "Promocionar a los mejores profesores, crear plantillas estables, gestionar comunidades de profesores alineadas con un proyecto y no depender de la rotación docente de cada curso",
+        "despues": "Promocionar a los mejores profesores, crear plantillas estables, gestionar comunidades de profesores alineadas con un proyecto y no depender de la rotación docente"
+      },
+      {
+        "opcionId": "cmvvyx03y001fvdu4kpkbo1bd",
+        "antes": "Aumentar la rotación docente para renovar las ideas",
+        "despues": "Aumentar la rotación docente en cada curso para renovar las ideas, y gestionar comunidades de profesores alineadas con el proyecto de dirección del centro"
+      },
+      {
+        "opcionId": "cmvvyx03y001gvdu4iu7bcta2",
+        "antes": "Delegar la selección de personal a las familias",
+        "despues": "Delegar la selección del personal docente a las familias y al consejo escolar, para que la plantilla responda a las necesidades de la comunidad educativa"
+      },
+      {
+        "opcionId": "cmvvyx03y001hvdu49lnxmwo7",
+        "antes": "Reducir el trabajo colaborativo para ganar eficiencia",
+        "despues": "Reducir el trabajo colaborativo del profesorado para ganar eficiencia, y concentrar en el equipo directivo la gestión de los recursos humanos del centro"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvyx041001jvdu4lqlnhack",
+    "opciones": [
+      {
+        "opcionId": "cmvvyx041001kvdu4fk77ckzp",
+        "antes": "Que, pese a los obstáculos y a las demandas no reconocidas, la mayoría dice que volvería a ser director",
+        "despues": "Que, pese a los obstáculos y a las demandas no reconocidas, la mayoría dice que volvería a ser director"
+      },
+      {
+        "opcionId": "cmvvyx041001lvdu4n78nj1gb",
+        "antes": "Que la mayoría abandonaría el cargo tras la pandemia",
+        "despues": "Que la mayoría abandonaría el cargo tras la pandemia por la sobrecarga administrativa y emocional"
+      },
+      {
+        "opcionId": "cmvvyx041001mvdu41nxdffwt",
+        "antes": "Que la normativa vigente es inadecuada en su totalidad",
+        "despues": "Que la normativa vigente es inadecuada en su totalidad y debe reemplazarse por el modelo de la OEI"
+      },
+      {
+        "opcionId": "cmvvyx041001nvdu4sdtp2j6q",
+        "antes": "Que el liderazgo distribuido no es aplicable en Iberoamérica",
+        "despues": "Que el liderazgo distribuido no es aplicable en Iberoamérica por la centralización de los sistemas"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvyxv7k0001vdgsv1q9lewk",
+    "opciones": [
+      {
+        "opcionId": "cmvvyxv7k0002vdgsb0ci7vyz",
+        "antes": "La consecución de los objetivos del Plan de Centro Anual o del proyecto de dirección",
+        "despues": "La consecución de los objetivos del Plan de Centro Anual o del proyecto de dirección"
+      },
+      {
+        "opcionId": "cmvvyxv7k0003vdgs46q1pzpo",
+        "antes": "El número de sanciones aplicadas",
+        "despues": "El número de sanciones disciplinarias aplicadas al personal y al alumnado del centro"
+      },
+      {
+        "opcionId": "cmvvyxv7k0004vdgs1zp07a6z",
+        "antes": "El índice de absentismo docente",
+        "despues": "El índice de absentismo docente y de rotación del profesorado durante el curso"
+      },
+      {
+        "opcionId": "cmvvyxv7k0005vdgsmwrdmuya",
+        "antes": "Las calificaciones nacionales del alumnado",
+        "despues": "Las calificaciones del alumnado en las pruebas nacionales estandarizadas del curso"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvyxv8i000pvdgszodzih8a",
+    "opciones": [
+      {
+        "opcionId": "cmvvyxv8i000qvdgsun0f5qqe",
+        "antes": "Porque el sujeto que responde es distinto (normativa, Administración, director) y no todos los países participaron en las tres encuestas",
+        "despues": "Porque el sujeto que responde es distinto (normativa, Administración, director) y no todos los países participaron en las tres encuestas"
+      },
+      {
+        "opcionId": "cmvvyxv8i000rvdgsgjv8xxwx",
+        "antes": "Porque los cuestionarios se aplicaron en idiomas distintos",
+        "despues": "Porque los cuestionarios se aplicaron en idiomas distintos, español y portugués, y con escalas de valoración diferentes en cada país"
+      },
+      {
+        "opcionId": "cmvvyxv8i000svdgs7dwb0hd7",
+        "antes": "Porque la matriz de especificaciones no cubría el dominio",
+        "despues": "Porque la matriz de especificaciones no cubría todo el dominio del modelo y cada encuesta midió dimensiones distintas del liderazgo"
+      },
+      {
+        "opcionId": "cmvvyxv8i000tvdgs3sxysbmt",
+        "antes": "Porque las muestras eran representativas solo en España",
+        "despues": "Porque las muestras de directores eran representativas solo en España, y en los demás países respondieron muy pocos directores"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvyxv8m000vvdgsx6i1wqw5",
+    "opciones": [
+      {
+        "opcionId": "cmvvyxv8m000wvdgsxiuh5hir",
+        "antes": "Tres países cuyas normas no recogen muchos rasgos del modelo, y seis que consideran que su normativa sí los recoge, aunque solo en grado intermedio",
+        "despues": "Tres países cuyas normas no recogen muchos rasgos del modelo, y seis que consideran que su normativa sí los recoge, aunque solo en grado intermedio"
+      },
+      {
+        "opcionId": "cmvvyxv8m000xvdgs243cghbx",
+        "antes": "Seis países que no recogen los rasgos del modelo y tres que los recogen plenamente",
+        "despues": "Seis países cuyas normas no recogen muchos rasgos del modelo, y tres que consideran que su normativa los recoge plenamente y en grado alto"
+      },
+      {
+        "opcionId": "cmvvyxv8m000yvdgs7nzwhybp",
+        "antes": "Cuatro y cinco países, según su región",
+        "despues": "Cuatro países de una región que recogen los rasgos del modelo en grado alto, y cinco de otra región que solo los recogen en grado intermedio"
+      },
+      {
+        "opcionId": "cmvvyxv8m000zvdgs585o24mj",
+        "antes": "Los países europeos frente a los latinoamericanos",
+        "despues": "Los países europeos, cuya normativa recoge los rasgos del modelo en grado alto, frente a los latinoamericanos, que no los recogen"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvyxv8w0011vdgsdwufk6tk",
+    "opciones": [
+      {
+        "opcionId": "cmvvyxv8w0012vdgsovaiuoyc",
+        "antes": "Porque permiten conocer las diferencias entre la normativa y la realidad del director en su centro",
+        "despues": "Porque permiten conocer las diferencias entre la normativa y la realidad del director en su centro"
+      },
+      {
+        "opcionId": "cmvvyxv8w0013vdgsanifsaww",
+        "antes": "Porque son representativos de toda la región",
+        "despues": "Porque son representativos de toda la región iberoamericana y de todos los niveles educativos"
+      },
+      {
+        "opcionId": "cmvvyxv8w0014vdgshj38orqo",
+        "antes": "Porque reemplazan la opinión de las Administraciones",
+        "despues": "Porque reemplazan la opinión de las Administraciones, que solo describe lo que dice la normativa"
+      },
+      {
+        "opcionId": "cmvvyxv8w0015vdgsi0u27h5f",
+        "antes": "Porque miden el rendimiento de los estudiantes",
+        "despues": "Porque miden el rendimiento de los estudiantes de cada centro y su relación con el liderazgo"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwtuzwt000dvd70dlvqzxte",
+    "opciones": [
+      {
+        "opcionId": "cmvwtuzwt000evd7002h2o8sd",
+        "antes": "La gestión administrativa, el liderazgo pedagógico y otro tipo de tareas no incluidas en los demás apartados",
+        "despues": "La gestión administrativa, el liderazgo pedagógico y otro tipo de tareas no incluidas en los demás apartados"
+      },
+      {
+        "opcionId": "cmvwtuzwt000fvd70xrqgje4e",
+        "antes": "La docencia directa con el alumnado",
+        "despues": "La docencia directa con el alumnado, la gestión administrativa y la atención a las familias del centro"
+      },
+      {
+        "opcionId": "cmvwtuzwt000gvd702a760i20",
+        "antes": "La gestión de la convivencia",
+        "despues": "La gestión de la convivencia, la resolución de conflictos y la atención a las familias del alumnado"
+      },
+      {
+        "opcionId": "cmvwtuzwu000hvd70sk9krdrn",
+        "antes": "La interacción con otras organizaciones",
+        "despues": "La interacción con otras organizaciones, la gestión del presupuesto y la representación institucional"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwtuzxk0017vd70u47mgxln",
+    "opciones": [
+      {
+        "opcionId": "cmvwtuzxk0018vd70zgzn9aqs",
+        "antes": "La mentoría personalizada de directores noveles (33% en Chile, 19% en Argentina y 14% en España)",
+        "despues": "La mentoría personalizada de directores noveles (33% en Chile, 19% en Argentina y 14% en España)"
+      },
+      {
+        "opcionId": "cmvwtuzxk0019vd70fxssbu1d",
+        "antes": "La formación administrativa, ya muy extendida",
+        "despues": "La formación administrativa inicial, que ya está muy extendida en los tres países (más del 80%)"
+      },
+      {
+        "opcionId": "cmvwtuzxk001avd70kzufmu17",
+        "antes": "Las sanciones por bajo desempeño",
+        "despues": "Las sanciones por bajo desempeño durante el primer año de mandato, con evaluación semestral"
+      },
+      {
+        "opcionId": "cmvwtuzxk001bvd70p010h43p",
+        "antes": "La rotación anual de directores",
+        "despues": "La rotación anual de directores noveles entre centros, para que conozcan contextos distintos"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwwo0vv0001vdj4t6ebz7na",
+    "opciones": [
+      {
+        "opcionId": "cmvwwo0vv0002vdj46twzdziz",
+        "antes": "José Augusto Pacheco y Consuelo Vélaz-de-Medrano Ureta, bajo la supervisión de la OEI y del INEE de España",
+        "despues": "José Augusto Pacheco y Consuelo Vélaz-de-Medrano Ureta, bajo la supervisión de la OEI y del INEE de España"
+      },
+      {
+        "opcionId": "cmvwwo0vv0003vdj4xl0wnx96",
+        "antes": "Michael Fullan y Andy Hargreaves, bajo la supervisión de la OCDE",
+        "despues": "Michael Fullan y Andy Hargreaves, bajo la supervisión de la OCDE y del Ministerio de Educación de España"
+      },
+      {
+        "opcionId": "cmvwwo0vv0004vdj4uqa1qoqs",
+        "antes": "Denise Vaillant, para la UNESCO",
+        "despues": "Denise Vaillant y Antonio Bolívar, para la UNESCO, bajo la supervisión del INEE de España y de la OEI"
+      },
+      {
+        "opcionId": "cmvwwo0vv0005vdj40rf0td1z",
+        "antes": "El LLECE de la OREALC",
+        "despues": "El LLECE de la OREALC/UNESCO Santiago, bajo la supervisión de la OEI y de los ministerios participantes"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwwo0wf000dvdj4gbo5fiia",
+    "opciones": [
+      {
+        "opcionId": "cmvwwo0wf000evdj4syeg5i1b",
+        "antes": "Pasar de una dirección limitada a la gestión (modelo burocrático-administrativista) a un liderazgo educativo o dirección pedagógica",
+        "despues": "Pasar de una dirección limitada a la gestión (modelo burocrático-administrativista) a un liderazgo educativo o dirección pedagógica"
+      },
+      {
+        "opcionId": "cmvwwo0wf000fvdj4giqb2fln",
+        "antes": "Pasar de un liderazgo pedagógico a uno administrativo",
+        "despues": "Pasar de un liderazgo pedagógico centrado en la enseñanza a una dirección administrativa centrada en la gestión eficiente de recursos"
+      },
+      {
+        "opcionId": "cmvwwo0wf000gvdj4nnjyhmc1",
+        "antes": "Eliminar la figura del director",
+        "despues": "Eliminar la figura del director y sustituirla por un equipo docente rotativo que asuma colegiadamente la gestión del centro"
+      },
+      {
+        "opcionId": "cmvwwo0wf000hvdj4iesjzysc",
+        "antes": "Centralizar las decisiones en la Administración",
+        "despues": "Centralizar en la Administración las decisiones pedagógicas y dejar al director solo la gestión burocrática-administrativa del centro"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwwo0wj000jvdj4mwde2ryu",
+    "opciones": [
+      {
+        "opcionId": "cmvwwo0wj000kvdj4fvktl7ow",
+        "antes": "Están distribuidas horizontalmente entre todos los miembros de la escuela, generando un liderazgo múltiple y un proyecto conjunto de acción",
+        "despues": "Están distribuidas horizontalmente entre todos los miembros de la escuela, generando un liderazgo múltiple y un proyecto conjunto de acción"
+      },
+      {
+        "opcionId": "cmvwwo0wj000lvdj4tm8xqs5d",
+        "antes": "Se concentran en el director",
+        "despues": "Se concentran en el director, que las delega verticalmente en el equipo directivo según las necesidades del proyecto de acción"
+      },
+      {
+        "opcionId": "cmvwwo0wj000mvdj4ljmyqbgm",
+        "antes": "Dependen de la Administración",
+        "despues": "Dependen de la Administración educativa, que define el proyecto de acción y distribuye las responsabilidades entre los centros"
+      },
+      {
+        "opcionId": "cmvwwo0wj000nvdj4548y2ftt",
+        "antes": "Corresponden solo al equipo directivo",
+        "despues": "Corresponden solo al equipo directivo, que genera un liderazgo compartido entre sus miembros y lo transmite al profesorado"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwwo0wu000pvdj4xqdhg783",
+    "opciones": [
+      {
+        "opcionId": "cmvwwo0wu000qvdj4lxekujas",
+        "antes": "El 63% (54% particular subvencionada y 9% particular pagada), frente a un 36% pública",
+        "despues": "El 63% (54% particular subvencionada y 9% particular pagada), frente a un 36% pública"
+      },
+      {
+        "opcionId": "cmvwwo0wu000rvdj4zk3yy3kb",
+        "antes": "El 20%",
+        "despues": "El 20% (15% particular subvencionada y 5% particular pagada), frente a un 80% pública"
+      },
+      {
+        "opcionId": "cmvwwo0wu000svdj4gxtju369",
+        "antes": "El 81%",
+        "despues": "El 81% (72% particular subvencionada y 9% particular pagada), frente a un 19% pública"
+      },
+      {
+        "opcionId": "cmvwwo0wu000tvdj4thmld4e2",
+        "antes": "El 67%",
+        "despues": "El 67% (58% particular subvencionada y 9% particular pagada), frente a un 33% pública"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwwo0x90011vdj4du42k90j",
+    "opciones": [
+      {
+        "opcionId": "cmvwwo0x90012vdj4uqjj0uai",
+        "antes": "Que la remuneración económica sea más adecuada al grado de responsabilidad que asumen",
+        "despues": "Que la remuneración económica sea más adecuada al grado de responsabilidad que asumen"
+      },
+      {
+        "opcionId": "cmvwwo0x90013vdj4emu3b689",
+        "antes": "Que se elimine el complemento por cargo",
+        "despues": "Que se elimine el complemento por cargo y se reemplace por incentivos no salariales"
+      },
+      {
+        "opcionId": "cmvwwo0x90014vdj4m511so3i",
+        "antes": "Que el salario dependa solo de los resultados de los estudiantes",
+        "despues": "Que el salario dependa solo de los resultados de los estudiantes en pruebas externas"
+      },
+      {
+        "opcionId": "cmvwwo0x90015vdj4bg0kr087",
+        "antes": "Que se mantenga igual al de los docentes",
+        "despues": "Que se mantenga igual al de los docentes, para no distanciar la dirección del aula"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwwo0xc0017vdj42dk1z08b",
+    "opciones": [
+      {
+        "opcionId": "cmvwwo0xc0018vdj4ppvgizny",
+        "antes": "42,1%, por debajo de la media OCDE (46,5%)",
+        "despues": "42,1%, por debajo de la media OCDE (46,5%)"
+      },
+      {
+        "opcionId": "cmvwwo0xc0019vdj48sidwlt1",
+        "antes": "34%",
+        "despues": "34,0%, muy por debajo de la media OCDE (46,5%)"
+      },
+      {
+        "opcionId": "cmvwwo0xc001avdj4j8fnmte7",
+        "antes": "75%",
+        "despues": "75,0%, muy por encima de la media OCDE (46,5%)"
+      },
+      {
+        "opcionId": "cmvwwo0xc001bvdj4rwf1x29p",
+        "antes": "46,5%",
+        "despues": "46,5%, exactamente igual a la media OCDE"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwwo0xp001dvdj4wkov2klz",
+    "opciones": [
+      {
+        "opcionId": "cmvwwo0xp001evdj4d7psxumn",
+        "antes": "Chile (53%), frente a Argentina (31%) y España (14%)",
+        "despues": "Chile (53%), frente a Argentina (31%) y España (14%)"
+      },
+      {
+        "opcionId": "cmvwwo0xp001fvdj4qy6jlpvy",
+        "antes": "España (53%)",
+        "despues": "España (53%), frente a Chile (31%) y Argentina (14%)"
+      },
+      {
+        "opcionId": "cmvwwo0xp001gvdj4npt91yvu",
+        "antes": "Argentina (53%)",
+        "despues": "Argentina (53%), frente a Chile (31%) y España (14%)"
+      },
+      {
+        "opcionId": "cmvwwo0xp001hvdj4q6oulxhx",
+        "antes": "En los tres por igual (80%)",
+        "despues": "En los tres por igual: alrededor del 80% en cada país"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwwo0xs001jvdj4csiu6jth",
+    "opciones": [
+      {
+        "opcionId": "cmvwwo0xs001kvdj4vczbpnac",
+        "antes": "En que tienen bastante o mucha autonomía para flexibilizar su horario y dedicarlo a las distintas tareas de dirección",
+        "despues": "En que tienen bastante o mucha autonomía para flexibilizar su horario y dedicarlo a las distintas tareas de dirección"
+      },
+      {
+        "opcionId": "cmvwwo0xs001lvdj460y0w918",
+        "antes": "En la contratación de docentes",
+        "despues": "En que tienen bastante o mucha autonomía para contratar o renovar al profesorado según su proyecto de dirección"
+      },
+      {
+        "opcionId": "cmvwwo0xs001mvdj4xtbvoh6o",
+        "antes": "En la gestión del presupuesto",
+        "despues": "En que tienen bastante o mucha autonomía para gestionar el presupuesto del centro y distribuirlo en partidas"
+      },
+      {
+        "opcionId": "cmvwwo0xs001nvdj45g9rzxvr",
+        "antes": "En definir los salarios",
+        "despues": "En que tienen bastante o mucha autonomía para definir los salarios y complementos del personal del centro"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwwo0y3001pvdj4j6vu3z7b",
+    "opciones": [
+      {
+        "opcionId": "cmvwwo0y3001qvdj41gx5dmdh",
+        "antes": "Se reducen las posibilidades (62% en Argentina, 73% en Chile y 47% en España)",
+        "despues": "Se reducen las posibilidades (62% en Argentina, 73% en Chile y 47% en España)"
+      },
+      {
+        "opcionId": "cmvwwo0y3001rvdj4ldme8zhl",
+        "antes": "La autonomía aumenta",
+        "despues": "La autonomía aumenta (62% en Argentina, 73% en Chile y 47% en España)"
+      },
+      {
+        "opcionId": "cmvwwo0y3001svdj4zwm994gi",
+        "antes": "No cambia respecto a promover la participación",
+        "despues": "No cambia respecto de la autonomía para promover la participación (alrededor del 80%)"
+      },
+      {
+        "opcionId": "cmvwwo0y3001tvdj42mnbd32o",
+        "antes": "Desaparece por completo",
+        "despues": "Desaparece por completo en los tres países, porque depende de la Administración"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwwo0y6001vvdj43unuka25",
+    "opciones": [
+      {
+        "opcionId": "cmvwwo0y6001wvdj4tf97cls8",
+        "antes": "Que la complejidad y la duración de los procesos administrativos debilitan su autonomía de decisión",
+        "despues": "Que la complejidad y la duración de los procesos administrativos debilitan su autonomía de decisión"
+      },
+      {
+        "opcionId": "cmvwwo0y6001xvdj4frf7470b",
+        "antes": "Que se sienten más cómodos siguiendo instrucciones que ejerciendo su autonomía",
+        "despues": "Que se sienten más cómodos siguiendo instrucciones de la Administración que ejerciendo su autonomía"
+      },
+      {
+        "opcionId": "cmvwwo0y6001yvdj4pvhkavxu",
+        "antes": "Que se sienten respaldados por la Administración",
+        "despues": "Que se sienten respaldados por la Administración cuando ejercen su autonomía de decisión"
+      },
+      {
+        "opcionId": "cmvwwo0y6001zvdj4jlej0mrt",
+        "antes": "Que no desean autonomía",
+        "despues": "Que no desean más autonomía, porque aumentaría su responsabilidad sin mejorar su salario"
+      }
+    ]
+  }
+]

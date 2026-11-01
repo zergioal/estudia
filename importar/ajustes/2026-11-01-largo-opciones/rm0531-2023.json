@@ -1,0 +1,627 @@
+[
+  {
+    "preguntaId": "cmvvxnal20001vdz8t0ivrvs6",
+    "opciones": [
+      {
+        "opcionId": "cmvvxnal20002vdz8a21nvvhw",
+        "antes": "Los CEA fiscales y de convenio del área de Educación Permanente No Escolarizada, mediante un \"Acta de Acreditación\" emitida por la DGEA a través del SPCC",
+        "despues": "Los CEA fiscales y de convenio del área de Educación Permanente No Escolarizada, mediante un «Acta de Acreditación» emitida por la DGEA a través del SPCC"
+      },
+      {
+        "opcionId": "cmvvxnal20003vdz86dyg1v8c",
+        "antes": "Los CEA del área de Educación de Personas Jóvenes y Adultas, mediante una Resolución Administrativa de la DDE",
+        "despues": "Los CEA fiscales y de convenio del área de Educación de Personas Jóvenes y Adultas, mediante una Resolución Administrativa de la Dirección Departamental"
+      },
+      {
+        "opcionId": "cmvvxnal20004vdz8qm7zuskz",
+        "antes": "Los institutos técnicos superiores, mediante una RM",
+        "despues": "Los institutos técnicos superiores fiscales y de convenio, mediante una Resolución Ministerial emitida a propuesta de la DGEA y del SPCC"
+      },
+      {
+        "opcionId": "cmvvxnal20005vdz8vnad1jym",
+        "antes": "Cualquier CEA privado registrado",
+        "despues": "Cualquier CEA fiscal, de convenio o privado registrado en el SIE, mediante un «Acta de Acreditación» emitida por la Dirección Distrital"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvxnalg0007vdz82tpg44tq",
+    "opciones": [
+      {
+        "opcionId": "cmvvxnalg0008vdz8cok1r0hh",
+        "antes": "Las bolivianas y los bolivianos que habitan en el territorio nacional, y también quienes radican en el extranjero",
+        "despues": "Las bolivianas y los bolivianos que habitan en el territorio nacional, y también quienes radican en el extranjero"
+      },
+      {
+        "opcionId": "cmvvxnalg0009vdz800ba1n1z",
+        "antes": "Solo quienes residen en Bolivia",
+        "despues": "Solo las bolivianas y los bolivianos que residen en el territorio nacional y tienen experiencia en la ocupación"
+      },
+      {
+        "opcionId": "cmvvxnalg000avdz8s2vbsozl",
+        "antes": "Solo quienes tienen título de bachiller",
+        "despues": "Solo quienes tienen título de bachiller y experiencia comprobada en la ocupación que desean certificar"
+      },
+      {
+        "opcionId": "cmvvxnalg000bvdz8qafr0qoz",
+        "antes": "Solo los extranjeros con residencia permanente",
+        "despues": "Las bolivianas y los bolivianos, y los extranjeros con residencia permanente, que habitan en el territorio nacional"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvxnalr000dvdz8hxlzl53m",
+    "opciones": [
+      {
+        "opcionId": "cmvvxnalr000evdz8kxgturaz",
+        "antes": "Un documento en formato digital con los datos básicos y la ocupación del trabajador, que respalda que ya cuenta con su certificado de competencias",
+        "despues": "Un documento en formato digital con los datos básicos y la ocupación del trabajador, que respalda que ya cuenta con su certificado de competencias"
+      },
+      {
+        "opcionId": "cmvvxnalr000fvdz8oommb9lk",
+        "antes": "Un permiso municipal para ejercer el oficio",
+        "despues": "Un permiso municipal para ejercer el oficio, que se otorga al trabajador que presenta su certificado de competencias ante el Gobierno Municipal"
+      },
+      {
+        "opcionId": "cmvvxnalr000gvdz8g0ydkmrz",
+        "antes": "El título de Técnico Medio de la EPJA",
+        "despues": "El título de Técnico Medio de la EPJA, que se otorga al trabajador que certificó sus competencias y completó la formación complementaria"
+      },
+      {
+        "opcionId": "cmvvxnalr000hvdz8g282oh1e",
+        "antes": "El certificado impreso con sello seco",
+        "despues": "El certificado impreso con sello seco y firma de las autoridades, que acredita el nivel «Experto» del trabajador en todas las competencias"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvxnam0000jvdz855o48t21",
+    "opciones": [
+      {
+        "opcionId": "cmvvxnam0000kvdz8tx1d5yu8",
+        "antes": "La referencia ocupacional de experiencias, saberes, conocimientos, habilidades, destrezas y valores, construida de manera comunitaria, que permite valorar el ser, saber, hacer y decidir",
+        "despues": "La referencia ocupacional de experiencias, saberes, conocimientos, habilidades, destrezas y valores, construida de manera comunitaria, que permite valorar el ser, saber, hacer y decidir"
+      },
+      {
+        "opcionId": "cmvvxnam0000lvdz8q8oma1fv",
+        "antes": "El relevamiento de la situación de una ocupación en su contexto territorial",
+        "despues": "El relevamiento de la situación de una ocupación en su contexto territorial, con datos de los trabajadores, los productores y las condiciones en que se desarrolla el oficio"
+      },
+      {
+        "opcionId": "cmvvxnam0000mvdz8kopsl34c",
+        "antes": "La descripción de los datos históricos, culturales y económicos de una ocupación",
+        "despues": "La descripción de los datos históricos, culturales y económicos de una ocupación, que sirve de base para elaborar los instrumentos de evaluación de los postulantes"
+      },
+      {
+        "opcionId": "cmvvxnam0000nvdz8ecsnoyr9",
+        "antes": "El curso de fortalecimiento basado en la ocupación",
+        "despues": "El curso de fortalecimiento basado en la ocupación, que desarrollan los CEA de Educación Permanente para quienes no alcanzan el nivel «Experto» en la evaluación"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvxnama000pvdz88hx4r9e9",
+    "opciones": [
+      {
+        "opcionId": "cmvvxnama000qvdz8l2tki3hy",
+        "antes": "En un máximo de 5 días hábiles, al coordinador departamental del SPCC",
+        "despues": "En un máximo de 5 días hábiles, al coordinador departamental del SPCC"
+      },
+      {
+        "opcionId": "cmvvxnama000rvdz82jv7kd5l",
+        "antes": "En 15 días hábiles, a la Dirección Distrital",
+        "despues": "En un máximo de 15 días hábiles, a la Dirección Distrital de Educación"
+      },
+      {
+        "opcionId": "cmvvxnama000svdz80st1utp6",
+        "antes": "En 10 días hábiles, a la DGEA",
+        "despues": "En un máximo de 10 días hábiles, a la Dirección General de Educación Alternativa"
+      },
+      {
+        "opcionId": "cmvvxnama000tvdz8clk4sb78",
+        "antes": "En 48 horas, al Viceministerio",
+        "despues": "En un máximo de 48 horas, al Viceministerio de Educación Alternativa y Especial"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvxnan30011vdz8tye6xorp",
+    "opciones": [
+      {
+        "opcionId": "cmvvxnan30012vdz8w4w8a2e4",
+        "antes": "Emitir un memorándum que designa a uno o más maestros como supervisores, y asignarles la custodia de toda la documentación del proceso de evaluación",
+        "despues": "Emitir un memorándum que designa a uno o más maestros como supervisores, y asignarles la custodia de toda la documentación del proceso de evaluación"
+      },
+      {
+        "opcionId": "cmvvxnan30013vdz8nt3l6vzz",
+        "antes": "Solicitar a la Dirección Distrital que designe a los supervisores",
+        "despues": "Solicitar a la Dirección Distrital que designe a los supervisores del proceso, y custodiar personalmente toda la documentación de la evaluación"
+      },
+      {
+        "opcionId": "cmvvxnan30014vdz8gt6olrvv",
+        "antes": "Supervisar personalmente todas las evaluaciones, sin designar a nadie",
+        "despues": "Supervisar personalmente todas las evaluaciones, sin designar a otros maestros, y remitir la documentación al coordinador del SPCC al concluir"
+      },
+      {
+        "opcionId": "cmvvxnan30015vdz8auqqrkzq",
+        "antes": "Contratar supervisores externos",
+        "despues": "Contratar supervisores externos expertos en la ocupación, y asignarles la custodia de la documentación del proceso de evaluación"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvxnaoc001jvdz8imqwv29r",
+    "opciones": [
+      {
+        "opcionId": "cmvvxnaoc001kvdz8w7y5va4z",
+        "antes": "Queda inhabilitada automáticamente, por contar con formación académica similar a la ocupación a certificar",
+        "despues": "Queda inhabilitada automáticamente, por contar con formación académica similar a la ocupación a certificar"
+      },
+      {
+        "opcionId": "cmvvxnaoc001lvdz8baj4d784",
+        "antes": "Queda habilitada con prioridad por su formación",
+        "despues": "Queda habilitada con prioridad sobre los demás postulantes, porque su formación respalda sus competencias"
+      },
+      {
+        "opcionId": "cmvvxnaoc001mvdz8btixlj1l",
+        "antes": "Puede certificarse si paga un arancel adicional",
+        "despues": "Puede certificarse si paga un arancel adicional por la verificación de su formación académica"
+      },
+      {
+        "opcionId": "cmvvxnaoc001nvdz8lwb4txsq",
+        "antes": "Debe certificarse directamente como experta, sin evaluación",
+        "despues": "Debe certificarse directamente con el nivel «Experto», sin pasar por el proceso de evaluación"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvxnaot001pvdz8rbfo4yes",
+    "opciones": [
+      {
+        "opcionId": "cmvvxnaot001qvdz8hsqii0q5",
+        "antes": "18 años; excepcionalmente puede habilitarse, por ejemplo, a personas con hijos o que asumen la responsabilidad de hermanos menores, con documentos de respaldo",
+        "despues": "18 años; excepcionalmente puede habilitarse, por ejemplo, a personas con hijos o que asumen la responsabilidad de hermanos menores, con documentos de respaldo"
+      },
+      {
+        "opcionId": "cmvvxnaot001rvdz8k36ali0x",
+        "antes": "15 años, sin excepciones",
+        "despues": "15 años, sin excepciones; quien no la cumple debe esperar a cumplirla para que se contabilicen sus años de experiencia en la ocupación"
+      },
+      {
+        "opcionId": "cmvvxnaot001svdz8jgbs57k8",
+        "antes": "21 años, sin excepciones",
+        "despues": "21 años, sin excepciones; quien no la cumple puede acceder solo a la formación complementaria, sin certificar sus competencias"
+      },
+      {
+        "opcionId": "cmvvxnaot001tvdz8vypjview",
+        "antes": "No existe edad mínima",
+        "despues": "No existe una edad mínima: se contabilizan todos los años de experiencia del postulante, desde que empezó a trabajar en la ocupación"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvxnap2001vvdz8rzrmeete",
+    "opciones": [
+      {
+        "opcionId": "cmvvxnap2001wvdz8kshbpwjj",
+        "antes": "No se le registra para el Certificado de Competencias, porque se requiere el nivel \"Experto\" en todas las competencias del instrumento",
+        "despues": "No se le registra para el Certificado de Competencias, porque se requiere el nivel «Experto» en todas las competencias del instrumento"
+      },
+      {
+        "opcionId": "cmvvxnap2001xvdz8k5rqpbq9",
+        "antes": "Obtiene el certificado, porque el promedio es suficiente",
+        "despues": "Obtiene el Certificado de Competencias, porque el promedio de sus niveles en todas las competencias es suficiente para aprobar"
+      },
+      {
+        "opcionId": "cmvvxnap2001yvdz8xkn7hw2m",
+        "antes": "Obtiene un certificado de nivel Avanzado",
+        "despues": "Obtiene un Certificado de Competencias de nivel «Avanzado», que puede mejorar luego con una nueva evaluación de esa competencia"
+      },
+      {
+        "opcionId": "cmvvxnap2001zvdz8k576wflc",
+        "antes": "Obtiene el certificado si el supervisor lo autoriza",
+        "despues": "Obtiene el Certificado de Competencias si el supervisor del proceso lo autoriza, considerando su desempeño en las demás competencias"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvxnapf0027vdz8ew19660f",
+    "opciones": [
+      {
+        "opcionId": "cmvvxnapf0028vdz8vkmmsfxm",
+        "antes": "En un tiempo no mayor a quince (15) días hábiles",
+        "despues": "En un tiempo no mayor a quince (15) días hábiles"
+      },
+      {
+        "opcionId": "cmvvxnapf0029vdz8st5js2x4",
+        "antes": "En 5 días hábiles",
+        "despues": "En un tiempo no mayor a cinco (5) días hábiles"
+      },
+      {
+        "opcionId": "cmvvxnapf002avdz87w0796za",
+        "antes": "En 10 días hábiles",
+        "despues": "En un tiempo no mayor a diez (10) días hábiles"
+      },
+      {
+        "opcionId": "cmvvxnapf002bvdz8pze0yp0f",
+        "antes": "Al cierre de la gestión",
+        "despues": "Al cierre de la gestión, con todas las carpetas del año"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvxnaq4002pvdz8ke5hwv8s",
+    "opciones": [
+      {
+        "opcionId": "cmvvxnaq5002qvdz8vqhcr2d4",
+        "antes": "Desde la emisión de la Resolución Ministerial que lo aprueba, sin tiempo concluyente o perentorio, y puede modificarse a solicitud del sector",
+        "despues": "Desde la emisión de la Resolución Ministerial que lo aprueba, sin tiempo concluyente o perentorio, y puede modificarse a solicitud del sector"
+      },
+      {
+        "opcionId": "cmvvxnaq5002rvdz8p2bt0eok",
+        "antes": "Desde la conclusión del taller, por seis años",
+        "despues": "Desde la conclusión del taller de elaboración con los expertos, por un período de seis años, renovable a solicitud del sector"
+      },
+      {
+        "opcionId": "cmvvxnaq5002svdz8u1u40lxe",
+        "antes": "Desde su publicación en prensa, por tres años",
+        "despues": "Desde su publicación en un medio de prensa de circulación nacional, por tres años, y puede modificarse a solicitud del sector"
+      },
+      {
+        "opcionId": "cmvvxnaq5002tvdz8qljowdpd",
+        "antes": "Desde la primera certificación, de manera indefinida e inmodificable",
+        "despues": "Desde la primera certificación que se realiza con él, de manera indefinida y sin posibilidad de modificación posterior"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvxnaqd002vvdz8twcpm0n7",
+    "opciones": [
+      {
+        "opcionId": "cmvvxnaqd002wvdz85ha1olr2",
+        "antes": "Cuando existe la solicitud de las trabajadoras y trabajadores o de los productores",
+        "despues": "Cuando existe la solicitud de las trabajadoras y trabajadores o de los productores"
+      },
+      {
+        "opcionId": "cmvvxnaqd002xvdz8swy5u0yx",
+        "antes": "Solo por iniciativa del Ministerio de Trabajo",
+        "despues": "Solo por iniciativa del Ministerio de Trabajo, a partir de sus estudios del mercado laboral"
+      },
+      {
+        "opcionId": "cmvvxnaqd002yvdz8k0e7157u",
+        "antes": "Solo si lo solicita el director del CEA",
+        "despues": "Solo si lo solicita el director del CEA acreditado, con el aval de la Dirección Distrital"
+      },
+      {
+        "opcionId": "cmvvxnaqd002zvdz8mj0nhu6o",
+        "antes": "Nunca: solo se certifica en los estándares existentes",
+        "despues": "Nunca: solo se certifica en los estándares ocupacionales que ya existen en el sistema"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvxnaqm0031vdz8r53lo37l",
+    "opciones": [
+      {
+        "opcionId": "cmvvxnaqm0032vdz8qfxnye0s",
+        "antes": "Los CEA del área de Educación Permanente No Escolarizada, mediante cursos según los Lineamientos Metodológicos de esa área",
+        "despues": "Los CEA del área de Educación Permanente No Escolarizada, mediante cursos según los Lineamientos Metodológicos de esa área"
+      },
+      {
+        "opcionId": "cmvvxnaqm0033vdz8mohdb0rx",
+        "antes": "Las universidades públicas",
+        "despues": "Las universidades públicas, mediante cursos de extensión universitaria basados en el estándar ocupacional del oficio"
+      },
+      {
+        "opcionId": "cmvvxnaqm0034vdz85nb1964l",
+        "antes": "Los CEA del área de Educación de Personas Jóvenes y Adultas, mediante módulos semestrales",
+        "despues": "Los CEA del área de Educación de Personas Jóvenes y Adultas, mediante módulos semestrales de la carrera técnica"
+      },
+      {
+        "opcionId": "cmvvxnaqm0035vdz8zbpdphbg",
+        "antes": "El Ministerio de Trabajo",
+        "despues": "El Ministerio de Trabajo, mediante programas de capacitación laboral basados en el estándar ocupacional"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvxnaqu0037vdz86mgzhg8q",
+    "opciones": [
+      {
+        "opcionId": "cmvvxnaqu0038vdz81o147rty",
+        "antes": "Las Direcciones Departamentales de Educación, a través de las Subdirecciones de Educación Alternativa y Especial",
+        "despues": "Las Direcciones Departamentales de Educación, a través de las Subdirecciones de Educación Alternativa y Especial"
+      },
+      {
+        "opcionId": "cmvvxnaqu0039vdz8tc46kkb6",
+        "antes": "Cada CEA, con sus propios recursos",
+        "despues": "Cada CEA acreditado, con sus propios recursos y los aportes de las organizaciones de trabajadores"
+      },
+      {
+        "opcionId": "cmvvxnaqu003avdz8zq8cm5rx",
+        "antes": "Los Gobiernos Autónomos Municipales",
+        "despues": "Los Gobiernos Autónomos Municipales, a solicitud de los CEA acreditados de su jurisdicción"
+      },
+      {
+        "opcionId": "cmvvxnaqu003bvdz8ort8uo5q",
+        "antes": "Los postulantes, mediante aranceles",
+        "despues": "Los propios postulantes, mediante el pago de aranceles por la evaluación de sus competencias"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvznxnc0001vdgkyowupkry",
+    "opciones": [
+      {
+        "opcionId": "cmvvznxnc0002vdgk84vy4ef2",
+        "antes": "Tres, porque la proporción es de un evaluador por cada 30 postulantes como máximo",
+        "despues": "Tres, porque la proporción es de un evaluador por cada 30 postulantes como máximo"
+      },
+      {
+        "opcionId": "cmvvznxnc0003vdgk7b97io8t",
+        "antes": "Dos, uno por cada 50 postulantes",
+        "despues": "Dos, porque la proporción es de un evaluador por cada 50 postulantes como máximo"
+      },
+      {
+        "opcionId": "cmvvznxnc0004vdgkkx03zbpb",
+        "antes": "Uno, porque basta un experto",
+        "despues": "Uno, porque basta un experto de la ocupación para evaluar a todos los postulantes"
+      },
+      {
+        "opcionId": "cmvvznxnc0005vdgkkel2nqao",
+        "antes": "Ocho, uno por cada 10 postulantes",
+        "despues": "Ocho, porque la proporción es de un evaluador por cada 10 postulantes como máximo"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvznxnr0007vdgkw3bvm1am",
+    "opciones": [
+      {
+        "opcionId": "cmvvznxnr0008vdgkmtvjgl6h",
+        "antes": "Devolver la carpeta al supervisor designado, que debe regularizarla en un plazo máximo de 10 días hábiles",
+        "despues": "Devolver la carpeta al supervisor designado, que debe regularizarla en un plazo máximo de 10 días hábiles"
+      },
+      {
+        "opcionId": "cmvvznxnr0009vdgk1vvi9olt",
+        "antes": "Anular el proceso de evaluación",
+        "despues": "Anular el proceso de evaluación del postulante y programar una nueva evaluación en el siguiente cronograma"
+      },
+      {
+        "opcionId": "cmvvznxnr000avdgkj2bb3jbq",
+        "antes": "Devolverla al postulante para que la corrija en 30 días",
+        "despues": "Devolver la carpeta al postulante para que obtenga las firmas faltantes en un plazo máximo de 30 días"
+      },
+      {
+        "opcionId": "cmvvznxnr000bvdgka1j38iem",
+        "antes": "Remitirla a la Subdirección para que la regularice en 15 días",
+        "despues": "Remitir la carpeta a la Subdirección para que la regularice en un plazo máximo de 15 días hábiles"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvznxo2000dvdgkxux6opps",
+    "opciones": [
+      {
+        "opcionId": "cmvvznxo2000evdgk7g5r44q5",
+        "antes": "En un plazo máximo de 15 días, con un taller de dos días y al menos 10 expertos",
+        "despues": "En un plazo máximo de 15 días, con un taller de dos días y al menos 10 expertos"
+      },
+      {
+        "opcionId": "cmvvznxo2000fvdgkp64v9om0",
+        "antes": "En 10 días hábiles, con al menos 30 expertos",
+        "despues": "En un plazo máximo de 10 días hábiles, con un taller de un día y al menos 30 expertos"
+      },
+      {
+        "opcionId": "cmvvznxo2000gvdgkg1ehtnqv",
+        "antes": "En 30 días, con 5 expertos",
+        "despues": "En un plazo máximo de 30 días, con un taller de tres días y al menos 5 expertos"
+      },
+      {
+        "opcionId": "cmvvznxo2000hvdgk95t3j0zb",
+        "antes": "En 15 días, con al menos 3 expertos",
+        "despues": "En un plazo máximo de 15 días, con un taller de dos días y al menos 3 expertos"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvznxod000jvdgkaqfuhx81",
+    "opciones": [
+      {
+        "opcionId": "cmvvznxod000kvdgkzza7wkhz",
+        "antes": "La denuncia de extravío ante la FELCC departamental y dos publicaciones en prensa escrita de circulación nacional",
+        "despues": "La denuncia de extravío ante la FELCC departamental y dos publicaciones en prensa escrita de circulación nacional"
+      },
+      {
+        "opcionId": "cmvvznxod000lvdgkjq5e5ek5",
+        "antes": "Solo una declaración jurada notariada",
+        "despues": "Solo una declaración jurada notariada sobre la pérdida del certificado y una fotocopia de su cédula de identidad"
+      },
+      {
+        "opcionId": "cmvvznxod000mvdgk0x8uw4o2",
+        "antes": "Una publicación en un periódico local",
+        "despues": "Una publicación del extravío en un periódico local y la constancia del CEA donde certificó sus competencias"
+      },
+      {
+        "opcionId": "cmvvznxod000nvdgkbda5qw5q",
+        "antes": "La firma de dos testigos",
+        "despues": "La firma de dos testigos que acrediten la pérdida y una carta del CEA acreditado donde se certificó"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvznxon000pvdgkc3dj5xwa",
+    "opciones": [
+      {
+        "opcionId": "cmvvznxon000qvdgk6melzifb",
+        "antes": "Un máximo de tres meses; vencido el plazo, se devuelven a la Subdirección de Educación Alternativa y Especial",
+        "despues": "Un máximo de tres meses; vencido el plazo, se devuelven a la Subdirección de Educación Alternativa y Especial"
+      },
+      {
+        "opcionId": "cmvvznxon000rvdgkuhugqthp",
+        "antes": "Nueve meses",
+        "despues": "Un máximo de nueve meses; vencido el plazo, se devuelven a la Dirección Distrital de Educación"
+      },
+      {
+        "opcionId": "cmvvznxon000svdgka8i3fkp6",
+        "antes": "Un año",
+        "despues": "Un máximo de un año; vencido el plazo, se remiten a la Dirección General de Educación Alternativa"
+      },
+      {
+        "opcionId": "cmvvznxon000tvdgk8bg9u3b0",
+        "antes": "Indefinidamente",
+        "despues": "Indefinidamente, hasta que el titular del certificado se presente a recogerlo en el centro"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvznxp80011vdgk1fpx18nl",
+    "opciones": [
+      {
+        "opcionId": "cmvvznxp80012vdgkm52hvfps",
+        "antes": "El coordinador/a del SPCC, dependiente de la Subdirección de Educación Alternativa y Especial",
+        "despues": "El coordinador/a del SPCC, dependiente de la Subdirección de Educación Alternativa y Especial"
+      },
+      {
+        "opcionId": "cmvvznxp80013vdgki69372ua",
+        "antes": "El director del CEA",
+        "despues": "El director del CEA acreditado, con el visto bueno de los supervisores designados"
+      },
+      {
+        "opcionId": "cmvvznxp80014vdgk412ik380",
+        "antes": "La Dirección Distrital",
+        "despues": "La Dirección Distrital de Educación, previa revisión del coordinador del SPCC"
+      },
+      {
+        "opcionId": "cmvvznxp80015vdgkki95qu45",
+        "antes": "La Dirección General de Educación Alternativa",
+        "despues": "La Dirección General de Educación Alternativa, a través del equipo nacional del SPCC"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvznxpi0017vdgkdxg1m8fh",
+    "opciones": [
+      {
+        "opcionId": "cmvvznxpi0018vdgks0nh01bd",
+        "antes": "A expertos de la ocupación, para ese proceso de evaluación",
+        "despues": "A expertos de la ocupación, para ese proceso de evaluación"
+      },
+      {
+        "opcionId": "cmvvznxpi0019vdgk0r8li5vc",
+        "antes": "Solo a maestros de humanidades",
+        "despues": "Solo a maestros de humanidades del CEA, como evaluadores imparciales"
+      },
+      {
+        "opcionId": "cmvvznxpi001avdgkutf99jhw",
+        "antes": "A los propios postulantes",
+        "despues": "A los propios postulantes, que se evalúan entre sí con el instrumento"
+      },
+      {
+        "opcionId": "cmvvznxpi001bvdgkvgrohr6x",
+        "antes": "Al director distrital",
+        "despues": "Al director distrital, que designa a los técnicos que evaluarán"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvznxpr001dvdgkpu9o522s",
+    "opciones": [
+      {
+        "opcionId": "cmvvznxpr001evdgkldpggcqc",
+        "antes": "La RM 0035/2023, de 13 de enero de 2023",
+        "despues": "La RM 0035/2023, de 13 de enero de 2023"
+      },
+      {
+        "opcionId": "cmvvznxpr001fvdgknhvd7yk0",
+        "antes": "El DS 4857",
+        "despues": "El DS 4857, de 6 de enero de 2023"
+      },
+      {
+        "opcionId": "cmvvznxpr001gvdgklaaks33k",
+        "antes": "La RM 1040/2022",
+        "despues": "La RM 1040/2022, de 14 de octubre de 2022"
+      },
+      {
+        "opcionId": "cmvvznxps001hvdgky3pxipu9",
+        "antes": "La RM 0001/2023",
+        "despues": "La RM 0001/2023, de 2 de enero de 2023"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwwq34t0001vdvoy5xhtv65",
+    "opciones": [
+      {
+        "opcionId": "cmvwwq34t0002vdvo3gpmcc3h",
+        "antes": "El documento que evidencia las competencias adquiridas a lo largo de la vida en un rubro ocupacional, según el estándar ocupacional, y da por cumplidas las etapas y requisitos de la certificación",
+        "despues": "El documento que evidencia las competencias adquiridas a lo largo de la vida en un rubro ocupacional, según el estándar ocupacional, y da por cumplidas las etapas de la certificación"
+      },
+      {
+        "opcionId": "cmvwwq34t0003vdvovioye4jp",
+        "antes": "Un título académico de Técnico Medio",
+        "despues": "Un título académico de Técnico Medio, que acredita la conclusión de la formación técnica en un CEA de Educación de Personas Jóvenes y Adultas, según el estándar ocupacional"
+      },
+      {
+        "opcionId": "cmvwwq34t0004vdvo9ehck576",
+        "antes": "Un diploma de bachiller técnico",
+        "despues": "Un diploma de bachiller técnico humanístico, que el Ministerio otorga a quienes certificaron sus competencias y concluyeron la Educación Secundaria de Personas Jóvenes y Adultas"
+      },
+      {
+        "opcionId": "cmvwwq34t0005vdvo240jwe0p",
+        "antes": "Una constancia de asistencia a un curso",
+        "despues": "Una constancia de asistencia a un curso de formación complementaria basado en el estándar ocupacional, que emite el CEA de Educación Permanente al concluir el curso"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwwq35c000dvdvov1a40kii",
+    "opciones": [
+      {
+        "opcionId": "cmvwwq35c000evdvo9wxect03",
+        "antes": "La Dirección General de Educación Alternativa, mediante el equipo del SPCC",
+        "despues": "La Dirección General de Educación Alternativa, mediante el equipo del SPCC"
+      },
+      {
+        "opcionId": "cmvwwq35c000fvdvoin8gq7w6",
+        "antes": "La Dirección Distrital",
+        "despues": "La Dirección Distrital de Educación, mediante sus técnicos de Educación Alternativa"
+      },
+      {
+        "opcionId": "cmvwwq35c000gvdvo3p90nrth",
+        "antes": "El propio CEA",
+        "despues": "El propio CEA, mediante una solicitud directa a la Dirección Departamental"
+      },
+      {
+        "opcionId": "cmvwwq35c000hvdvobi4xgg9m",
+        "antes": "El Ministerio de Trabajo",
+        "despues": "El Ministerio de Trabajo, mediante su sistema de certificación laboral"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwwq35g000jvdvo8da6ntud",
+    "opciones": [
+      {
+        "opcionId": "cmvwwq35g000kvdvozaxk177d",
+        "antes": "A la Dirección General de Educación Alternativa",
+        "despues": "A la Dirección General de Educación Alternativa"
+      },
+      {
+        "opcionId": "cmvwwq35g000lvdvoo0r4dz7d",
+        "antes": "A la Subdirección",
+        "despues": "A la Subdirección de Educación Alternativa y Especial"
+      },
+      {
+        "opcionId": "cmvwwq35g000mvdvothq7k5zj",
+        "antes": "Al coordinador del SPCC",
+        "despues": "Al coordinador departamental del SPCC"
+      },
+      {
+        "opcionId": "cmvwwq35g000nvdvoul24r2ap",
+        "antes": "Al CEA",
+        "despues": "Al CEA de Educación Permanente que la ejecuta"
+      }
+    ]
+  }
+]

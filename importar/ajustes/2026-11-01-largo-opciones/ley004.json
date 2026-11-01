@@ -1,0 +1,517 @@
+[
+  {
+    "preguntaId": "cmvvwwc880001vdtkqqr6pzql",
+    "opciones": [
+      {
+        "opcionId": "cmvvwwc880002vdtkt8zasqs6",
+        "antes": "Malversación: dar a los caudales que administra una aplicación distinta de aquella a la que estaban destinados",
+        "despues": "Malversación: dar a los caudales que administra una aplicación distinta de aquella a la que estaban destinados"
+      },
+      {
+        "opcionId": "cmvvwwc880003vdtk1dhdondp",
+        "antes": "Peculado",
+        "despues": "Peculado: apropiarse de dinero, valores o bienes de cuya administración o custodia está encargado por su cargo"
+      },
+      {
+        "opcionId": "cmvvwwc880004vdtkw196dxtn",
+        "antes": "Uso indebido de bienes y servicios públicos",
+        "despues": "Uso indebido de bienes y servicios públicos: usar en beneficio particular los bienes que administra por su función"
+      },
+      {
+        "opcionId": "cmvvwwc880005vdtkcicsp8dr",
+        "antes": "Beneficios en razón del cargo",
+        "despues": "Beneficios en razón del cargo: aceptar dádivas o ventajas en razón del cargo que desempeña en el centro"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvwwc8t000dvdtkkl1p04st",
+    "opciones": [
+      {
+        "opcionId": "cmvvwwc8t000evdtk2621bgjt",
+        "antes": "Privación de libertad de cinco a diez años y multa de doscientos a quinientos días",
+        "despues": "Privación de libertad de cinco a diez años y multa de doscientos a quinientos días"
+      },
+      {
+        "opcionId": "cmvvwwc8t000fvdtkq1srjs52",
+        "antes": "Privación de libertad de tres a ocho años y multa de cien a doscientos cincuenta días",
+        "despues": "Privación de libertad de tres a ocho años y multa de cien a doscientos cincuenta días"
+      },
+      {
+        "opcionId": "cmvvwwc8t000gvdtk5tecg9uu",
+        "antes": "Privación de libertad de uno a cuatro años",
+        "despues": "Privación de libertad de uno a cuatro años y multa de treinta a cien días"
+      },
+      {
+        "opcionId": "cmvvwwc8t000hvdtk4g1ritao",
+        "antes": "Multa de treinta días",
+        "despues": "Multa de treinta días e inhabilitación para la función pública por cinco años"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvwwcai0017vdtkr25xgkhh",
+    "opciones": [
+      {
+        "opcionId": "cmvvwwcai0018vdtkkyvw02q1",
+        "antes": "Constituirse obligatoriamente en parte querellante; su omisión importa el delito de incumplimiento de deberes, entre otros",
+        "despues": "Constituirse obligatoriamente en parte querellante; su omisión importa el delito de incumplimiento de deberes, entre otros"
+      },
+      {
+        "opcionId": "cmvvwwcai0019vdtkfj0dl1a6",
+        "antes": "Informar a la Contraloría, sin obligación de querellarse",
+        "despues": "Informar a la Contraloría General del Estado, sin obligación de querellarse; su omisión es solo una falta administrativa"
+      },
+      {
+        "opcionId": "cmvvwwcai001avdtknpuhrwri",
+        "antes": "Querellarse solo si el daño supera un monto mínimo",
+        "despues": "Querellarse solo si el daño económico supera un monto mínimo; por debajo de él basta con un proceso interno"
+      },
+      {
+        "opcionId": "cmvvwwcai001bvdtkkipg3st9",
+        "antes": "Esperar la acusación fiscal para decidir si se querella",
+        "despues": "Esperar la acusación fiscal para decidir si se querella; antes de ella no tiene ninguna obligación de actuar"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvwwcav001dvdtk9kw3gd9y",
+    "opciones": [
+      {
+        "opcionId": "cmvvwwcav001evdtk8a7dmeab",
+        "antes": "Nombramientos ilegales: privación de libertad de uno a cuatro años y multa de treinta a cien días",
+        "despues": "Nombramientos ilegales: privación de libertad de uno a cuatro años y multa de treinta a cien días"
+      },
+      {
+        "opcionId": "cmvvwwcav001fvdtk355k5mbg",
+        "antes": "Uso indebido de influencias: tres a ocho años",
+        "despues": "Uso indebido de influencias: privación de libertad de tres a ocho años y multa de cien a doscientos días"
+      },
+      {
+        "opcionId": "cmvvwwcav001gvdtkzd3du9i6",
+        "antes": "Resoluciones contrarias a las leyes: cinco a diez años",
+        "despues": "Resoluciones contrarias a la Constitución y las leyes: privación de libertad de cinco a diez años"
+      },
+      {
+        "opcionId": "cmvvwwcav001hvdtk0fdu6owy",
+        "antes": "Ninguno, porque solo proponer en terna no es nombrar",
+        "despues": "Ninguno, porque solo proponer en terna no es nombrar, y la responsabilidad es de quien designa"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvwwcbi001pvdtk9mu6321f",
+    "opciones": [
+      {
+        "opcionId": "cmvvwwcbi001qvdtk43aopmgy",
+        "antes": "Privación de libertad de cinco a diez años, inhabilitación para la función pública y/o cargos electos, multa de doscientos a quinientos días y decomiso de los bienes obtenidos ilegalmente",
+        "despues": "Privación de libertad de cinco a diez años, inhabilitación para la función pública y/o cargos electos, multa de doscientos a quinientos días y decomiso de los bienes ilícitos"
+      },
+      {
+        "opcionId": "cmvvwwcbi001rvdtky7jzd1uj",
+        "antes": "Privación de libertad de tres a ocho años, multa de cien a trescientos días y decomiso",
+        "despues": "Privación de libertad de tres a ocho años, inhabilitación para la función pública por diez años, multa de cien a trescientos días y decomiso de los bienes no justificados"
+      },
+      {
+        "opcionId": "cmvvwwcbi001svdtk5e4h01ct",
+        "antes": "Solo el decomiso de los bienes no justificados",
+        "despues": "Solo el decomiso de los bienes no justificados y una multa equivalente a su valor, sin privación de libertad, porque el delito no causa daño directo al Estado"
+      },
+      {
+        "opcionId": "cmvvwwcbi001tvdtkzvv0vw6p",
+        "antes": "Privación de libertad de uno a cuatro años e inhabilitación",
+        "despues": "Privación de libertad de uno a cuatro años, inhabilitación para la función pública y/o cargos electos y multa de treinta a cien días, sin decomiso de bienes"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvwwcc40021vdtk32k5e0bh",
+    "opciones": [
+      {
+        "opcionId": "cmvvwwcc40023vdtk3s1kouz9",
+        "antes": "Todos los delitos cometidos por servidores públicos",
+        "despues": "Todos los delitos cometidos por servidores públicos en el ejercicio de sus funciones, causen o no daño económico"
+      },
+      {
+        "opcionId": "cmvvwwcc40024vdtktckc1t1o",
+        "antes": "Solo el enriquecimiento ilícito y la legitimación de ganancias ilícitas",
+        "despues": "Solo el enriquecimiento ilícito y la legitimación de ganancias ilícitas, cualquiera sea el daño económico causado"
+      },
+      {
+        "opcionId": "cmvvwwcc40025vdtksvddwqtk",
+        "antes": "Los delitos de corrupción cometidos por particulares",
+        "despues": "Los delitos de corrupción cometidos por particulares que atenten contra el patrimonio del Estado"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvwwccr002dvdtkwt7tc4dv",
+    "opciones": [
+      {
+        "opcionId": "cmvvwwccr002evdtkg1sckqn0",
+        "antes": "Requerir, aceptar, ofrecer u otorgar objetos de valor pecuniario u otros beneficios a cambio de la acción u omisión de un acto que afecte los intereses del Estado",
+        "despues": "Requerir, aceptar, ofrecer u otorgar objetos de valor pecuniario u otros beneficios a cambio de la acción u omisión de un acto que afecte los intereses del Estado"
+      },
+      {
+        "opcionId": "cmvvwwccr002fvdtk14jc345k",
+        "antes": "Cualquier error de gestión que cause pérdidas a la entidad, aunque no medie beneficio",
+        "despues": "Cualquier error de gestión o de procedimiento que cause pérdidas económicas a la entidad pública, aunque no medie ningún beneficio para el servidor"
+      },
+      {
+        "opcionId": "cmvvwwccr002gvdtkefqynvgk",
+        "antes": "Solo la apropiación directa de fondos públicos por un servidor",
+        "despues": "Solo la apropiación directa de fondos públicos por un servidor que los administra, sin que interese la intervención de terceros o particulares"
+      },
+      {
+        "opcionId": "cmvvwwccr002hvdtksv6fw2aa",
+        "antes": "Solo los actos de servidores públicos, nunca de particulares",
+        "despues": "Solo los actos de servidores públicos que reciban beneficios, nunca los de particulares que los ofrezcan u otorguen a cambio de un acto"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvwwcdc002pvdtkphstik47",
+    "opciones": [
+      {
+        "opcionId": "cmvvwwcdc002qvdtk62pnoib3",
+        "antes": "Al Presidente del Estado, a la Asamblea Legislativa Plurinacional y a la Sociedad Civil Organizada",
+        "despues": "Al Presidente del Estado, a la Asamblea Legislativa Plurinacional y a la Sociedad Civil Organizada"
+      },
+      {
+        "opcionId": "cmvvwwcdc002rvdtk23mrhbpg",
+        "antes": "Al Presidente del Estado y a la Contraloría General",
+        "despues": "Al Presidente del Estado, a la Contraloría General del Estado y a la Procuraduría General"
+      },
+      {
+        "opcionId": "cmvvwwcdc002svdtkmns7kf23",
+        "antes": "Solo a la Asamblea Legislativa Plurinacional",
+        "despues": "Solo a la Asamblea Legislativa Plurinacional, que lo remite luego a la Sociedad Civil Organizada"
+      },
+      {
+        "opcionId": "cmvvwwcdc002tvdtklgix8zqs",
+        "antes": "Al Tribunal Supremo de Justicia y al Ministerio Público",
+        "despues": "Al Tribunal Supremo de Justicia, al Ministerio Público y a la Sociedad Civil Organizada"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvwwcdv0031vdtkxm7ssuyb",
+    "opciones": [
+      {
+        "opcionId": "cmvvwwcdv0032vdtkp64wps5i",
+        "antes": "Se enumeran de manera enunciativa pero no limitativa, e incluyen identificar y denunciar hechos de corrupción y falta de transparencia y coadyuvar en los procesos",
+        "despues": "Se enumeran de manera enunciativa y no limitativa, e incluyen identificar y denunciar hechos de corrupción y falta de transparencia y coadyuvar en los procesos"
+      },
+      {
+        "opcionId": "cmvvwwcdv0033vdtkssixp5tx",
+        "antes": "Son una lista cerrada que solo permite denunciar hechos de corrupción",
+        "despues": "Son una lista cerrada que solo permite identificar y denunciar hechos de corrupción, sin posibilidad de coadyuvar en los procesos administrativos y judiciales"
+      },
+      {
+        "opcionId": "cmvvwwcdv0034vdtk28b2xed7",
+        "antes": "Incluyen sancionar directamente a los servidores públicos denunciados",
+        "despues": "Incluyen identificar, denunciar y sancionar directamente a los servidores públicos denunciados, sin necesidad de un proceso administrativo o judicial"
+      },
+      {
+        "opcionId": "cmvvwwcdv0035vdtkizwh9iwk",
+        "antes": "Solo pueden ejercerse de manera colectiva, por organizaciones registradas",
+        "despues": "Solo pueden ejercerse de manera colectiva, por organizaciones sociales registradas, y no por personas individuales que conozcan un hecho de corrupción"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvwwce50037vdtk0f9vgks3",
+    "opciones": [
+      {
+        "opcionId": "cmvvwwce50038vdtkmx3o2x7p",
+        "antes": "Privación de libertad de uno a cuatro años, por haber actuado culposamente",
+        "despues": "Privación de libertad de uno a cuatro años, por haber actuado culposamente"
+      },
+      {
+        "opcionId": "cmvvwwce50039vdtk5k6lrvdm",
+        "antes": "Privación de libertad de tres a ocho años",
+        "despues": "Privación de libertad de tres a ocho años, aunque haya actuado sin dolo"
+      },
+      {
+        "opcionId": "cmvvwwce5003avdtkhi3h8o3a",
+        "antes": "Ninguna, porque sin dolo solo hay responsabilidad civil",
+        "despues": "Ninguna pena, porque sin dolo solo hay responsabilidad civil y administrativa"
+      },
+      {
+        "opcionId": "cmvvwwce5003bvdtkrmizr05f",
+        "antes": "Privación de libertad de cinco a diez años",
+        "despues": "Privación de libertad de cinco a diez años y multa de doscientos a quinientos días"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvwwceo003jvdtk2ueotgiq",
+    "opciones": [
+      {
+        "opcionId": "cmvvwwceo003kvdtk5348rhm5",
+        "antes": "Debe velar por los bienes y el patrimonio del Estado, protegerlos y custodiarlos como si fueran propios, en beneficio del bien común",
+        "despues": "Debe velar por los bienes y el patrimonio del Estado, protegerlos y custodiarlos como si fueran propios, en beneficio del bien común"
+      },
+      {
+        "opcionId": "cmvvwwceo003lvdtktu8e7bi1",
+        "antes": "Debe complementar el acceso a los bienes materiales con la realización afectiva y espiritual",
+        "despues": "Debe complementar el acceso y disfrute de los bienes materiales con la realización afectiva, subjetiva y espiritual, en armonía con la naturaleza"
+      },
+      {
+        "opcionId": "cmvvwwceo003mvdtk9451md5h",
+        "antes": "Debe actuar conforme a los principios morales de servicio a la comunidad",
+        "despues": "Debe actuar conforme a los principios morales de servicio a la comunidad, con honestidad y sin buscar beneficios personales del cargo"
+      },
+      {
+        "opcionId": "cmvvwwceo003nvdtkwco4pfca",
+        "antes": "Solo debe abstenerse de apropiarse de bienes ajenos",
+        "despues": "Debe abstenerse de apropiarse de bienes ajenos, sin obligación de proteger ni custodiar los bienes y el patrimonio del Estado"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvzqbih0007vdfsu7xf4rga",
+    "opciones": [
+      {
+        "opcionId": "cmvvzqbih0008vdfsp9d62jpc",
+        "antes": "No se puede invocar secreto o confidencialidad, y la información se obtiene sin orden judicial, requerimiento fiscal ni trámite previo",
+        "despues": "No se puede invocar secreto o confidencialidad, y la información se obtiene sin orden judicial, requerimiento fiscal ni trámite previo"
+      },
+      {
+        "opcionId": "cmvvzqbih0009vdfso3hqrgxg",
+        "antes": "Se requiere orden judicial",
+        "despues": "El banco tiene razón: el secreto bancario solo se levanta con orden judicial expresa, a pedido fundamentado del Ministerio Público"
+      },
+      {
+        "opcionId": "cmvvzqbih000avdfshf87qaap",
+        "antes": "Se requiere autorización del titular de la cuenta",
+        "despues": "Se requiere la autorización escrita del titular de la cuenta o, en su defecto, una resolución de la Autoridad de Supervisión Financiera"
+      },
+      {
+        "opcionId": "cmvvzqbih000bvdfswdm1pc3p",
+        "antes": "El banco puede negarse si la cuenta tiene menos de un año",
+        "despues": "El banco puede negarse si la cuenta tiene menos de un año, porque esos movimientos aún están protegidos por la confidencialidad"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvzqbis000dvdfsnvawn0yb",
+    "opciones": [
+      {
+        "opcionId": "cmvvzqbis000evdfsnkj69wci",
+        "antes": "El Fiscal General del Estado, conforme a la Ley Orgánica del Ministerio Público",
+        "despues": "El Fiscal General del Estado, conforme a la Ley Orgánica del Ministerio Público"
+      },
+      {
+        "opcionId": "cmvvzqbis000fvdfsszyz2qxn",
+        "antes": "El Consejo de la Magistratura",
+        "despues": "El Consejo de la Magistratura, a propuesta de los Fiscales Departamentales"
+      },
+      {
+        "opcionId": "cmvvzqbis000gvdfsjen9rqke",
+        "antes": "El Ministerio de Transparencia",
+        "despues": "El Ministerio de Transparencia y Lucha Contra la Corrupción, por concurso de méritos"
+      },
+      {
+        "opcionId": "cmvvzqbis000hvdfszgd5ubj3",
+        "antes": "La Asamblea Legislativa",
+        "despues": "La Asamblea Legislativa Plurinacional, por dos tercios de votos de sus miembros"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvzqbj2000jvdfs4qv903jq",
+    "opciones": [
+      {
+        "opcionId": "cmvvzqbj2000kvdfststz2m14",
+        "antes": "Verificar de oficio las declaraciones juradas de los servidores públicos clasificados según indicadores, parámetros y criterios",
+        "despues": "Verificar de oficio las declaraciones juradas de los servidores públicos clasificados según indicadores, parámetros y criterios"
+      },
+      {
+        "opcionId": "cmvvzqbj2000lvdfsh9xocezi",
+        "antes": "Recibir las declaraciones juradas en lugar de la Contraloría",
+        "despues": "Recibir las declaraciones juradas de bienes y rentas en lugar de la Contraloría General del Estado, que deja de registrarlas"
+      },
+      {
+        "opcionId": "cmvvzqbj2000mvdfs4ngdhrjh",
+        "antes": "Eximir a los servidores de presentarlas",
+        "despues": "Eximir de presentarlas a los servidores públicos que no manejan recursos, según indicadores, parámetros y criterios"
+      },
+      {
+        "opcionId": "cmvvzqbj2000nvdfs5vbgk54i",
+        "antes": "Publicarlas en internet",
+        "despues": "Publicarlas en internet para el control social, junto con los indicadores de los servidores públicos clasificados"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvzqbjb000pvdfs2mppu78w",
+    "opciones": [
+      {
+        "opcionId": "cmvvzqbjb000qvdfs1mid7yur",
+        "antes": "La ley le es aplicable, porque alcanza a servidores y ex servidores públicos",
+        "despues": "La ley le es aplicable, porque alcanza a servidores y ex servidores públicos"
+      },
+      {
+        "opcionId": "cmvvzqbjb000rvdfsvrz9gw8g",
+        "antes": "No le es aplicable por estar jubilado",
+        "despues": "La ley no le es aplicable por estar jubilado y haber cesado en la función pública"
+      },
+      {
+        "opcionId": "cmvvzqbjb000svdfs2t0evjr8",
+        "antes": "Solo le es aplicable si aún percibe renta del Estado",
+        "despues": "La ley solo le es aplicable si aún percibe una renta o pensión pagada por el Estado"
+      },
+      {
+        "opcionId": "cmvvzqbjb000tvdfsh0cuhnsy",
+        "antes": "Solo se aplica a servidores del nivel central",
+        "despues": "La ley solo se aplica a servidores y ex servidores del nivel central, no del educativo"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvzqbjk000vvdfszg6lhwfr",
+    "opciones": [
+      {
+        "opcionId": "cmvvzqbjl000wvdfs9wcgidzv",
+        "antes": "Todos los actores sociales, de manera individual y/o colectiva",
+        "despues": "Todos los actores sociales, de manera individual y/o colectiva"
+      },
+      {
+        "opcionId": "cmvvzqbjl000xvdfsv638hqkg",
+        "antes": "Solo las organizaciones sociales registradas",
+        "despues": "Solo las organizaciones sociales con personería jurídica y registro vigente"
+      },
+      {
+        "opcionId": "cmvvzqbjl000yvdfs7ndnnvhx",
+        "antes": "Solo los servidores públicos",
+        "despues": "Solo los servidores públicos de las unidades de transparencia de cada entidad"
+      },
+      {
+        "opcionId": "cmvvzqbjl000zvdfspum5hztd",
+        "antes": "Solo las juntas vecinales",
+        "despues": "Solo las juntas vecinales y las organizaciones territoriales de base"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvzqbju0011vdfsbce4jv30",
+    "opciones": [
+      {
+        "opcionId": "cmvvzqbju0013vdfs78oywory",
+        "antes": "El Ministerio del ramo",
+        "despues": "El Ministerio de Transparencia Institucional y Lucha Contra la Corrupción, como ente rector"
+      },
+      {
+        "opcionId": "cmvvzqbju0014vdfs6qw19crj",
+        "antes": "La Contraloría General del Estado",
+        "despues": "La Contraloría General del Estado, como órgano rector del control gubernamental"
+      },
+      {
+        "opcionId": "cmvvzqbju0015vdfs8qdbv739",
+        "antes": "El Fiscal General del Estado",
+        "despues": "El Fiscal General del Estado, a propuesta de los fiscales especializados anticorrupción"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvzqbk40017vdfspfz6f7h8",
+    "opciones": [
+      {
+        "opcionId": "cmvvzqbk40018vdfsfe6bgbpm",
+        "antes": "Privación de libertad de cinco a diez años y multa de cien a quinientos días",
+        "despues": "Privación de libertad de cinco a diez años y multa de cien a quinientos días"
+      },
+      {
+        "opcionId": "cmvvzqbk40019vdfsqy5q3vy1",
+        "antes": "De tres a ocho años y multa de cien a trescientos días",
+        "despues": "Privación de libertad de tres a ocho años y multa de cien a trescientos días"
+      },
+      {
+        "opcionId": "cmvvzqbk4001avdfsbz0eo9rr",
+        "antes": "De uno a cuatro años",
+        "despues": "Privación de libertad de uno a cuatro años y multa de treinta a cien días"
+      },
+      {
+        "opcionId": "cmvvzqbk4001bvdfsv1sj620o",
+        "antes": "Solo multa",
+        "despues": "Solo multa de doscientos a quinientos días e inhabilitación para contratar"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwwr8cw0001vds46tlf1t9x",
+    "opciones": [
+      {
+        "opcionId": "cmvwwr8cw0002vds4q3h74fjg",
+        "antes": "Privación de libertad de uno a cuatro años y multa de cincuenta a doscientos días",
+        "despues": "Privación de libertad de uno a cuatro años y multa de cincuenta a doscientos días"
+      },
+      {
+        "opcionId": "cmvwwr8cw0003vds42lyhcsxk",
+        "antes": "De tres a ocho años",
+        "despues": "Privación de libertad de tres a ocho años y multa de cien a trescientos días"
+      },
+      {
+        "opcionId": "cmvwwr8cw0004vds4eyklbz8s",
+        "antes": "De cinco a diez años",
+        "despues": "Privación de libertad de cinco a diez años y decomiso del inmueble no declarado"
+      },
+      {
+        "opcionId": "cmvwwr8cw0005vds45oyoyz0n",
+        "antes": "Solo una sanción administrativa",
+        "despues": "Solo una sanción administrativa, porque la omisión puede corregirse en la siguiente declaración"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwwr8dc0007vds4kg3ppllg",
+    "opciones": [
+      {
+        "opcionId": "cmvwwr8dc0008vds4ii2i3ooo",
+        "antes": "Obstrucción de la justicia, sancionada con tres a ocho años de privación de libertad y multa",
+        "despues": "Obstrucción de la justicia, sancionada con tres a ocho años de privación de libertad y multa"
+      },
+      {
+        "opcionId": "cmvwwr8dc0009vds4t9tejvl7",
+        "antes": "Cohecho pasivo transnacional",
+        "despues": "Cohecho pasivo transnacional, sancionado con cinco a diez años de privación de libertad"
+      },
+      {
+        "opcionId": "cmvwwr8dc000avds4p3r7uyco",
+        "antes": "Favorecimiento al enriquecimiento ilícito",
+        "despues": "Favorecimiento al enriquecimiento ilícito, sancionado con uno a cuatro años y multa"
+      },
+      {
+        "opcionId": "cmvwwr8dc000bvds4lpm2ozn8",
+        "antes": "Ninguno: es una falta disciplinaria",
+        "despues": "Ninguno: es una falta disciplinaria que se sanciona en un proceso administrativo interno"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwwr8ei000vvds4wdzx9qoy",
+    "opciones": [
+      {
+        "opcionId": "cmvwwr8ei000wvds4j8dp7i04",
+        "antes": "El Código de Procedimiento Penal, en todo lo que no contravenga la Ley 004",
+        "despues": "El Código de Procedimiento Penal, en todo lo que no contravenga la Ley 004"
+      },
+      {
+        "opcionId": "cmvwwr8ei000xvds44h346y0q",
+        "antes": "Un código anticorrupción independiente",
+        "despues": "Un código procesal anticorrupción independiente, aprobado junto con la Ley 004"
+      },
+      {
+        "opcionId": "cmvwwr8ei000yvds41a8b860m",
+        "antes": "El procedimiento administrativo de la Ley 2341",
+        "despues": "El procedimiento administrativo de la Ley 2341, con apelación ante la vía penal"
+      },
+      {
+        "opcionId": "cmvwwr8ei000zvds45mowfa9u",
+        "antes": "La jurisdicción coactiva fiscal",
+        "despues": "La jurisdicción coactiva fiscal, aplicando supletoriamente el Código Penal"
+      }
+    ]
+  }
+]

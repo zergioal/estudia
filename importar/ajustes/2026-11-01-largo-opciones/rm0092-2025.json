@@ -1,0 +1,427 @@
+[
+  {
+    "preguntaId": "cmvvx83zc0001vdwsit89e9gb",
+    "opciones": [
+      {
+        "opcionId": "cmvvx83zc0002vdwsulktgmah",
+        "antes": "Contar con la Resolución Administrativa vigente de la Dirección Departamental de Educación que autorice su funcionamiento en los niveles correspondientes, y con el Certificado de Registro (RCEA)",
+        "despues": "Contar con la Resolución Administrativa vigente de la Dirección Departamental que autorice su funcionamiento en los niveles correspondientes, y con el Certificado de Registro (RCEA)"
+      },
+      {
+        "opcionId": "cmvvx83zc0003vdwsjnsygvdq",
+        "antes": "Contar con una Resolución de la Dirección Distrital y el aval del Gobierno Municipal",
+        "despues": "Contar con una Resolución Administrativa de la Dirección Distrital que autorice su funcionamiento en los niveles correspondientes, y con el aval del Gobierno Municipal"
+      },
+      {
+        "opcionId": "cmvvx83zc0004vdws5o430lt0",
+        "antes": "Contar solo con el Certificado de Registro (RCEA)",
+        "despues": "Contar solo con el Certificado de Registro (RCEA) vigente, porque la Resolución Administrativa se exige únicamente a los centros privados que solicitan apertura"
+      },
+      {
+        "opcionId": "cmvvx83zc0005vdws7aq7b1ph",
+        "antes": "Contar con una Resolución Ministerial específica para cada centro",
+        "despues": "Contar con una Resolución Ministerial específica para cada centro, emitida a propuesta de la Dirección Departamental, y con el Certificado de Registro (RCEA)"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvx8402000dvdwsej7boqb7",
+    "opciones": [
+      {
+        "opcionId": "cmvvx8403000evdws5n6gjffv",
+        "antes": "Administrados y sostenidos por instituciones de servicio social sin fines de lucro, que operan bajo las mismas normas, políticas y programas del Ministerio y pueden tener personal financiado por el Estado",
+        "despues": "Administrados y sostenidos por instituciones de servicio social sin fines de lucro, que operan bajo las mismas normas, políticas y programas del Ministerio y pueden tener personal pagado por el Estado"
+      },
+      {
+        "opcionId": "cmvvx8403000fvdwsxy7u8neg",
+        "antes": "Sostenidos íntegramente por el Estado",
+        "despues": "Sostenidos íntegramente por el Estado, que financia su infraestructura y su personal, pero administrados por instituciones de servicio social bajo las normas y programas del Ministerio"
+      },
+      {
+        "opcionId": "cmvvx8403000gvdwsuf2qszup",
+        "antes": "Administrados por particulares con fines de lucro, bajo convenio con el municipio",
+        "despues": "Administrados por particulares con fines de lucro, que operan bajo convenio con el Gobierno Municipal y aplican las normas, políticas y programas del Ministerio de Educación"
+      },
+      {
+        "opcionId": "cmvvx8403000hvdwsm8o4ui12",
+        "antes": "Con planes y programas propios distintos de los del Ministerio",
+        "despues": "Administrados por instituciones sin fines de lucro, que aplican planes y programas propios distintos de los del Ministerio y pueden tener personal financiado por el Estado"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvx840e000jvdwsn8iico3b",
+    "opciones": [
+      {
+        "opcionId": "cmvvx840e000kvdwsrgti03pr",
+        "antes": "Es causal de cierre, porque la cantidad de participantes es menor a 10 y el centro no está en una zona de difícil acceso",
+        "despues": "Es causal de cierre, porque la cantidad de participantes es menor a 10 y el centro no está en una zona de difícil acceso"
+      },
+      {
+        "opcionId": "cmvvx840e000lvdwsyp60o0gn",
+        "antes": "No es causal de cierre mientras haya al menos un participante",
+        "despues": "No es causal de cierre mientras el centro tenga al menos un participante inscrito y cuente con su Resolución Administrativa"
+      },
+      {
+        "opcionId": "cmvvx840e000mvdwsr9ebmfrg",
+        "antes": "Es causal de cierre solo si el número baja de 5",
+        "despues": "Es causal de cierre solo si el número de participantes baja de 5, porque el mínimo exigido en zonas urbanas es de 5"
+      },
+      {
+        "opcionId": "cmvvx840f000nvdwsildzqxiz",
+        "antes": "Es causal de cierre incluso en zonas de difícil acceso",
+        "despues": "Es causal de cierre en todos los casos, incluso si el centro estuviera ubicado en una zona de difícil acceso"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvx840t000vvdwsk69q1suq",
+    "opciones": [
+      {
+        "opcionId": "cmvvx840t000wvdwsz4nf5t6t",
+        "antes": "La o el Director Distrital de Educación, de oficio o a solicitud de la autoridad superior",
+        "despues": "La o el Director Distrital de Educación, de oficio o a solicitud de la autoridad superior"
+      },
+      {
+        "opcionId": "cmvvx840t000xvdwsredxr7nd",
+        "antes": "Solo la o el Director del CEA, mediante solicitud",
+        "despues": "Solo la o el Director del CEA, mediante solicitud escrita a la Dirección Distrital"
+      },
+      {
+        "opcionId": "cmvvx840t000yvdwssshqfphz",
+        "antes": "El Gobierno Autónomo Municipal",
+        "despues": "El Gobierno Autónomo Municipal, de oficio o a solicitud de la Dirección Distrital"
+      },
+      {
+        "opcionId": "cmvvx840t000zvdwsl0j5fcj6",
+        "antes": "El Consejo Educativo Social Comunitario",
+        "despues": "El Consejo Educativo Social Comunitario, a solicitud de los participantes del centro"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvx840x0011vdws1tqxqxdu",
+    "opciones": [
+      {
+        "opcionId": "cmvvx840x0012vdwsgg7a3a5p",
+        "antes": "Archivos electrónicos e impresos actualizados de toda la documentación de los participantes (RUDEAL, centralizador de calificaciones, boletines y otros)",
+        "despues": "Archivos electrónicos e impresos actualizados de toda la documentación de los participantes (RUDEAL, centralizador de calificaciones, boletines y otros)"
+      },
+      {
+        "opcionId": "cmvvx840x0013vdws1v79gbhs",
+        "antes": "Solo la lista de participantes del último semestre",
+        "despues": "Solo la lista impresa de los participantes inscritos en el último semestre, porque la documentación anterior ya se remitió a la Dirección Distrital"
+      },
+      {
+        "opcionId": "cmvvx840x0014vdws3yc1lnj1",
+        "antes": "Ninguna, porque la documentación queda en el sistema informático",
+        "despues": "Ninguna documentación de los participantes, porque toda la información queda registrada en el sistema informático del Ministerio de Educación"
+      },
+      {
+        "opcionId": "cmvvx840x0015vdws182bjlnr",
+        "antes": "Solo el inventario de bienes del centro",
+        "despues": "Solo el inventario de bienes del centro y el acta de cierre, porque la documentación de los participantes queda en custodia del director"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvx842b0027vdwsvzajfnpv",
+    "opciones": [
+      {
+        "opcionId": "cmvvx842b0028vdws2b2amngn",
+        "antes": "A los directores de centros, directores distritales, técnicos, subdirectores de educación y directores departamentales",
+        "despues": "A los directores de centros, directores distritales, técnicos, subdirectores de educación y directores departamentales"
+      },
+      {
+        "opcionId": "cmvvx842b0029vdwsyekntpex",
+        "antes": "Solo a los directores de los centros",
+        "despues": "Solo a los directores de los centros que solicitan la apertura, modificación o cierre sin cumplir los requisitos"
+      },
+      {
+        "opcionId": "cmvvx842b002avdwsw9zdmpgb",
+        "antes": "Solo a los propietarios de los centros de convenio",
+        "despues": "Solo a los propietarios o representantes legales de los centros de convenio que incumplen el reglamento"
+      },
+      {
+        "opcionId": "cmvvx842b002bvdwszdboeb4d",
+        "antes": "A los participantes inscritos en centros no autorizados",
+        "despues": "A los participantes inscritos en centros no autorizados, cuyos estudios no tienen validez oficial"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvx842t002jvdwsog7ir4ow",
+    "opciones": [
+      {
+        "opcionId": "cmvvx842t002kvdwsl8hcexz4",
+        "antes": "Hasta diciembre de 2025; después, si se constata el incumplimiento, se procede según el Art. 22",
+        "despues": "Hasta diciembre de 2025; después, si se constata el incumplimiento, se procede según el Art. 22"
+      },
+      {
+        "opcionId": "cmvvx842t002lvdwsh6zwbdr5",
+        "antes": "Hasta el 30 de mayo de 2026",
+        "despues": "Hasta el 30 de mayo de 2026; después, si se constata el incumplimiento, se procede según el Art. 22"
+      },
+      {
+        "opcionId": "cmvvx842t002mvdwsr7t3dtr1",
+        "antes": "Hasta que venza su certificado de registro a los diez años",
+        "despues": "Hasta que venza su certificado de registro a los diez años de emitido, sin otra consecuencia"
+      },
+      {
+        "opcionId": "cmvvx842t002nvdwsryga5yf8",
+        "antes": "Sin plazo, a solicitud de la Dirección Distrital",
+        "despues": "Sin plazo fijo, a solicitud de la Dirección Distrital cuando detecte niveles no autorizados"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvx843u0037vdws7bxzybz3",
+    "opciones": [
+      {
+        "opcionId": "cmvvx843u0038vdws57q8jigv",
+        "antes": "Un informe técnico de justificación del cambio de infraestructura, emitido por el Director Distrital de Educación",
+        "despues": "Un informe técnico de justificación del cambio de infraestructura, emitido por el Director Distrital de Educación"
+      },
+      {
+        "opcionId": "cmvvx843u0039vdwsbvls4h49",
+        "antes": "Un informe del Gobierno Municipal sobre la propiedad del inmueble",
+        "despues": "Un informe del Gobierno Autónomo Municipal sobre la propiedad y las condiciones del nuevo inmueble"
+      },
+      {
+        "opcionId": "cmvvx843u003avdws0x2ijf96",
+        "antes": "Un informe del Director Departamental",
+        "despues": "Un informe técnico de justificación del cambio de infraestructura, emitido por el Director Departamental"
+      },
+      {
+        "opcionId": "cmvvx843u003bvdwsbbbp22rx",
+        "antes": "Ningún informe, solo el formulario M-CEA-CEP-CEAI 002",
+        "despues": "Ningún informe técnico, porque basta con presentar el formulario M-CEA-CEP-CEAI 002 llenado"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvx8443003dvdwst05706fw",
+    "opciones": [
+      {
+        "opcionId": "cmvvx8443003evdwstgiq8ide",
+        "antes": "A los centros de educación alternativa, los de educación permanente no escolarizada y los de educación alternativa integrados, fiscales y de convenio",
+        "despues": "A los centros de educación alternativa, los de educación permanente no escolarizada y los de educación alternativa integrados, fiscales y de convenio"
+      },
+      {
+        "opcionId": "cmvvx8443003fvdwsxeu3wawc",
+        "antes": "A los centros fiscales, de convenio y privados de todo el Sistema Educativo",
+        "despues": "A los centros fiscales, de convenio y privados de todo el Sistema Educativo Plurinacional, incluidas las unidades educativas de educación regular"
+      },
+      {
+        "opcionId": "cmvvx8443003gvdwsw8yzj3l7",
+        "antes": "Solo a los centros fiscales",
+        "despues": "Solo a los centros de educación alternativa fiscales, porque los de convenio y los integrados se rigen por su propio reglamento de apertura"
+      },
+      {
+        "opcionId": "cmvvx8443003hvdwspevkloqb",
+        "antes": "A las unidades educativas de educación regular y alternativa",
+        "despues": "A las unidades educativas de educación regular y a los centros de educación alternativa que funcionan en su misma infraestructura"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwtq7jj0001vde8i7jrjgxu",
+    "opciones": [
+      {
+        "opcionId": "cmvwtq7jj0002vde8oyoa0bqt",
+        "antes": "El certificado de defunción o una reseña histórica aprobada o emitida por la comunidad",
+        "despues": "El certificado de defunción o una reseña histórica aprobada o emitida por la comunidad"
+      },
+      {
+        "opcionId": "cmvwtq7jj0003vde8nsi3vp08",
+        "antes": "Una autorización notariada de la familia",
+        "despues": "Una autorización notariada de la familia del dirigente fallecido y una reseña de su trayectoria"
+      },
+      {
+        "opcionId": "cmvwtq7jj0004vde8wc4sum6y",
+        "antes": "Una resolución del Concejo Municipal",
+        "despues": "Una resolución del Concejo Municipal que apruebe el nombre del dirigente para el centro"
+      },
+      {
+        "opcionId": "cmvwtq7jj0005vde80tb2cp7c",
+        "antes": "Nada: el nombre es de libre elección",
+        "despues": "Nada adicional, porque el nombre del centro es de libre elección de la organización solicitante"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwtq7ks000jvde8qv47hv3p",
+    "opciones": [
+      {
+        "opcionId": "cmvwtq7ks000kvde8oc0a6l0x",
+        "antes": "Un informe de pérdida con el visto bueno de la Dirección Departamental de Educación",
+        "despues": "Un informe de pérdida con el visto bueno de la Dirección Departamental de Educación"
+      },
+      {
+        "opcionId": "cmvwtq7ks000lvde8n8h855f1",
+        "antes": "Una denuncia policial y dos publicaciones de prensa",
+        "despues": "Una denuncia policial de la pérdida y dos publicaciones en un periódico de circulación nacional"
+      },
+      {
+        "opcionId": "cmvwtq7ks000mvde8tyrrxbz6",
+        "antes": "Una declaración jurada del director",
+        "despues": "Una declaración jurada del director ante notario, con el visto bueno de la Dirección Distrital"
+      },
+      {
+        "opcionId": "cmvwtq7ks000nvde88oifmbg5",
+        "antes": "Nada: el cambio de nombre no requiere el RCEA",
+        "despues": "Nada en su lugar, porque el cambio de nombre no requiere presentar el Certificado de Registro"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwtq7l4000pvde8ndokw8cq",
+    "opciones": [
+      {
+        "opcionId": "cmvwtq7l4000qvde8gisxiwaz",
+        "antes": "Cuando un centro decide dejar de ser fiscal para convertirse en convenio",
+        "despues": "Cuando un centro decide dejar de ser fiscal para convertirse en convenio"
+      },
+      {
+        "opcionId": "cmvwtq7l4000rvde8icu7j1rt",
+        "antes": "Cuando un centro de convenio pasa a ser fiscal",
+        "despues": "Cuando un centro de convenio decide dejar de serlo para convertirse en fiscal"
+      },
+      {
+        "opcionId": "cmvwtq7l4000svde8y6e3gz09",
+        "antes": "Cuando un centro cambia de distrito",
+        "despues": "Cuando un centro fiscal cambia de distrito educativo y suscribe un nuevo convenio"
+      },
+      {
+        "opcionId": "cmvwtq7l4000tvde88w8lxgiw",
+        "antes": "Cuando un centro privado se vuelve fiscal",
+        "despues": "Cuando un centro privado pasa a ser fiscal mediante convenio con el Ministerio"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwtq7le000vvde80fzk9okt",
+    "opciones": [
+      {
+        "opcionId": "cmvwtq7le000wvde8ovnzv0l2",
+        "antes": "La estructura del ámbito de Educación Alternativa de la Ley 070 y la RM 0259/2024",
+        "despues": "La estructura del ámbito de Educación Alternativa de la Ley 070 y la RM 0259/2024"
+      },
+      {
+        "opcionId": "cmvwtq7le000xvde8dqluibdg",
+        "antes": "Solo el criterio del director",
+        "despues": "Solo el criterio del director del centro y la demanda de los participantes de la zona"
+      },
+      {
+        "opcionId": "cmvwtq7le000yvde8gc44bunm",
+        "antes": "La Ley 1178 y la RM 0001",
+        "despues": "La Ley 1178 de Administración y Control Gubernamentales y la RM 0001/2026"
+      },
+      {
+        "opcionId": "cmvwtq7le000zvde8fb3cd3l5",
+        "antes": "La RM 0718/2025, de maestros itinerantes",
+        "despues": "La RM 0718/2025, de maestros itinerantes, y la estructura del ámbito de la Ley 070"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwwsdc9000pvd8sc12vww4r",
+    "opciones": [
+      {
+        "opcionId": "cmvwwsdc9000qvd8s4970mtei",
+        "antes": "Sí: tener menos de 10 participantes es causal, salvo para los centros ubicados en zonas de difícil acceso",
+        "despues": "Sí: tener menos de 10 participantes es causal, salvo para los centros ubicados en zonas de difícil acceso"
+      },
+      {
+        "opcionId": "cmvwwsdc9000rvd8sy6qpsuo4",
+        "antes": "No: el mínimo es de 5 participantes",
+        "despues": "No: el mínimo de participantes exigido es de 5, por lo que con 8 el centro puede seguir funcionando"
+      },
+      {
+        "opcionId": "cmvwwsdc9000svd8swyto2cnp",
+        "antes": "Sí, en todos los casos sin excepción",
+        "despues": "Sí, en todos los casos y sin excepción, incluidos los centros ubicados en zonas de difícil acceso"
+      },
+      {
+        "opcionId": "cmvwwsdc9000tvd8sj6wqwplb",
+        "antes": "No: el número de participantes no es causal",
+        "despues": "No: el número de participantes no es causal de cierre, solo lo es el incumplimiento de la normativa"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwwsdci000vvd8sbo7fbxve",
+    "opciones": [
+      {
+        "opcionId": "cmvwwsdci000wvd8s019ejjz2",
+        "antes": "Remitir los archivos electrónicos e impresos actualizados a la Dirección Distrital para su archivo y resguardo",
+        "despues": "Remitir los archivos electrónicos e impresos actualizados a la Dirección Distrital para su archivo y resguardo"
+      },
+      {
+        "opcionId": "cmvwwsdci000xvd8s3shbg825",
+        "antes": "Destruirlos",
+        "despues": "Destruirlos una vez emitida la resolución de cierre, porque los datos quedan registrados en el sistema informático"
+      },
+      {
+        "opcionId": "cmvwwsdci000yvd8swhrx76sq",
+        "antes": "Entregarlos a cada participante y no guardar copias",
+        "despues": "Entregarlos a cada participante para que los conserve, sin guardar copias en ninguna instancia educativa"
+      },
+      {
+        "opcionId": "cmvwwsdci000zvd8s3e9e2z4y",
+        "antes": "Guardarlos el director en su domicilio",
+        "despues": "Guardarlos el director del centro en su domicilio, como último responsable de la documentación del CEA"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwwsdcv0017vd8sj6zocbc3",
+    "opciones": [
+      {
+        "opcionId": "cmvwwsdcv0018vd8scnd4j1ja",
+        "antes": "Vence el 31 de diciembre de la gestión en que se inició, sea procedente o improcedente, y se da de baja",
+        "despues": "Vence el 31 de diciembre de la gestión en que se inició, sea procedente o improcedente, y se da de baja"
+      },
+      {
+        "opcionId": "cmvwwsdcv0019vd8szrwdmumd",
+        "antes": "Se prorroga automáticamente a la gestión siguiente",
+        "despues": "Se prorroga automáticamente a la gestión siguiente, conservando la documentación ya presentada en el portal"
+      },
+      {
+        "opcionId": "cmvwwsdcv001avd8sjbsywt6e",
+        "antes": "Se aprueba de oficio",
+        "despues": "Se aprueba de oficio si la Dirección Distrital no se pronunció dentro de los plazos establecidos"
+      },
+      {
+        "opcionId": "cmvwwsdcv001bvd8segyt8it1",
+        "antes": "Queda suspendido indefinidamente",
+        "despues": "Queda suspendido indefinidamente hasta que el solicitante complete la documentación pendiente"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwwsdd5001dvd8skq0zaz91",
+    "opciones": [
+      {
+        "opcionId": "cmvwwsdd6001evd8sjkja1azs",
+        "antes": "La RM 0259/2024, de 12 de abril de 2024",
+        "despues": "La RM 0259/2024, de 12 de abril de 2024"
+      },
+      {
+        "opcionId": "cmvwwsdd6001fvd8sih1bdf34",
+        "antes": "La RM 1040/2022",
+        "despues": "La RM 1040/2022, de 14 de octubre de 2022"
+      },
+      {
+        "opcionId": "cmvwwsdd6001gvd8swzmwtlri",
+        "antes": "La RM 0001/2026",
+        "despues": "La RM 0001/2026, de 2 de enero de 2026"
+      },
+      {
+        "opcionId": "cmvwwsdd6001hvd8sq1r7rdm5",
+        "antes": "El DS 813",
+        "despues": "El DS 813, de 9 de marzo de 2011"
+      }
+    ]
+  }
+]

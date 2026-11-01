@@ -1,0 +1,477 @@
+[
+  {
+    "preguntaId": "cmvvxd3hn0001vd2c5uhtxicr",
+    "opciones": [
+      {
+        "opcionId": "cmvvxd3hn0002vd2clpkdf6jb",
+        "antes": "A personas mayores de 16 años que no accedieron a la primaria en Educación Regular; se aplica por única vez en la etapa de Aprendizajes Elementales",
+        "despues": "A personas mayores de 16 años que no accedieron a la primaria en Educación Regular; se aplica por única vez en la etapa de Aprendizajes Elementales"
+      },
+      {
+        "opcionId": "cmvvxd3hn0003vd2c2acvjf0g",
+        "antes": "A personas mayores de 15 años; se aplica en Aprendizajes Avanzados",
+        "despues": "A personas mayores de 15 años que no concluyeron la primaria en Educación Regular; se aplica por única vez en la etapa de Aprendizajes Avanzados"
+      },
+      {
+        "opcionId": "cmvvxd3hn0004vd2c76xuqd3w",
+        "antes": "A personas mayores de 18 años; se aplica en Aprendizajes Aplicados",
+        "despues": "A personas mayores de 18 años que no accedieron a la primaria en Educación Regular; se aplica una vez por gestión en Aprendizajes Aplicados"
+      },
+      {
+        "opcionId": "cmvvxd3hn0005vd2chuz1wyy7",
+        "antes": "A cualquier persona, en cualquier etapa, tantas veces como lo solicite",
+        "despues": "A cualquier persona que no concluyó la primaria, en cualquier etapa de la Educación Primaria, tantas veces como lo solicite al CEA"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvxd3hx0007vd2cdet984g3",
+    "opciones": [
+      {
+        "opcionId": "cmvvxd3hx0008vd2cszerom0l",
+        "antes": "No cumple el requisito, porque el reconocimiento en Secundaria está dirigido a personas mayores de 18 años",
+        "despues": "No cumple el requisito, porque el reconocimiento en Secundaria está dirigido a personas mayores de 18 años"
+      },
+      {
+        "opcionId": "cmvvxd3hx0009vd2cn6kegafc",
+        "antes": "Cumple, porque basta con ser mayor de 16 años",
+        "despues": "Cumple, porque para el reconocimiento en Secundaria basta con ser mayor de 16 años"
+      },
+      {
+        "opcionId": "cmvvxd3hx000avd2cahgsv9m1",
+        "antes": "Cumple si tiene experiencia laboral certificada",
+        "despues": "Cumple si acredita experiencia laboral certificada de al menos dos años en el rubro"
+      },
+      {
+        "opcionId": "cmvvxd3hx000bvd2ccj8nhrha",
+        "antes": "Cumple, porque el requisito es tener al menos 15 años",
+        "despues": "Cumple, porque el requisito de edad para el reconocimiento es tener al menos 15 años"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvxd3ik000jvd2ce7z21toy",
+    "opciones": [
+      {
+        "opcionId": "cmvvxd3ik000kvd2cr5vzlyrb",
+        "antes": "Por única vez, en las etapas de la educación humanística y en las carreras técnicas tecnológicas y productivas de la EPJA",
+        "despues": "Por única vez, en las etapas de la educación humanística y en las carreras técnicas tecnológicas y productivas de la EPJA"
+      },
+      {
+        "opcionId": "cmvvxd3ik000lvd2c9bxbdt3r",
+        "antes": "Una vez por gestión",
+        "despues": "Una vez por gestión, en las etapas de la educación humanística y en las carreras técnicas tecnológicas y productivas"
+      },
+      {
+        "opcionId": "cmvvxd3ik000mvd2chszh7mfl",
+        "antes": "En todos los subsistemas, incluido el Regular",
+        "despues": "En todos los subsistemas, incluido el de Educación Regular, para quienes acrediten saberes adquiridos en la práctica"
+      },
+      {
+        "opcionId": "cmvvxd3ik000nvd2cj2fn3ud6",
+        "antes": "Solo en las carreras técnicas",
+        "despues": "Solo en las carreras técnicas tecnológicas y productivas de la EPJA, por única vez y previa certificación del SPCC"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvxd3j90011vd2cq192pqwa",
+    "opciones": [
+      {
+        "opcionId": "cmvvxd3j90012vd2cqs84sgki",
+        "antes": "No cumple los requisitos para integrar la comisión, porque no debe tener parentesco con los postulantes hasta el tercer grado de consanguinidad o segundo de afinidad",
+        "despues": "No cumple los requisitos para integrarla: no debe tener parentesco con los postulantes hasta el tercer grado de consanguinidad o segundo de afinidad"
+      },
+      {
+        "opcionId": "cmvvxd3j90013vd2c5gjm86zb",
+        "antes": "Puede integrarla si declara el parentesco",
+        "despues": "Puede integrar la comisión si declara el parentesco por escrito ante el director y se abstiene de evaluar solo a su cuñado"
+      },
+      {
+        "opcionId": "cmvvxd3ja0014vd2c1h9jhgii",
+        "antes": "Puede integrarla, porque la prohibición solo alcanza a la consanguinidad",
+        "despues": "Puede integrarla, porque la prohibición de parentesco alcanza solo a la consanguinidad y no al parentesco por afinidad"
+      },
+      {
+        "opcionId": "cmvvxd3ja0015vd2c1oq1svfc",
+        "antes": "Puede integrarla si el veedor distrital lo autoriza",
+        "despues": "Puede integrarla si el veedor de la Dirección Distrital lo autoriza expresamente y queda constancia en el acta de evaluación"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvxd3jk0017vd2cbk0eis2o",
+    "opciones": [
+      {
+        "opcionId": "cmvvxd3jk0018vd2c0jov1hdw",
+        "antes": "La directora o el director del CEA, durante octubre y noviembre de cada gestión",
+        "despues": "La directora o el director del CEA, durante octubre y noviembre de cada gestión"
+      },
+      {
+        "opcionId": "cmvvxd3jk0019vd2c9rq26kuj",
+        "antes": "La Dirección Distrital, en enero y febrero",
+        "despues": "La Dirección Distrital de Educación, durante enero y febrero de cada gestión"
+      },
+      {
+        "opcionId": "cmvvxd3jk001avd2c8zcul8s3",
+        "antes": "El Ministerio, en una convocatoria nacional en marzo",
+        "despues": "El Ministerio de Educación, en una convocatoria nacional única en marzo"
+      },
+      {
+        "opcionId": "cmvvxd3jk001bvd2cpsx6u2n5",
+        "antes": "La directora o el director del CEA, en cualquier mes",
+        "despues": "La directora o el director del CEA, en cualquier mes según la demanda"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvxd3k5001jvd2caz3meq30",
+    "opciones": [
+      {
+        "opcionId": "cmvvxd3k5001kvd2c80vegap2",
+        "antes": "Que no tenga más de 10 años registrados en el historial académico, y que no esté inscrito en la etapa, carrera o nivel al que postula",
+        "despues": "Que no tenga más de 10 años registrados en el historial académico, y que no esté inscrito en la etapa, carrera o nivel al que postula"
+      },
+      {
+        "opcionId": "cmvvxd3k5001lvd2c41qykbmm",
+        "antes": "Que tenga al menos 10 años de antigüedad en el SIE",
+        "despues": "Que tenga al menos 10 años de antigüedad registrada en el SIE, y que esté inscrito en la etapa, carrera o nivel al que postula"
+      },
+      {
+        "opcionId": "cmvvxd3k5001mvd2c5xwipul3",
+        "antes": "Que haya aprobado la etapa anterior en Educación Regular",
+        "despues": "Que haya aprobado la etapa anterior en Educación Regular, y que no tenga calificaciones registradas en ningún CEA del país"
+      },
+      {
+        "opcionId": "cmvvxd3k5001nvd2cgxvyk1eb",
+        "antes": "Ninguno, porque basta la declaración jurada",
+        "despues": "Ningún control del historial académico, porque basta con la declaración jurada del postulante sobre sus estudios previos"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvxd3kf001pvd2cqol63ucu",
+    "opciones": [
+      {
+        "opcionId": "cmvvxd3kf001qvd2ck3eei8oj",
+        "antes": "En un plazo máximo de 48 horas después de la evaluación",
+        "despues": "En un plazo máximo de 48 horas después de la evaluación"
+      },
+      {
+        "opcionId": "cmvvxd3kf001rvd2czelgp1fv",
+        "antes": "En 24 horas",
+        "despues": "En un plazo máximo de 24 horas después de la evaluación"
+      },
+      {
+        "opcionId": "cmvvxd3kf001svd2caak6ql89",
+        "antes": "En 72 horas",
+        "despues": "En un plazo máximo de 72 horas después de la evaluación"
+      },
+      {
+        "opcionId": "cmvvxd3kf001tvd2coxcy6a0w",
+        "antes": "Al cierre de la gestión",
+        "despues": "Al cierre de la gestión, junto con las demás calificaciones"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvxd3kx0021vd2cmbt3bab1",
+    "opciones": [
+      {
+        "opcionId": "cmvvxd3kx0022vd2cv9vgh02a",
+        "antes": "Constituyen declaraciones juradas con todos los efectos legales, y debe resguardarlos el CEA",
+        "despues": "Constituyen declaraciones juradas con todos los efectos legales, y debe resguardarlos el CEA"
+      },
+      {
+        "opcionId": "cmvvxd3kx0023vd2csmebctoo",
+        "antes": "Son documentos referenciales sin efectos legales",
+        "despues": "Son documentos referenciales sin efectos legales, que el CEA puede descartar al cerrar la gestión"
+      },
+      {
+        "opcionId": "cmvvxd3kx0024vd2cqp61ssu5",
+        "antes": "Deben resguardarse en la Dirección Departamental",
+        "despues": "Constituyen declaraciones juradas, y deben resguardarse en la Dirección Departamental de Educación"
+      },
+      {
+        "opcionId": "cmvvxd3kx0025vd2cuq3ft05m",
+        "antes": "Solo tienen valor si los homologa un notario",
+        "despues": "Solo tienen valor legal si los homologa un notario de fe pública a solicitud del director del CEA"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvxd3l50027vd2cqd7jpnaa",
+    "opciones": [
+      {
+        "opcionId": "cmvvxd3l50028vd2c7eygz61j",
+        "antes": "\"Promovido con Reconocimiento de Saberes, Conocimientos y Experiencias (RSCyE)\"",
+        "despues": "«Promovido con Reconocimiento de Saberes, Conocimientos y Experiencias (RSCyE)»"
+      },
+      {
+        "opcionId": "cmvvxd3l50029vd2csr9o11zr",
+        "antes": "\"Promovido excelente\"",
+        "despues": "«Promovido excelente por Reconocimiento de Saberes y Experiencias Laborales»"
+      },
+      {
+        "opcionId": "cmvvxd3l5002avd2cw7uo1dkf",
+        "antes": "\"Convalidado\"",
+        "despues": "«Convalidado por Reconocimiento de Saberes, Conocimientos y Experiencias»"
+      },
+      {
+        "opcionId": "cmvvxd3l5002bvd2c476ps26k",
+        "antes": "\"Aprobado por evaluación extraordinaria\"",
+        "despues": "«Aprobado por evaluación extraordinaria de saberes y experiencias (EESE)»"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvxd3lm002jvd2cycldo186",
+    "opciones": [
+      {
+        "opcionId": "cmvvxd3lm002kvd2cnbnx2zk6",
+        "antes": "Está terminantemente prohibido: el proceso y el trámite son completamente gratuitos",
+        "despues": "Está terminantemente prohibido: el proceso y el trámite son completamente gratuitos"
+      },
+      {
+        "opcionId": "cmvvxd3lm002lvd2c82atcamt",
+        "antes": "Es válido si el monto es simbólico",
+        "despues": "Es válido si el monto es simbólico y se destina a los materiales de la evaluación"
+      },
+      {
+        "opcionId": "cmvvxd3lm002mvd2csp8528fh",
+        "antes": "Es válido para las carreras técnicas, no para las humanísticas",
+        "despues": "Es válido para las carreras técnicas, por el costo de los insumos, no para las humanísticas"
+      },
+      {
+        "opcionId": "cmvvxd3lm002nvd2c9l6uh8g6",
+        "antes": "Es válido si lo autoriza la Distrital",
+        "despues": "Es válido si lo autoriza la Dirección Distrital mediante nota y se emite un recibo"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvxd3lu002pvd2cf6zvr0ue",
+    "opciones": [
+      {
+        "opcionId": "cmvvxd3lu002qvd2cp8dpw4ke",
+        "antes": "Condiciones adecuadas, incluido el uso del idioma originario según el contexto",
+        "despues": "Condiciones adecuadas, incluido el uso del idioma originario según el contexto"
+      },
+      {
+        "opcionId": "cmvvxd3lu002rvd2clx952god",
+        "antes": "Que rinda la evaluación exclusivamente en castellano",
+        "despues": "Que rinda la evaluación exclusivamente en castellano, para asegurar la equidad"
+      },
+      {
+        "opcionId": "cmvvxd3lu002svd2c7dvcksmj",
+        "antes": "Que presente un certificado de dominio del castellano",
+        "despues": "Que presente un certificado de dominio del castellano antes de la evaluación"
+      },
+      {
+        "opcionId": "cmvvxd3lu002tvd2curnzxpv2",
+        "antes": "Que la evalúe la Dirección Distrital",
+        "despues": "Que la evalúe la Dirección Distrital con un intérprete designado por ella"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvxd3ml0037vd2cz975n6nv",
+    "opciones": [
+      {
+        "opcionId": "cmvvxd3ml0038vd2c1a9cp8zt",
+        "antes": "Cualitativa y cuantitativa, mediante el cual se homologan los saberes, capacidades y destrezas adquiridos a lo largo de la vida",
+        "despues": "Cualitativa y cuantitativa, mediante el cual se homologan los saberes, capacidades y destrezas adquiridos a lo largo de la vida"
+      },
+      {
+        "opcionId": "cmvvxd3ml0039vd2c1z92okw0",
+        "antes": "Solo cuantitativa, mediante un examen escrito único",
+        "despues": "Solo cuantitativa, mediante un examen escrito único que mide los saberes adquiridos a lo largo de la vida en cada área"
+      },
+      {
+        "opcionId": "cmvvxd3ml003avd2c8acv2mxi",
+        "antes": "Solo cualitativa, basada en una entrevista",
+        "despues": "Solo cualitativa, basada en una entrevista con la Comisión Evaluadora sobre la experiencia de vida del postulante"
+      },
+      {
+        "opcionId": "cmvvxd3ml003bvd2c3gg2e0ce",
+        "antes": "Documental, sin aplicación de instrumentos técnicos",
+        "despues": "Documental, sin aplicación de instrumentos técnicos, basada en los certificados de trabajo y cursos del postulante"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvzmp080007vdh4jayhrwfu",
+    "opciones": [
+      {
+        "opcionId": "cmvvzmp080008vdh4sr1atg8g",
+        "antes": "Cuantitativa, con un mínimo de 51 puntos en todas las áreas de saberes y conocimientos; se puede aprobar de manera independiente un área",
+        "despues": "Cuantitativa, con un mínimo de 51 puntos en todas las áreas de saberes y conocimientos; se puede aprobar de manera independiente un área"
+      },
+      {
+        "opcionId": "cmvvzmp080009vdh442wbxty4",
+        "antes": "Cuantitativa y cualitativa, como en Primaria",
+        "despues": "Cuantitativa y cualitativa, como en la Educación Primaria, con un mínimo de 51 puntos en el promedio de todas las áreas de saberes"
+      },
+      {
+        "opcionId": "cmvvzmp08000avdh4951on48u",
+        "antes": "Solo cualitativa",
+        "despues": "Solo cualitativa, mediante la valoración de la experiencia del postulante en cada área de saberes y conocimientos por la Comisión"
+      },
+      {
+        "opcionId": "cmvvzmp08000bvdh4i8kr3in9",
+        "antes": "Cuantitativa, con un promedio general de 51 aunque se repruebe un área",
+        "despues": "Cuantitativa, con un promedio general de 51 puntos entre todas las áreas, aunque se repruebe alguna de ellas"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvzmp11000pvdh48h191avh",
+    "opciones": [
+      {
+        "opcionId": "cmvvzmp11000qvdh4uglrqdwc",
+        "antes": "No cumple un requisito: no tener registro de calificaciones en la etapa correspondiente en el SIE",
+        "despues": "No cumple un requisito: no tener registro de calificaciones en la etapa correspondiente en el SIE"
+      },
+      {
+        "opcionId": "cmvvzmp11000rvdh4ukzc1uu9",
+        "antes": "Cumple, porque el registro previo facilita la homologación",
+        "despues": "Cumple, porque el registro previo de calificaciones en el SIE facilita la homologación de saberes"
+      },
+      {
+        "opcionId": "cmvvzmp11000svdh476gk5ww7",
+        "antes": "Cumple si presenta su certificado de nacimiento original",
+        "despues": "Cumple si presenta su certificado de nacimiento original y su cédula de identidad vigente"
+      },
+      {
+        "opcionId": "cmvvzmp11000tvdh434hwbddg",
+        "antes": "Cumple si lo autoriza la Distrital",
+        "despues": "Cumple si lo autoriza la Dirección Distrital mediante nota, previa verificación del SIE"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvzmp1i0011vdh4ouluzi42",
+    "opciones": [
+      {
+        "opcionId": "cmvvzmp1i0012vdh42b703u2a",
+        "antes": "Publicar la lista de habilitados con fecha, hora, lugar, malla curricular y cronograma de evaluación, y remitirla a la Dirección Distrital para su conocimiento",
+        "despues": "Publicar la lista de habilitados con fecha, hora, lugar, malla curricular y cronograma de evaluación, y remitirla a la Dirección Distrital para su conocimiento"
+      },
+      {
+        "opcionId": "cmvvzmp1i0013vdh49mto4vb9",
+        "antes": "Enviar la lista al Ministerio para su aprobación",
+        "despues": "Enviar la lista de habilitados al Ministerio de Educación para su aprobación, y publicarla recién cuando el Ministerio la devuelva con su visto bueno"
+      },
+      {
+        "opcionId": "cmvvzmp1i0014vdh4414xqjk2",
+        "antes": "Comunicar los resultados de forma privada a cada postulante",
+        "despues": "Comunicar de forma privada a cada postulante si fue habilitado, con la fecha, hora y lugar de su evaluación, sin publicar la lista completa"
+      },
+      {
+        "opcionId": "cmvvzmp1i0015vdh47i85t2g5",
+        "antes": "Esperar la autorización de la Departamental para publicar",
+        "despues": "Esperar la autorización de la Dirección Departamental para publicar la lista de habilitados con el cronograma y la malla curricular"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvzmp1u0017vdh4o4n6uhlu",
+    "opciones": [
+      {
+        "opcionId": "cmvvzmp1u0018vdh4btkq2wz0",
+        "antes": "De preparar y aplicar los instrumentos de evaluación, validar los resultados y verificar los documentos de los postulantes",
+        "despues": "De preparar y aplicar los instrumentos de evaluación, validar los resultados y verificar los documentos de los postulantes"
+      },
+      {
+        "opcionId": "cmvvzmp1u0019vdh48oknq49u",
+        "antes": "De certificar los títulos de bachiller",
+        "despues": "De certificar los títulos de bachiller de los postulantes aprobados y remitirlos a la Dirección Departamental"
+      },
+      {
+        "opcionId": "cmvvzmp1u001avdh41xp9tqv7",
+        "antes": "De administrar el presupuesto del CEA",
+        "despues": "De administrar el presupuesto del CEA destinado al proceso de reconocimiento y rendir cuentas al director"
+      },
+      {
+        "opcionId": "cmvvzmp1u001bvdh4qolovpo9",
+        "antes": "De inscribir a los participantes en la Distrital",
+        "despues": "De inscribir a los postulantes aprobados en la Dirección Distrital y registrar sus calificaciones en el SIE"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvzmp2s001pvdh42mxybdu3",
+    "opciones": [
+      {
+        "opcionId": "cmvvzmp2s001qvdh4bv1f8zqn",
+        "antes": "Con base en los planes y programas aprobados mediante la Resolución Ministerial vigente del ámbito de la Educación Alternativa",
+        "despues": "Con base en los planes y programas aprobados mediante la Resolución Ministerial vigente del ámbito de la Educación Alternativa"
+      },
+      {
+        "opcionId": "cmvvzmp2s001rvdh4ty15sv5c",
+        "antes": "Con base en los planes de la Educación Regular",
+        "despues": "Con base en los planes y programas del Subsistema de Educación Regular vigentes en la gestión de la evaluación"
+      },
+      {
+        "opcionId": "cmvvzmp2s001svdh43fdnp0ao",
+        "antes": "Con base en los criterios libres de cada CEA",
+        "despues": "Con base en los criterios libres de cada CEA, según el contexto y las necesidades de los postulantes de la zona"
+      },
+      {
+        "opcionId": "cmvvzmp2s001tvdh4utb1l8il",
+        "antes": "Con base en estándares internacionales",
+        "despues": "Con base en estándares internacionales de competencias para jóvenes y adultos, adaptados por cada Departamental"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwwtk7l0007vdmsaq0s1gkv",
+    "opciones": [
+      {
+        "opcionId": "cmvwwtk7l0008vdmstscv1e6h",
+        "antes": "En 48 horas cada una, pudiendo validar o devolver la documentación",
+        "despues": "En 48 horas cada una, pudiendo validar o devolver la documentación"
+      },
+      {
+        "opcionId": "cmvwwtk7l0009vdmsf62ht65l",
+        "antes": "En 72 horas cada una",
+        "despues": "En 72 horas cada una, pudiendo validar o devolver la documentación"
+      },
+      {
+        "opcionId": "cmvwwtk7l000avdmsp7270kjc",
+        "antes": "En 10 días hábiles",
+        "despues": "En 10 días hábiles cada una, sin posibilidad de devolver la documentación"
+      },
+      {
+        "opcionId": "cmvwwtk7l000bvdmsse4bjc9w",
+        "antes": "Sin plazo",
+        "despues": "Sin plazo fijo, según la carga de trámites de cada instancia"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwwtk7p000dvdmsnzr8qhve",
+    "opciones": [
+      {
+        "opcionId": "cmvwwtk7p000evdmsvypa34tm",
+        "antes": "El formulario RUDEAL, en el nivel o etapa correspondiente",
+        "despues": "El formulario RUDEAL, en el nivel o etapa correspondiente"
+      },
+      {
+        "opcionId": "cmvwwtk7p000fvdms4gtkubiy",
+        "antes": "El CUT-DB-ALT",
+        "despues": "El Certificado Único de Trámite CUT-DB-ALT del diploma"
+      },
+      {
+        "opcionId": "cmvwwtk7p000gvdms1mfadz1w",
+        "antes": "El M-CEA-CEP-CEAI 002",
+        "despues": "El formulario M-CEA-CEP-CEAI 002 de modificación"
+      },
+      {
+        "opcionId": "cmvwwtk7p000hvdmsecza8ku9",
+        "antes": "El CUT-ETTP",
+        "despues": "El Certificado Único de Trámite CUT-ETTP de la carrera"
+      }
+    ]
+  }
+]

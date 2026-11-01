@@ -1,0 +1,527 @@
+[
+  {
+    "preguntaId": "cmvvxhymk0001vdag1z2y1k6m",
+    "opciones": [
+      {
+        "opcionId": "cmvvxhymk0002vdagjcmjgdb9",
+        "antes": "El acceso, la permanencia y la conclusión de estudios de las poblaciones de fronteras, riberas de río y zonas de difícil acceso, en Primaria y Secundaria de Personas Jóvenes y Adultas",
+        "despues": "El acceso, la permanencia y la conclusión de estudios de las poblaciones de fronteras, riberas de río y zonas de difícil acceso, en Primaria y Secundaria de Personas Jóvenes y Adultas"
+      },
+      {
+        "opcionId": "cmvvxhymk0003vdagtfhl1s7a",
+        "antes": "La formación técnica de nivel Técnico Medio en comunidades rurales",
+        "despues": "La formación técnica de nivel Técnico Medio en comunidades rurales de fronteras y riberas de río, mediante maestros que rotan entre los centros de cada distrito"
+      },
+      {
+        "opcionId": "cmvvxhymk0004vdagqx66fbb8",
+        "antes": "La educación inicial en familia comunitaria",
+        "despues": "La educación inicial en familia comunitaria en las zonas de difícil acceso, mediante maestros que visitan a las familias en sus comunidades"
+      },
+      {
+        "opcionId": "cmvvxhymk0005vdag89kajssj",
+        "antes": "La educación especial de personas con discapacidad en el área urbana",
+        "despues": "La educación especial de personas con discapacidad en el área urbana, mediante maestros que atienden en sus domicilios a quienes no pueden asistir"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvxhymx0007vdags6a00ap6",
+    "opciones": [
+      {
+        "opcionId": "cmvvxhymx0008vdagsgjzmiry",
+        "antes": "A poblaciones y comunidades que no cuentan con un Centro de Educación Alternativa, en áreas con baja densidad de participantes",
+        "despues": "A poblaciones y comunidades que no cuentan con un Centro de Educación Alternativa, en áreas con baja densidad de participantes"
+      },
+      {
+        "opcionId": "cmvvxhymx0009vdagmit6fl9m",
+        "antes": "A comunidades urbanas con sobrepoblación en sus CEA",
+        "despues": "A comunidades urbanas con sobrepoblación en sus CEA, para descongestionar los centros con mayor demanda de participantes"
+      },
+      {
+        "opcionId": "cmvvxhymx000avdago91agv9s",
+        "antes": "A cualquier CEA que quiera ampliar su horario",
+        "despues": "A cualquier CEA que quiera ampliar su horario de atención mediante maestros que trabajen en varios turnos"
+      },
+      {
+        "opcionId": "cmvvxhymx000bvdagco2w8pwx",
+        "antes": "A unidades educativas regulares sin maestros",
+        "despues": "A unidades educativas regulares sin maestros en zonas rurales, mientras se asignan los ítems correspondientes"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvxhyn7000dvdagqp9uej4b",
+    "opciones": [
+      {
+        "opcionId": "cmvvxhyn7000evdagxxs80xre",
+        "antes": "A personas mayores de diecisiete años que no hayan concluido la secundaria en Educación Regular",
+        "despues": "A personas mayores de diecisiete años que no hayan concluido la secundaria en Educación Regular"
+      },
+      {
+        "opcionId": "cmvvxhyn7000fvdagfwn2r8cy",
+        "antes": "A personas mayores de quince años",
+        "despues": "A personas mayores de quince años que no hayan concluido la secundaria en Educación Regular"
+      },
+      {
+        "opcionId": "cmvvxhyn7000gvdagypuijfq7",
+        "antes": "A personas mayores de dieciocho años",
+        "despues": "A personas mayores de dieciocho años que no hayan concluido la secundaria en ningún subsistema"
+      },
+      {
+        "opcionId": "cmvvxhyn7000hvdagqii6vdkm",
+        "antes": "A personas de cualquier edad",
+        "despues": "A personas de cualquier edad que deseen concluir la secundaria fuera de Educación Regular"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvxhynl000pvdagyjpor430",
+    "opciones": [
+      {
+        "opcionId": "cmvvxhynl000qvdag8f3evdjz",
+        "antes": "El Director del CEA, en coordinación con maestros, autoridades comunitarias y territoriales, representantes de participantes y el Director Distrital",
+        "despues": "El Director del CEA, en coordinación con maestros, autoridades comunitarias y territoriales, representantes de participantes y el Director Distrital"
+      },
+      {
+        "opcionId": "cmvvxhynl000rvdagn08ke8qb",
+        "antes": "El Director Departamental, por sí solo",
+        "despues": "El Director Departamental de Educación, por sí solo, con base en los datos de matrícula y la ubicación de las comunidades sin CEA"
+      },
+      {
+        "opcionId": "cmvvxhynl000svdag1ll7mto9",
+        "antes": "Los maestros itinerantes, sin participación del director",
+        "despues": "Los maestros itinerantes, sin participación del director del CEA, a partir de sus visitas a las comunidades que atenderán"
+      },
+      {
+        "opcionId": "cmvvxhynl000tvdagmb2q4phr",
+        "antes": "El Gobierno Municipal",
+        "despues": "El Gobierno Autónomo Municipal, en coordinación con las autoridades comunitarias y la Dirección Distrital de Educación"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvxhyo70017vdagedocxmfn",
+    "opciones": [
+      {
+        "opcionId": "cmvvxhyo70018vdagpybdsl23",
+        "antes": "La Unidad de Asuntos Jurídicos, a la que la Subdirección de EAyE remite el expediente",
+        "despues": "La Unidad de Asuntos Jurídicos, a la que la Subdirección de EAyE remite el expediente"
+      },
+      {
+        "opcionId": "cmvvxhyo70019vdagjn6vhb5p",
+        "antes": "La Subdirección de EAyE directamente",
+        "despues": "La Subdirección de EAyE directamente, sin remitir el expediente a otra unidad"
+      },
+      {
+        "opcionId": "cmvvxhyo7001avdag2ewagj78",
+        "antes": "La Unidad de Asuntos Administrativos",
+        "despues": "La Unidad de Asuntos Administrativos, previa verificación del presupuesto"
+      },
+      {
+        "opcionId": "cmvvxhyo7001bvdagqpnh7vmv",
+        "antes": "La Dirección Distrital",
+        "despues": "La Dirección Distrital, a la que la Subdirección de EAyE delega la emisión"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvxhyoh001dvdagynorpavu",
+    "opciones": [
+      {
+        "opcionId": "cmvvxhyoh001evdag22efwr47",
+        "antes": "Tres (3) años, y puede ser revocada por la DDE por causales establecidas",
+        "despues": "Tres (3) años, y puede ser revocada por la DDE por causales establecidas"
+      },
+      {
+        "opcionId": "cmvvxhyoh001fvdago9nn1wle",
+        "antes": "Diez años, como el certificado de registro del CEA",
+        "despues": "Diez (10) años, como el certificado de registro del CEA que la solicita"
+      },
+      {
+        "opcionId": "cmvvxhyoh001gvdag472wgbxy",
+        "antes": "Un semestre, renovable",
+        "despues": "Un (1) semestre, renovable a solicitud del director del CEA"
+      },
+      {
+        "opcionId": "cmvvxhyoh001hvdagai41hb0i",
+        "antes": "Indefinida, mientras exista la comunidad",
+        "despues": "Indefinida, mientras exista la comunidad y no se cree un CEA en ella"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvxhyok001jvdaggh4d1uet",
+    "opciones": [
+      {
+        "opcionId": "cmvvxhyok001kvdaglf1f5hbc",
+        "antes": "Revocar la Resolución Administrativa del servicio, por ser causal de revocatoria",
+        "despues": "Revocar la Resolución Administrativa del servicio, por ser causal de revocatoria"
+      },
+      {
+        "opcionId": "cmvvxhyok001lvdag3di6kodt",
+        "antes": "Nada, hasta que venza el plazo de tres años",
+        "despues": "Nada, hasta que venza el plazo de tres años de vigencia de la autorización"
+      },
+      {
+        "opcionId": "cmvvxhyok001mvdagl845047z",
+        "antes": "Solo amonestar verbalmente al maestro",
+        "despues": "Solo amonestar verbalmente al maestro itinerante y pedir un nuevo cronograma"
+      },
+      {
+        "opcionId": "cmvvxhyok001nvdaglbeh1axn",
+        "antes": "Trasladar el servicio a una unidad educativa regular",
+        "despues": "Trasladar el servicio a una unidad educativa regular de la zona más cercana"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvxhyot001pvdagevl5ym2e",
+    "opciones": [
+      {
+        "opcionId": "cmvvxhyot001qvdagqfxtk5kp",
+        "antes": "El Director del CEA, en coordinación con los maestros itinerantes, garantizando la continuidad pedagógica/andragógica",
+        "despues": "El Director del CEA, en coordinación con los maestros itinerantes, garantizando la continuidad pedagógica/andragógica"
+      },
+      {
+        "opcionId": "cmvvxhyot001rvdag4ge29wxc",
+        "antes": "Las autoridades comunitarias, por sí solas",
+        "despues": "Las autoridades comunitarias de cada comunidad atendida, por sí solas, según sus actividades productivas y festivas"
+      },
+      {
+        "opcionId": "cmvvxhyot001svdagmo1xyu61",
+        "antes": "El Director Distrital",
+        "despues": "El Director Distrital de Educación, con base en el diagnóstico de factibilidad aprobado por la Subdirección"
+      },
+      {
+        "opcionId": "cmvvxhyot001tvdagugx9hich",
+        "antes": "Cada participante, según su disponibilidad",
+        "despues": "Cada participante, según su disponibilidad, mediante un acuerdo con el maestro itinerante de su comunidad"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvxhyox001vvdaglkxzhhll",
+    "opciones": [
+      {
+        "opcionId": "cmvvxhyoy001wvdag8rpyfe4n",
+        "antes": "A los diagnósticos comunitarios, asegurando la pertinencia cultural y lingüística",
+        "despues": "A los diagnósticos comunitarios, asegurando la pertinencia cultural y lingüística"
+      },
+      {
+        "opcionId": "cmvvxhyoy001xvdagybbfo7ap",
+        "antes": "A un programa nacional único para todas las comunidades",
+        "despues": "A un programa nacional único para todas las comunidades atendidas por maestros itinerantes"
+      },
+      {
+        "opcionId": "cmvvxhyoy001yvdags0r02psf",
+        "antes": "A los resultados de pruebas estandarizadas",
+        "despues": "A los resultados de pruebas estandarizadas aplicadas al inicio del semestre"
+      },
+      {
+        "opcionId": "cmvvxhyoy001zvdagxp2xtkp4",
+        "antes": "A la preferencia del maestro itinerante",
+        "despues": "A la preferencia y especialidad del maestro itinerante asignado a la comunidad"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvxhyp70021vdagk716zafp",
+    "opciones": [
+      {
+        "opcionId": "cmvvxhyp70022vdagsob36jvb",
+        "antes": "Ochenta (80) horas, distribuidas en la atención de dos comunidades",
+        "despues": "Ochenta (80) horas, distribuidas en la atención de dos comunidades"
+      },
+      {
+        "opcionId": "cmvvxhyp70023vdag0bz2ypbx",
+        "antes": "Cien horas, en tres comunidades",
+        "despues": "Cien (100) horas, distribuidas en la atención de tres comunidades"
+      },
+      {
+        "opcionId": "cmvvxhyp70024vdaggn9quie9",
+        "antes": "Cuarenta horas, en una comunidad",
+        "despues": "Cuarenta (40) horas, dedicadas a la atención de una sola comunidad"
+      },
+      {
+        "opcionId": "cmvvxhyp70025vdagi856h9d2",
+        "antes": "Ochenta horas, en cuatro comunidades",
+        "despues": "Ochenta (80) horas, distribuidas en la atención de cuatro comunidades"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvxhypy002jvdagnismrve7",
+    "opciones": [
+      {
+        "opcionId": "cmvvxhypy002kvdagkcvpb925",
+        "antes": "Atender simultáneamente a participantes de diferentes etapas en un mismo espacio formativo",
+        "despues": "Atender simultáneamente a participantes de diferentes etapas en un mismo espacio formativo"
+      },
+      {
+        "opcionId": "cmvvxhypy002lvdag4wlbi8m8",
+        "antes": "Atender cada etapa en un aula y un horario separados",
+        "despues": "Atender cada etapa en un aula y un horario separados dentro de la misma comunidad"
+      },
+      {
+        "opcionId": "cmvvxhypy002mvdagsv7pgmar",
+        "antes": "Atender solo a una etapa por comunidad",
+        "despues": "Atender solo a una etapa por comunidad, rotando las etapas cada semestre"
+      },
+      {
+        "opcionId": "cmvvxhypy002nvdagtl9yahbr",
+        "antes": "Impartir clases exclusivamente a distancia",
+        "despues": "Impartir las clases exclusivamente a distancia, con visitas mensuales del maestro"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvxhyq6002pvdag3zh5dph4",
+    "opciones": [
+      {
+        "opcionId": "cmvvxhyq6002qvdagp21dli3l",
+        "antes": "A los plazos y requisitos de las Normas Generales para la Gestión Educativa del Subsistema de Educación Alternativa y Especial (RM 0001 de cada gestión)",
+        "despues": "A los plazos y requisitos de las Normas Generales para la Gestión Educativa del Subsistema de Educación Alternativa y Especial (RM 0001 de cada gestión)"
+      },
+      {
+        "opcionId": "cmvvxhyq6002rvdagnuxh0zwr",
+        "antes": "A un calendario propio, distinto del de los CEA",
+        "despues": "A un calendario propio del servicio itinerante, distinto del de los CEA, aprobado por la Subdirección de EAyE al inicio de cada gestión"
+      },
+      {
+        "opcionId": "cmvvxhyq6002svdagovhj4vco",
+        "antes": "A lo que decida cada comunidad",
+        "despues": "A lo que decida cada comunidad atendida según sus ciclos productivos, sin sujeción a las Normas Generales de cada gestión"
+      },
+      {
+        "opcionId": "cmvvxhyq6002tvdagdovgrzsc",
+        "antes": "Al calendario del Subsistema de Educación Regular",
+        "despues": "Al calendario y los requisitos del Subsistema de Educación Regular, porque el servicio se presta en comunidades sin CEA"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvxhyqe002vvdag3t3iobj4",
+    "opciones": [
+      {
+        "opcionId": "cmvvxhyqe002wvdagmmvgn1lb",
+        "antes": "La planificación de aprendizajes esperados, con los objetivos holísticos y los contenidos esenciales, en el marco de los Lineamientos Curriculares de la EPJA",
+        "despues": "La planificación de aprendizajes esperados, con los objetivos holísticos y los contenidos esenciales, en el marco de los Lineamientos Curriculares de la EPJA"
+      },
+      {
+        "opcionId": "cmvvxhyqe002xvdag3qvan1cu",
+        "antes": "Solo la lista de asistencia del semestre anterior",
+        "despues": "Solo la lista de asistencia y las calificaciones del semestre anterior, para que el director del CEA verifique la continuidad de los participantes"
+      },
+      {
+        "opcionId": "cmvvxhyqe002yvdagv2aftnxg",
+        "antes": "El informe de impacto anual",
+        "despues": "El informe de impacto anual del servicio itinerante, con los resultados de las comunidades atendidas y las metas del nuevo semestre"
+      },
+      {
+        "opcionId": "cmvvxhyqe002zvdag3v0jn73z",
+        "antes": "La evaluación modular final",
+        "despues": "La evaluación modular final del semestre anterior, con los objetivos holísticos alcanzados por cada participante de las comunidades"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvxhyqv0037vdagtdngt7wu",
+    "opciones": [
+      {
+        "opcionId": "cmvvxhyqv0038vdagt0lyc9ba",
+        "antes": "Proponiendo la modificación al Viceministerio de EAyE, a través de la DGEA, para que la evalúe y apruebe el Ministerio de Educación",
+        "despues": "Proponiendo la modificación al Viceministerio de EAyE, a través de la DGEA, para que la evalúe y apruebe el Ministerio de Educación"
+      },
+      {
+        "opcionId": "cmvvxhyqv0039vdage1x4vuun",
+        "antes": "Por resolución de cada Dirección Departamental",
+        "despues": "Por resolución administrativa de cada Dirección Departamental, según las necesidades de las comunidades de su departamento"
+      },
+      {
+        "opcionId": "cmvvxhyqv003avdagzi4i291s",
+        "antes": "Por acuerdo de los directores de CEA del distrito",
+        "despues": "Por acuerdo de los directores de CEA del distrito, aprobado luego por la Dirección Distrital mediante resolución"
+      },
+      {
+        "opcionId": "cmvvxhyqv003bvdagfcidosv5",
+        "antes": "Mediante un instructivo de la Dirección Distrital",
+        "despues": "Mediante un instructivo de la Dirección Distrital, previo informe técnico de los maestros itinerantes del distrito"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvzjv9i0001vdwoytmcv1xt",
+    "opciones": [
+      {
+        "opcionId": "cmvvzjv9i0002vdwowzm2i512",
+        "antes": "En contextos de fronteras, riberas de río y zonas de difícil acceso",
+        "despues": "En contextos de fronteras, riberas de río y zonas de difícil acceso"
+      },
+      {
+        "opcionId": "cmvvzjv9i0003vdwowo84v3bi",
+        "antes": "Solo en las capitales de departamento",
+        "despues": "Solo en las capitales de departamento con alta demanda de participantes"
+      },
+      {
+        "opcionId": "cmvvzjv9i0004vdwofi93l2yb",
+        "antes": "En cárceles y hospitales exclusivamente",
+        "despues": "En cárceles, hospitales y cuarteles, exclusivamente"
+      },
+      {
+        "opcionId": "cmvvzjv9i0005vdwojrll347z",
+        "antes": "En todo el territorio, sin distinción",
+        "despues": "En todo el territorio nacional, sin distinción de contexto"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvzjv9u000dvdwozns8avdu",
+    "opciones": [
+      {
+        "opcionId": "cmvvzjv9u000evdwool61f3cc",
+        "antes": "Personas jóvenes y adultas mayores de quince años que cursen Primaria o Secundaria en CEA autorizados",
+        "despues": "Personas jóvenes y adultas mayores de quince años que cursen Primaria o Secundaria en CEA autorizados"
+      },
+      {
+        "opcionId": "cmvvzjv9u000fvdwo8s8n89ci",
+        "antes": "Niños de 6 a 12 años sin escuela",
+        "despues": "Niñas y niños de 6 a 12 años que viven en comunidades sin unidad educativa de Educación Regular"
+      },
+      {
+        "opcionId": "cmvvzjv9u000gvdwo4r1nsbti",
+        "antes": "Mayores de dieciocho años exclusivamente",
+        "despues": "Personas mayores de dieciocho años exclusivamente, que cursen Secundaria en CEA autorizados"
+      },
+      {
+        "opcionId": "cmvvzjv9u000hvdwoi52vr9um",
+        "antes": "Solo personas con discapacidad",
+        "despues": "Solo personas jóvenes y adultas con discapacidad que no pueden trasladarse a un CEA"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvzjvak000vvdwolx3rfpo6",
+    "opciones": [
+      {
+        "opcionId": "cmvvzjvak000wvdwo0ax6rl90",
+        "antes": "Obligatoria, de acuerdo con el calendario y los horarios establecidos",
+        "despues": "Obligatoria, de acuerdo con el calendario y los horarios establecidos"
+      },
+      {
+        "opcionId": "cmvvzjvak000xvdwoa8e1d69u",
+        "antes": "Voluntaria, por tratarse de atención itinerante",
+        "despues": "Voluntaria, por tratarse de atención itinerante en comunidades dispersas"
+      },
+      {
+        "opcionId": "cmvvzjvak000yvdwob0zkwxeb",
+        "antes": "Opcional si el participante trabaja",
+        "despues": "Opcional si el participante trabaja, previa justificación ante el maestro"
+      },
+      {
+        "opcionId": "cmvvzjvak000zvdwou2ypsqd9",
+        "antes": "Reemplazable por tareas a distancia",
+        "despues": "Reemplazable por tareas a distancia cuando el maestro no visita la comunidad"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvzjvav0011vdwob9tfjx04",
+    "opciones": [
+      {
+        "opcionId": "cmvvzjvav0012vdwodhgty6xl",
+        "antes": "De los temas generadores identificados en el diagnóstico comunitario, según las necesidades formativas y las potencialidades productivas de la región",
+        "despues": "De los temas generadores identificados en el diagnóstico comunitario, según las necesidades formativas y las potencialidades productivas de la región"
+      },
+      {
+        "opcionId": "cmvvzjvav0013vdwo7rkxrg3w",
+        "antes": "Del libro de texto nacional",
+        "despues": "Del libro de texto nacional de la EPJA, adaptado por el maestro itinerante a las características lingüísticas de cada comunidad atendida"
+      },
+      {
+        "opcionId": "cmvvzjvav0014vdwod83qko8y",
+        "antes": "De las preferencias del maestro itinerante",
+        "despues": "De las preferencias y la especialidad del maestro itinerante, según las áreas de saberes que domina mejor y la duración del semestre"
+      },
+      {
+        "opcionId": "cmvvzjvav0015vdwojsdunao3",
+        "antes": "De los resultados de pruebas estandarizadas",
+        "despues": "De los resultados de pruebas estandarizadas aplicadas a los participantes al inicio de cada semestre en las comunidades atendidas"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvzjvb40017vdwotvu8jfkv",
+    "opciones": [
+      {
+        "opcionId": "cmvvzjvb40018vdwolih2fw2h",
+        "antes": "El informe de las actividades realizadas y el cuaderno andragógico, entre otros elementos",
+        "despues": "El informe de las actividades realizadas y el cuaderno andragógico, entre otros elementos"
+      },
+      {
+        "opcionId": "cmvvzjvb40019vdwo7lm7a2pw",
+        "antes": "Solo la lista de calificaciones",
+        "despues": "Solo la lista de calificaciones de los participantes de cada comunidad atendida"
+      },
+      {
+        "opcionId": "cmvvzjvb4001avdwofvbo4q48",
+        "antes": "Solo los recibos de viáticos",
+        "despues": "Solo los recibos de viáticos y pasajes de los traslados entre comunidades"
+      },
+      {
+        "opcionId": "cmvvzjvb4001bvdwoowhj3lwo",
+        "antes": "Nada, porque el informe es anual",
+        "despues": "Nada adicional, porque el informe completo del servicio se presenta al final del año"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvzjvbe001dvdwoqiup5agk",
+    "opciones": [
+      {
+        "opcionId": "cmvvzjvbe001evdwoukk7ztdq",
+        "antes": "Lo resuelve el Ministerio de Educación mediante un instructivo del VEAE, con base en el informe técnico de la Dirección General de Educación Alternativa",
+        "despues": "Lo resuelve el Ministerio de Educación mediante un instructivo del VEAE, con base en el informe técnico de la Dirección General de Educación Alternativa"
+      },
+      {
+        "opcionId": "cmvvzjvbe001fvdwo96htaiv2",
+        "antes": "La resuelve el director del CEA a su criterio",
+        "despues": "La resuelve el director del CEA a su criterio, informando luego a la Dirección Distrital y a la Subdirección de Educación Alternativa y Especial"
+      },
+      {
+        "opcionId": "cmvvzjvbe001gvdwolb0ssjgl",
+        "antes": "La resuelve la Dirección Distrital mediante resolución",
+        "despues": "La resuelve la Dirección Distrital mediante resolución administrativa, con base en el informe técnico del director del CEA y del maestro itinerante"
+      },
+      {
+        "opcionId": "cmvvzjvbe001hvdwoptoccx9o",
+        "antes": "Se aplica supletoriamente el Código Civil",
+        "despues": "Se aplica supletoriamente el Código Civil, en tanto el Ministerio de Educación no emita una norma específica para la situación no prevista"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvzjvbn001jvdwoewaoevfe",
+    "opciones": [
+      {
+        "opcionId": "cmvvzjvbn001kvdwo794lhewc",
+        "antes": "Serán reasignados o adaptados conforme a este reglamento",
+        "despues": "Serán reasignados o adaptados conforme a este reglamento"
+      },
+      {
+        "opcionId": "cmvvzjvbn001lvdwob2nonr72",
+        "antes": "Se anulan",
+        "despues": "Se anulan y deben iniciarse nuevamente desde el diagnóstico"
+      },
+      {
+        "opcionId": "cmvvzjvbn001mvdwo5jlkmogz",
+        "antes": "Continúan con la normativa anterior hasta su conclusión",
+        "despues": "Continúan con la normativa anterior hasta su conclusión"
+      },
+      {
+        "opcionId": "cmvvzjvbn001nvdwo91zptocs",
+        "antes": "Se archivan sin trámite",
+        "despues": "Se archivan sin trámite hasta la siguiente gestión educativa"
+      }
+    ]
+  }
+]

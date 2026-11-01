@@ -1,0 +1,577 @@
+[
+  {
+    "preguntaId": "cmvvwz9190001vdc4nwhwvhr6",
+    "opciones": [
+      {
+        "opcionId": "cmvvwz91a0002vdc40xc7dpx8",
+        "antes": "El resultado de la interacción de la persona, con deficiencias de función físicas, psíquicas, intelectuales y/o sensoriales a largo plazo o permanentes, con diversas barreras físicas, psicológicas, sociales, culturales y comunicacionales",
+        "despues": "El resultado de la interacción de la persona, con deficiencias físicas, psíquicas, intelectuales y/o sensoriales a largo plazo o permanentes, con diversas barreras físicas, psicológicas, sociales, culturales y comunicacionales"
+      },
+      {
+        "opcionId": "cmvvwz91a0003vdc4oaq8o3mk",
+        "antes": "Los problemas en las funciones fisiológicas o en las estructuras corporales de una persona",
+        "despues": "Los problemas en las funciones fisiológicas o en las estructuras corporales de una persona, como una desviación significativa o una pérdida, de carácter permanente, que le impiden participar plenamente"
+      },
+      {
+        "opcionId": "cmvvwz91a0004vdc44534gxfa",
+        "antes": "Las acciones integradoras que procuran eliminar las desventajas de las personas",
+        "despues": "Las acciones integradoras que procuran eliminar las desventajas de las personas con deficiencias físicas, psíquicas, intelectuales y/o sensoriales, garantizando su igualdad con carácter de primacía"
+      },
+      {
+        "opcionId": "cmvvwz91a0005vdc41orxmpjj",
+        "antes": "Una condición de salud individual que impide trabajar o estudiar",
+        "despues": "Una condición de salud individual, física, psíquica, intelectual o sensorial, de largo plazo o permanente, que impide a la persona trabajar o estudiar en igualdad de condiciones con las demás"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvwz91g0007vdc4mr2vh89n",
+    "opciones": [
+      {
+        "opcionId": "cmvvwz91g0008vdc40dkkeg56",
+        "antes": "Acciones integradoras que procuran eliminar las desventajas de las personas con discapacidad, garantizando su equiparación e igualdad con carácter de primacía",
+        "despues": "Acciones integradoras que procuran eliminar las desventajas de las personas con discapacidad, garantizando su equiparación e igualdad con carácter de primacía"
+      },
+      {
+        "opcionId": "cmvvwz91g0009vdc495g1pw2z",
+        "antes": "Exonerar a las personas con discapacidad del cumplimiento de sus deberes",
+        "despues": "Exonerar a las personas con discapacidad del cumplimiento de sus deberes y obligaciones, en compensación por las barreras que enfrentan"
+      },
+      {
+        "opcionId": "cmvvwz91g000avdc4pzeyt2jn",
+        "antes": "Atender a las personas con discapacidad en instituciones separadas",
+        "despues": "Atender a las personas con discapacidad en instituciones separadas y especializadas, garantizando su atención con carácter de primacía"
+      },
+      {
+        "opcionId": "cmvvwz91g000bvdc4advqsw8b",
+        "antes": "Otorgar una renta mensual a toda persona con discapacidad",
+        "despues": "Otorgar una renta mensual a toda persona con discapacidad, como acción integradora para eliminar sus desventajas económicas"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvwz91r000dvdc4nwupvoul",
+    "opciones": [
+      {
+        "opcionId": "cmvvwz91r000evdc4mc2qtt50",
+        "antes": "El acceso y la permanencia de los estudiantes con discapacidad en el Sistema Educativo Plurinacional, en el marco de la educación inclusiva e integral",
+        "despues": "El acceso y la permanencia de los estudiantes con discapacidad en el Sistema Educativo Plurinacional, en el marco de la educación inclusiva e integral"
+      },
+      {
+        "opcionId": "cmvvwz91r000fvdc4ioqr1bif",
+        "antes": "La atención exclusiva de las personas con discapacidad en centros de educación especial",
+        "despues": "La atención exclusiva de las personas con discapacidad en centros de educación especial, donde reciben una educación integral y especializada"
+      },
+      {
+        "opcionId": "cmvvwz91r000gvdc48dq3jxdy",
+        "antes": "El acceso solo si el centro cuenta con infraestructura adecuada",
+        "despues": "El acceso al centro solo si cuenta con infraestructura adecuada; en caso contrario, la derivación a un centro especial en el marco de la inclusión"
+      },
+      {
+        "opcionId": "cmvvwz91r000hvdc4wqvdhzk8",
+        "antes": "La inscripción sujeta a la autorización previa del CONALPEDIS",
+        "despues": "La inscripción en el CEA sujeta a la autorización previa del CONALPEDIS, que evalúa si la educación inclusiva es pertinente para la persona"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvwz921000jvdc466ndzuxo",
+    "opciones": [
+      {
+        "opcionId": "cmvvwz922000kvdc4aka3xmk3",
+        "antes": "Unidades Educativas Regulares, Centros de Educación Alternativa y Especial, Escuelas Superiores de Formación de Maestros e Instituciones Técnicas fiscales y de convenio",
+        "despues": "Unidades Educativas Regulares, Centros de Educación Alternativa y Especial, Escuelas Superiores de Formación de Maestros e Institutos Técnicos fiscales y de convenio"
+      },
+      {
+        "opcionId": "cmvvwz922000lvdc4t1s3krmd",
+        "antes": "Solo a los Centros de Educación Especial",
+        "despues": "Solo a los Centros de Educación Especial fiscales y de convenio, que atienden a los estudiantes con discapacidad en la modalidad directa"
+      },
+      {
+        "opcionId": "cmvvwz922000mvdc4eowtsjhk",
+        "antes": "A todas las unidades educativas, incluidas las privadas sin convenio",
+        "despues": "A todas las unidades educativas, incluidas las privadas sin convenio, y a las Escuelas Superiores de Formación de Maestros e Institutos Técnicos"
+      },
+      {
+        "opcionId": "cmvvwz922000nvdc4u91dn7je",
+        "antes": "Solo a las universidades públicas y privadas",
+        "despues": "Solo a las universidades públicas y privadas y a los Institutos Técnicos, que forman a los profesionales que atienden a estudiantes con discapacidad"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvwz92l0017vdc4jxzv2ndj",
+    "opciones": [
+      {
+        "opcionId": "cmvvwz92l0018vdc4bw02jb2y",
+        "antes": "La comunicación alternativa y un intérprete en Lengua de Señas Boliviana (LSB) para las personas con discapacidad auditiva",
+        "despues": "La comunicación alternativa y un intérprete en Lengua de Señas Boliviana (LSB) para las personas con discapacidad auditiva"
+      },
+      {
+        "opcionId": "cmvvwz92l0019vdc4vhu1mc5z",
+        "antes": "Solo subtítulos en pantalla",
+        "despues": "Solo subtítulos en pantalla para las personas con discapacidad auditiva, porque el intérprete es obligatorio en actos nacionales"
+      },
+      {
+        "opcionId": "cmvvwz92l001avdc4jnziqwyp",
+        "antes": "Nada, porque la obligación es solo de las instituciones públicas nacionales",
+        "despues": "Nada en particular, porque la obligación de incorporar intérpretes rige solo para las instituciones públicas del nivel nacional"
+      },
+      {
+        "opcionId": "cmvvwz92l001bvdc4ika9ex2x",
+        "antes": "Material en Braille para todos los asistentes",
+        "despues": "Material impreso en sistema Braille para todos los asistentes y un intérprete en lengua de señas solo si alguien lo solicita"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvwz92u001dvdc4fsdvtayt",
+    "opciones": [
+      {
+        "opcionId": "cmvvwz92u001evdc43bmwu5j2",
+        "antes": "Las personas con discapacidad visual y las personas con discapacidad mientras desempeñen funciones en el sector público",
+        "despues": "Las personas con discapacidad visual y las personas con discapacidad mientras desempeñen funciones en el sector público"
+      },
+      {
+        "opcionId": "cmvvwz92u001fvdc436hl7gyu",
+        "antes": "Las personas con discapacidad grave y muy grave",
+        "despues": "Las personas con discapacidad grave y muy grave que reciben otra renta o bono del Estado por su condición"
+      },
+      {
+        "opcionId": "cmvvwz92u001gvdc4wasf8lvt",
+        "antes": "Las personas con discapacidad auditiva y las que trabajan en el sector privado",
+        "despues": "Las personas con discapacidad auditiva y las personas con discapacidad que trabajan en el sector privado"
+      },
+      {
+        "opcionId": "cmvvwz92u001hvdc4jsojz2hh",
+        "antes": "Los padres y tutores de niños con discapacidad",
+        "despues": "Los padres, madres y tutores de niñas y niños con discapacidad, aunque no trabajen en el sector público"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvwz93e001pvdc4dr0ggufc",
+    "opciones": [
+      {
+        "opcionId": "cmvvwz93e001qvdc4pwt6yy8e",
+        "antes": "Descentralizada, con autonomía de gestión y patrimonio propio, bajo tuición del Ministerio de Justicia, encargada de la planificación estratégica en discapacidad",
+        "despues": "Descentralizada, con autonomía de gestión y patrimonio propio, bajo tuición del Ministerio de Justicia, encargada de la planificación estratégica en discapacidad"
+      },
+      {
+        "opcionId": "cmvvwz93e001rvdc48vw36urx",
+        "antes": "Desconcentrada del Ministerio de Salud",
+        "despues": "Desconcentrada del Ministerio de Salud y Deportes, sin patrimonio propio, encargada de la calificación de la discapacidad y del registro nacional"
+      },
+      {
+        "opcionId": "cmvvwz93e001svdc4q7bppts2",
+        "antes": "Autárquica, dependiente de la Confederación Boliviana de Personas con Discapacidad",
+        "despues": "Autárquica, dependiente de la Confederación Boliviana de Personas con Discapacidad, encargada de representar a las organizaciones ante el Estado"
+      },
+      {
+        "opcionId": "cmvvwz93e001tvdc469gpco3z",
+        "antes": "Descentralizada, bajo tuición del Ministerio de Educación",
+        "despues": "Descentralizada, con autonomía de gestión y patrimonio propio, bajo tuición del Ministerio de Educación, encargada de la educación inclusiva"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvwz93h001vvdc4gyrlnp5k",
+    "opciones": [
+      {
+        "opcionId": "cmvvwz93h001wvdc4xrckek3x",
+        "antes": "Hacia la conformación de centros de recursos de rehabilitación, conforme a la política mundial de rehabilitación basada en la comunidad",
+        "despues": "Hacia la conformación de centros de recursos de rehabilitación, conforme a la política mundial de rehabilitación basada en la comunidad"
+      },
+      {
+        "opcionId": "cmvvwz93h001xvdc45hp1q5qv",
+        "antes": "Hacia su cierre definitivo y el traslado de todos los estudiantes a la educación regular",
+        "despues": "Hacia su cierre definitivo y el traslado de todos sus estudiantes a la educación regular, conforme a la política de educación inclusiva"
+      },
+      {
+        "opcionId": "cmvvwz93h001yvdc4uue7ipec",
+        "antes": "Hacia su privatización bajo acreditación del CONALPEDIS",
+        "despues": "Hacia su privatización bajo acreditación y supervisión del CONALPEDIS, conforme a la política de rehabilitación basada en la comunidad"
+      },
+      {
+        "opcionId": "cmvvwz93h001zvdc4zy5k5rnm",
+        "antes": "Hacia internados de atención permanente",
+        "despues": "Hacia su conversión en internados de atención permanente para las personas con discapacidad grave y muy grave sin familia"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvwz93l0021vdc4q4q5o7md",
+    "opciones": [
+      {
+        "opcionId": "cmvvwz93l0022vdc4odzll94q",
+        "antes": "Dentro de los ciento veinte días siguientes a la promulgación de la ley",
+        "despues": "Dentro de los ciento veinte días siguientes a la promulgación de la ley"
+      },
+      {
+        "opcionId": "cmvvwz93l0023vdc4pmlta170",
+        "antes": "Dentro de los noventa días siguientes a la promulgación de la ley",
+        "despues": "Dentro de los noventa días siguientes a la promulgación de la ley"
+      },
+      {
+        "opcionId": "cmvvwz93l0024vdc4xar2rc9j",
+        "antes": "Dentro de los sesenta días hábiles",
+        "despues": "Dentro de los sesenta días hábiles siguientes a su publicación"
+      },
+      {
+        "opcionId": "cmvvwz93l0025vdc40wv1u8di",
+        "antes": "En el plazo de un año",
+        "despues": "En el plazo de un año computable desde la promulgación de la ley"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvwz944002dvdc4q6djvj55",
+    "opciones": [
+      {
+        "opcionId": "cmvvwz944002evdc4nldnmc93",
+        "antes": "Bajo un modelo social de derechos, en el marco de una cultura de la dignidad y con enfoque de inclusión social",
+        "despues": "Bajo un modelo social de derechos, en el marco de una cultura de la dignidad y con enfoque de inclusión social"
+      },
+      {
+        "opcionId": "cmvvwz944002fvdc47efhqy12",
+        "antes": "Bajo un modelo médico-rehabilitador centrado en el diagnóstico",
+        "despues": "Bajo un modelo médico-rehabilitador centrado en el diagnóstico, el tratamiento y la recuperación funcional"
+      },
+      {
+        "opcionId": "cmvvwz944002gvdc4m305ltij",
+        "antes": "Bajo un modelo asistencialista de beneficencia",
+        "despues": "Bajo un modelo asistencialista de beneficencia, en el marco de la solidaridad y la protección del Estado"
+      },
+      {
+        "opcionId": "cmvvwz944002hvdc4gbv1cycw",
+        "antes": "Bajo un modelo de educación segregada especializada",
+        "despues": "Bajo un modelo de educación segregada especializada, con enfoque de atención diferenciada por tipo de discapacidad"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvwz94x002vvdc4ojbiplub",
+    "opciones": [
+      {
+        "opcionId": "cmvvwz94x002wvdc4307resbb",
+        "antes": "La consulta sobre la decisión, porque tiene derecho a ser consultada en lo que se refiere a su educación, según sus posibilidades, proyectándose a la vida independiente",
+        "despues": "La consulta sobre la decisión, porque tiene derecho a ser consultada en lo que se refiere a su educación, según sus posibilidades, proyectándose a la vida independiente"
+      },
+      {
+        "opcionId": "cmvvwz94x002xvdc4aa34csgg",
+        "antes": "Decide la familia, sin consultarla, por su condición",
+        "despues": "Deja que decida la familia, sin consultarla, porque por su condición intelectual la ley encarga a los padres o tutores las decisiones sobre su educación"
+      },
+      {
+        "opcionId": "cmvvwz94x002yvdc4ir0vkw3q",
+        "antes": "La asigna el equipo multidisciplinario según su diagnóstico",
+        "despues": "La asigna el equipo multidisciplinario del centro según su diagnóstico, porque es quien conoce las carreras técnicas compatibles con su discapacidad"
+      },
+      {
+        "opcionId": "cmvvwz94x002zvdc4iud7n276",
+        "antes": "Solo se la consulta si su discapacidad es física",
+        "despues": "Solo la consulta si su discapacidad es física o sensorial; con discapacidad intelectual, la decisión la toman la familia y la dirección del CEA"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvwz9560031vdc4t5g0d8xg",
+    "opciones": [
+      {
+        "opcionId": "cmvvwz9560032vdc4q3h9x38x",
+        "antes": "Las mujeres y varones con discapacidad, sus familias y toda persona que trabaja con mujeres, niños y adolescentes con discapacidad",
+        "despues": "Las mujeres y varones con discapacidad, sus familias y toda persona que trabaja con mujeres, niños y adolescentes con discapacidad"
+      },
+      {
+        "opcionId": "cmvvwz9560033vdc4xmqcqnsu",
+        "antes": "Solo el personal de salud",
+        "despues": "Solo el personal de salud que atiende a mujeres, niños y adolescentes con discapacidad en la red de servicios públicos"
+      },
+      {
+        "opcionId": "cmvvwz9560034vdc47vuoibny",
+        "antes": "Solo las familias de las personas con discapacidad",
+        "despues": "Solo las familias y los tutores de las personas con discapacidad, que son responsables de su cuidado y protección"
+      },
+      {
+        "opcionId": "cmvvwz9560035vdc45letfa1b",
+        "antes": "Solo la Policía y el Ministerio Público",
+        "despues": "Solo la Policía y el Ministerio Público, que reciben las denuncias de abuso sexual contra personas con discapacidad"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvwz95m003dvdc44rpoidks",
+    "opciones": [
+      {
+        "opcionId": "cmvvwz95m003evdc4nl2sa612",
+        "antes": "Control social, rendición de cuentas y consulta permanente con las organizaciones de personas con discapacidad",
+        "despues": "Control social, rendición de cuentas y consulta permanente con las organizaciones de personas con discapacidad"
+      },
+      {
+        "opcionId": "cmvvwz95m003fvdc465g7elfn",
+        "antes": "Solo a la auditoría de la Contraloría General del Estado",
+        "despues": "Solo a la auditoría de la Contraloría General del Estado y a la rendición de cuentas del CONALPEDIS"
+      },
+      {
+        "opcionId": "cmvvwz95m003gvdc48r06r84p",
+        "antes": "A la aprobación previa de la Asamblea Legislativa",
+        "despues": "A la aprobación previa de la Asamblea Legislativa Plurinacional y a la consulta con el CONALPEDIS"
+      },
+      {
+        "opcionId": "cmvvwz95m003hvdc4w3b0e48r",
+        "antes": "A la consulta con las familias solamente",
+        "despues": "A la consulta con las familias de las personas con discapacidad solamente, sin control social"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvwz95v003jvdc4sqisx8wj",
+    "opciones": [
+      {
+        "opcionId": "cmvvwz95v003kvdc4sj6g2o9h",
+        "antes": "La transversalidad de la temática de discapacidad en planes, programas y proyectos",
+        "despues": "La transversalidad de la temática de discapacidad en planes, programas y proyectos"
+      },
+      {
+        "opcionId": "cmvvwz95v003lvdc44z4x76hq",
+        "antes": "La creación de unidades especializadas",
+        "despues": "La creación de unidades especializadas en discapacidad en cada institución pública"
+      },
+      {
+        "opcionId": "cmvvwz95v003mvdc425wo0k7u",
+        "antes": "La renta solidaria",
+        "despues": "La renta solidaria para las personas con discapacidad grave y muy grave"
+      },
+      {
+        "opcionId": "cmvvwz95v003nvdc4kbyj2mlo",
+        "antes": "La acreditación del CONALPEDIS",
+        "despues": "La acreditación del centro ante el CONALPEDIS como institución inclusiva"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvwz963003pvdc48tnqasmm",
+    "opciones": [
+      {
+        "opcionId": "cmvvwz963003qvdc4yy3qyz75",
+        "antes": "De la Ley 3925 (eliminación de subsidios a partidos políticos) y de donaciones, legados y recursos de cooperación",
+        "despues": "De la Ley 3925 (eliminación de subsidios a partidos políticos) y de donaciones, legados y recursos de cooperación"
+      },
+      {
+        "opcionId": "cmvvwz963003rvdc4wfb16z9i",
+        "antes": "Del Impuesto Directo a los Hidrocarburos exclusivamente",
+        "despues": "Del Impuesto Directo a los Hidrocarburos exclusivamente, distribuido entre los gobiernos autónomos y el CONALPEDIS"
+      },
+      {
+        "opcionId": "cmvvwz963003svdc4s85erqct",
+        "antes": "De un aporte obligatorio de los empleadores privados",
+        "despues": "De un aporte obligatorio de los empleadores privados y públicos, equivalente a un porcentaje de sus planillas"
+      },
+      {
+        "opcionId": "cmvvwz963003tvdc4h3uhiskq",
+        "antes": "Solo de las asignaciones del Tesoro General de la Nación",
+        "despues": "Solo de las asignaciones anuales del Tesoro General de la Nación, sin donaciones ni recursos de cooperación"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwttebv0001vd38w1cmcvly",
+    "opciones": [
+      {
+        "opcionId": "cmvwttebv0002vd38ntp5ssxn",
+        "antes": "Pierde los beneficios establecidos a su favor en la ley, por limitar las oportunidades de desarrollo y autonomía de su miembro con discapacidad",
+        "despues": "Pierde los beneficios establecidos a su favor en la ley, por limitar las oportunidades de desarrollo y autonomía de su miembro con discapacidad"
+      },
+      {
+        "opcionId": "cmvwttebv0003vd38nwkq54yd",
+        "antes": "Ninguna, porque es una decisión familiar",
+        "despues": "Ninguna consecuencia legal, porque es una decisión de la familia sobre el cuidado de su miembro con discapacidad, que la ley respeta"
+      },
+      {
+        "opcionId": "cmvwttebv0004vd38by6aiwfc",
+        "antes": "La pérdida automática de la patria potestad",
+        "despues": "La pérdida automática de la patria potestad sobre su hijo con discapacidad, que pasa a la tutela de la Defensoría de la Niñez"
+      },
+      {
+        "opcionId": "cmvwttebv0005vd389bd4zsut",
+        "antes": "Una multa municipal",
+        "despues": "Una multa municipal, que impone el Gobierno Autónomo Municipal a denuncia de la dirección del CEA o de la Defensoría"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwttecl000dvd38gc66j5bz",
+    "opciones": [
+      {
+        "opcionId": "cmvwttecl000evd38ql9bnozm",
+        "antes": "El Estado asume la responsabilidad, según sus competencias nacionales, departamentales, regionales, municipales e IOC",
+        "despues": "El Estado asume la responsabilidad, según sus competencias nacionales, departamentales, regionales, municipales e IOC"
+      },
+      {
+        "opcionId": "cmvwttecl000fvd38j1fpsoo0",
+        "antes": "La responsabilidad recae solo en el municipio",
+        "despues": "La responsabilidad recae solo en el Gobierno Autónomo Municipal donde reside, a través de sus defensorías"
+      },
+      {
+        "opcionId": "cmvwttecl000gvd38xhz168da",
+        "antes": "La asume la unidad educativa donde estudia",
+        "despues": "La asume la unidad educativa o el centro donde estudia, hasta que una familia sustituta se haga cargo"
+      },
+      {
+        "opcionId": "cmvwttecl000hvd38lfka7878",
+        "antes": "La asumen las organizaciones de personas con discapacidad",
+        "despues": "La asumen las organizaciones de personas con discapacidad, con apoyo económico del CONALPEDIS"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwttecv000jvd384j9d06fj",
+    "opciones": [
+      {
+        "opcionId": "cmvwttecv000kvd38wkh458vo",
+        "antes": "Acceso a la justicia con ayuda psicológica, social y comunicacional en igualdad de condiciones, incluida su declaración como testigo",
+        "despues": "Acceso a la justicia con ayuda psicológica, social y comunicacional en igualdad de condiciones, incluida su declaración como testigo"
+      },
+      {
+        "opcionId": "cmvwttecv000lvd3890d2powk",
+        "antes": "Que queda eximido de declarar",
+        "despues": "Que queda eximido de declarar como testigo por su discapacidad auditiva, salvo que él mismo lo solicite por escrito al juez"
+      },
+      {
+        "opcionId": "cmvwttecv000mvd387ztzwfft",
+        "antes": "Que su testimonio se recibe solo por escrito",
+        "despues": "Que su testimonio se recibe solo por escrito, sin intérprete, para no retrasar el proceso por la falta de intérpretes de LSB"
+      },
+      {
+        "opcionId": "cmvwttecv000nvd38duwo1bzy",
+        "antes": "Que debe pagar su propio intérprete",
+        "despues": "Que puede declarar en igualdad de condiciones, pero debe contratar y pagar por su cuenta a su propio intérprete de LSB"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwtted5000pvd3842tlq4x6",
+    "opciones": [
+      {
+        "opcionId": "cmvwtted5000qvd380wjufxpy",
+        "antes": "El Ministerio de Autonomías y los Gobiernos Departamentales",
+        "despues": "El Ministerio de Autonomías y los Gobiernos Departamentales"
+      },
+      {
+        "opcionId": "cmvwtted5000rvd38gf2bbg8p",
+        "antes": "Los Gobiernos Municipales",
+        "despues": "Los Gobiernos Autónomos Municipales y el CONALPEDIS"
+      },
+      {
+        "opcionId": "cmvwtted5000svd38f86sbu54",
+        "antes": "El Ministerio de Justicia",
+        "despues": "El Ministerio de Justicia y la Defensoría del Pueblo"
+      },
+      {
+        "opcionId": "cmvwtted5000tvd38jg360w8b",
+        "antes": "La Fundación para el Desarrollo",
+        "despues": "La Fundación para el Desarrollo y los Gobiernos Departamentales"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwttedd000vvd3844elaew7",
+    "opciones": [
+      {
+        "opcionId": "cmvwttedd000wvd38egnpukku",
+        "antes": "Con carácter gratuito, de calidad y con calidez, en la red de Servicios Públicos y en los tres niveles de atención",
+        "despues": "Con carácter gratuito, de calidad y con calidez, en la red de Servicios Públicos y en los tres niveles de atención"
+      },
+      {
+        "opcionId": "cmvwttedd000xvd38ncrei6fr",
+        "antes": "Solo en el primer nivel de atención",
+        "despues": "Con carácter gratuito, de calidad y con calidez, solo en el primer nivel de atención de la red de Servicios Públicos"
+      },
+      {
+        "opcionId": "cmvwttedd000yvd382xuxuyec",
+        "antes": "Con copago según los ingresos",
+        "despues": "Con copago según los ingresos de la familia, en la red de Servicios Públicos y en los tres niveles de atención"
+      },
+      {
+        "opcionId": "cmvwttedd000zvd38gve2c5ao",
+        "antes": "Solo en clínicas privadas en convenio",
+        "despues": "Solo en clínicas privadas en convenio con el CONALPEDIS, con carácter gratuito y en los tres niveles de atención"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwttedn0011vd38hd53bqa1",
+    "opciones": [
+      {
+        "opcionId": "cmvwttedn0012vd38c3r8h9mb",
+        "antes": "En la responsabilidad social empresarial a favor de las personas con discapacidad, que deben cumplir todas las empresas privadas legalmente constituidas",
+        "despues": "En la responsabilidad social empresarial a favor de las personas con discapacidad, que deben cumplir todas las empresas privadas legalmente constituidas"
+      },
+      {
+        "opcionId": "cmvwttedn0013vd38d7hgth8z",
+        "antes": "En un impuesto especial para la discapacidad",
+        "despues": "En un impuesto especial para la discapacidad, que las empresas privadas pueden pagar mediante donaciones en especie a los centros educativos"
+      },
+      {
+        "opcionId": "cmvwttedn0014vd38506up7f6",
+        "antes": "En una obligación que rige solo para las empresas públicas",
+        "despues": "En la responsabilidad social empresarial a favor de las personas con discapacidad, que es una obligación que rige solo para las empresas públicas"
+      },
+      {
+        "opcionId": "cmvwttedn0015vd38qu7umb8g",
+        "antes": "En ninguna: la contribución es voluntaria y no está regulada",
+        "despues": "En ninguna obligación legal: la contribución de las empresas es voluntaria y no está regulada en la ley, aunque el centro puede solicitarla"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwwr8f20017vds4krvzkvl3",
+    "opciones": [
+      {
+        "opcionId": "cmvwwr8f20018vds4kvcng0vz",
+        "antes": "Cuando la persona con discapacidad no cuenta con otros mecanismos de provisión, sujeto a reglamento",
+        "despues": "Cuando la persona con discapacidad no cuenta con otros mecanismos de provisión, sujeto a reglamento"
+      },
+      {
+        "opcionId": "cmvwwr8f20019vds4290gz11t",
+        "antes": "Siempre y a todas las personas, sin condición",
+        "despues": "Siempre y a todas las personas con discapacidad, sin ninguna condición ni reglamentación"
+      },
+      {
+        "opcionId": "cmvwwr8f2001avds4ioxnkkr8",
+        "antes": "Solo a quienes tienen seguro privado",
+        "despues": "Solo a quienes tienen seguro privado y este no cubre los medicamentos e insumos permanentes"
+      },
+      {
+        "opcionId": "cmvwwr8f2001bvds4ktcj3287",
+        "antes": "Nunca: se compran en farmacias",
+        "despues": "Nunca: los medicamentos se compran en farmacias con un descuento del cincuenta por ciento"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwwr8fd001dvds4f4r1efzy",
+    "opciones": [
+      {
+        "opcionId": "cmvwwr8fd001evds442nhlzki",
+        "antes": "Los Gobiernos Autónomos Departamentales y Municipales (sus Asambleas y Concejos)",
+        "despues": "Los Gobiernos Autónomos Departamentales y Municipales (sus Asambleas y Concejos)"
+      },
+      {
+        "opcionId": "cmvwwr8fd001fvds4bstmkpd2",
+        "antes": "El Ministerio de Educación de forma exclusiva",
+        "despues": "El Ministerio de Educación de forma exclusiva, para todos los edificios educativos"
+      },
+      {
+        "opcionId": "cmvwwr8fd001gvds47fdb3fhc",
+        "antes": "El director del CEA",
+        "despues": "El director del CEA, con aprobación de la Dirección Distrital de Educación"
+      },
+      {
+        "opcionId": "cmvwwr8fd001hvds4qtfo6f3v",
+        "antes": "La Defensoría del Pueblo",
+        "despues": "La Defensoría del Pueblo, en coordinación con las organizaciones de personas con discapacidad"
+      }
+    ]
+  }
+]

@@ -1,0 +1,1027 @@
+[
+  {
+    "preguntaId": "cmvvvxj74000jvd0skpd9swqk",
+    "opciones": [
+      {
+        "opcionId": "cmvvvxj74000kvd0s5badhzm2",
+        "antes": "No debe llenar el formulario físico RUDEAL ni solicitar documentación adicional, y solo actualiza la información si el participante modifica sus datos personales",
+        "despues": "No debe llenar el formulario físico RUDEAL ni pedir documentación adicional, y solo actualiza la información si el participante modifica sus datos personales"
+      },
+      {
+        "opcionId": "cmvvvxj74000lvd0s7osw1vlj",
+        "antes": "Debe llenar nuevamente el RUDEAL físico al inicio de cada semestre",
+        "despues": "Debe llenar nuevamente el formulario físico RUDEAL al inicio de cada semestre, aunque el participante no haya modificado sus datos personales"
+      },
+      {
+        "opcionId": "cmvvvxj74000mvd0sv1s61h1l",
+        "antes": "Debe pedir una nueva fotocopia de la cédula de identidad y del certificado del último curso",
+        "despues": "Debe pedir una nueva fotocopia de la cédula de identidad y del certificado del último curso aprobado, para actualizar el file del participante"
+      },
+      {
+        "opcionId": "cmvvvxj74000nvd0s73kpemam",
+        "antes": "Debe esperar la autorización de la Dirección Distrital para cada inscripción automática",
+        "despues": "Debe esperar la autorización de la Dirección Distrital para cada inscripción automática, y actualizar el RUDEAL físico una vez autorizada"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvvxj7x0017vd0s4pkw22yd",
+    "opciones": [
+      {
+        "opcionId": "cmvvvxj7x0018vd0se5p15ubr",
+        "antes": "Anular la inscripción, porque el CEPEAD está dirigido a la población boliviana migrante en el exterior y no admite inscripción simultánea en el territorio nacional",
+        "despues": "Anular la inscripción, porque el CEPEAD está dirigido a la población boliviana migrante en el exterior y no admite inscripción simultánea en el territorio nacional"
+      },
+      {
+        "opcionId": "cmvvvxj7x0019vd0s3d12g5tj",
+        "antes": "Mantener ambas inscripciones, porque no existe choque de horarios",
+        "despues": "Mantener ambas inscripciones, porque no existe choque de horarios y la participante puede cursar a la vez la modalidad a distancia y la presencial"
+      },
+      {
+        "opcionId": "cmvvvxj7x001avd0sbkx96urs",
+        "antes": "Darle un plazo de dos meses para elegir uno de los dos centros",
+        "despues": "Darle un plazo de dos meses desde el inicio de las inscripciones para que elija uno de los dos centros, y anular la otra inscripción después"
+      },
+      {
+        "opcionId": "cmvvvxj7x001bvd0sk06m9x6q",
+        "antes": "Convalidar en el CEA las calificaciones obtenidas en el CEPEAD",
+        "despues": "Convalidar en el CEA de El Alto las calificaciones obtenidas en el CEPEAD, y dar de baja la inscripción a distancia para evitar la duplicidad"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvvxj8l001pvd0sdb8k0d2s",
+    "opciones": [
+      {
+        "opcionId": "cmvvvxj8l001qvd0sfb0exxg3",
+        "antes": "Inscribirla, otorgándole un plazo máximo de dos meses desde el inicio de las inscripciones del calendario para presentar los documentos",
+        "despues": "Inscribirla, otorgándole un plazo máximo de dos meses desde el inicio de las inscripciones del calendario para presentar los documentos"
+      },
+      {
+        "opcionId": "cmvvvxj8l001rvd0sjwcek1xc",
+        "antes": "Postergar su inscripción hasta que presente el certificado visado o apostillado",
+        "despues": "Postergar su inscripción hasta que presente el certificado visado o apostillado, para no registrar a una participante sin respaldo documental"
+      },
+      {
+        "opcionId": "cmvvvxj8l001svd0sos2dgu37",
+        "antes": "Inscribirla con un plazo de 30 días desde la fecha de su inscripción",
+        "despues": "Inscribirla, otorgándole un plazo máximo de treinta días calendario computables desde la fecha de su inscripción para presentar los documentos"
+      },
+      {
+        "opcionId": "cmvvvxj8l001tvd0sv8lnnr9k",
+        "antes": "Inscribirla previo pago de un arancel por la verificación documental",
+        "despues": "Inscribirla previo pago de un arancel por la verificación documental, que se devuelve cuando presente el certificado visado o apostillado"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvvxj9i002dvd0s47krljxq",
+    "opciones": [
+      {
+        "opcionId": "cmvvvxj9j002evd0s6pqkzm93",
+        "antes": "Los directores de los CEA, que la entregan a las direcciones distritales, y estas a las subdirecciones de educación alternativa y especial",
+        "despues": "Los directores de los CEA, que la entregan a las direcciones distritales, y estas a las subdirecciones de educación alternativa y especial"
+      },
+      {
+        "opcionId": "cmvvvxj9j002fvd0st0zs796o",
+        "antes": "Las direcciones distritales, que la remiten directamente al Ministerio de Educación",
+        "despues": "Las direcciones distritales, que la registran en el SICH y la remiten directamente al Ministerio de Educación con la documentación física"
+      },
+      {
+        "opcionId": "cmvvvxj9j002gvd0sq7k0b1s8",
+        "antes": "Los directores de los CEA, que la remiten directamente a la UGPSEP-SI",
+        "despues": "Los directores de los CEA, que la registran en el SICH y remiten la documentación física directamente a la UGPSEP-SI"
+      },
+      {
+        "opcionId": "cmvvvxj9j002hvd0sxpzo0rvr",
+        "antes": "Las subdirecciones de educación alternativa y especial, a partir del reporte de cada maestro",
+        "despues": "Las subdirecciones de educación alternativa y especial, a partir del reporte que cada maestro les envía de su carga horaria"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvxvunp0001vd78pw18mcfp",
+    "opciones": [
+      {
+        "opcionId": "cmvvxvunp0002vd78n8sgocpk",
+        "antes": "No se apertura el punto; la atención de toda la población mayor de quince años que requiera Educación Primaria queda bajo responsabilidad del CEA",
+        "despues": "No se apertura el punto; la atención de toda la población mayor de quince años que requiera Educación Primaria queda bajo responsabilidad del CEA"
+      },
+      {
+        "opcionId": "cmvvxvunp0003vd78fjx4bjo2",
+        "antes": "Se apertura si existen al menos quince participantes",
+        "despues": "Se apertura el punto si existen al menos quince participantes mayores de quince años, y el CEA mantiene la atención de la Educación Primaria"
+      },
+      {
+        "opcionId": "cmvvxvunp0004vd784mrg1pyn",
+        "antes": "Se apertura con autorización de la Dirección Distrital",
+        "despues": "Se apertura el punto con autorización de la Dirección Distrital, previa verificación de que el CEA no tiene capacidad para atender a esa población"
+      },
+      {
+        "opcionId": "cmvvxvunp0005vd78lzao9oe1",
+        "antes": "Se apertura y el CEA deja de atender Educación Primaria",
+        "despues": "Se apertura el punto y el CEA deja de atender la Educación Primaria, que pasa a la Post-alfabetización para toda la población mayor de quince años"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvxvuob000dvd78jcaze2oi",
+    "opciones": [
+      {
+        "opcionId": "cmvvxvuoc000evd78gq0w2whw",
+        "antes": "Es incorrecto: para la emisión del Diploma de Bachiller no se requieren las libretas del nivel de Educación Primaria",
+        "despues": "Es incorrecto: para la emisión del Diploma de Bachiller no se requieren las libretas del nivel de Educación Primaria"
+      },
+      {
+        "opcionId": "cmvvxvuoc000fvd78mywrjymb",
+        "antes": "Es correcto, porque se debe acreditar toda la trayectoria escolar",
+        "despues": "Es correcto, porque se debe acreditar toda la trayectoria escolar del participante, desde la Primaria hasta la Secundaria"
+      },
+      {
+        "opcionId": "cmvvxvuoc000gvd78p7ha8i6a",
+        "antes": "Es correcto solo si el participante tuvo inscripción excepcional",
+        "despues": "Es correcto solo si el participante tuvo una inscripción excepcional, para verificar que concluyó la Educación Primaria"
+      },
+      {
+        "opcionId": "cmvvxvuoc000hvd78zjwi5vt1",
+        "antes": "Es correcto si el participante es del CEPEAD",
+        "despues": "Es correcto si el participante proviene del CEPEAD, porque la Departamental de La Paz exige la trayectoria completa"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvxvuol000jvd78k49echz5",
+    "opciones": [
+      {
+        "opcionId": "cmvvxvuol000kvd78cd3owj4g",
+        "antes": "El director no puede suscribirlo: el Ministerio de Educación y las direcciones departamentales de educación son las únicas instancias para suscribir convenios",
+        "despues": "El director no puede suscribirlo: el Ministerio de Educación y las direcciones departamentales de educación son las únicas instancias para suscribir convenios"
+      },
+      {
+        "opcionId": "cmvvxvuol000lvd78z8d9wx9h",
+        "antes": "Puede suscribirlo con el aval de la Junta Escolar",
+        "despues": "Puede suscribirlo directamente con el aval de la Junta Escolar o del consejo educativo del centro, informando luego a la Dirección Distrital de Educación"
+      },
+      {
+        "opcionId": "cmvvxvuol000mvd78l67yyrl7",
+        "antes": "Puede suscribirlo si el convenio no implica erogación económica",
+        "despues": "Puede suscribirlo si el convenio no implica erogación económica para el Estado, porque en ese caso basta la firma del director del centro"
+      },
+      {
+        "opcionId": "cmvvxvuol000nvd78ukwdei5k",
+        "antes": "Lo suscribe el director distrital",
+        "despues": "Lo suscribe el director distrital de educación en representación del CEA, porque es la autoridad inmediata superior del director del centro"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvxvuov000pvd78axezld96",
+    "opciones": [
+      {
+        "opcionId": "cmvvxvuov000qvd78p8z2sxd1",
+        "antes": "Se prohíbe el cobro de matrícula, derecho de inscripción o cualquier otro concepto, y en la gestión 2026 no hay incremento de pensiones",
+        "despues": "Se prohíbe el cobro de matrícula, derecho de inscripción o cualquier otro concepto, y en la gestión 2026 no hay incremento de pensiones"
+      },
+      {
+        "opcionId": "cmvvxvuov000rvd7854gzybhy",
+        "antes": "Pueden cobrar matrícula si no incrementan las pensiones",
+        "despues": "Pueden cobrar matrícula o derecho de inscripción siempre que no incrementen las pensiones respecto de la gestión 2025"
+      },
+      {
+        "opcionId": "cmvvxvuov000svd78q2hcly8y",
+        "antes": "Las pensiones pueden dividirse en hasta diez cuotas por semestre",
+        "despues": "Las pensiones pueden dividirse en hasta diez cuotas por semestre, y pueden incrementarse hasta el porcentaje que fije la Departamental"
+      },
+      {
+        "opcionId": "cmvvxvuov000tvd78wapl5nn6",
+        "antes": "Las denuncias por incumplimiento se presentan solo por escrito ante el Ministerio",
+        "despues": "Las denuncias por incumplimiento se presentan solo por escrito ante el Ministerio, y no hay incremento de pensiones en la gestión 2026"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvzgirg0007vdckfuqbwaoa",
+    "opciones": [
+      {
+        "opcionId": "cmvvzgirg0008vdck2ls6yopk",
+        "antes": "Ante el Gobierno Autónomo Municipal, para su asignación obligatoria y oportuna en el POA de cada gestión; lo gestionan el director distrital en coordinación con el CEA",
+        "despues": "Ante el Gobierno Autónomo Municipal, para su asignación obligatoria y oportuna en el POA de cada gestión; lo gestionan el director distrital en coordinación con el CEA"
+      },
+      {
+        "opcionId": "cmvvzgirg0009vdckiv9bfqyl",
+        "antes": "Ante el Ministerio de Educación, en el presupuesto nacional",
+        "despues": "Ante el Ministerio de Educación, para su inclusión en el presupuesto nacional de la gestión; lo gestiona el director del CEA a través de la Subdirección"
+      },
+      {
+        "opcionId": "cmvvzgirg000avdckdbdid45v",
+        "antes": "Ante la Gobernación, en su PDES",
+        "despues": "Ante el Gobierno Autónomo Departamental, para su inclusión en el PDES y el POA departamental; lo gestiona el director departamental de educación"
+      },
+      {
+        "opcionId": "cmvvzgirg000bvdck8qzuvb2a",
+        "antes": "Cobrando aportes a los participantes",
+        "despues": "Mediante aportes de los participantes del taller aprobados en asamblea, que el director del CEA administra y rinde ante la Dirección Distrital"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvzgirq000dvdckn44fn3au",
+    "opciones": [
+      {
+        "opcionId": "cmvvzgirq000evdck24az010j",
+        "antes": "No puede: el desgaste por uso frecuente o la depreciación de ninguna manera se cobrará al personal docente ni a los estudiantes",
+        "despues": "No puede: el desgaste por uso frecuente o la depreciación de ninguna manera se cobrará al personal docente ni a los estudiantes"
+      },
+      {
+        "opcionId": "cmvvzgirq000fvdckhdejmkss",
+        "antes": "Puede cobrar al docente responsable del ambiente",
+        "despues": "Puede cobrar la reposición al docente responsable del ambiente, porque tenía a su cargo la custodia de los equipos"
+      },
+      {
+        "opcionId": "cmvvzgirq000gvdck27rhpddg",
+        "antes": "Puede cobrar a los participantes en partes iguales",
+        "despues": "Puede cobrar la reposición a los participantes en partes iguales, porque fueron ellos quienes usaron las computadoras"
+      },
+      {
+        "opcionId": "cmvvzgirq000hvdckclhq2eb5",
+        "antes": "Puede cobrar si lo aprueba la Junta",
+        "despues": "Puede cobrar la reposición si lo aprueba la Junta o el consejo educativo, y destinar lo recaudado a nuevos equipos"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvzgirt000jvdckvjuo0z13",
+    "opciones": [
+      {
+        "opcionId": "cmvvzgirt000kvdckhd4p3lbe",
+        "antes": "Ante el Gobierno Autónomo Municipal de su jurisdicción, quedándose el centro con una copia del inventario codificado",
+        "despues": "Ante el Gobierno Autónomo Municipal de su jurisdicción, quedándose el centro con una copia del inventario codificado"
+      },
+      {
+        "opcionId": "cmvvzgirt000lvdckt44xu531",
+        "antes": "Ante la Dirección Departamental de Educación",
+        "despues": "Ante la Dirección Departamental de Educación, quedándose el centro con una copia del inventario codificado"
+      },
+      {
+        "opcionId": "cmvvzgirt000mvdckik4ym6a9",
+        "antes": "Ante la Contraloría General del Estado",
+        "despues": "Ante la Contraloría General del Estado, que verifica el inventario codificado de cada centro"
+      },
+      {
+        "opcionId": "cmvvzgirt000nvdck5b9slz1t",
+        "antes": "Ante el Ministerio de Economía",
+        "despues": "Ante el Ministerio de Economía, a través del sistema de registro de bienes del Estado"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvzgis3000pvdckb2nzsfsx",
+    "opciones": [
+      {
+        "opcionId": "cmvvzgis3000qvdck8mnhbtdt",
+        "antes": "Está prohibido cerrar los ambientes comunes, como baños y patios; ambos asumen los mismos derechos y responsabilidades, y el incumplimiento genera responsabilidad administrativa",
+        "despues": "Está prohibido cerrar los ambientes comunes, como baños y patios; ambos asumen los mismos derechos y responsabilidades, y el incumplimiento genera responsabilidad administrativa"
+      },
+      {
+        "opcionId": "cmvvzgis3000rvdck9v2g66ni",
+        "antes": "Es correcto, porque la UE es la titular de la infraestructura",
+        "despues": "Es correcto, porque la unidad educativa es la titular de la infraestructura y su director decide el uso de los ambientes fuera de su turno, previo acuerdo con el CEA"
+      },
+      {
+        "opcionId": "cmvvzgis3000svdckfjomxdy7",
+        "antes": "Es correcto si el CEA no paga los servicios básicos",
+        "despues": "Es correcto si el CEA no paga la parte que le corresponde de los servicios básicos, porque los derechos sobre los ambientes comunes dependen de ese pago"
+      },
+      {
+        "opcionId": "cmvvzgis3000tvdckq2ddzm7l",
+        "antes": "Solo la Junta Escolar puede decidirlo",
+        "despues": "Solo la Junta Escolar de la unidad educativa puede decidir el uso de los ambientes comunes en el turno nocturno, mediante un acta de convivencia con el CEA"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvzgisr0011vdcksnbcuxb8",
+    "opciones": [
+      {
+        "opcionId": "cmvvzgisr0012vdckorh380aj",
+        "antes": "El Subdirector de Educación Alternativa y Especial y el Director Distrital de Educación",
+        "despues": "El Subdirector de Educación Alternativa y Especial y el Director Distrital de Educación"
+      },
+      {
+        "opcionId": "cmvvzgisr0013vdckmfiohlpc",
+        "antes": "El director del CEA y el alcalde",
+        "despues": "El director del CEA y el alcalde del Gobierno Autónomo Municipal de la jurisdicción"
+      },
+      {
+        "opcionId": "cmvvzgisr0014vdckahplc7ni",
+        "antes": "El Director Departamental y el Gobernador",
+        "despues": "El Director Departamental de Educación y el Gobernador del departamento"
+      },
+      {
+        "opcionId": "cmvvzgisr0015vdckc8h7ash5",
+        "antes": "El Viceministro de Educación Alternativa y Especial",
+        "despues": "El Viceministro de Educación Alternativa y Especial y el Director Departamental"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvzgit20017vdck93kdn0x7",
+    "opciones": [
+      {
+        "opcionId": "cmvvzgit20018vdck016s0h1s",
+        "antes": "Remitir una nota a la Subdirección de Educación Alternativa y Especial detallando el caso y solicitando la impresión de los documentos, que serán válidos sin otra legalización",
+        "despues": "Remitir una nota a la Subdirección de Educación Alternativa y Especial detallando el caso y solicitando la impresión de los documentos, que serán válidos sin otra legalización"
+      },
+      {
+        "opcionId": "cmvvzgit20019vdckvjlwflik",
+        "antes": "Exigirle que viaje a su departamento a legalizar las libretas",
+        "despues": "Exigirle que viaje a su departamento de origen a recoger y legalizar las libretas en la Dirección Distrital donde cursó, antes de iniciar el trámite del diploma"
+      },
+      {
+        "opcionId": "cmvvzgit2001avdck9u852zr8",
+        "antes": "Rechazar el trámite",
+        "despues": "Rechazar el trámite del Diploma de Bachiller hasta que el participante presente sus libretas originales, porque son un requisito del file"
+      },
+      {
+        "opcionId": "cmvvzgit2001bvdckkh2fm6so",
+        "antes": "Inscribirlo de nuevo desde el primer año",
+        "despues": "Inscribirlo de nuevo desde el primer año de Secundaria, porque sin libretas no puede acreditar los cursos que aprobó en otro departamento"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvzgitd001dvdckufkf3rur",
+    "opciones": [
+      {
+        "opcionId": "cmvvzgitd001evdckr4ns23h2",
+        "antes": "La Dirección Departamental de Educación de La Paz, por ser la sede de operaciones del CEPEAD",
+        "despues": "La Dirección Departamental de Educación de La Paz, por ser la sede de operaciones del CEPEAD"
+      },
+      {
+        "opcionId": "cmvvzgitd001fvdckoyyfyowz",
+        "antes": "El Ministerio de Relaciones Exteriores",
+        "despues": "El Ministerio de Relaciones Exteriores, a través de los consulados de Bolivia en el exterior"
+      },
+      {
+        "opcionId": "cmvvzgitd001gvdckob4wba89",
+        "antes": "La Dirección Distrital de cada participante",
+        "despues": "La Dirección Distrital de Educación correspondiente al domicilio de cada participante en Bolivia"
+      },
+      {
+        "opcionId": "cmvvzgitd001hvdckonslzhou",
+        "antes": "Cada consulado de Bolivia",
+        "despues": "Cada consulado de Bolivia, en coordinación con la Dirección Departamental de La Paz"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvzgitp001jvdckjfz5dz79",
+    "opciones": [
+      {
+        "opcionId": "cmvvzgitp001kvdcky3wckgfo",
+        "antes": "Las subdirecciones de educación alternativa y especial, a través de las direcciones distritales educativas",
+        "despues": "Las subdirecciones de educación alternativa y especial, a través de las direcciones distritales educativas"
+      },
+      {
+        "opcionId": "cmvvzgitp001lvdck924ugnku",
+        "antes": "Los participantes, buscando por su cuenta un centro",
+        "despues": "Los propios participantes, que deben buscar por su cuenta un CEA para continuar en el nivel secundario"
+      },
+      {
+        "opcionId": "cmvvzgitp001mvdckzh7ggw38",
+        "antes": "El Gobierno Autónomo Municipal",
+        "despues": "El Gobierno Autónomo Municipal, a través de sus programas de alfabetización y educación de adultos"
+      },
+      {
+        "opcionId": "cmvvzgitp001nvdckck5xydj0",
+        "antes": "Las unidades educativas regulares",
+        "despues": "Las unidades educativas regulares de la zona, que deben recibir a quienes culminaron la Post-alfabetización"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwwel2m0001vdqgrjradq7p",
+    "opciones": [
+      {
+        "opcionId": "cmvwwel2m0002vdqggs2wozf4",
+        "antes": "Acciones flexibles, maestros itinerantes, reconocimiento de saberes, modalidad semipresencial y horarios adaptados",
+        "despues": "Acciones flexibles, maestros itinerantes, reconocimiento de saberes, modalidad semipresencial y horarios adaptados"
+      },
+      {
+        "opcionId": "cmvwwel2m0003vdqgkpz03iqi",
+        "antes": "El cierre de los centros pequeños y el traslado de los participantes a la ciudad",
+        "despues": "El cierre de los centros con pocos participantes y el traslado de los participantes a los CEA de las ciudades"
+      },
+      {
+        "opcionId": "cmvwwel2m0004vdqgf7br991u",
+        "antes": "Solo la modalidad a distancia por internet",
+        "despues": "Solo la modalidad a distancia por internet, con materiales digitales y tutorías virtuales para cada participante"
+      },
+      {
+        "opcionId": "cmvwwel2m0005vdqgbmj0owk0",
+        "antes": "Exámenes de suficiencia sin clases",
+        "despues": "Exámenes de suficiencia sin clases presenciales, para acreditar los niveles de Primaria y Secundaria de PJA"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwwel2u0007vdqgiuygei5e",
+    "opciones": [
+      {
+        "opcionId": "cmvwwel2u0008vdqgmnd3rfek",
+        "antes": "Estudios de mercado, vocaciones productivas, potencialidades del contexto, tendencias actuales, desarrollo sostenible, soberanía alimentaria, necesidades de los participantes y transitabilidad a la educación superior",
+        "despues": "Estudios de mercado, vocaciones productivas, potencialidades del contexto, tendencias actuales, desarrollo sostenible, soberanía alimentaria, necesidades de los participantes y transitabilidad"
+      },
+      {
+        "opcionId": "cmvwwel2u0009vdqgtaewuzy0",
+        "antes": "Solo la preferencia de los docentes con ítem",
+        "despues": "Solo la preferencia y la especialidad de los docentes con ítem del centro, para no generar nuevas necesidades de personal ni reasignaciones de carga horaria"
+      },
+      {
+        "opcionId": "cmvwwel2u000avdqgvqnle582",
+        "antes": "Solo las carreras más baratas de implementar",
+        "despues": "Solo las carreras técnicas más baratas de implementar con el equipamiento existente, para no depender de recursos del Gobierno Autónomo Municipal"
+      },
+      {
+        "opcionId": "cmvwwel2u000bvdqg3yd042xt",
+        "antes": "Mantener las mismas carreras sin cambios",
+        "despues": "Mantener las mismas carreras de la gestión anterior sin cambios, porque la oferta técnica solo puede modificarse con autorización del Ministerio"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwwel2z000dvdqgdz0f79xj",
+    "opciones": [
+      {
+        "opcionId": "cmvwwel2z000evdqgyhofhan1",
+        "antes": "Mediante módulos emergentes contextualizados en Tecnologías de la Información y la Inteligencia Artificial",
+        "despues": "Mediante módulos emergentes contextualizados en Tecnologías de la Información y la Inteligencia Artificial"
+      },
+      {
+        "opcionId": "cmvwwel2z000fvdqg8gu3cyec",
+        "antes": "Mediante una nueva área obligatoria de Informática",
+        "despues": "Mediante una nueva área obligatoria de Informática con carga horaria propia en todos los niveles"
+      },
+      {
+        "opcionId": "cmvwwel2z000gvdqg4qj365lx",
+        "antes": "Mediante la compra de tabletas para cada participante",
+        "despues": "Mediante la compra de tabletas para cada participante, financiadas por el Gobierno Autónomo Municipal"
+      },
+      {
+        "opcionId": "cmvwwel2z000hvdqgnqx441uc",
+        "antes": "Solo en la Educación Permanente",
+        "despues": "Solo en la Educación Permanente, mediante cursos cortos de ofimática e Inteligencia Artificial"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwwel33000jvdqgzi0dwx4c",
+    "opciones": [
+      {
+        "opcionId": "cmvwwel33000kvdqgm9n1qrye",
+        "antes": "Un programa de atención integral para personas adultas mayores",
+        "despues": "Un programa de atención integral para personas adultas mayores"
+      },
+      {
+        "opcionId": "cmvwwel33000lvdqg5nrg1btw",
+        "antes": "Un programa de becas universitarias",
+        "despues": "Un programa de becas universitarias para bachilleres de la EPJA"
+      },
+      {
+        "opcionId": "cmvwwel33000mvdqgrbj861j1",
+        "antes": "Un programa de educación inicial",
+        "despues": "Un programa de educación inicial para hijos de los participantes"
+      },
+      {
+        "opcionId": "cmvwwel33000nvdqg83lf7lne",
+        "antes": "Un programa de servicio militar",
+        "despues": "Un programa de formación para jóvenes en servicio militar"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwwel3i000vvdqgfcfowljb",
+    "opciones": [
+      {
+        "opcionId": "cmvwwel3i000wvdqgcjms3n3z",
+        "antes": "Cuatro períodos en Humanística y cinco en Técnica, de 40 minutos cada uno, de lunes a viernes",
+        "despues": "Cuatro períodos en Humanística y cinco en Técnica, de 40 minutos cada uno, de lunes a viernes"
+      },
+      {
+        "opcionId": "cmvwwel3i000xvdqgor69fycn",
+        "antes": "Cinco en Humanística y cuatro en Técnica, de 45 minutos",
+        "despues": "Cinco períodos en Humanística y cuatro en Técnica, de 45 minutos cada uno, de lunes a viernes"
+      },
+      {
+        "opcionId": "cmvwwel3i000yvdqghw2ys45z",
+        "antes": "Seis períodos de 40 minutos en ambas",
+        "despues": "Seis períodos de 40 minutos cada uno, tanto en Humanística como en Técnica, de lunes a viernes"
+      },
+      {
+        "opcionId": "cmvwwel3i000zvdqgb3hd9msv",
+        "antes": "Cuatro en ambas, de 60 minutos",
+        "despues": "Cuatro períodos de 60 minutos cada uno, tanto en Humanística como en Técnica, de lunes a sábado"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwwel3n0011vdqg2rjnh56h",
+    "opciones": [
+      {
+        "opcionId": "cmvwwel3n0012vdqgt18m6c12",
+        "antes": "Es posible: la planificación se organiza prioritariamente en jornadas educativas, que pueden incluir fines de semana o feriados, según la región y la disponibilidad",
+        "despues": "Es posible: la planificación se organiza prioritariamente en jornadas educativas, que pueden incluir fines de semana o feriados, según la región y la disponibilidad"
+      },
+      {
+        "opcionId": "cmvwwel3n0013vdqg50ibub1t",
+        "antes": "No es posible: se trabaja solo de lunes a viernes",
+        "despues": "No es posible: la Educación Permanente trabaja de lunes a viernes en períodos de 40 minutos, igual que la EPJA, y no en fines de semana ni feriados"
+      },
+      {
+        "opcionId": "cmvwwel3n0014vdqgmoivztoc",
+        "antes": "Solo con autorización del Ministerio",
+        "despues": "Es posible solo con autorización expresa del Ministerio de Educación, que aprueba excepcionalmente las jornadas en fines de semana o feriados"
+      },
+      {
+        "opcionId": "cmvwwel3n0015vdqgzrrp9xmj",
+        "antes": "Solo en la modalidad a distancia",
+        "despues": "Es posible solo en la modalidad a distancia, porque las jornadas presenciales de fin de semana no están previstas para la Educación Permanente"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwwel3x0017vdqgh8suxdnr",
+    "opciones": [
+      {
+        "opcionId": "cmvwwel3x0018vdqghbnxod4v",
+        "antes": "Gestionar la anulación, previa autorización de la Subdirección y una declaración jurada del director; el trámite es gratuito en la Dirección Departamental",
+        "despues": "Gestionar la anulación, previa autorización de la Subdirección y una declaración jurada del director; el trámite es gratuito en la Dirección Departamental"
+      },
+      {
+        "opcionId": "cmvwwel3x0019vdqgl3ls314g",
+        "antes": "Borrar él mismo las notas en el SIE",
+        "despues": "Borrar él mismo las notas duplicadas en el SIE, porque el director del CEA es responsable del registro, e informar luego a la Dirección Distrital"
+      },
+      {
+        "opcionId": "cmvwwel3x001avdqgfevy1tlm",
+        "antes": "Pagar un arancel en la Distrital",
+        "despues": "Pagar un arancel en la Dirección Distrital para la corrección de notas, previa autorización de la Subdirección y una declaración jurada del director"
+      },
+      {
+        "opcionId": "cmvwwel3x001bvdqg6ivre1dx",
+        "antes": "Inscribir de nuevo al participante",
+        "despues": "Inscribir de nuevo al participante en el área afectada, para que el SIE genere un registro nuevo sin las notas duplicadas"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwwel48001dvdqgduxndwma",
+    "opciones": [
+      {
+        "opcionId": "cmvwwel48001evdqgbzuzewbn",
+        "antes": "Con la Comisión Técnico Andragógica, en cumplimiento del DS 1887 de 4 de febrero de 2014",
+        "despues": "Con la Comisión Técnico Andragógica, en cumplimiento del DS 1887 de 4 de febrero de 2014"
+      },
+      {
+        "opcionId": "cmvwwel48001fvdqgujqr9vx3",
+        "antes": "Con la Junta Escolar, en cumplimiento de la Ley 3991",
+        "despues": "Con la Junta Escolar del centro, en cumplimiento de la Ley 3991 de 2008"
+      },
+      {
+        "opcionId": "cmvwwel48001gvdqgvhfe23eq",
+        "antes": "Con la Distrital, en cumplimiento del DS 813",
+        "despues": "Con la Dirección Distrital de Educación, en cumplimiento del DS 813 de 2011"
+      },
+      {
+        "opcionId": "cmvwwel48001hvdqgpjc5ym2u",
+        "antes": "Con el SPCC, en cumplimiento de la RM 0531",
+        "despues": "Con el SPCC, en cumplimiento de la RM 0531/2023 de certificación de competencias"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwwel4i001jvdqgallophkr",
+    "opciones": [
+      {
+        "opcionId": "cmvwwel4i001kvdqgtus3n697",
+        "antes": "No corresponde: la suplencia debe cubrirla personal con formación similar a la del titular; la formación solo afín se admite en centros alejados o inaccesibles",
+        "despues": "No corresponde: la suplencia debe cubrirla personal con formación similar a la del titular; la formación solo afín se admite en centros alejados o inaccesibles"
+      },
+      {
+        "opcionId": "cmvwwel4i001lvdqgpw50dlg4",
+        "antes": "Corresponde, porque cualquier profesional puede suplir",
+        "despues": "Corresponde, porque cualquier profesional con título puede suplir una licencia mientras dure, y en centros urbanos basta con que tenga formación afín"
+      },
+      {
+        "opcionId": "cmvwwel4i001mvdqgllm4uh6r",
+        "antes": "Corresponde si lo aprueba la Junta Escolar",
+        "despues": "Corresponde si lo aprueba la Junta Escolar o el consejo educativo del centro, que valora la idoneidad del suplente propuesto por el director"
+      },
+      {
+        "opcionId": "cmvwwel4i001nvdqgwkofyh1w",
+        "antes": "Corresponde, porque las suplencias no requieren justificación",
+        "despues": "Corresponde, porque las suplencias por licencia son temporales y no requieren justificación de la formación del suplente ante la Distrital"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwwel4t001pvdqgecd0s3xs",
+    "opciones": [
+      {
+        "opcionId": "cmvwwel4t001qvdqgupjq47xx",
+        "antes": "Se prohíbe abrir nuevos CEA privados, y los existentes no pueden aplicar la modalidad semipresencial o a distancia sin autorización expresa de la Dirección Departamental",
+        "despues": "Se prohíbe abrir nuevos CEA privados, y los existentes no pueden aplicar la modalidad semipresencial o a distancia sin autorización expresa de la Dirección Departamental"
+      },
+      {
+        "opcionId": "cmvwwel4t001rvdqgyp7gjrdl",
+        "antes": "Pueden abrirse con autorización de la Distrital",
+        "despues": "Pueden abrirse nuevos CEA privados con autorización de la Dirección Distrital, y aplicar la modalidad semipresencial o a distancia previa comunicación a la Departamental"
+      },
+      {
+        "opcionId": "cmvwwel4t001svdqg26mia6bx",
+        "antes": "Pueden implementar libremente la modalidad a distancia",
+        "despues": "Los existentes pueden implementar libremente la modalidad semipresencial o a distancia, y solo se prohíbe abrir nuevos CEA privados en el área rural"
+      },
+      {
+        "opcionId": "cmvwwel4t001tvdqgcwaeywx2",
+        "antes": "Las irregularidades las sanciona el Ministerio de Trabajo",
+        "despues": "Las irregularidades de los CEA privados las sanciona el Ministerio de Trabajo, y la apertura de nuevos centros requiere su autorización previa"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwwel54001vvdqg5hi44fi8",
+    "opciones": [
+      {
+        "opcionId": "cmvwwel54001wvdqgflpof2sb",
+        "antes": "Está prohibido suspender a los participantes o retener sus libretas por falta de pago de pensiones",
+        "despues": "Está prohibido suspender a los participantes o retener sus libretas por falta de pago de pensiones"
+      },
+      {
+        "opcionId": "cmvwwel54001xvdqg0im6oyjs",
+        "antes": "Es lícito hasta que pague",
+        "despues": "Es lícito retener la libreta hasta que el participante pague las pensiones adeudadas"
+      },
+      {
+        "opcionId": "cmvwwel54001yvdqga6gk74ip",
+        "antes": "Es lícito si lo prevé el contrato",
+        "despues": "Es lícito si lo prevé expresamente el contrato de servicios educativos firmado al inscribirse"
+      },
+      {
+        "opcionId": "cmvwwel54001zvdqg0b1tqmht",
+        "antes": "Puede suspenderlo, pero no retener la libreta",
+        "despues": "Puede suspender al participante por falta de pago, pero no puede retener su libreta"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwwel5e0021vdqg55j6alsw",
+    "opciones": [
+      {
+        "opcionId": "cmvwwel5e0022vdqg1o50orjn",
+        "antes": "Becas completas para el 10% del total de su población matriculada por semestre, entregadas a la Subdirección para distribuirlas a la población vulnerable",
+        "despues": "Becas completas para el 10% del total de su población matriculada por semestre, entregadas a la Subdirección para distribuirlas a la población vulnerable"
+      },
+      {
+        "opcionId": "cmvwwel5e0023vdqghjxjaowj",
+        "antes": "Medias becas para el 10%, asignadas por el propio centro",
+        "despues": "Medias becas para el 10% del total de su población matriculada por semestre, asignadas directamente por el propio centro a la población vulnerable"
+      },
+      {
+        "opcionId": "cmvwwel5e0024vdqg8x80siru",
+        "antes": "Becas para el 5% anual",
+        "despues": "Becas completas para el 5% de su población matriculada por gestión anual, entregadas a la Dirección Distrital para su distribución"
+      },
+      {
+        "opcionId": "cmvwwel5e0025vdqgzixcltd6",
+        "antes": "Becas voluntarias sin porcentaje",
+        "despues": "Becas voluntarias, sin porcentaje mínimo, que cada centro privado asigna según su capacidad económica y las necesidades de sus participantes"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwwel5y002dvdqgglqq94lz",
+    "opciones": [
+      {
+        "opcionId": "cmvwwel5y002evdqg7hxlay3g",
+        "antes": "Sí: rige contra el acoso y la violencia en el ámbito educativo dentro y fuera de los predios de los centros, aplicando el Protocolo de Prevención, Actuación y Denuncia",
+        "despues": "Sí: rige contra el acoso y la violencia en el ámbito educativo dentro y fuera de los predios de los centros, aplicando el Protocolo de Prevención, Actuación y Denuncia"
+      },
+      {
+        "opcionId": "cmvwwel5y002fvdqggja3n4la",
+        "antes": "No: solo rige dentro del centro",
+        "despues": "No: la política de «Cero Tolerancia» rige solo dentro de los predios del centro; fuera de ellos, el hecho corresponde a la Policía y a la Defensoría"
+      },
+      {
+        "opcionId": "cmvwwel5y002gvdqgj5n0q09s",
+        "antes": "Solo si la víctima es menor de edad",
+        "despues": "Solo si la víctima es menor de edad, porque la política de «Cero Tolerancia» y el Protocolo protegen a niñas, niños y adolescentes del sistema"
+      },
+      {
+        "opcionId": "cmvwwel5y002hvdqgwr7fqc6s",
+        "antes": "Solo si hay lesiones físicas",
+        "despues": "Solo si hay lesiones físicas que se puedan acreditar, porque el Protocolo de Prevención, Actuación y Denuncia se activa ante hechos de violencia física"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwwel68002jvdqgtkzoo5hp",
+    "opciones": [
+      {
+        "opcionId": "cmvwwel68002kvdqgx4l8avpi",
+        "antes": "Ante los gobiernos autónomos municipales o IOC, en cumplimiento de la Ley 622",
+        "despues": "Ante los gobiernos autónomos municipales o IOC, en cumplimiento de la Ley 622"
+      },
+      {
+        "opcionId": "cmvwwel68002lvdqg64rs2vkf",
+        "antes": "Ante el Ministerio de Salud, en cumplimiento de la Ley 775",
+        "despues": "Ante el Ministerio de Salud, en cumplimiento de la Ley 775 de alimentación saludable"
+      },
+      {
+        "opcionId": "cmvwwel68002mvdqghqntxlp9",
+        "antes": "Ante la Gobernación, en cumplimiento de la Ley 070",
+        "despues": "Ante el Gobierno Autónomo Departamental, en cumplimiento de la Ley 070"
+      },
+      {
+        "opcionId": "cmvwwel68002nvdqgpdz3lhyj",
+        "antes": "Ante el SENASAG",
+        "despues": "Ante el SENASAG, en cumplimiento de la normativa de inocuidad alimentaria"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwwel6i002pvdqgqkfzjatp",
+    "opciones": [
+      {
+        "opcionId": "cmvwwel6j002qvdqgytgeaox5",
+        "antes": "Está prohibido cualquier tipo de cobro o aporte de los participantes; todos los servicios son gratuitos",
+        "despues": "Está prohibido cualquier tipo de cobro o aporte de los participantes; todos los servicios son gratuitos"
+      },
+      {
+        "opcionId": "cmvwwel6j002rvdqgmb77soqq",
+        "antes": "Es válido si es voluntario",
+        "despues": "Es válido si el aporte es realmente voluntario y no se condiciona la asistencia de quienes no paguen"
+      },
+      {
+        "opcionId": "cmvwwel6j002svdqg3mmd8m6w",
+        "antes": "Es válido si lo aprueba la asamblea de participantes",
+        "despues": "Es válido si lo aprueba la asamblea de participantes y el director rinde cuentas del monto recaudado"
+      },
+      {
+        "opcionId": "cmvwwel6j002tvdqgqjaq1kjb",
+        "antes": "Es válido solo para infraestructura",
+        "despues": "Es válido solo para infraestructura y mantenimiento, no para material educativo ni servicios"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwwel6s002vvdqgr5upja1v",
+    "opciones": [
+      {
+        "opcionId": "cmvwwel6s002wvdqgbjkqt8ke",
+        "antes": "Al inicio, durante y a la culminación de la gestión educativa",
+        "despues": "Al inicio, durante y a la culminación de la gestión educativa"
+      },
+      {
+        "opcionId": "cmvwwel6s002xvdqglccc9z3v",
+        "antes": "Solo al inicio de la gestión",
+        "despues": "Solo al inicio de la gestión educativa, antes de iniciar las clases"
+      },
+      {
+        "opcionId": "cmvwwel6s002yvdqgskyutki8",
+        "antes": "Cada mes",
+        "despues": "Cada mes, en coordinación con la Junta Escolar y la comunidad"
+      },
+      {
+        "opcionId": "cmvwwel6s002zvdqg1j9ed2s2",
+        "antes": "Solo cuando lo pide la Distrital",
+        "despues": "Solo cuando lo instruye la Dirección Distrital de Educación"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwwel7a0037vdqgyl371apm",
+    "opciones": [
+      {
+        "opcionId": "cmvwwel7a0038vdqgvwh3o3zl",
+        "antes": "No se deben realizar actividades extracurriculares salvo las contempladas en el POA, para cumplir los 200 días de clases",
+        "despues": "No se deben realizar actividades extracurriculares salvo las contempladas en el POA, para cumplir los 200 días de clases"
+      },
+      {
+        "opcionId": "cmvwwel7a0039vdqgo4wnb6w8",
+        "antes": "Se debe participar siempre en actividades cívicas",
+        "despues": "Se debe participar siempre en las actividades cívicas a las que se invite al centro, aunque no figuren en el POA"
+      },
+      {
+        "opcionId": "cmvwwel7a003avdqgdoxl0nds",
+        "antes": "Se puede participar si lo aprueban los participantes",
+        "despues": "Se puede participar si lo aprueban los participantes en asamblea, aunque la actividad no figure en el POA"
+      },
+      {
+        "opcionId": "cmvwwel7a003bvdqgwijy2ys9",
+        "antes": "Se puede participar recuperando las clases después",
+        "despues": "Se puede participar en horario de clases, siempre que luego se recuperen las clases perdidas en otro día"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwwel7t003jvdqgxjov4r9w",
+    "opciones": [
+      {
+        "opcionId": "cmvwwel7t003kvdqge4pts8sw",
+        "antes": "Las direcciones departamentales y distritales, que coordinan e instruyen a los CEA optar por la modalidad presencial, semipresencial o a distancia",
+        "despues": "Las direcciones departamentales y distritales, que coordinan e instruyen a los CEA optar por la modalidad presencial, semipresencial o a distancia"
+      },
+      {
+        "opcionId": "cmvwwel7t003lvdqg7e6h6m6n",
+        "antes": "El director del CEA, por su cuenta",
+        "despues": "El director del CEA, por su cuenta, según su evaluación del riesgo sanitario y la opinión de los participantes y facilitadores del centro"
+      },
+      {
+        "opcionId": "cmvwwel7t003mvdqgyf4bzlpg",
+        "antes": "El Ministerio de Salud",
+        "despues": "El Ministerio de Salud, a través de los servicios departamentales de salud, que instruyen directamente a cada CEA la modalidad de atención"
+      },
+      {
+        "opcionId": "cmvwwel7t003nvdqgkgkrbrag",
+        "antes": "La Junta Escolar",
+        "despues": "La Junta Escolar o el consejo educativo del centro, en coordinación con el Gobierno Autónomo Municipal y el centro de salud de la zona"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwwel82003pvdqg1dy0wrc9",
+    "opciones": [
+      {
+        "opcionId": "cmvwwel82003qvdqgi807cb3u",
+        "antes": "Al inicio de la gestión, a los estudiantes/participantes, sus tutores y padres de familia",
+        "despues": "Al inicio de la gestión, a los estudiantes/participantes, sus tutores y padres de familia"
+      },
+      {
+        "opcionId": "cmvwwel82003rvdqgv457rqud",
+        "antes": "Al final del semestre, solo a la Distrital",
+        "despues": "Al final del primer semestre, solo a la Dirección Distrital de Educación"
+      },
+      {
+        "opcionId": "cmvwwel82003svdqgrycnadtq",
+        "antes": "Solo cuando lo solicite la Junta",
+        "despues": "Solo cuando lo solicite la Junta Escolar o el consejo educativo del centro"
+      },
+      {
+        "opcionId": "cmvwwel82003tvdqg16uxs6m3",
+        "antes": "Al concluir la etapa, en la entrega de libretas",
+        "despues": "Al concluir cada etapa, en la entrega de libretas a los participantes"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwwel8c003vvdqgqhpyn4xe",
+    "opciones": [
+      {
+        "opcionId": "cmvwwel8c003wvdqgdskqaj63",
+        "antes": "Los directores de los centros de educación alternativa",
+        "despues": "Los directores de los centros de educación alternativa"
+      },
+      {
+        "opcionId": "cmvwwel8c003xvdqggg80ux5k",
+        "antes": "La Dirección Distrital",
+        "despues": "La Dirección Distrital de Educación de la jurisdicción"
+      },
+      {
+        "opcionId": "cmvwwel8c003yvdqgo7b7d82b",
+        "antes": "El propio participante",
+        "despues": "El propio participante, que conserva sus documentos originales"
+      },
+      {
+        "opcionId": "cmvwwel8c003zvdqgjsv7nk1p",
+        "antes": "La secretaría de la Departamental",
+        "despues": "La secretaría de la Dirección Departamental de Educación"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwwel8l0041vdqgap3jfyh6",
+    "opciones": [
+      {
+        "opcionId": "cmvwwel8l0042vdqgq1omczbl",
+        "antes": "Una vez concluido el ciclo de calificaciones, cumpliendo los requisitos del Art. 14, par. I",
+        "despues": "Una vez concluido el ciclo de calificaciones, cumpliendo los requisitos del Art. 14, par. I"
+      },
+      {
+        "opcionId": "cmvwwel8l0043vdqgopdqf277",
+        "antes": "En cualquier momento, sin requisitos",
+        "despues": "En cualquier momento del ciclo, sin requisitos adicionales a la solicitud de la participante"
+      },
+      {
+        "opcionId": "cmvwwel8l0044vdqgw4rvvqhm",
+        "antes": "Solo al año siguiente",
+        "despues": "Solo al inicio de la gestión siguiente, cumpliendo los requisitos de inscripción del Art. 14"
+      },
+      {
+        "opcionId": "cmvwwel8l0045vdqgkml3fsq0",
+        "antes": "Nunca: debe volver a iniciar",
+        "despues": "Nunca a mitad de ciclo: debe volver a iniciar la Post-alfabetización en el nuevo punto"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwwel93004dvdqgnvoe64bp",
+    "opciones": [
+      {
+        "opcionId": "cmvwwel93004evdqgwi9y5etv",
+        "antes": "Mediante cursos cortos y largos en las tres áreas del SPCC, en los Centros de Educación Permanente",
+        "despues": "Mediante cursos cortos y largos en las tres áreas del SPCC, en los Centros de Educación Permanente"
+      },
+      {
+        "opcionId": "cmvwwel93004fvdqg4o1d88ou",
+        "antes": "Solo en universidades",
+        "despues": "Solo en universidades e institutos técnicos superiores, mediante programas de complementación académica"
+      },
+      {
+        "opcionId": "cmvwwel93004gvdqgy7tjn6ns",
+        "antes": "Solo en la EPJA humanística",
+        "despues": "Solo en la EPJA humanística, cursando la Secundaria para obtener el Diploma de Bachiller"
+      },
+      {
+        "opcionId": "cmvwwel93004hvdqgxdtbieqt",
+        "antes": "No puede: la certificación es terminal",
+        "despues": "No puede acceder a formación complementaria: la certificación de competencias es terminal"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwwel9n004pvdqgybc2tz9w",
+    "opciones": [
+      {
+        "opcionId": "cmvwwel9n004qvdqgy38n5b9b",
+        "antes": "El Sistema Plurinacional de Certificación de Competencias (SPCC), conforme al Art. 82 de la Ley 070",
+        "despues": "El Sistema Plurinacional de Certificación de Competencias (SPCC), conforme al Art. 82 de la Ley 070"
+      },
+      {
+        "opcionId": "cmvwwel9n004rvdqgp0gq3qyf",
+        "antes": "Cada CEA de forma autónoma",
+        "despues": "Cada CEA de forma autónoma, a través de su área técnica, conforme al Art. 82 de la Ley 070"
+      },
+      {
+        "opcionId": "cmvwwel9n004svdqgy3t2rpmh",
+        "antes": "El Ministerio de Trabajo",
+        "despues": "El Ministerio de Trabajo, Empleo y Previsión Social, a través de su sistema de certificación laboral"
+      },
+      {
+        "opcionId": "cmvwwel9n004tvdqgddd93z3i",
+        "antes": "Los institutos técnicos privados",
+        "despues": "Los institutos técnicos privados acreditados ante el Ministerio de Educación para certificar oficios"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwwelae0057vdqgvqnqnq2u",
+    "opciones": [
+      {
+        "opcionId": "cmvwwelae0058vdqgwrppfjm3",
+        "antes": "Las unidades educativas y los CEA inclusivos por área de atención (discapacidad, dificultades en el aprendizaje y talento extraordinario)",
+        "despues": "Las unidades educativas y los CEA inclusivos por área de atención (discapacidad, dificultades en el aprendizaje y talento extraordinario)"
+      },
+      {
+        "opcionId": "cmvwwelae0059vdqglsdqqjyu",
+        "antes": "Los ítems vacantes",
+        "despues": "Los ítems vacantes de los CEA y de las unidades educativas, para su reasignación a los centros con mayor demanda de participantes"
+      },
+      {
+        "opcionId": "cmvwwelae005avdqghvas1w1q",
+        "antes": "La infraestructura deteriorada",
+        "despues": "La infraestructura deteriorada de los CEA que funcionan en ambientes compartidos con unidades educativas, para su refacción"
+      },
+      {
+        "opcionId": "cmvwwelae005bvdqgj8fhqzr4",
+        "antes": "Los centros privados irregulares",
+        "despues": "Los centros de educación alternativa privados que funcionan sin autorización o aplican modalidades no autorizadas"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwwelao005dvdqge4hr8rgm",
+    "opciones": [
+      {
+        "opcionId": "cmvwwelao005evdqgmf2jw3z4",
+        "antes": "Brindarle atención educativa y continuidad, previa presentación del informe de evaluación de diagnóstico o de transitabilidad, con certificación y libretas",
+        "despues": "Brindarle atención educativa y continuidad, previa presentación del informe de evaluación de diagnóstico o de transitabilidad, con certificación y libretas"
+      },
+      {
+        "opcionId": "cmvwwelao005fvdqgx7vfx237",
+        "antes": "Rechazarlo y derivarlo de vuelta a Educación Especial",
+        "despues": "Rechazar la inscripción y derivarlo de vuelta al Centro de Educación Especial, que es el único competente para atenderlo en su formación"
+      },
+      {
+        "opcionId": "cmvwwelao005gvdqgaejh69q6",
+        "antes": "Inscribirlo solo como oyente",
+        "despues": "Inscribirlo solo como oyente, sin registro en el SIE, hasta que el Centro de Educación Especial emita su certificado de conclusión"
+      },
+      {
+        "opcionId": "cmvwwelao005hvdqgg95czwoe",
+        "antes": "Exigirle un examen de suficiencia",
+        "despues": "Exigirle un examen de suficiencia para determinar el nivel en que puede inscribirse, sin considerar su informe de transitabilidad"
+      }
+    ]
+  }
+]

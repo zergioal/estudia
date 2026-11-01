@@ -1,0 +1,847 @@
+[
+  {
+    "preguntaId": "cmvvx28kg000dvdfscoour0kl",
+    "opciones": [
+      {
+        "opcionId": "cmvvx28kg000evdfsc3ey2qxb",
+        "antes": "Violencia simbólica y/o encubierta, porque transmiten mensajes que naturalizan la subordinación de las mujeres",
+        "despues": "Violencia simbólica y/o encubierta, porque transmiten mensajes que naturalizan la subordinación de las mujeres"
+      },
+      {
+        "opcionId": "cmvvx28kg000fvdfsqpwv1lnk",
+        "antes": "Violencia mediática",
+        "despues": "Violencia mediática, porque los textos de estudio son medios masivos que difunden mensajes sexistas"
+      },
+      {
+        "opcionId": "cmvvx28kg000gvdfsn3cngi2q",
+        "antes": "Violencia psicológica",
+        "despues": "Violencia psicológica, porque los contenidos desvalorizan a las mujeres y disminuyen su autoestima"
+      },
+      {
+        "opcionId": "cmvvx28kg000hvdfsxakd44ke",
+        "antes": "Violencia contra la dignidad, la honra y el nombre",
+        "despues": "Violencia contra la dignidad, la honra y el nombre, porque ofenden públicamente a las mujeres"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvx28kn000pvdfs7l43us1d",
+    "opciones": [
+      {
+        "opcionId": "cmvvx28kn000qvdfsz64e2rfa",
+        "antes": "Acciones sistemáticas de desvalorización, intimidación y control del comportamiento y las decisiones de las mujeres, que disminuyen su autoestima",
+        "despues": "Acciones sistemáticas de desvalorización, intimidación y control del comportamiento y las decisiones de las mujeres, que disminuyen su autoestima"
+      },
+      {
+        "opcionId": "cmvvx28kn000rvdfs29bo0wy7",
+        "antes": "Toda expresión verbal o escrita de ofensa o difamación, tendenciosa o pública",
+        "despues": "Toda expresión verbal o escrita de ofensa, insulto, difamación, calumnia o amenaza, tendenciosa o pública, que desacredita a la mujer"
+      },
+      {
+        "opcionId": "cmvvx28kn000svdfse16kc877",
+        "antes": "Mensajes y símbolos sociales que naturalizan la subordinación",
+        "despues": "Los mensajes, valores, símbolos, íconos, signos e imposiciones sociales que naturalizan la subordinación de las mujeres"
+      },
+      {
+        "opcionId": "cmvvx28kn000tvdfssfliiljs",
+        "antes": "Toda acción que ocasiona lesiones o daño corporal",
+        "despues": "Toda acción que ocasiona lesiones y/o daño corporal, interno, externo o ambos, temporal o permanente, a la mujer"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvx28kq000vvdfsv3tadj4q",
+    "opciones": [
+      {
+        "opcionId": "cmvvx28kq000wvdfsop5lc3rt",
+        "antes": "Es enunciativa y no limitativa, e incluye \"cualquier otra forma de violencia\" que dañe la dignidad, integridad o libertad de las mujeres",
+        "despues": "Es enunciativa y no limitativa, e incluye «cualquier otra forma de violencia» que dañe la dignidad, integridad o libertad de las mujeres"
+      },
+      {
+        "opcionId": "cmvvx28kq000xvdfskirdr8pl",
+        "antes": "Es taxativa: solo son violencia las formas enumeradas",
+        "despues": "Es taxativa: solo son violencia las formas enumeradas en el artículo, y cualquier otra conducta debe tipificarse por ley"
+      },
+      {
+        "opcionId": "cmvvx28kq000yvdfs94ra249y",
+        "antes": "Se limita a cuatro formas: física, psicológica, sexual y económica",
+        "despues": "Se limita a cuatro formas, física, psicológica, sexual y económica, y las demás son modalidades de esas cuatro"
+      },
+      {
+        "opcionId": "cmvvx28kq000zvdfsjp298qok",
+        "antes": "Solo se aplica a la violencia en el ámbito familiar",
+        "despues": "Es enunciativa, pero solo se aplica a la violencia que ocurre en el ámbito familiar y de pareja de la mujer"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvx28l10011vdfsy32lx2r9",
+    "opciones": [
+      {
+        "opcionId": "cmvvx28l10012vdfshlwn795n",
+        "antes": "Es pasible de las sanciones legales que correspondan, porque el personal docente que detecta una situación de violencia y no la reporta incurre en responsabilidad",
+        "despues": "Es pasible de las sanciones legales que correspondan, porque el personal docente que detecta una situación de violencia y no la reporta incurre en responsabilidad"
+      },
+      {
+        "opcionId": "cmvvx28l10013vdfs2t1hsrts",
+        "antes": "No tiene responsabilidad, porque la violencia ocurrió fuera del centro",
+        "despues": "No tiene responsabilidad, porque la violencia ocurrió fuera del centro y la obligación de reportar se limita a los hechos ocurridos dentro del CEA"
+      },
+      {
+        "opcionId": "cmvvx28l10014vdfsnas5rvoa",
+        "antes": "Solo tiene responsabilidad el director, no la maestra",
+        "despues": "Solo tiene responsabilidad el director del CEA, porque es la autoridad del centro quien debe reportar las situaciones de violencia que detecte"
+      },
+      {
+        "opcionId": "cmvvx28l10015vdfs90k2opyg",
+        "antes": "Reportar es opcional si la participante es mayor de edad",
+        "despues": "Reportar es opcional si la participante es mayor de edad, porque la obligación del personal docente rige solo respecto de niñas y adolescentes"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvx28l40017vdfs38xciw19",
+    "opciones": [
+      {
+        "opcionId": "cmvvx28l40018vdfsyui3mlfn",
+        "antes": "Un centro de atención psicológica con especialidad obligatoria en violencia, en convenio con universidades públicas o privadas",
+        "despues": "Un centro de atención psicológica con especialidad obligatoria en violencia, en convenio con universidades públicas o privadas"
+      },
+      {
+        "opcionId": "cmvvx28l40019vdfsdb991z9a",
+        "antes": "Una oficina de la Defensoría de la Niñez dentro de cada unidad",
+        "despues": "Una oficina de la Defensoría de la Niñez y Adolescencia dentro de cada unidad educativa, en convenio con los municipios"
+      },
+      {
+        "opcionId": "cmvvx28l4001avdfspp62efgk",
+        "antes": "Un servicio legal gratuito en convenio con los municipios",
+        "despues": "Un servicio legal gratuito para estudiantes y familias, en convenio con los Servicios Legales Integrales Municipales"
+      },
+      {
+        "opcionId": "cmvvx28l4001bvdfsphgyme82",
+        "antes": "Un consultorio médico con atención en salud sexual",
+        "despues": "Un consultorio médico con atención en salud sexual y reproductiva, en convenio con universidades públicas o privadas"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvx28l8001dvdfsqfedgmjk",
+    "opciones": [
+      {
+        "opcionId": "cmvvx28l8001evdfs0mscrbg5",
+        "antes": "Garantizar el traspaso inmediato de sus hijas e hijos a las unidades educativas que correspondan",
+        "despues": "Garantizar el traspaso inmediato de sus hijas e hijos a las unidades educativas que correspondan"
+      },
+      {
+        "opcionId": "cmvvx28l8001fvdfs7awd7262",
+        "antes": "Esperar el cierre del trimestre para hacer el traspaso",
+        "despues": "Esperar el cierre del trimestre para hacer el traspaso, para no afectar la evaluación de sus hijos"
+      },
+      {
+        "opcionId": "cmvvx28l8001gvdfskwq0k9zn",
+        "antes": "Exigir antes la sentencia judicial que acredite la violencia",
+        "despues": "Exigir antes la sentencia judicial que acredite la violencia, como requisito para el traspaso"
+      },
+      {
+        "opcionId": "cmvvx28l8001hvdfs2ffl7ri4",
+        "antes": "Tramitar el traspaso solo si hay cupo, en el plazo ordinario",
+        "despues": "Tramitar el traspaso solo si hay cupo en la nueva unidad, dentro del plazo ordinario de inscripciones"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvx28lb001jvdfsa0ey3aax",
+    "opciones": [
+      {
+        "opcionId": "cmvvx28lb001kvdfsp5dkmg3r",
+        "antes": "Reglamentos y un protocolo único, con mecanismos de protección y atención especializada a niñas, niños y adolescentes víctimas",
+        "despues": "Reglamentos y un protocolo único, con mecanismos de protección y atención especializada a niñas, niños y adolescentes víctimas"
+      },
+      {
+        "opcionId": "cmvvx28lb001lvdfs4cdoxvyo",
+        "antes": "Un protocolo distinto en cada unidad educativa, aprobado por su Consejo Educativo",
+        "despues": "Un protocolo distinto en cada unidad educativa, aprobado por su Consejo Educativo, con mecanismos de protección a las víctimas"
+      },
+      {
+        "opcionId": "cmvvx28lb001mvdfsh8c5jrfs",
+        "antes": "Un reglamento disciplinario solo para estudiantes",
+        "despues": "Un reglamento disciplinario aplicable solo a los estudiantes agresores, con sanciones graduales según la gravedad del hecho"
+      },
+      {
+        "opcionId": "cmvvx28lb001nvdfs79auno3d",
+        "antes": "Un convenio de derivación al Ministerio Público sin protocolo propio",
+        "despues": "Un convenio de derivación de todas las denuncias al Ministerio Público, sin protocolo propio de atención en la unidad educativa"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvx28li001vvdfs9ft9ta4y",
+    "opciones": [
+      {
+        "opcionId": "cmvvx28li001wvdfsrfisx0w5",
+        "antes": "No usarlos como textos de estudio, porque el Ministerio debe prohibir los materiales con contenidos sexistas y promover los que tienen enfoque de equidad de género",
+        "despues": "No usarlos como textos de estudio: el Ministerio debe prohibir los materiales con contenidos sexistas y promover los de enfoque de equidad de género"
+      },
+      {
+        "opcionId": "cmvvx28li001xvdfs5rk3c4bz",
+        "antes": "Usarlos con una advertencia, porque la donación no puede rechazarse",
+        "despues": "Usarlos con una advertencia sobre los mensajes sexistas, porque la donación de textos no puede rechazarse una vez aceptada por la unidad"
+      },
+      {
+        "opcionId": "cmvvx28li001yvdfsjpaoxa6n",
+        "antes": "Usarlos solo en el nivel secundario",
+        "despues": "Usarlos solo en el nivel secundario, donde los estudiantes pueden analizar críticamente los mensajes sexistas y discriminatorios"
+      },
+      {
+        "opcionId": "cmvvx28li001zvdfs67xe8dx7",
+        "antes": "Consultar a los padres de familia y decidir por mayoría",
+        "despues": "Consultar a los padres de familia y al Consejo Educativo, y decidir por mayoría si se usan o no como textos de estudio"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvx28ls0021vdfs4rm4ts1l",
+    "opciones": [
+      {
+        "opcionId": "cmvvx28ls0022vdfso6hmt2vs",
+        "antes": "La denuncia se presenta ante la Policía Boliviana o el Ministerio Público; para promoverla se puede acudir a la Defensoría de la Niñez y Adolescencia",
+        "despues": "La denuncia se presenta ante la Policía Boliviana o el Ministerio Público; para promoverla se puede acudir a la Defensoría de la Niñez y Adolescencia"
+      },
+      {
+        "opcionId": "cmvvx28ls0023vdfsffzqpw8b",
+        "antes": "Solo ante la Defensoría de la Niñez, que resuelve el caso",
+        "despues": "Solo ante la Defensoría de la Niñez y Adolescencia, que por tratarse de una menor de edad recibe la denuncia, investiga y resuelve el caso"
+      },
+      {
+        "opcionId": "cmvvx28ls0024vdfs32ju25lx",
+        "antes": "Ante la Dirección Distrital de Educación, que sanciona al agresor",
+        "despues": "Ante la Dirección Distrital de Educación, que recibe la denuncia, sanciona al agresor y la remite luego a la Defensoría de la Niñez"
+      },
+      {
+        "opcionId": "cmvvx28ls0025vdfsty8k8sfy",
+        "antes": "Solo ante el Servicio Legal Integral Municipal, por ser menor de edad",
+        "despues": "Solo ante el Servicio Legal Integral Municipal, porque por ser menor de edad no puede presentarla ante la Policía ni el Ministerio Público"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvx28m3002dvdfsxgssmp4b",
+    "opciones": [
+      {
+        "opcionId": "cmvvx28m4002evdfshhz2g1y9",
+        "antes": "Está prohibido: la conciliación está prohibida en hechos que comprometan la vida y la integridad sexual, y ninguna institución puede promover acuerdos entre la mujer y su agresor",
+        "despues": "Está prohibido: no cabe la conciliación en hechos que comprometan la vida y la integridad sexual, y ninguna institución puede promover acuerdos con el agresor"
+      },
+      {
+        "opcionId": "cmvvx28m4002fvdfsmyyulrp9",
+        "antes": "Es válido si ambas partes firman voluntariamente",
+        "despues": "Es válido si ambas partes firman voluntariamente el acta ante el director, porque la conciliación es una salida alternativa reconocida por la ley"
+      },
+      {
+        "opcionId": "cmvvx28m4002gvdfsis0lehix",
+        "antes": "Es válido como paso previo a la denuncia formal",
+        "despues": "Es válido como paso previo a la denuncia formal, siempre que la maestra pueda denunciar después si el colega incumple el acta de entendimiento"
+      },
+      {
+        "opcionId": "cmvvx28m4002hvdfs84xnybl9",
+        "antes": "Es obligatorio, para descongestionar la carga procesal",
+        "despues": "Es obligatorio intentar la conciliación en la institución antes de denunciar, para descongestionar la carga procesal del Ministerio Público"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvx28mw002vvdfs4dr2fzt2",
+    "opciones": [
+      {
+        "opcionId": "cmvvx28mw002wvdfsf4mv6ori",
+        "antes": "A los derechos para la dignidad de las mujeres reconocidos en los tratados de derechos humanos, la CPE y la Ley 348",
+        "despues": "A los derechos para la dignidad de las mujeres reconocidos en los tratados de derechos humanos, la CPE y la Ley 348"
+      },
+      {
+        "opcionId": "cmvvx28mw002xvdfsv3d9o2f2",
+        "antes": "A los derechos colectivos de la comunidad",
+        "despues": "A los derechos colectivos de la comunidad, reconocidos en la CPE y en los tratados internacionales de derechos humanos"
+      },
+      {
+        "opcionId": "cmvvx28mw002yvdfsr8z62zqh",
+        "antes": "A los derechos del presunto agresor, por la presunción de inocencia",
+        "despues": "A los derechos del presunto agresor, por la presunción de inocencia reconocida en la CPE y en el Código de Procedimiento Penal"
+      },
+      {
+        "opcionId": "cmvvx28mw002zvdfsznekglqu",
+        "antes": "Al derecho que la autoridad judicial considere más antiguo",
+        "despues": "Al derecho que la autoridad judicial considere más antiguo o de mayor jerarquía, según la CPE y los tratados ratificados"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvx28nc0037vdfs5mcd7mlz",
+    "opciones": [
+      {
+        "opcionId": "cmvvx28nc0038vdfsgn4zvvrx",
+        "antes": "La protección de su dignidad e integridad, evitando la revictimización",
+        "despues": "La protección de su dignidad e integridad, evitando la revictimización"
+      },
+      {
+        "opcionId": "cmvvx28nc0039vdfsmyw7wntt",
+        "antes": "El acceso al crédito",
+        "despues": "La celeridad del proceso, que exige resolver la denuncia en 24 horas"
+      },
+      {
+        "opcionId": "cmvvx28nc003avdfspamy6hit",
+        "antes": "La gratuidad del diploma de bachiller",
+        "despues": "La reserva de su identidad, que impide registrar su nombre en el acta"
+      },
+      {
+        "opcionId": "cmvvx28nc003bvdfspf18ey3w",
+        "antes": "La aplicación preferente de los derechos colectivos",
+        "despues": "La aplicación preferente de los derechos colectivos de la comunidad educativa"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvx28nl003dvdfse0nykdou",
+    "opciones": [
+      {
+        "opcionId": "cmvvx28nl003evdfs4tko8x32",
+        "antes": "Está expresamente prohibido exigir pruebas de embarazo, de VIH u otras que afecten la decisión más allá de la idoneidad",
+        "despues": "Está expresamente prohibido exigir pruebas de embarazo, de VIH u otras que afecten la decisión más allá de la idoneidad"
+      },
+      {
+        "opcionId": "cmvvx28nl003fvdfsi58q9m11",
+        "antes": "Es válido si el cargo implica esfuerzo físico",
+        "despues": "Es válido exigirla si el cargo implica esfuerzo físico que pueda poner en riesgo la salud de la mujer embarazada"
+      },
+      {
+        "opcionId": "cmvvx28nl003gvdfsj2ro4br7",
+        "antes": "Es válido solo en instituciones privadas",
+        "despues": "Es válido solo en instituciones privadas y de convenio, porque la prohibición rige para las instituciones públicas"
+      },
+      {
+        "opcionId": "cmvvx28nl003hvdfsvr9gevbi",
+        "antes": "Es válido si la prueba es gratuita y confidencial",
+        "despues": "Es válido si la prueba es gratuita y confidencial, y su resultado no se usa como único criterio de selección"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvx28nt003jvdfsycg0gu8o",
+    "opciones": [
+      {
+        "opcionId": "cmvvx28nt003lvdfsepfsv4l4",
+        "antes": "Sancionar penalmente al agresor una vez cometido el hecho",
+        "despues": "Sancionar penalmente al agresor una vez cometido el hecho, para que la pena disuada a otros de ejercer violencia en la familia y la escuela"
+      },
+      {
+        "opcionId": "cmvvx28nt003mvdfsg1wvdvx7",
+        "antes": "Brindar refugio temporal a la víctima",
+        "despues": "Brindar refugio temporal a la víctima y a sus dependientes en casas de acogida, mientras dura el proceso contra el agresor"
+      },
+      {
+        "opcionId": "cmvvx28nt003nvdfsagk6ng1h",
+        "antes": "Exclusivamente campañas en medios de comunicación",
+        "despues": "Difundir exclusivamente campañas en medios de comunicación masiva, sin intervenir en la familia, la escuela ni el trabajo"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvzf5rf0007vdtkdwueo11m",
+    "opciones": [
+      {
+        "opcionId": "cmvvzf5rf0008vdtkttgeoe3f",
+        "antes": "El uso de palabras y mensajes escritos, visuales, simbólicos y verbales no discriminatorios por razón de sexo",
+        "despues": "El uso de palabras y mensajes escritos, visuales, simbólicos y verbales no discriminatorios por razón de sexo"
+      },
+      {
+        "opcionId": "cmvvzf5rf0009vdtkngvha0bx",
+        "antes": "La prohibición de usar el masculino genérico en documentos oficiales",
+        "despues": "La prohibición de usar el masculino genérico en todos los documentos oficiales y en los textos de estudio"
+      },
+      {
+        "opcionId": "cmvvzf5rf000avdtk6uktl1ll",
+        "antes": "El uso exclusivo de lenguaje femenino",
+        "despues": "El uso exclusivo del femenino en los mensajes escritos, visuales y verbales de las instituciones públicas"
+      },
+      {
+        "opcionId": "cmvvzf5rf000bvdtk0z9ut4af",
+        "antes": "La traducción de las normas a idiomas originarios",
+        "despues": "La traducción de las normas sobre violencia a los idiomas originarios y al sistema Braille"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvzf5rj000dvdtk63x43rpw",
+    "opciones": [
+      {
+        "opcionId": "cmvvzf5rj000evdtk1c4p3yea",
+        "antes": "Que la acción u omisión, abierta o encubierta, cause daño a una mujer u otra persona por el solo hecho de ser mujer, incluido el perjuicio a su patrimonio, su economía o su fuente laboral",
+        "despues": "Que la acción u omisión, abierta o encubierta, cause daño a una mujer por el solo hecho de ser mujer, incluido el perjuicio a su patrimonio, economía o fuente laboral"
+      },
+      {
+        "opcionId": "cmvvzf5rj000fvdtkg1b0te3g",
+        "antes": "Que exista daño físico visible",
+        "despues": "Que exista un daño físico visible y acreditado mediante certificado médico forense, causado a la mujer por una acción abierta de su pareja o familiar"
+      },
+      {
+        "opcionId": "cmvvzf5rj000gvdtkxd50pst7",
+        "antes": "Que sea una acción, no una omisión",
+        "despues": "Que se trate de una acción, no de una omisión, que cause daño a una mujer por el solo hecho de ser mujer, en cualquier ámbito de su vida"
+      },
+      {
+        "opcionId": "cmvvzf5rj000hvdtkp0dv8z5o",
+        "antes": "Que ocurra solo en el ámbito familiar",
+        "despues": "Que ocurra solo en el ámbito familiar o de pareja, y cause daño físico, sexual o psicológico a la mujer por el solo hecho de ser mujer"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvzf5ru000jvdtkjz67v0ag",
+    "opciones": [
+      {
+        "opcionId": "cmvvzf5rv000kvdtkqgabpg23",
+        "antes": "Crear y sostener servicios de atención y reeducación integral especializada, y otras medidas destinadas a modificar su comportamiento",
+        "despues": "Crear y sostener servicios de atención y reeducación integral especializada, y otras medidas destinadas a modificar su comportamiento"
+      },
+      {
+        "opcionId": "cmvvzf5rv000lvdtk8xlodsst",
+        "antes": "Publicar sus nombres en medios de comunicación",
+        "despues": "Publicar sus nombres y fotografías en medios de comunicación, como medida de prevención y escarmiento público"
+      },
+      {
+        "opcionId": "cmvvzf5rv000mvdtkd1cmu2ua",
+        "antes": "Inhabilitarlos de por vida para trabajar en el sector público",
+        "despues": "Inhabilitarlos de por vida para trabajar en el sector público, aunque no exista sentencia condenatoria en su contra"
+      },
+      {
+        "opcionId": "cmvvzf5rv000nvdtkc6s2604h",
+        "antes": "Ninguna, porque la ley solo protege a las víctimas",
+        "despues": "Ninguna medida respecto de los agresores, porque la ley solo prevé medidas de protección para las víctimas"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvzf5s5000pvdtk03rad3om",
+    "opciones": [
+      {
+        "opcionId": "cmvvzf5s5000qvdtkaby2257d",
+        "antes": "Son de aplicación inmediata, para salvaguardar la vida, la integridad y los derechos patrimoniales, económicos y laborales de la mujer y de sus dependientes",
+        "despues": "Son de aplicación inmediata, para salvaguardar la vida, la integridad y los derechos patrimoniales, económicos y laborales de la mujer y sus dependientes"
+      },
+      {
+        "opcionId": "cmvvzf5s5000rvdtk28rq7d8k",
+        "antes": "Se aplican solo después de una sentencia condenatoria",
+        "despues": "Se aplican solo después de una sentencia condenatoria ejecutoriada, para salvaguardar la vida y la integridad de la mujer y de sus dependientes"
+      },
+      {
+        "opcionId": "cmvvzf5s5000svdtkqusmagdz",
+        "antes": "Protegen solo la integridad física",
+        "despues": "Protegen solo la integridad física de la mujer, porque los derechos patrimoniales, económicos y laborales se resuelven en la vía civil"
+      },
+      {
+        "opcionId": "cmvvzf5s5000tvdtkfc355zjk",
+        "antes": "Benefician solo a la mujer, no a sus dependientes",
+        "despues": "Son de aplicación inmediata, pero benefician solo a la mujer en situación de violencia, no a sus hijas, hijos ni otros dependientes"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvzf5sf000vvdtkkrv6ua2y",
+    "opciones": [
+      {
+        "opcionId": "cmvvzf5sf000wvdtkmahak5c5",
+        "antes": "Prohibir al agresor acercarse, concurrir o ingresar al domicilio, lugar de trabajo o de estudios, o a cualquier espacio que frecuente la mujer",
+        "despues": "Prohibir al agresor acercarse, concurrir o ingresar al domicilio, lugar de trabajo o de estudios, o a cualquier espacio que frecuente la mujer"
+      },
+      {
+        "opcionId": "cmvvzf5sf000xvdtkwc48w56b",
+        "antes": "Ordenar al CEA que expulse a la participante para protegerla",
+        "despues": "Ordenar al CEA que suspenda o traslade a la participante a otro centro, para protegerla mientras dure el proceso contra el agresor"
+      },
+      {
+        "opcionId": "cmvvzf5sf000yvdtkk9ye0vih",
+        "antes": "Ninguna, porque las medidas solo rigen en el domicilio",
+        "despues": "Ninguna medida que abarque el CEA, porque las medidas de protección solo rigen en el domicilio y el lugar de trabajo de la mujer"
+      },
+      {
+        "opcionId": "cmvvzf5sf000zvdtkajtr6erv",
+        "antes": "Solo ordenar la salida del agresor del domicilio conyugal",
+        "despues": "Solo ordenar la salida del agresor del domicilio conyugal, porque el centro de estudios debe resguardarlo su propia seguridad"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvzf5sj0011vdtk120diqwl",
+    "opciones": [
+      {
+        "opcionId": "cmvvzf5sj0012vdtkhhio8ptd",
+        "antes": "Independientemente de la acreditación de propiedad o posesión del inmueble",
+        "despues": "Independientemente de la acreditación de propiedad o posesión del inmueble"
+      },
+      {
+        "opcionId": "cmvvzf5sj0013vdtka7t43g28",
+        "antes": "Solo si la mujer es propietaria del inmueble",
+        "despues": "Solo si la mujer acredita ser propietaria o poseedora del inmueble"
+      },
+      {
+        "opcionId": "cmvvzf5sj0014vdtkcq6ujt5c",
+        "antes": "Solo si el agresor no es propietario",
+        "despues": "Solo si el agresor no acredita ser propietario o poseedor del inmueble"
+      },
+      {
+        "opcionId": "cmvvzf5sj0015vdtk4tt4dpjf",
+        "antes": "Solo con sentencia ejecutoriada",
+        "despues": "Solo con sentencia ejecutoriada, previa acreditación de la propiedad"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvzf5su0017vdtkraibdhw7",
+    "opciones": [
+      {
+        "opcionId": "cmvvzf5su0018vdtk7a8pcodz",
+        "antes": "Asesorar a la mujer sobre la importancia y la forma de preservar las pruebas",
+        "despues": "Asesorar a la mujer sobre la importancia y la forma de preservar las pruebas"
+      },
+      {
+        "opcionId": "cmvvzf5su0019vdtkr3tmg715",
+        "antes": "Exigirle que presente testigos antes de recibir la denuncia",
+        "despues": "Exigirle que presente testigos y pruebas antes de recibir la denuncia"
+      },
+      {
+        "opcionId": "cmvvzf5su001avdtkji8s5g3n",
+        "antes": "Promover la conciliación con el agresor",
+        "despues": "Promover la conciliación con el agresor antes de remitir la denuncia"
+      },
+      {
+        "opcionId": "cmvvzf5su001bvdtkf78u6noo",
+        "antes": "Cobrarle por el formulario de denuncia",
+        "despues": "Cobrarle el valor del formulario de denuncia y de las certificaciones"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvzf5t5001dvdtkmwufw1ew",
+    "opciones": [
+      {
+        "opcionId": "cmvvzf5t5001evdtk3vfd500s",
+        "antes": "No debe someter a la mujer a pruebas médicas, interrogatorios, reconstrucciones o peritajes que no sean imprescindibles, y debe recurrir a métodos alternativos, científicos y tecnológicos",
+        "despues": "No debe someter a la mujer a pruebas médicas, interrogatorios, reconstrucciones o peritajes que no sean imprescindibles, y debe recurrir a métodos alternativos"
+      },
+      {
+        "opcionId": "cmvvzf5t5001fvdtkomc88338",
+        "antes": "Debe exigir a la mujer los peritajes técnicos",
+        "despues": "Debe exigir a la mujer que presente los peritajes técnicos y médicos que acrediten la violencia, como requisito para continuar con la investigación"
+      },
+      {
+        "opcionId": "cmvvzf5t5001gvdtk5pxa3wcr",
+        "antes": "Debe practicar todas las pruebas posibles sobre la víctima",
+        "despues": "Debe practicar sobre la víctima todas las pruebas médicas, interrogatorios y reconstrucciones posibles, para asegurar la solidez de la acusación"
+      },
+      {
+        "opcionId": "cmvvzf5t5001hvdtk4chyth25",
+        "antes": "Debe esperar a que la víctima reúna las pruebas",
+        "despues": "Debe esperar a que la víctima reúna las pruebas y testigos necesarios, y recién entonces recurrir a métodos científicos y tecnológicos"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvzf5tf001jvdtkfao5vw3p",
+    "opciones": [
+      {
+        "opcionId": "cmvvzf5tf001kvdtkw2qwc54i",
+        "antes": "Es indebido: por el principio de gratuidad, las mujeres en situación de violencia están exentas del pago de certificaciones y otros valores en todas las reparticiones públicas",
+        "despues": "Es indebido: por el principio de gratuidad, las mujeres en situación de violencia están exentas del pago de certificaciones y otros valores en las reparticiones públicas"
+      },
+      {
+        "opcionId": "cmvvzf5tf001lvdtk8l5cbrs9",
+        "antes": "Es correcto: la gratuidad rige solo en los juzgados",
+        "despues": "Es correcto: la gratuidad rige solo en los juzgados y en el Ministerio Público, no en las reparticiones administrativas como la Dirección Distrital"
+      },
+      {
+        "opcionId": "cmvvzf5tf001mvdtk7x1kzvfs",
+        "antes": "Es correcto si la certificación no es para el proceso penal",
+        "despues": "Es correcto si la certificación no se usará en el proceso penal; la gratuidad solo alcanza a los documentos exigidos por la autoridad judicial"
+      },
+      {
+        "opcionId": "cmvvzf5tf001nvdtkjrqdgdob",
+        "antes": "Solo se exime si presenta su certificado de pobreza",
+        "despues": "Solo se le exime del pago si presenta un certificado de pobreza o de escasos recursos emitido por el Servicio Legal Integral Municipal"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvzf5tt001vvdtkrx5j9lvr",
+    "opciones": [
+      {
+        "opcionId": "cmvvzf5tt001wvdtkxa73wi0x",
+        "antes": "Son delitos de acción pública, por lo que se persiguen aunque la víctima no presente una querella",
+        "despues": "Son delitos de acción pública, por lo que se persiguen aunque la víctima no presente una querella"
+      },
+      {
+        "opcionId": "cmvvzf5tt001xvdtkga7borlg",
+        "antes": "Son de acción privada: solo la víctima puede iniciar el proceso",
+        "despues": "Son de acción privada: solo la víctima puede iniciar el proceso mediante querella ante el juez"
+      },
+      {
+        "opcionId": "cmvvzf5tt001yvdtkszmysokl",
+        "antes": "Son faltas administrativas",
+        "despues": "Son faltas administrativas que se sancionan en un proceso interno si el agresor es servidor público"
+      },
+      {
+        "opcionId": "cmvvzf5tt001zvdtk4uzpciy5",
+        "antes": "Son de acción pública a instancia de parte, y requieren denuncia de la víctima",
+        "despues": "Son de acción pública a instancia de parte, y requieren la denuncia de la víctima para perseguirse"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwwhicx0001vda09uxitsem",
+    "opciones": [
+      {
+        "opcionId": "cmvwwhicx0002vda00d55jjvs",
+        "antes": "Denunciar el caso a las instancias correspondientes, independientemente de la edad de la víctima, bajo responsabilidad en caso de incumplimiento",
+        "despues": "Denunciar el caso a las instancias correspondientes, independientemente de la edad de la víctima, bajo responsabilidad en caso de incumplimiento"
+      },
+      {
+        "opcionId": "cmvwwhicx0003vda0vg9ch7r9",
+        "antes": "Denunciar solo si la víctima es menor de edad",
+        "despues": "Denunciar solo si la víctima es menor de edad; si es adulta, orientarla sobre las instancias a las que puede acudir y respetar su decisión"
+      },
+      {
+        "opcionId": "cmvwwhicx0004vda02q0wzdlz",
+        "antes": "Esperar a que la víctima decida denunciar",
+        "despues": "Esperar a que la víctima decida denunciar, porque siendo mayor de edad la obligación de denunciar recae solo en ella y en su familia"
+      },
+      {
+        "opcionId": "cmvwwhicx0005vda066sjc2r4",
+        "antes": "Promover una conciliación en el CEA",
+        "despues": "Promover una conciliación en el CEA entre la participante y su esposo, con apoyo del equipo psicológico, antes de cualquier denuncia"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwwhidl000dvda0jawkqun8",
+    "opciones": [
+      {
+        "opcionId": "cmvwwhidm000evda04cu2wr4l",
+        "antes": "Ante el Ministerio de Trabajo, Empleo y Previsión Social",
+        "despues": "Ante el Ministerio de Trabajo, Empleo y Previsión Social"
+      },
+      {
+        "opcionId": "cmvwwhidm000fvda0pia9vl74",
+        "antes": "Solo ante la Dirección Distrital",
+        "despues": "Solo ante la Dirección Distrital de Educación, que lo sanciona"
+      },
+      {
+        "opcionId": "cmvwwhidm000gvda0afydsjmz",
+        "antes": "Ante la Defensoría de la Niñez",
+        "despues": "Ante la Defensoría de la Niñez y Adolescencia del municipio"
+      },
+      {
+        "opcionId": "cmvwwhidm000hvda0ia950yqj",
+        "antes": "Ante el SEGIP",
+        "despues": "Ante el Servicio Legal Integral Municipal, que lo concilia"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwwhie9000pvda08rj2nbz6",
+    "opciones": [
+      {
+        "opcionId": "cmvwwhie9000qvda01wwrstmy",
+        "antes": "El Ministerio de Justicia, por Resolución Ministerial (nivel nacional); las ETA, por Ley de la autoridad competente (en su territorio)",
+        "despues": "El Ministerio de Justicia, por Resolución Ministerial (nivel nacional); las ETA, por Ley de la autoridad competente (en su territorio)"
+      },
+      {
+        "opcionId": "cmvwwhie9000rvda0fwafm6lp",
+        "antes": "Ambos por Decreto Supremo",
+        "despues": "Ambos por Decreto Supremo, a propuesta del Ministerio de Justicia y con informe previo de las entidades territoriales autónomas"
+      },
+      {
+        "opcionId": "cmvwwhie9000svda0zwz9joxu",
+        "antes": "Las ETA por Resolución Ministerial y el Ministerio por Ley",
+        "despues": "Las ETA, por Resolución Ministerial de su ejecutivo (en su territorio); el Ministerio de Justicia, por Ley nacional (en todo el país)"
+      },
+      {
+        "opcionId": "cmvwwhie9000tvda0rix2l9p4",
+        "antes": "Solo el Presidente, por decreto",
+        "despues": "Solo el Presidente del Estado, por decreto, a solicitud del Ministerio de Justicia o de las entidades territoriales autónomas"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwwhiem000vvda0cejqn80l",
+    "opciones": [
+      {
+        "opcionId": "cmvwwhiem000wvda00mq08fn5",
+        "antes": "30% el primer año y, desde el segundo año, 10% para mantenimiento y atención",
+        "despues": "30% el primer año y, desde el segundo año, 10% para mantenimiento y atención"
+      },
+      {
+        "opcionId": "cmvwwhiem000xvda03hwpx4m7",
+        "antes": "10% el primer año y 30% desde el segundo",
+        "despues": "10% el primer año y, desde el segundo año, 30% para mantenimiento y atención"
+      },
+      {
+        "opcionId": "cmvwwhiem000yvda09bqa3jd6",
+        "antes": "50% el primer año",
+        "despues": "50% el primer año y, desde el segundo año, 20% para mantenimiento y atención"
+      },
+      {
+        "opcionId": "cmvwwhiem000zvda0n02rm0ge",
+        "antes": "5% anual",
+        "despues": "5% cada año, tanto para la construcción como para el mantenimiento y atención"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwwhiey0011vda0pbo5nzj6",
+    "opciones": [
+      {
+        "opcionId": "cmvwwhiey0012vda0rwuulvka",
+        "antes": "No pueden tener contacto con el agresor ni con sus familiares, ni promover la conciliación con la mujer",
+        "despues": "No pueden tener contacto con el agresor ni con sus familiares, ni promover la conciliación con la mujer"
+      },
+      {
+        "opcionId": "cmvwwhiey0013vda0ky1flgo0",
+        "antes": "No pueden recibir a mujeres con hijos",
+        "despues": "No pueden recibir a mujeres con hijos mayores de doce años, ni promover la conciliación con el agresor"
+      },
+      {
+        "opcionId": "cmvwwhiey0014vda0hpqw4j7v",
+        "antes": "No pueden informar a la Policía",
+        "despues": "No pueden informar a la Policía sobre la ubicación de la mujer, ni siquiera a pedido del Ministerio Público"
+      },
+      {
+        "opcionId": "cmvwwhiey0015vda0s90fvwos",
+        "antes": "Deben promover la reconciliación familiar",
+        "despues": "Deben promover la reconciliación familiar cuando la mujer lo solicite, con mediación del equipo psicológico"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwwhif70017vda0fuomane6",
+    "opciones": [
+      {
+        "opcionId": "cmvwwhif70018vda0r5uqitv6",
+        "antes": "En un idioma de su comprensión, de forma diligente y en todas las etapas del proceso",
+        "despues": "En un idioma de su comprensión, de forma diligente y en todas las etapas del proceso"
+      },
+      {
+        "opcionId": "cmvwwhif70019vda0xf0rwfc8",
+        "antes": "Solo en castellano, por ser el idioma oficial",
+        "despues": "Solo en castellano, por ser el idioma oficial de los procesos judiciales en todo el país"
+      },
+      {
+        "opcionId": "cmvwwhif7001avda0bfmk91az",
+        "antes": "Solo por escrito",
+        "despues": "Solo por escrito, en castellano y en su idioma, al momento de recibir la denuncia"
+      },
+      {
+        "opcionId": "cmvwwhif7001bvda0occgs9o1",
+        "antes": "Solo al final del proceso",
+        "despues": "En su idioma, pero solo al final del proceso, al notificarle la sentencia"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwwhifk001dvda0nq8nvvgn",
+    "opciones": [
+      {
+        "opcionId": "cmvwwhifk001evda0eip0r2tu",
+        "antes": "Sin sensacionalismo, con objetividad y ética, preservando la intimidad, identidad y dignidad de las víctimas y sus dependientes",
+        "despues": "Sin sensacionalismo, con objetividad y ética, preservando la intimidad, identidad y dignidad de las víctimas y sus dependientes"
+      },
+      {
+        "opcionId": "cmvwwhifk001fvda0jdgaoazv",
+        "antes": "Publicando el nombre de la víctima para visibilizar el caso",
+        "despues": "Publicando el nombre y la fotografía de la víctima con su consentimiento, para visibilizar el caso y sensibilizar a la población"
+      },
+      {
+        "opcionId": "cmvwwhifk001gvda0x5z1gl4h",
+        "antes": "Solo en horario nocturno",
+        "despues": "Solo en horario nocturno y con advertencia previa, preservando la identidad de las víctimas pero no la de sus dependientes"
+      },
+      {
+        "opcionId": "cmvwwhifk001hvda0gil70jd4",
+        "antes": "Con imágenes explícitas para sensibilizar",
+        "despues": "Con imágenes explícitas de las agresiones para sensibilizar a la población, aunque preservando la identidad de las víctimas"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwwhifx001jvda0ikjf2t3o",
+    "opciones": [
+      {
+        "opcionId": "cmvwwhify001kvda0pgxv10ga",
+        "antes": "Trabajos comunitarios de 90 a 120 días e inhabilitación de 1 a 4 años para la función pública",
+        "despues": "Trabajos comunitarios de 90 a 120 días e inhabilitación de 1 a 4 años para la función pública"
+      },
+      {
+        "opcionId": "cmvwwhify001lvda07bu1jc2c",
+        "antes": "Presidio de 30 años",
+        "despues": "Presidio de 30 años sin derecho a indulto, por encubrir un delito contra la integridad de la mujer"
+      },
+      {
+        "opcionId": "cmvwwhify001mvda0qhep5lve",
+        "antes": "Una multa administrativa",
+        "despues": "Una multa administrativa equivalente a treinta días de haber, impuesta por la Dirección Departamental"
+      },
+      {
+        "opcionId": "cmvwwhify001nvda0ecijbr55",
+        "antes": "Privación de libertad de 2 a 4 años",
+        "despues": "Privación de libertad de 2 a 4 años y multa de cien días, sin inhabilitación para la función pública"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwwhigb001vvda0v62pwig7",
+    "opciones": [
+      {
+        "opcionId": "cmvwwhigb001wvda02m0z5kh7",
+        "antes": "Destruir u ocultar los documentos de identidad, títulos profesionales o instrumentos de trabajo de la mujer",
+        "despues": "Destruir u ocultar los documentos de identidad, títulos profesionales o instrumentos de trabajo de la mujer"
+      },
+      {
+        "opcionId": "cmvwwhigb001xvda0s7flvjzw",
+        "antes": "Insultar a la mujer en público",
+        "despues": "Insultar a la mujer en público por su condición económica o por depender de los ingresos de su pareja"
+      },
+      {
+        "opcionId": "cmvwwhigb001yvda0lcmmjtiz",
+        "antes": "Difundir imágenes sexistas",
+        "despues": "Difundir imágenes sexistas que presenten a la mujer como dependiente económicamente del varón"
+      },
+      {
+        "opcionId": "cmvwwhigb001zvda0gswh8dco",
+        "antes": "Negarle atención en salud",
+        "despues": "Negarle atención en salud por no contar con seguro o por no poder pagar los servicios médicos"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwwhigw0027vda06ltcdv7f",
+    "opciones": [
+      {
+        "opcionId": "cmvwwhigw0028vda0fvh6uoqp",
+        "antes": "Un centro de atención psicológica con especialidad obligatoria en violencia, en convenio con universidades públicas o privadas",
+        "despues": "Un centro de atención psicológica con especialidad obligatoria en violencia, en convenio con universidades públicas o privadas"
+      },
+      {
+        "opcionId": "cmvwwhigw0029vda0pleg0h3s",
+        "antes": "Una oficina de la FELCV",
+        "despues": "Una oficina de la Fuerza Especial de Lucha Contra la Violencia (FELCV), con personal policial asignado a la unidad educativa"
+      },
+      {
+        "opcionId": "cmvwwhigw002avda0dmp7l511",
+        "antes": "Un juzgado escolar",
+        "despues": "Un juzgado escolar que conozca y resuelva los casos de violencia que afectan a los estudiantes y a sus familias"
+      },
+      {
+        "opcionId": "cmvwwhigw002bvda0rly9u48h",
+        "antes": "Una Defensoría escolar autónoma",
+        "despues": "Una Defensoría escolar autónoma, dependiente del Consejo Educativo, con atención legal y psicológica a las familias"
+      }
+    ]
+  }
+]

@@ -1,0 +1,1297 @@
+[
+  {
+    "preguntaId": "cmvvx5b2n0007vdxoh31sf57g",
+    "opciones": [
+      {
+        "opcionId": "cmvvx5b2n0009vdxoixc4pcox",
+        "antes": "Solo la notificación a los padres",
+        "despues": "Solo la notificación escrita a su madre, padre, guardador o tutor, con al menos veinticuatro horas de anticipación"
+      },
+      {
+        "opcionId": "cmvvx5b2n000avdxo53set7ay",
+        "antes": "La aprobación previa de la Dirección Distrital",
+        "despues": "La aprobación previa de la Dirección Distrital y del Consejo Educativo, que revisan la proporcionalidad de la sanción"
+      },
+      {
+        "opcionId": "cmvvx5b2n000bvdxognvsgcsg",
+        "antes": "Nada, si la sanción está prevista en el reglamento",
+        "despues": "Nada adicional, si la sanción está prevista en el reglamento interno y fue aprobada por la comunidad educativa"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvx5b2r000dvdxo801wf4me",
+    "opciones": [
+      {
+        "opcionId": "cmvvx5b2r000evdxo3h3u8chm",
+        "antes": "En el reglamento de convivencia pacífica y armónica de las Unidades Educativas",
+        "despues": "En el reglamento de convivencia pacífica y armónica de las Unidades Educativas"
+      },
+      {
+        "opcionId": "cmvvx5b2r000fvdxous1dl4dy",
+        "antes": "En una circular anual de la Dirección Distrital",
+        "despues": "En una circular anual de la Dirección Distrital, válida para todas las unidades"
+      },
+      {
+        "opcionId": "cmvvx5b2r000gvdxotymzn02o",
+        "antes": "En el contrato de inscripción firmado por los padres",
+        "despues": "En el contrato de inscripción que firman los padres al inicio de la gestión"
+      },
+      {
+        "opcionId": "cmvvx5b2r000hvdxodrd2sgun",
+        "antes": "Solo en el Código Penal",
+        "despues": "Solo en el Código Penal y en el Código Niña, Niño y Adolescente"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvx5b30000jvdxowyxrohb7",
+    "opciones": [
+      {
+        "opcionId": "cmvvx5b30000kvdxo0mi7atf5",
+        "antes": "No puede rechazarla ni expulsarla, y debe promover políticas de inclusión y protección para su permanencia hasta que culmine sus estudios",
+        "despues": "No puede rechazarla ni expulsarla, y debe promover políticas de inclusión y protección para su permanencia hasta que culmine sus estudios"
+      },
+      {
+        "opcionId": "cmvvx5b30000lvdxoipt78po4",
+        "antes": "Puede trasladarla a otro turno sin su consentimiento",
+        "despues": "Puede trasladarla a otro turno o modalidad sin su consentimiento, para protegerla, siempre que no interrumpa sus estudios"
+      },
+      {
+        "opcionId": "cmvvx5b30000mvdxo1tnum71q",
+        "antes": "Puede suspenderla hasta el nacimiento",
+        "despues": "Puede suspenderla temporalmente hasta el nacimiento, garantizando su reincorporación posterior para que culmine sus estudios"
+      },
+      {
+        "opcionId": "cmvvx5b30000nvdxo7doylecx",
+        "antes": "Debe consultar a la asamblea de padres y acatar su decisión",
+        "despues": "Debe consultar a la asamblea de padres de familia y acatar su decisión, como expresión de la participación social comunitaria"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvx5b3h0011vdxoorz0gzgm",
+    "opciones": [
+      {
+        "opcionId": "cmvvx5b3h0012vdxoohu4vo75",
+        "antes": "La o el estudiante y su madre, padre, guardadora o guardador, tutora o tutor",
+        "despues": "La o el estudiante y su madre, padre, guardadora o guardador, tutora o tutor"
+      },
+      {
+        "opcionId": "cmvvx5b3h0013vdxop1l2l1na",
+        "antes": "Solo los padres, porque los estudiantes son menores de edad",
+        "despues": "Solo la madre, padre, guardador o tutor, porque los estudiantes son menores de edad"
+      },
+      {
+        "opcionId": "cmvvx5b3h0014vdxo72f2s4ru",
+        "antes": "Solo las autoridades distritales",
+        "despues": "Solo las autoridades distritales y el personal directivo de la unidad educativa"
+      },
+      {
+        "opcionId": "cmvvx5b3h0015vdxo7scv770w",
+        "antes": "Solo el Consejo Educativo Social Comunitario",
+        "despues": "Solo el Consejo Educativo Social Comunitario, en representación de las familias"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvx5b3q0017vdxouzizjyjc",
+    "opciones": [
+      {
+        "opcionId": "cmvvx5b3q0018vdxocjj96yts",
+        "antes": "14 años; excepcionalmente, trabajo por cuenta propia de 10 a 14 años y por cuenta ajena de 12 a 14 años, sin menoscabo de la educación",
+        "despues": "14 años; excepcionalmente, trabajo por cuenta propia de 10 a 14 años y por cuenta ajena de 12 a 14 años, sin menoscabo de la educación"
+      },
+      {
+        "opcionId": "cmvvx5b3q0019vdxokfa3939p",
+        "antes": "16 años; excepcionalmente, desde los 14 por cuenta propia",
+        "despues": "16 años; excepcionalmente, trabajo por cuenta propia de 14 a 16 años y por cuenta ajena de 15 a 16 años, sin menoscabo de la educación"
+      },
+      {
+        "opcionId": "cmvvx5b3q001avdxohg3pdeyi",
+        "antes": "14 años; excepcionalmente, trabajo por cuenta ajena desde los 10 años",
+        "despues": "14 años; excepcionalmente, trabajo por cuenta ajena de 10 a 14 años y por cuenta propia de 12 a 14 años, sin menoscabo de la educación"
+      },
+      {
+        "opcionId": "cmvvx5b3q001bvdxozpn80ngb",
+        "antes": "18 años, sin excepciones",
+        "despues": "18 años, sin excepciones; los menores de esa edad solo pueden realizar actividades familiares de carácter formativo y sin remuneración"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvx5b3u001dvdxoml726bmu",
+    "opciones": [
+      {
+        "opcionId": "cmvvx5b3u001evdxoww5m9isl",
+        "antes": "En setenta y dos (72) horas desde su recepción, previa valoración socioeconómica",
+        "despues": "En setenta y dos (72) horas desde su recepción, previa valoración socioeconómica"
+      },
+      {
+        "opcionId": "cmvvx5b3u001fvdxoia928l5c",
+        "antes": "En cinco días hábiles",
+        "despues": "En cinco (5) días hábiles desde su recepción, previa valoración socioeconómica"
+      },
+      {
+        "opcionId": "cmvvx5b3u001gvdxo3zz2ifz6",
+        "antes": "En cuarenta y ocho horas, sin valoración previa",
+        "despues": "En cuarenta y ocho (48) horas desde su recepción, sin valoración previa"
+      },
+      {
+        "opcionId": "cmvvx5b3u001hvdxooqfuq9ld",
+        "antes": "En treinta días calendario",
+        "despues": "En treinta (30) días calendario, previa inspección del lugar de trabajo"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvx5b4c001pvdxos94w2rzw",
+    "opciones": [
+      {
+        "opcionId": "cmvvx5b4c001qvdxosms91ywc",
+        "antes": "Está prohibida, porque los educadores deben emplear métodos no violentos y se prohíbe cualquier castigo físico, violento o humillante",
+        "despues": "Está prohibida, porque los educadores deben emplear métodos no violentos y se prohíbe cualquier castigo físico, violento o humillante"
+      },
+      {
+        "opcionId": "cmvvx5b4c001rvdxo2nkhue9g",
+        "antes": "Es válida si está prevista en el reglamento interno",
+        "despues": "Es válida si está prevista en el reglamento interno de convivencia y fue aprobada por el Consejo Educativo de la unidad"
+      },
+      {
+        "opcionId": "cmvvx5b4c001svdxoze7jgqc2",
+        "antes": "Es válida porque no hay contacto físico",
+        "despues": "Es válida porque no hay contacto físico con el estudiante, y la prohibición alcanza solo a los castigos corporales"
+      },
+      {
+        "opcionId": "cmvvx5b4c001tvdxo0gs4i3k7",
+        "antes": "Solo es reprochable si la denuncian los padres",
+        "despues": "Solo es reprochable si la denuncian los padres ante la Defensoría, porque la corrección es facultad del maestro"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvx5b4o0021vdxot7vccm26",
+    "opciones": [
+      {
+        "opcionId": "cmvvx5b4o0022vdxojfztezwy",
+        "antes": "Violencia cibernética en el sistema educativo, considerada infracción mientras no constituya delito",
+        "despues": "Violencia cibernética en el sistema educativo, considerada infracción mientras no constituya delito"
+      },
+      {
+        "opcionId": "cmvvx5b4o0023vdxou6q2pngz",
+        "antes": "Una conducta privada ajena al sistema educativo, por ocurrir fuera del aula",
+        "despues": "Una conducta privada ajena al sistema educativo, porque ocurre fuera del aula y del horario escolar"
+      },
+      {
+        "opcionId": "cmvvx5b4o0024vdxo7h2hzzem",
+        "antes": "Violencia mediática de la Ley 348",
+        "despues": "Violencia mediática de la Ley 348, porque se difunde por medios masivos de comunicación"
+      },
+      {
+        "opcionId": "cmvvx5b4o0025vdxot9zxsima",
+        "antes": "Solo violencia verbal, porque no hay contacto físico",
+        "despues": "Solo violencia verbal entre pares, porque no hay contacto físico ni daño corporal a la estudiante"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvx5b50002dvdxow84ivrjv",
+    "opciones": [
+      {
+        "opcionId": "cmvvx5b50002evdxortj631ln",
+        "antes": "Es obligatorio y lo elaboran las autoridades superiores en un proceso abierto, participativo y plural que convoque obligatoriamente a todos los miembros de la comunidad educativa",
+        "despues": "Es obligatorio y lo elaboran las autoridades en un proceso abierto, participativo y plural que convoque obligatoriamente a toda la comunidad educativa"
+      },
+      {
+        "opcionId": "cmvvx5b50002fvdxoqcmbk679",
+        "antes": "Es opcional y puede redactarlo solo la dirección",
+        "despues": "Es opcional y puede redactarlo solo la dirección, siempre que luego lo socialice con los maestros, los estudiantes y las familias"
+      },
+      {
+        "opcionId": "cmvvx5b50002gvdxoeo7qoevr",
+        "antes": "Lo elabora la Dirección Distrital y se aplica igual en todas las unidades",
+        "despues": "Lo elabora la Dirección Distrital de Educación en un proceso participativo, y se aplica igual en todas las unidades de su jurisdicción"
+      },
+      {
+        "opcionId": "cmvvx5b50002hvdxobfsn4qd3",
+        "antes": "Lo elaboran solo los estudiantes, por ser los destinatarios",
+        "despues": "Lo elaboran solo los estudiantes, por ser sus destinatarios, en un proceso abierto y plural organizado por el gobierno estudiantil"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvx5b5c002pvdxon6x0l8bl",
+    "opciones": [
+      {
+        "opcionId": "cmvvx5b5c002qvdxoc6zwuuou",
+        "antes": "La Jueza o el Juez Público de la Niñez y Adolescencia, como infracciones",
+        "despues": "La Jueza o el Juez Público de la Niñez y Adolescencia, como infracciones"
+      },
+      {
+        "opcionId": "cmvvx5b5c002rvdxo5yo34emw",
+        "antes": "La Jueza o el Juez Penal",
+        "despues": "La Jueza o el Juez Penal, aplicando por analogía los tipos penales"
+      },
+      {
+        "opcionId": "cmvvx5b5c002svdxotqsuse12",
+        "antes": "La Dirección Distrital de Educación",
+        "despues": "La Dirección Distrital de Educación, mediante proceso disciplinario"
+      },
+      {
+        "opcionId": "cmvvx5b5c002tvdxoaz0pmoqx",
+        "antes": "La Defensoría de la Niñez, que impone la sanción directamente",
+        "despues": "La Defensoría de la Niñez, que impone la sanción administrativamente"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvx5b5k002vvdxoplr253kx",
+    "opciones": [
+      {
+        "opcionId": "cmvvx5b5k002wvdxom7k7p81i",
+        "antes": "Es una infracción por violencia: utilizar al adolescente como objeto de presión o chantaje en conflictos sociales e instigarlo a medidas de hecho",
+        "despues": "Es una infracción por violencia: utilizar al adolescente como objeto de presión o chantaje en conflictos sociales e instigarlo a medidas de hecho"
+      },
+      {
+        "opcionId": "cmvvx5b5k002xvdxoqvfyvm6c",
+        "antes": "Es lícita, porque los padres ejercen la autoridad parental",
+        "despues": "Es lícita, porque los padres ejercen la autoridad parental y el adolescente tiene derecho a participar en las organizaciones de su comunidad"
+      },
+      {
+        "opcionId": "cmvvx5b5k002yvdxoq1o2fxw1",
+        "antes": "Solo es infracción si el adolescente resulta herido",
+        "despues": "Solo es infracción si el adolescente resulta herido o detenido durante el bloqueo; en otro caso, es ejercicio de la autoridad parental"
+      },
+      {
+        "opcionId": "cmvvx5b5k002zvdxoyz2txwjx",
+        "antes": "Es un delito de acción privada",
+        "despues": "Es un delito de acción privada, que solo puede perseguir el propio adolescente o la Defensoría de la Niñez con su consentimiento"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvx5b5o0031vdxot7gtmsty",
+    "opciones": [
+      {
+        "opcionId": "cmvvx5b5o0032vdxoovd519ee",
+        "antes": "Una infracción por violencia, salvo que se trate de lesiones tipificadas en la normativa penal",
+        "despues": "Una infracción por violencia, salvo que se trate de lesiones tipificadas en la normativa penal"
+      },
+      {
+        "opcionId": "cmvvx5b5o0033vdxo17trt8ch",
+        "antes": "Lícito, si su finalidad es educativa",
+        "despues": "Lícito si su finalidad es educativa y no causa lesiones, como facultad de corrección de los padres"
+      },
+      {
+        "opcionId": "cmvvx5b5o0034vdxozalh7ggq",
+        "antes": "Siempre un delito penal",
+        "despues": "Siempre un delito penal de lesiones, aunque no deje secuelas ni requiera atención médica"
+      },
+      {
+        "opcionId": "cmvvx5b5o0035vdxohdq9akc5",
+        "antes": "Una falta leve que se resuelve con una disculpa",
+        "despues": "Una falta leve que se resuelve con una disculpa y un compromiso firmado ante la Defensoría"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvx5b5w0037vdxoiq9fvp79",
+    "opciones": [
+      {
+        "opcionId": "cmvvx5b5x0038vdxohhji6k0z",
+        "antes": "Está prohibida toda forma de conciliación o transacción en casos de niñas, niños o adolescentes víctimas de violencia",
+        "despues": "Está prohibida toda forma de conciliación o transacción en casos de niñas, niños o adolescentes víctimas de violencia"
+      },
+      {
+        "opcionId": "cmvvx5b5x0039vdxojn9g5oos",
+        "antes": "Es válido si los padres de la víctima aceptan",
+        "despues": "Es válido si los padres de la víctima aceptan el acuerdo y el monto se destina a la atención del estudiante"
+      },
+      {
+        "opcionId": "cmvvx5b5x003avdxox1m8khkt",
+        "antes": "Es válido si se trata de la primera vez",
+        "despues": "Es válido si se trata de la primera vez y el agresor se compromete por escrito a no repetir la conducta"
+      },
+      {
+        "opcionId": "cmvvx5b5x003bvdxo1tj1nd46",
+        "antes": "Solo está prohibido si la violencia fue sexual",
+        "despues": "Solo está prohibido si la violencia fue sexual; en los demás casos, la conciliación es una salida alternativa"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvx5b65003dvdxoiycqriis",
+    "opciones": [
+      {
+        "opcionId": "cmvvx5b65003evdxof6vq1x3y",
+        "antes": "Tienen prohibido vivir, trabajar o permanecer cerca de unidades educativas, parques y lugares de concurrencia de esta población",
+        "despues": "Tienen prohibido vivir, trabajar o permanecer cerca de unidades educativas, parques y lugares de concurrencia de esta población"
+      },
+      {
+        "opcionId": "cmvvx5b65003fvdxodnqp1n17",
+        "antes": "Pueden trabajar en unidades educativas si aprueban una evaluación psicológica",
+        "despues": "Pueden trabajar en unidades educativas si aprueban una evaluación psicológica y no tienen contacto directo con estudiantes"
+      },
+      {
+        "opcionId": "cmvvx5b65003gvdxorejrohvp",
+        "antes": "Quedan libres de toda medida al cumplir la pena",
+        "despues": "Quedan libres de toda medida al cumplir la pena, porque la ley no permite restricciones posteriores a la condena"
+      },
+      {
+        "opcionId": "cmvvx5b65003hvdxojtjcynna",
+        "antes": "Solo tienen prohibido trabajar en el sector público",
+        "despues": "Solo tienen prohibido trabajar en el sector público, incluidas las unidades educativas fiscales y de convenio"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvx5b6m003pvdxow42meewx",
+    "opciones": [
+      {
+        "opcionId": "cmvvx5b6m003qvdxogajl3ctr",
+        "antes": "Gratuita, integral y de calidad; de calidad y calidez, intracultural, intercultural y plurilingüe, y debe cualificarlos para el trabajo",
+        "despues": "Gratuita, integral y de calidad; de calidad y calidez, intracultural, intercultural y plurilingüe, y debe cualificarlos para el trabajo"
+      },
+      {
+        "opcionId": "cmvvx5b6m003rvdxoky120gjz",
+        "antes": "Gratuita solo hasta el nivel primario",
+        "despues": "Gratuita solo hasta el nivel primario, integral y de calidad, intracultural e intercultural, y debe prepararlos para la universidad"
+      },
+      {
+        "opcionId": "cmvvx5b6m003svdxobzadz8n4",
+        "antes": "Monolingüe en castellano, para garantizar la unidad nacional",
+        "despues": "Monolingüe en castellano para garantizar la unidad nacional, gratuita, integral y de calidad, y debe cualificarlos para el trabajo"
+      },
+      {
+        "opcionId": "cmvvx5b6m003tvdxop4qaisdu",
+        "antes": "Orientada solo al rendimiento académico",
+        "despues": "Orientada principalmente al rendimiento académico y a la competitividad, gratuita y de calidad, intracultural e intercultural"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvyqs1j0001vdis4uj5od9a",
+    "opciones": [
+      {
+        "opcionId": "cmvvyqs1k0002vdis66mmd1c8",
+        "antes": "Denunciar el hecho en un plazo máximo de 24 horas de conocido, ante la Defensoría de la Niñez y Adolescencia o cualquier otra autoridad competente",
+        "despues": "Denunciar el hecho en un plazo máximo de 24 horas de conocido, ante la Defensoría de la Niñez y Adolescencia o cualquier otra autoridad competente"
+      },
+      {
+        "opcionId": "cmvvyqs1k0003vdis2sybshhl",
+        "antes": "Citar primero al padrastro a una reunión de conciliación en el CEA",
+        "despues": "Citar primero al padrastro a una reunión de conciliación en el CEA y, si la agresión se repite, denunciarla ante la Defensoría de la Niñez"
+      },
+      {
+        "opcionId": "cmvvyqs1k0004vdisolhd9zz0",
+        "antes": "Denunciar en un plazo de 72 horas, después de reunir pruebas",
+        "despues": "Denunciar el hecho en un plazo máximo de 72 horas de conocido, después de reunir pruebas y el informe escrito de la facilitadora"
+      },
+      {
+        "opcionId": "cmvvyqs1k0005vdishwi95qcv",
+        "antes": "Informar a la Dirección Distrital para que ella decida si denuncia",
+        "despues": "Informar a la Dirección Distrital de Educación para que ella decida si denuncia el hecho ante la Defensoría o el Ministerio Público"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvyqs1u0007vdisus1vfrpa",
+    "opciones": [
+      {
+        "opcionId": "cmvvyqs1u0008vdisdx95be06",
+        "antes": "Ante las autoridades indígena originario campesinas, quienes deberán remitir la denuncia ante las instancias competentes",
+        "despues": "Ante las autoridades indígena originario campesinas, quienes deberán remitir la denuncia ante las instancias competentes"
+      },
+      {
+        "opcionId": "cmvvyqs1u0009vdisf3w2kn1d",
+        "antes": "Ante la Junta Escolar, que resolverá el caso",
+        "despues": "Ante la Junta Escolar de la comunidad, que conocerá y resolverá el caso conforme a sus usos y costumbres"
+      },
+      {
+        "opcionId": "cmvvyqs1u000avdisy21u01kt",
+        "antes": "Ante el director de la unidad educativa, que sancionará al agresor",
+        "despues": "Ante el director de la unidad educativa, que sancionará al agresor y luego informará a la Defensoría"
+      },
+      {
+        "opcionId": "cmvvyqs1u000bvdis5f9tuc2t",
+        "antes": "Solo ante la Policía del municipio más cercano",
+        "despues": "Solo ante la Policía del municipio más cercano, porque es la única autoridad que puede recibir la denuncia"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvyqs3g0011vdisbtoelrua",
+    "opciones": [
+      {
+        "opcionId": "cmvvyqs3g0012vdisnbjqfqxu",
+        "antes": "La prevención, atención y sanción de la violencia, para consolidar la convivencia pacífica y armónica y la cultura de paz",
+        "despues": "La prevención, atención y sanción de la violencia, para consolidar la convivencia pacífica y armónica y la cultura de paz"
+      },
+      {
+        "opcionId": "cmvvyqs3g0013vdisuy53bc6n",
+        "antes": "Solo la sanción disciplinaria de los estudiantes agresores",
+        "despues": "Solo la sanción disciplinaria de los estudiantes agresores, conforme al reglamento interno de la unidad educativa"
+      },
+      {
+        "opcionId": "cmvvyqs3g0014vdis8sz5tcy8",
+        "antes": "Solo la protección de estudiantes frente a docentes",
+        "despues": "Solo la protección de los estudiantes frente a la violencia que ejercen los docentes y el personal administrativo"
+      },
+      {
+        "opcionId": "cmvvyqs3g0015vdis8jf4030d",
+        "antes": "La expulsión inmediata del agresor del sistema educativo",
+        "despues": "La expulsión inmediata del agresor del sistema educativo, para consolidar la convivencia pacífica y armónica"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvyqs3r0017vdis9gsqpnxt",
+    "opciones": [
+      {
+        "opcionId": "cmvvyqs3r0018vdiszc6hxddy",
+        "antes": "Mantener reserva, resguardar la identidad de la estudiante y restringir el acceso a la documentación, salvo autorización expresa de la autoridad competente",
+        "despues": "Mantener reserva, resguardar la identidad de la estudiante y restringir el acceso a la documentación, salvo autorización expresa de la autoridad competente"
+      },
+      {
+        "opcionId": "cmvvyqs3r0019vdis02fzg3h9",
+        "antes": "Entregarlos si los padres firman una autorización",
+        "despues": "Entregarlos si la madre, el padre o el tutor de la estudiante firman una autorización escrita y el canal se compromete a no revelar su nombre"
+      },
+      {
+        "opcionId": "cmvvyqs3r001avdis9rt2pl5r",
+        "antes": "Entregar solo la foto, con el rostro pixelado",
+        "despues": "Entregar solo la fotografía con el rostro pixelado y un resumen del expediente, sin datos que permitan identificar a la estudiante"
+      },
+      {
+        "opcionId": "cmvvyqs3r001bvdis77b0jct2",
+        "antes": "Entregarlos, porque la libertad de prensa prevalece",
+        "despues": "Entregarlos, porque la libertad de prensa y el derecho a la información prevalecen cuando el caso es de interés público"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvyqs43001dvdiss302ovgi",
+    "opciones": [
+      {
+        "opcionId": "cmvvyqs43001evdismrrmr094",
+        "antes": "Constituyen infracciones y son sancionadas por la Jueza o Juez Público de la Niñez y Adolescencia",
+        "despues": "Constituyen infracciones y son sancionadas por la Jueza o Juez Público de la Niñez y Adolescencia"
+      },
+      {
+        "opcionId": "cmvvyqs43001fvdis3zggdr2j",
+        "antes": "Son sancionadas por la Jueza o Juez Penal",
+        "despues": "Son sancionadas por la Jueza o Juez Penal, aplicando por analogía el tipo penal más cercano"
+      },
+      {
+        "opcionId": "cmvvyqs43001gvdisky56148r",
+        "antes": "Quedan impunes por el principio de legalidad",
+        "despues": "Quedan sin sanción por el principio de legalidad, hasta que la ley penal las tipifique"
+      },
+      {
+        "opcionId": "cmvvyqs43001hvdisbngu4nh5",
+        "antes": "Las sanciona la Defensoría de la Niñez de forma administrativa",
+        "despues": "Las sanciona la Defensoría de la Niñez de forma administrativa, mediante resolución"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvyqs4i001jvdisjcmgzd2t",
+    "opciones": [
+      {
+        "opcionId": "cmvvyqs4i001kvdis0itc6n26",
+        "antes": "Sexualización precoz o hipersexualización, una forma de vulneración a la integridad sexual",
+        "despues": "Sexualización precoz o hipersexualización, una forma de vulneración a la integridad sexual"
+      },
+      {
+        "opcionId": "cmvvyqs4i001lvdisnmeo14yk",
+        "antes": "Explotación sexual",
+        "despues": "Explotación sexual comercial, porque se expone a las niñas ante un público adulto"
+      },
+      {
+        "opcionId": "cmvvyqs4i001mvdisg6rua7un",
+        "antes": "Una actividad cultural protegida por el derecho a la cultura",
+        "despues": "Una actividad cultural protegida por el derecho a la cultura y a la recreación"
+      },
+      {
+        "opcionId": "cmvvyqs4i001nvdis3pik64iv",
+        "antes": "Una falta solo si hay denuncia de los padres",
+        "despues": "Una falta disciplinaria de la maestra solo si hay denuncia de los padres de familia"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvyqs5k0021vdisca2xzxcs",
+    "opciones": [
+      {
+        "opcionId": "cmvvyqs5k0022vdis55ccdoob",
+        "antes": "Puede apersonarse de oficio e intervenir ante las instancias administrativas o judiciales, en cualquier estado de la causa, sin necesidad de mandato expreso",
+        "despues": "Puede apersonarse de oficio e intervenir ante las instancias administrativas o judiciales, en cualquier estado de la causa, sin mandato expreso"
+      },
+      {
+        "opcionId": "cmvvyqs5k0023vdis37oz7vfh",
+        "antes": "Necesita un poder notariado de los padres",
+        "despues": "Necesita un poder notariado de los padres o del tutor de la estudiante para apersonarse en el proceso administrativo disciplinario"
+      },
+      {
+        "opcionId": "cmvvyqs5k0024vdisc3uyt0zt",
+        "antes": "Solo puede intervenir en procesos judiciales, no en administrativos",
+        "despues": "Solo puede intervenir de oficio en procesos judiciales; en los administrativos disciplinarios necesita mandato expreso de la familia"
+      },
+      {
+        "opcionId": "cmvvyqs5k0025vdisdrvv4hmf",
+        "antes": "Solo puede intervenir al inicio del proceso",
+        "despues": "Solo puede intervenir de oficio al inicio del proceso; una vez iniciada la investigación, necesita el mandato expreso de la familia"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvyqs5v0027vdisgisn1v7u",
+    "opciones": [
+      {
+        "opcionId": "cmvvyqs5v0028vdis37f29svb",
+        "antes": "En 72 horas desde su recepción, previa valoración socio-económica, con registro en el SINNA",
+        "despues": "En 72 horas desde su recepción, previa valoración socio-económica, con registro en el SINNA"
+      },
+      {
+        "opcionId": "cmvvyqs5v0029vdisu5s64vx9",
+        "antes": "En 24 horas, con registro en el Ministerio de Trabajo",
+        "despues": "En 24 horas desde su recepción, sin valoración previa, con registro en el Ministerio de Trabajo"
+      },
+      {
+        "opcionId": "cmvvyqs5v002avdisn93qy7mg",
+        "antes": "En 10 días hábiles, con registro en el SEGIP",
+        "despues": "En 10 días hábiles, previa valoración socio-económica, con registro en el SEGIP"
+      },
+      {
+        "opcionId": "cmvvyqs5v002bvdisr54wsw47",
+        "antes": "En 72 horas, con registro en la Dirección Distrital de Educación",
+        "despues": "En 72 horas desde su recepción, con registro en la Dirección Distrital de Educación"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvyqs69002jvdis389xjjmu",
+    "opciones": [
+      {
+        "opcionId": "cmvvyqs6a002kvdiskmqgy3fd",
+        "antes": "No puede ser menor a la de un adulto que realice el mismo trabajo ni inferior al salario mínimo nacional",
+        "despues": "No puede ser menor a la de un adulto que realice el mismo trabajo ni inferior al salario mínimo nacional"
+      },
+      {
+        "opcionId": "cmvvyqs6a002lvdis4z8cb4eq",
+        "antes": "Puede ser el 50% del salario de un adulto por su condición de aprendiz",
+        "despues": "Puede ser el 50% del salario de un adulto por su condición de aprendiz, sin bajar del salario mínimo"
+      },
+      {
+        "opcionId": "cmvvyqs6a002mvdis312nvwd6",
+        "antes": "La fijan libremente las partes",
+        "despues": "La fijan libremente las partes en el contrato, con autorización de la Defensoría de la Niñez"
+      },
+      {
+        "opcionId": "cmvvyqs6a002nvdiswywhtadb",
+        "antes": "Debe entregarse a los padres",
+        "despues": "Debe entregarse a los padres o tutores, y no puede ser inferior al salario mínimo nacional"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvyqs6k002pvdiswljp25jz",
+    "opciones": [
+      {
+        "opcionId": "cmvvyqs6k002qvdis20av0s2b",
+        "antes": "Para el que trabaja por cuenta ajena la inscripción es obligatoria; el que trabaja por cuenta propia podrá afiliarse voluntariamente",
+        "despues": "Para el que trabaja por cuenta ajena la inscripción es obligatoria; el que trabaja por cuenta propia podrá afiliarse voluntariamente"
+      },
+      {
+        "opcionId": "cmvvyqs6k002rvdis0n7jbzpu",
+        "antes": "La inscripción es voluntaria en ambos casos",
+        "despues": "La inscripción es voluntaria en ambos casos, y la decide el adolescente con autorización de sus padres o tutores"
+      },
+      {
+        "opcionId": "cmvvyqs6k002svdisvf1r6973",
+        "antes": "La inscripción es obligatoria en ambos casos",
+        "despues": "La inscripción es obligatoria en ambos casos, y el aporte del que trabaja por cuenta propia lo asume el Estado"
+      },
+      {
+        "opcionId": "cmvvyqs6k002tvdisokz5inti",
+        "antes": "Los adolescentes acceden a la seguridad social solo al cumplir 18 años",
+        "despues": "Los adolescentes acceden a la seguridad social solo al cumplir 18 años, por cuenta ajena o por cuenta propia"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvyqs6v002vvdisy1ghml6y",
+    "opciones": [
+      {
+        "opcionId": "cmvvyqs6v002wvdisdci61j39",
+        "antes": "Ponerlo en conocimiento de las Defensorías de la Niñez y Adolescencia, para su restitución mediante proceso legal",
+        "despues": "Ponerlo en conocimiento de las Defensorías de la Niñez y Adolescencia, para su restitución mediante proceso legal"
+      },
+      {
+        "opcionId": "cmvvyqs6v002xvdisl9mlctxi",
+        "antes": "Clausurar el establecimiento de forma definitiva",
+        "despues": "Clausurar el establecimiento de forma definitiva y ordenar el pago inmediato de los beneficios del adolescente"
+      },
+      {
+        "opcionId": "cmvvyqs6v002yvdiso60a5eu7",
+        "antes": "Remitir el caso a la Dirección Distrital de Educación",
+        "despues": "Remitir el caso a la Dirección Distrital de Educación, para que verifique la asistencia escolar del adolescente"
+      },
+      {
+        "opcionId": "cmvvyqs6v002zvdisul6ezx9n",
+        "antes": "Imponer directamente una pena privativa de libertad",
+        "despues": "Imponer directamente una pena privativa de libertad al empleador, mediante resolución de la Inspectoría"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvyqs750031vdiss7a8tzrw",
+    "opciones": [
+      {
+        "opcionId": "cmvvyqs750032vdisldbbv885",
+        "antes": "Adolescentes de 14 años en adelante y menores de 18 años, con una edad máxima de 24 años para cumplir la sanción privativa de libertad",
+        "despues": "Adolescentes de 14 años en adelante y menores de 18 años, con una edad máxima de 24 años para cumplir la sanción privativa de libertad"
+      },
+      {
+        "opcionId": "cmvvyqs750033vdisabg3as3f",
+        "antes": "Adolescentes de 12 a 18 años, con edad máxima de 21 años para cumplir la sanción",
+        "despues": "Adolescentes de 12 años en adelante y menores de 18 años, con una edad máxima de 21 años para cumplir la sanción privativa de libertad"
+      },
+      {
+        "opcionId": "cmvvyqs750034vdis7bs9qxdt",
+        "antes": "Adolescentes de 16 a 18 años",
+        "despues": "Adolescentes de 16 años en adelante y menores de 18 años, con una edad máxima de 24 años para cumplir la sanción privativa de libertad"
+      },
+      {
+        "opcionId": "cmvvyqs750035vdis4mcxsri7",
+        "antes": "Adolescentes de 14 a 18 años, con edad máxima de 18 años para cumplir la sanción",
+        "despues": "Adolescentes de 14 años en adelante y menores de 18 años, con una edad máxima de 18 años para cumplir la sanción privativa de libertad"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvyqs7g0037vdis372ordbu",
+    "opciones": [
+      {
+        "opcionId": "cmvvyqs7g0038vdisyojtm7kf",
+        "antes": "En cuatro quintas partes respecto del máximo penal; para delitos con máximo menor a 15 años, medidas socio-educativas con restricción de libertad y en libertad",
+        "despues": "En cuatro quintas partes respecto del máximo penal; para delitos con máximo menor a 15 años, medidas socio-educativas con restricción de libertad y en libertad"
+      },
+      {
+        "opcionId": "cmvvyqs7g0039vdisq8tg0bu1",
+        "antes": "En la mitad; para delitos con máximo menor a 15 años, un centro especializado",
+        "despues": "En la mitad respecto del máximo penal; para delitos con máximo menor a 15 años, medidas socio-educativas en un centro especializado de privación de libertad"
+      },
+      {
+        "opcionId": "cmvvyqs7g003avdis7tq9ptlv",
+        "antes": "En tres quintas partes; siempre privación de libertad",
+        "despues": "En tres quintas partes respecto del máximo penal; para delitos con máximo menor a 15 años, siempre medidas socio-educativas privativas de libertad"
+      },
+      {
+        "opcionId": "cmvvyqs7g003bvdis65gmhmbf",
+        "antes": "En cuatro quintas partes; para delitos con máximo menor a 15 años, un centro especializado en privación de libertad",
+        "despues": "En cuatro quintas partes respecto del máximo penal; para delitos con máximo menor a 15 años, un centro especializado en privación de libertad"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvyqs7p003dvdissqh118qn",
+    "opciones": [
+      {
+        "opcionId": "cmvvyqs7q003evdis14dhjv3m",
+        "antes": "Recibirla y responderla oportuna y adecuadamente, porque pueden peticionar directamente, individual o colectivamente, sin necesidad de representación",
+        "despues": "Recibirla y responderla oportuna y adecuadamente, porque pueden peticionar directamente, individual o colectivamente, sin representación"
+      },
+      {
+        "opcionId": "cmvvyqs7q003fvdisynvowpwo",
+        "antes": "Rechazarla porque los menores de edad necesitan representación de sus padres",
+        "despues": "Rechazarla, porque los menores de edad necesitan la representación de sus padres o tutores para presentar peticiones por escrito"
+      },
+      {
+        "opcionId": "cmvvyqs7q003gvdisnl8qaob0",
+        "antes": "Tramitarla solo si la presenta la Junta Escolar",
+        "despues": "Tramitarla solo si la presenta la Junta Escolar o el Consejo Educativo, que representan a los estudiantes ante la dirección"
+      },
+      {
+        "opcionId": "cmvvyqs7q003hvdisopludqfa",
+        "antes": "Recibirla, pero sin obligación de responder",
+        "despues": "Recibirla como una sugerencia del gobierno estudiantil, pero sin obligación de responder, porque no está firmada por los padres"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvyqs7y003jvdism0dyxoi6",
+    "opciones": [
+      {
+        "opcionId": "cmvvyqs7y003kvdisxtv1sg3c",
+        "antes": "Pueden expresarse a título personal o en representación de su organización, y deben ser tomadas en cuenta según su edad y etapa de desarrollo",
+        "despues": "Pueden expresarse a título personal o en representación de su organización, y deben ser tomadas en cuenta según su edad y etapa de desarrollo"
+      },
+      {
+        "opcionId": "cmvvyqs7y003lvdise0q6gnqz",
+        "antes": "Solo pueden expresarse a título personal",
+        "despues": "Solo pueden expresarse a título personal, y deben ser tomadas en cuenta según su edad, pero no en representación de una organización"
+      },
+      {
+        "opcionId": "cmvvyqs7y003mvdisicw3mvzs",
+        "antes": "Son vinculantes para las autoridades en todos los casos",
+        "despues": "Son vinculantes para las autoridades en todos los casos, cualquiera sea la edad o la etapa de desarrollo de la niña, niño o adolescente"
+      },
+      {
+        "opcionId": "cmvvyqs7y003nvdisgd59r8yn",
+        "antes": "Solo se escuchan a partir de los 14 años",
+        "despues": "Solo se escuchan a partir de los 14 años, a título personal o en representación de su organización, y no son vinculantes"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvyqs87003pvdisygxypob1",
+    "opciones": [
+      {
+        "opcionId": "cmvvyqs87003qvdisrtwrt1uo",
+        "antes": "Parámetros técnicos mínimos de accesibilidad para niñas, niños y adolescentes en situación de discapacidad",
+        "despues": "Parámetros técnicos mínimos de accesibilidad para niñas, niños y adolescentes en situación de discapacidad"
+      },
+      {
+        "opcionId": "cmvvyqs87003rvdis2o7z577y",
+        "antes": "Un diseño aprobado por la Junta Escolar",
+        "despues": "Un diseño aprobado previamente por la Junta Escolar y el Consejo Educativo de la unidad educativa vecina"
+      },
+      {
+        "opcionId": "cmvvyqs87003svdisf24nwdbe",
+        "antes": "Accesibilidad solo si hay estudiantes con discapacidad inscritos",
+        "despues": "Parámetros de accesibilidad solo si en la unidad educativa hay estudiantes con discapacidad inscritos"
+      },
+      {
+        "opcionId": "cmvvyqs87003tvdisblhg7xe3",
+        "antes": "Uso exclusivo para competencias oficiales",
+        "despues": "Un reglamento de uso exclusivo para competencias oficiales, aprobado por el Gobierno Municipal"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvyqs8w0047vdisgrjay6s0",
+    "opciones": [
+      {
+        "opcionId": "cmvvyqs8w0048vdis9ts220u3",
+        "antes": "Cuando el NNA está bajo tutela extraordinaria, en situación de calle, es adolescente trabajador o está en emergencia o desastre natural",
+        "despues": "Cuando el NNA está bajo tutela extraordinaria, en situación de calle, es adolescente trabajador o está en emergencia o desastre natural"
+      },
+      {
+        "opcionId": "cmvvyqs8w0049vdisuyh5c6jb",
+        "antes": "Siempre, a todo estudiante que lo solicite para su inscripción escolar",
+        "despues": "Siempre, a todo estudiante que lo solicite para su inscripción escolar en una unidad educativa fiscal o de convenio del país"
+      },
+      {
+        "opcionId": "cmvvyqs8w004avdis2jigolw8",
+        "antes": "Solo cuando lo solicita la unidad educativa",
+        "despues": "Solo cuando lo solicita la unidad educativa para la inscripción, o la Defensoría de la Niñez para un proceso de protección"
+      },
+      {
+        "opcionId": "cmvvyqs8w004bvdis9a76uf41",
+        "antes": "Solo en caso de adopción",
+        "despues": "Solo en caso de adopción nacional o internacional, o cuando el NNA está bajo tutela extraordinaria de la Defensoría"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvysbr8000dvdcwbtqyazvc",
+    "opciones": [
+      {
+        "opcionId": "cmvvysbr8000evdcwaudhcvhl",
+        "antes": "Central, departamental, municipal e indígena originario campesino",
+        "despues": "Central, departamental, municipal e indígena originario campesino"
+      },
+      {
+        "opcionId": "cmvvysbr8000fvdcwa77id094",
+        "antes": "Solo en cada unidad educativa",
+        "despues": "Solo en cada unidad educativa, como parte del gobierno estudiantil"
+      },
+      {
+        "opcionId": "cmvvysbr8000gvdcwjctke547",
+        "antes": "Solo municipal",
+        "despues": "Solo municipal, en coordinación con las Defensorías de la Niñez"
+      },
+      {
+        "opcionId": "cmvvysbr8000hvdcws52sshvz",
+        "antes": "Central y departamental",
+        "despues": "Central y departamental, con representantes de cada municipio"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvysbrj000jvdcw0jr4y1j1",
+    "opciones": [
+      {
+        "opcionId": "cmvvysbrj000kvdcw37yzlvsi",
+        "antes": "El gobierno de la autonomía indígena originario campesina, en su jurisdicción",
+        "despues": "El gobierno de la autonomía indígena originario campesina, en su jurisdicción"
+      },
+      {
+        "opcionId": "cmvvysbrj000lvdcw0wyzjjd3",
+        "antes": "El gobierno municipal vecino más cercano",
+        "despues": "El gobierno municipal vecino más cercano, mediante convenio intergubernativo"
+      },
+      {
+        "opcionId": "cmvvysbrj000mvdcwzvq2ym3h",
+        "antes": "El Gobierno Autónomo Departamental",
+        "despues": "El Gobierno Autónomo Departamental, a través de su Instancia Técnica"
+      },
+      {
+        "opcionId": "cmvvysbrj000nvdcwxlxiitw1",
+        "antes": "El Ministerio de Justicia, en forma directa",
+        "despues": "El Ministerio de Justicia, en forma directa, hasta la creación de la Defensoría"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvysbrt000pvdcwfpq924zt",
+    "opciones": [
+      {
+        "opcionId": "cmvvysbrt000qvdcwj1w36e56",
+        "antes": "La remisión, las salidas alternativas y las medidas socio-educativas",
+        "despues": "La remisión, las salidas alternativas y las medidas socio-educativas"
+      },
+      {
+        "opcionId": "cmvvysbrt000rvdcwmy9nv33z",
+        "antes": "Solo la sentencia condenatoria",
+        "despues": "Solo la sentencia condenatoria y la ejecución de la medida privativa"
+      },
+      {
+        "opcionId": "cmvvysbrt000svdcwh76y6kss",
+        "antes": "La detención preventiva",
+        "despues": "La detención preventiva y las medidas cautelares personales"
+      },
+      {
+        "opcionId": "cmvvysbrt000tvdcwiraicpwy",
+        "antes": "Los procesos disciplinarios escolares",
+        "despues": "Los procesos disciplinarios escolares y los reglamentos de convivencia"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvysbsc0011vdcwfyebx4id",
+    "opciones": [
+      {
+        "opcionId": "cmvvysbsc0012vdcwh1a3oq8w",
+        "antes": "El incumplimiento no deberá utilizarse como fundamento para una sentencia sancionatoria ni para agravar una medida socio-educativa",
+        "despues": "El incumplimiento no deberá utilizarse como fundamento para una sentencia sancionatoria ni para agravar una medida socio-educativa"
+      },
+      {
+        "opcionId": "cmvvysbsc0013vdcwuirsvacd",
+        "antes": "El incumplimiento se toma como admisión de culpabilidad",
+        "despues": "El incumplimiento se toma como admisión de culpabilidad y se usa como fundamento para la sentencia sancionatoria"
+      },
+      {
+        "opcionId": "cmvvysbsc0014vdcwz675rh9u",
+        "antes": "Se agrava automáticamente la medida socio-educativa",
+        "despues": "Se agrava automáticamente la medida socio-educativa que se le hubiera impuesto, en proporción al incumplimiento"
+      },
+      {
+        "opcionId": "cmvvysbsc0015vdcw1pr8isom",
+        "antes": "Se le impone privación de libertad",
+        "despues": "Se revoca el mecanismo restaurativo y se le impone de inmediato una medida socio-educativa privativa de libertad"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvysbsp001dvdcw0p5kcdnh",
+    "opciones": [
+      {
+        "opcionId": "cmvvysbsp001evdcwtmhczii6",
+        "antes": "Está prohibido: la contratación debe ser para labores específicas, y se prohíbe contratarla para trabajos múltiples o imponerle labores para las que no fue contratada",
+        "despues": "Está prohibido: la contratación debe ser para labores específicas, y se prohíbe contratarla para trabajos múltiples o imponerle otras labores"
+      },
+      {
+        "opcionId": "cmvvysbsp001fvdcwkgxh84sb",
+        "antes": "Es lícito porque es mayor de 14 años",
+        "despues": "Es lícito, porque es mayor de 14 años y la ley permite el trabajo del hogar por cuenta ajena con autorización de la Defensoría"
+      },
+      {
+        "opcionId": "cmvvysbsp001gvdcw2jv6ylne",
+        "antes": "Es lícito si se le paga más",
+        "despues": "Es lícito si se le paga más que el salario mínimo por las labores adicionales y no se afecta su asistencia a la unidad educativa"
+      },
+      {
+        "opcionId": "cmvvysbsp001hvdcw9o84ercm",
+        "antes": "Solo está prohibido si trabaja de noche",
+        "despues": "Solo está prohibido si trabaja de noche o más de seis horas diarias; las labores múltiples están permitidas en el trabajo del hogar"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvysbt8001pvdcwdrhef0wo",
+    "opciones": [
+      {
+        "opcionId": "cmvvysbt8001qvdcw3u6xz42q",
+        "antes": "La Jueza o Juez Público en materia de Niñez y Adolescencia, previo proceso y con la finalidad de protegerlo",
+        "despues": "La Jueza o Juez Público en materia de Niñez y Adolescencia, previo proceso y con la finalidad de protegerlo"
+      },
+      {
+        "opcionId": "cmvvysbt8001rvdcw8bm87qr3",
+        "antes": "La directora, por razones de urgencia",
+        "despues": "La directora de la unidad educativa, por razones de urgencia, informando luego a la Defensoría de la Niñez"
+      },
+      {
+        "opcionId": "cmvvysbt8001svdcw1ghvvfpo",
+        "antes": "La Junta Escolar, en asamblea",
+        "despues": "La Junta Escolar en asamblea, a solicitud de la directora y con acta firmada por los padres de familia"
+      },
+      {
+        "opcionId": "cmvvysbt8001tvdcw2qk8t10q",
+        "antes": "La Defensoría, mediante resolución administrativa definitiva",
+        "despues": "La Defensoría de la Niñez, mediante resolución administrativa definitiva, sin necesidad de proceso judicial"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvysbth001vvdcwga95qbqg",
+    "opciones": [
+      {
+        "opcionId": "cmvvysbth001wvdcw7j1ws2o0",
+        "antes": "La madre y el padre o cualquiera de los progenitores, los descendientes, los ascendientes y parientes colaterales, conforme al cómputo civil",
+        "despues": "La madre y el padre o cualquiera de los progenitores, los descendientes, los ascendientes y parientes colaterales, conforme al cómputo civil"
+      },
+      {
+        "opcionId": "cmvvysbth001xvdcw7si3jzue",
+        "antes": "Solo la madre y el padre biológicos",
+        "despues": "Solo la madre y el padre biológicos y los hermanos del niño, con exclusión de los demás ascendientes y parientes colaterales"
+      },
+      {
+        "opcionId": "cmvvysbth001yvdcwfmweebf8",
+        "antes": "Quienes conviven bajo el mismo techo con el niño",
+        "despues": "Quienes conviven bajo el mismo techo con el niño y asumen su cuidado, sean o no parientes, conforme al cómputo civil"
+      },
+      {
+        "opcionId": "cmvvysbth001zvdcwj1xa74gs",
+        "antes": "La familia que obtiene la guarda judicial",
+        "despues": "La familia que obtiene la guarda judicial del niño, sus descendientes, ascendientes y parientes colaterales"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvysbtp0021vdcwwofr4uhg",
+    "opciones": [
+      {
+        "opcionId": "cmvvysbtp0022vdcwb8f8gmlu",
+        "antes": "Goza de todos los derechos y garantías de la CPE y del Código, salvo los restringidos por las sanciones legalmente impuestas",
+        "despues": "Goza de todos los derechos y garantías de la CPE y del Código, salvo los restringidos por las sanciones legalmente impuestas"
+      },
+      {
+        "opcionId": "cmvvysbtp0023vdcw54eefq9w",
+        "antes": "Pierde el derecho a la educación mientras dure la medida",
+        "despues": "Pierde el derecho a la educación mientras dure la medida, y conserva los demás derechos y garantías de la CPE y del Código"
+      },
+      {
+        "opcionId": "cmvvysbtp0024vdcw8f55kdkf",
+        "antes": "Pierde todos sus derechos civiles",
+        "despues": "Pierde todos sus derechos civiles mientras dure la medida, y conserva solo los derechos a la vida, la salud y la integridad"
+      },
+      {
+        "opcionId": "cmvvysbtp0025vdcwnym6n38n",
+        "antes": "Queda bajo la tutela del director del centro, sin derechos propios",
+        "despues": "Queda bajo la tutela del director del centro, que ejerce sus derechos en su representación hasta que concluya la medida"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvytdmj0001vddoaa89rwe7",
+    "opciones": [
+      {
+        "opcionId": "cmvvytdmj0002vddoujhj14zb",
+        "antes": "Representantes de organizaciones estudiantiles de entre 10 y 18 años, con al menos un 50% de niñas y adolescentes mujeres",
+        "despues": "Representantes de organizaciones estudiantiles de entre 10 y 18 años, con al menos un 50% de niñas y adolescentes mujeres"
+      },
+      {
+        "opcionId": "cmvvytdmj0003vddohzsnns9w",
+        "antes": "Estudiantes de entre 12 y 18 años, con al menos un 30% de mujeres",
+        "despues": "Representantes estudiantiles de entre 12 y 18 años, con al menos un 30% de niñas y adolescentes mujeres"
+      },
+      {
+        "opcionId": "cmvvytdmj0004vddowbklz01b",
+        "antes": "Solo estudiantes de unidades educativas públicas",
+        "despues": "Solo estudiantes de unidades educativas públicas, de entre 10 y 18 años, elegidos por sus compañeros"
+      },
+      {
+        "opcionId": "cmvvytdmj0005vddotbw5v51r",
+        "antes": "Estudiantes de entre 10 y 18 años designados por el director, sin cuota de género",
+        "despues": "Estudiantes de entre 10 y 18 años designados por el director de cada unidad, sin cuota de género"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvytdn8000dvddo00thviyk",
+    "opciones": [
+      {
+        "opcionId": "cmvvytdn8000evddo6vedf7ww",
+        "antes": "Los NNA tienen derecho a recibir información y educación para la sexualidad, en forma prioritaria de sus padres o tutores, y también dentro del sistema educativo",
+        "despues": "Los NNA tienen derecho a recibir información y educación para la sexualidad, en forma prioritaria de sus padres o tutores, y también dentro del sistema educativo"
+      },
+      {
+        "opcionId": "cmvvytdn8000fvddofii8cy3h",
+        "antes": "Los padres tienen razón: es competencia exclusiva de la familia",
+        "despues": "Los padres tienen razón: la educación para la sexualidad es competencia exclusiva de la familia, y la unidad educativa solo puede brindarla con su autorización"
+      },
+      {
+        "opcionId": "cmvvytdn8000gvddot6736vb4",
+        "antes": "Solo los centros de salud pueden brindarla",
+        "despues": "Solo los centros de salud pueden brindar información y educación para la sexualidad, en forma prioritaria y con el consentimiento de los padres o tutores"
+      },
+      {
+        "opcionId": "cmvvytdn8000hvddogg1c1ku9",
+        "antes": "Solo se brinda a mayores de 18 años",
+        "despues": "La educación para la sexualidad solo se brinda en el sistema educativo a partir de los 18 años; antes, corresponde en forma exclusiva a los padres"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvytdnh000jvddog7vzdtlw",
+    "opciones": [
+      {
+        "opcionId": "cmvvytdnh000kvddocmicci2f",
+        "antes": "Un bienestar completo, físico, mental y social, y servicios de salud gratuitos y de calidad para prevención, tratamiento y rehabilitación",
+        "despues": "Un bienestar completo, físico, mental y social, y servicios de salud gratuitos y de calidad para prevención, tratamiento y rehabilitación"
+      },
+      {
+        "opcionId": "cmvvytdnh000lvddo7gxvjxt3",
+        "antes": "Solo la atención de emergencias",
+        "despues": "Solo la atención gratuita de emergencias y de enfermedades graves, en la red de servicios públicos de salud del país"
+      },
+      {
+        "opcionId": "cmvvytdnh000mvddorjem608h",
+        "antes": "Servicios de salud con copago reducido",
+        "despues": "Servicios de salud con copago reducido para prevención, tratamiento y rehabilitación, según los ingresos de la familia"
+      },
+      {
+        "opcionId": "cmvvytdnh000nvddo3witeugp",
+        "antes": "Un bienestar físico y psicológico, sin incluir lo social",
+        "despues": "Un bienestar físico y psicológico, sin incluir lo social, y servicios de salud gratuitos solo en el primer nivel de atención"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvytdnr000pvddokumwvnc5",
+    "opciones": [
+      {
+        "opcionId": "cmvvytdnr000qvddoh49h489x",
+        "antes": "Hacer cesar la amenaza o restituir el derecho, conforme a la CPE y el Código Procesal Constitucional",
+        "despues": "Hacer cesar la amenaza o restituir el derecho, conforme a la CPE y el Código Procesal Constitucional"
+      },
+      {
+        "opcionId": "cmvvytdnr000rvddoq555x3kh",
+        "antes": "Imponer sanciones penales al responsable",
+        "despues": "Imponer sanciones penales al responsable de la amenaza o vulneración del derecho del NNA"
+      },
+      {
+        "opcionId": "cmvvytdnr000svddoyrw423x5",
+        "antes": "Obtener solo una indemnización económica",
+        "despues": "Obtener solo una indemnización económica por el daño causado al NNA y a su familia"
+      },
+      {
+        "opcionId": "cmvvytdnr000tvddof0y7ejxs",
+        "antes": "Proceden solo contra instituciones públicas",
+        "despues": "Hacer cesar la amenaza, pero solo cuando la vulneración proviene de instituciones públicas"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvytdon001dvddox2chbh0y",
+    "opciones": [
+      {
+        "opcionId": "cmvvytdon001evddofru3z3oc",
+        "antes": "El derecho a vivir en condiciones que garanticen una existencia digna",
+        "despues": "El derecho a vivir en condiciones que garanticen una existencia digna"
+      },
+      {
+        "opcionId": "cmvvytdon001fvddop2u03tiq",
+        "antes": "Solo la prohibición de privarle de la vida",
+        "despues": "Solo la prohibición de privarle de la vida en cualquier circunstancia"
+      },
+      {
+        "opcionId": "cmvvytdon001gvddoubtk3q46",
+        "antes": "Solo el derecho a nacer",
+        "despues": "Solo el derecho a nacer y a ser inscrito en el registro civil"
+      },
+      {
+        "opcionId": "cmvvytdon001hvddor6ak9zm2",
+        "antes": "Solo el acceso a servicios de salud",
+        "despues": "Solo el acceso a servicios de salud gratuitos desde la gestación"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwwfvpg0001vd4cj0ufq79b",
+    "opciones": [
+      {
+        "opcionId": "cmvwwfvpg0002vd4cc3drqv4q",
+        "antes": "La obligación de inscribir y controlar la asistencia y el aprovechamiento escolar del hijo",
+        "despues": "La obligación de inscribir y controlar la asistencia y el aprovechamiento escolar del hijo"
+      },
+      {
+        "opcionId": "cmvwwfvpg0003vd4c2ps5t1vf",
+        "antes": "Una multa impuesta por el director del CEA",
+        "despues": "Una multa impuesta por el director del CEA, equivalente a los días de inasistencia del hijo"
+      },
+      {
+        "opcionId": "cmvwwfvpg0004vd4cja3rtydl",
+        "antes": "La privación de libertad del padre",
+        "despues": "La privación de libertad del padre por abandono de los deberes de asistencia familiar"
+      },
+      {
+        "opcionId": "cmvwwfvpg0005vd4c941umsgq",
+        "antes": "La expulsión del adolescente del sistema",
+        "despues": "La expulsión del adolescente del sistema educativo hasta que el padre regularice su inscripción"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwwfvq1000dvd4c7hb9777h",
+    "opciones": [
+      {
+        "opcionId": "cmvwwfvq2000evd4cyn246ddw",
+        "antes": "Las pedagógicas y las que fomenten los vínculos con la familia y la comunidad",
+        "despues": "Las pedagógicas y las que fomenten los vínculos con la familia y la comunidad"
+      },
+      {
+        "opcionId": "cmvwwfvq2000fvd4c64jsg6no",
+        "antes": "Las de institucionalización en centros de acogida",
+        "despues": "Las de institucionalización en centros de acogida, por su mayor protección"
+      },
+      {
+        "opcionId": "cmvwwfvq2000gvd4cab6ahjjx",
+        "antes": "Las sancionatorias",
+        "despues": "Las sancionatorias, que disuaden al responsable de la vulneración del derecho"
+      },
+      {
+        "opcionId": "cmvwwfvq2000hvd4cre6bji07",
+        "antes": "Las de separación familiar",
+        "despues": "Las de separación familiar, cuando el entorno no garantiza los derechos"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwwfvqn000pvd4crh3gnq7k",
+    "opciones": [
+      {
+        "opcionId": "cmvwwfvqn000qvd4ctimlny0p",
+        "antes": "Cada cinco años; lo convoca el Ministerio de Justicia; aprueba el Plan Plurinacional, con decisiones vinculantes",
+        "despues": "Cada cinco años; lo convoca el Ministerio de Justicia; aprueba el Plan Plurinacional, con decisiones vinculantes"
+      },
+      {
+        "opcionId": "cmvwwfvqn000rvd4cnlx44zlf",
+        "antes": "Cada año; lo convoca el Ministerio de Educación",
+        "despues": "Cada año; lo convoca el Ministerio de Educación; aprueba el Plan Plurinacional, con decisiones vinculantes"
+      },
+      {
+        "opcionId": "cmvwwfvqn000svd4cker4ifm4",
+        "antes": "Cada cinco años; lo convoca la Defensoría del Pueblo; sus decisiones son orientativas",
+        "despues": "Cada cinco años; lo convoca la Defensoría del Pueblo; aprueba el Plan Plurinacional, con decisiones orientativas"
+      },
+      {
+        "opcionId": "cmvwwfvqn000tvd4c6wex3m4e",
+        "antes": "Cada dos años; lo convocan los municipios",
+        "despues": "Cada dos años; lo convocan los gobiernos municipales; aprueba los planes municipales, con decisiones orientativas"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwwfvr80011vd4cpdmhu7fn",
+    "opciones": [
+      {
+        "opcionId": "cmvwwfvr90012vd4cnxj2adof",
+        "antes": "La Instancia Técnica Departamental de Política Social, dependiente de la gobernación",
+        "despues": "La Instancia Técnica Departamental de Política Social, dependiente de la gobernación"
+      },
+      {
+        "opcionId": "cmvwwfvr90013vd4csic831xe",
+        "antes": "La Defensoría de la Niñez municipal",
+        "despues": "La Defensoría de la Niñez y Adolescencia del gobierno municipal donde vive el niño"
+      },
+      {
+        "opcionId": "cmvwwfvr90014vd4cv286h3ti",
+        "antes": "El CEA",
+        "despues": "El CEA o la unidad educativa donde estudia, con apoyo de la Junta Escolar"
+      },
+      {
+        "opcionId": "cmvwwfvr90015vd4co6usnm62",
+        "antes": "El Ministerio de Educación",
+        "despues": "El Ministerio de Educación, mediante su programa nacional de familias sustitutas"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwwfvrt001dvd4cjkted2x6",
+    "opciones": [
+      {
+        "opcionId": "cmvwwfvrt001evd4cofx9pd9r",
+        "antes": "El Estado y la sociedad, y es un derecho de las niñas, niños y adolescentes exigir su cumplimiento",
+        "despues": "El Estado y la sociedad, y es un derecho de las niñas, niños y adolescentes exigir su cumplimiento"
+      },
+      {
+        "opcionId": "cmvwwfvrt001fvd4cs8zh5v82",
+        "antes": "Solo el Estado central",
+        "despues": "Solo el Estado central, mediante el Ministerio de Justicia como ente rector del SIPPROINA"
+      },
+      {
+        "opcionId": "cmvwwfvrt001gvd4cjqlyb3s3",
+        "antes": "Solo las familias",
+        "despues": "Solo las familias, como primer ámbito de protección de las niñas, niños y adolescentes"
+      },
+      {
+        "opcionId": "cmvwwfvrt001hvd4c646wph4n",
+        "antes": "Solo las Defensorías",
+        "despues": "Solo las Defensorías de la Niñez y Adolescencia de los gobiernos municipales e IOC"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwwfvs3001jvd4cqq43n3n1",
+    "opciones": [
+      {
+        "opcionId": "cmvwwfvs3001kvd4cwrwd2yhf",
+        "antes": "Para que ingresen preferentemente al sistema educativo regular o, en su caso, a centros de educación especial",
+        "despues": "Para que ingresen preferentemente al sistema educativo regular o, en su caso, a centros de educación especial"
+      },
+      {
+        "opcionId": "cmvwwfvs3001lvd4cato3ng6j",
+        "antes": "Para excluirlos del sistema regular",
+        "despues": "Para derivarlos a centros de educación especial y excluirlos del sistema educativo regular"
+      },
+      {
+        "opcionId": "cmvwwfvs3001mvd4c1j80k7ta",
+        "antes": "Solo para otorgar el bono de discapacidad",
+        "despues": "Solo para otorgarles el bono o renta de discapacidad que corresponde a su grado"
+      },
+      {
+        "opcionId": "cmvwwfvs3001nvd4cm80foa8g",
+        "antes": "Para determinar su capacidad jurídica",
+        "despues": "Para determinar su capacidad jurídica y designarles un tutor que actúe en su nombre"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwwfvse001pvd4cjclm9vvc",
+    "opciones": [
+      {
+        "opcionId": "cmvwwfvse001qvd4cjcnc7qi6",
+        "antes": "Tener al menos 25 años y ser por lo menos 18 años mayor que el adoptado",
+        "despues": "Tener al menos 25 años y ser por lo menos 18 años mayor que el adoptado"
+      },
+      {
+        "opcionId": "cmvwwfvse001rvd4cc2izj2s2",
+        "antes": "Tener al menos 18 años y ser 10 años mayor",
+        "despues": "Tener al menos 18 años y ser por lo menos 10 años mayor que el adoptado"
+      },
+      {
+        "opcionId": "cmvwwfvse001svd4ctd2wqnlj",
+        "antes": "Tener al menos 30 años",
+        "despues": "Tener al menos 30 años y ser por lo menos 15 años mayor que el adoptado"
+      },
+      {
+        "opcionId": "cmvwwfvse001tvd4cz8zmn3ru",
+        "antes": "Tener al menos 25 años, sin diferencia mínima de edad",
+        "despues": "Tener al menos 25 años, sin ninguna diferencia mínima de edad con el adoptado"
+      }
+    ]
+  }
+]

@@ -1,0 +1,652 @@
+[
+  {
+    "preguntaId": "cmvvxflyx0001vdxcpnlz9df6",
+    "opciones": [
+      {
+        "opcionId": "cmvvxflyx0002vdxcedp2ehps",
+        "antes": "El Ministerio de Educación, a través del Viceministerio de Educación Alternativa y Especial, mediante las Direcciones Departamentales de Educación",
+        "despues": "El Ministerio de Educación, a través del Viceministerio de Educación Alternativa y Especial, mediante las Direcciones Departamentales de Educación"
+      },
+      {
+        "opcionId": "cmvvxflyy0003vdxcbg0wjlda",
+        "antes": "Cada Centro de Educación Alternativa, mediante su director",
+        "despues": "Cada Centro de Educación Alternativa, mediante su director, que firma los certificados y títulos de los participantes que concluyen la formación"
+      },
+      {
+        "opcionId": "cmvvxflyy0004vdxcdvgy7l7f",
+        "antes": "Las Direcciones Distritales Educativas",
+        "despues": "Las Direcciones Distritales Educativas, mediante sus técnicos de Educación Alternativa, con el visto bueno de la Dirección Departamental"
+      },
+      {
+        "opcionId": "cmvvxflyy0005vdxcxyvgvftq",
+        "antes": "Las universidades públicas, por convenio",
+        "despues": "Las universidades públicas, por convenio con el Ministerio de Educación, a través de sus programas de formación técnica y extensión"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvxflz60007vdxcpp2t8umi",
+    "opciones": [
+      {
+        "opcionId": "cmvvxflz60008vdxc6quenl70",
+        "antes": "Un Título de Nivel Técnico Medio, mientras que para Básico y Auxiliar se otorgan certificados",
+        "despues": "Un Título de Nivel Técnico Medio, mientras que para Básico y Auxiliar se otorgan certificados"
+      },
+      {
+        "opcionId": "cmvvxflz60009vdxcsclicxem",
+        "antes": "Un certificado de nivel, igual que en los otros niveles",
+        "despues": "Un certificado de nivel Técnico Medio, igual que en los niveles Técnico Básico y Técnico Auxiliar"
+      },
+      {
+        "opcionId": "cmvvxflz6000avdxcqz1gez3m",
+        "antes": "Un diploma de bachiller técnico",
+        "despues": "Un Diploma de Bachiller Técnico, mientras que para Básico y Auxiliar se otorgan certificados"
+      },
+      {
+        "opcionId": "cmvvxflz6000bvdxcz3ebzek5",
+        "antes": "Un título de técnico superior",
+        "despues": "Un Título de Técnico Superior, mientras que para Básico y Auxiliar se otorgan títulos de nivel"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvxflzn000jvdxcano7nh2k",
+    "opciones": [
+      {
+        "opcionId": "cmvvxflzn000kvdxc1w7k93d4",
+        "antes": "Declaración Jurada, Certificado Único de Trámite (CUT-ETTP) y dos fotos 4x4",
+        "despues": "Declaración Jurada, Certificado Único de Trámite (CUT-ETTP) y dos fotos 4x4"
+      },
+      {
+        "opcionId": "cmvvxflzn000lvdxcm9vivp82",
+        "antes": "Fotocopia de la cédula, certificado de nacimiento y libreta escolar",
+        "despues": "Fotocopia de la cédula de identidad, certificado de nacimiento y libreta escolar"
+      },
+      {
+        "opcionId": "cmvvxflzn000mvdxcv5lvpab8",
+        "antes": "Solo el CUT-ETTP",
+        "despues": "Solo el Certificado Único de Trámite (CUT-ETTP), generado por el sistema"
+      },
+      {
+        "opcionId": "cmvvxflzn000nvdxcjt238x28",
+        "antes": "Declaración jurada y comprobante de pago del trámite",
+        "despues": "Declaración Jurada y comprobante de pago del trámite de certificación"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvxfm00000pvdxcdusolsqd",
+    "opciones": [
+      {
+        "opcionId": "cmvvxfm00000qvdxcem272fve",
+        "antes": "Está prohibido: la certificación es gratuita y se prohíbe cualquier cobro indebido en los CEA fiscales, de convenio y privados",
+        "despues": "Está prohibido: la certificación es gratuita y se prohíbe cualquier cobro indebido en los CEA fiscales, de convenio y privados"
+      },
+      {
+        "opcionId": "cmvvxfm00000rvdxc722f0t3n",
+        "antes": "Es válido por tratarse de un centro privado",
+        "despues": "Es válido por tratarse de un centro privado, siempre que el monto esté incluido en la pensión del semestre"
+      },
+      {
+        "opcionId": "cmvvxfm00000svdxc5rbid0fs",
+        "antes": "Es válido si el cobro no supera Bs 100",
+        "despues": "Es válido si el cobro no supera Bs 100 y se emite un recibo a cada participante por el trámite"
+      },
+      {
+        "opcionId": "cmvvxfm00000tvdxccbqw9km5",
+        "antes": "Solo la Dirección Distrital puede cobrar",
+        "despues": "Solo la Dirección Distrital puede cobrar por el trámite, nunca el CEA, sea fiscal, de convenio o privado"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvxfm0b000vvdxcq1amce0a",
+    "opciones": [
+      {
+        "opcionId": "cmvvxfm0b000wvdxcy18x35d5",
+        "antes": "Los centros de educación alternativa fiscales, de convenio y privados que desarrollan Educación Técnica Tecnológica y Productiva",
+        "despues": "Los centros de educación alternativa fiscales, de convenio y privados que desarrollan Educación Técnica Tecnológica y Productiva"
+      },
+      {
+        "opcionId": "cmvvxfm0b000xvdxceg34ztp6",
+        "antes": "Solo los fiscales y de convenio",
+        "despues": "Solo los centros de educación alternativa fiscales y de convenio que desarrollan Educación Técnica Tecnológica y Productiva"
+      },
+      {
+        "opcionId": "cmvvxfm0c000yvdxcxd22bixz",
+        "antes": "Solo los centros fiscales",
+        "despues": "Solo los centros de educación alternativa fiscales que desarrollan Educación Técnica Tecnológica y Productiva"
+      },
+      {
+        "opcionId": "cmvvxfm0c000zvdxcphskni2g",
+        "antes": "Solo los institutos técnicos de educación superior",
+        "despues": "Solo los institutos técnicos de educación superior que desarrollan formación técnica para jóvenes y adultos"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvxfm0o0011vdxcw2xbp7w5",
+    "opciones": [
+      {
+        "opcionId": "cmvvxfm0o0012vdxc42hv10ee",
+        "antes": "La o el Director del CEA, por el sistema certificacionalt.sie.gob.bo, tras verificar la carga horaria, la aprobación de módulos, los datos personales y el registro de calificaciones",
+        "despues": "La o el Director del CEA, por certificacionalt.sie.gob.bo, tras verificar la carga horaria, la aprobación de módulos, los datos personales y el registro de calificaciones"
+      },
+      {
+        "opcionId": "cmvvxfm0o0013vdxczg06e0aw",
+        "antes": "El propio participante, ante la Dirección Departamental",
+        "despues": "El propio participante, ante la Dirección Departamental, tras verificar con el CEA su carga horaria, la aprobación de módulos y el registro de calificaciones"
+      },
+      {
+        "opcionId": "cmvvxfm0o0014vdxcp1ts9jmx",
+        "antes": "El facilitador del módulo, por el SIE Alternativa",
+        "despues": "El facilitador del último módulo, por el SIE Alternativa, tras verificar la carga horaria, la aprobación de los módulos y el registro de calificaciones"
+      },
+      {
+        "opcionId": "cmvvxfm0o0015vdxcnzoa2wn9",
+        "antes": "El Director Distrital, por correo institucional",
+        "despues": "El Director Distrital, por correo institucional a la Departamental, tras verificar la carga horaria, la aprobación de módulos y los datos personales"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvxfm100017vdxchzvzrho1",
+    "opciones": [
+      {
+        "opcionId": "cmvvxfm100018vdxczeb62yc1",
+        "antes": "En un máximo de 48 horas posteriores a la impresión",
+        "despues": "En un máximo de 48 horas posteriores a la impresión"
+      },
+      {
+        "opcionId": "cmvvxfm100019vdxcdodtml0o",
+        "antes": "En un máximo de 24 horas",
+        "despues": "En un máximo de 24 horas posteriores a la impresión"
+      },
+      {
+        "opcionId": "cmvvxfm10001avdxc2jqw5f6a",
+        "antes": "En 10 días hábiles",
+        "despues": "En un máximo de 10 días hábiles posteriores a la impresión"
+      },
+      {
+        "opcionId": "cmvvxfm10001bvdxc5m063wpg",
+        "antes": "Al cierre del semestre",
+        "despues": "Al cierre del semestre, junto con los demás certificados"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvxfm1q001pvdxcia23i0go",
+    "opciones": [
+      {
+        "opcionId": "cmvvxfm1q001qvdxcwjnst1uf",
+        "antes": "En un máximo de diez (10) días hábiles desde que recibe el comprobante de pago y la documentación",
+        "despues": "En un máximo de diez (10) días hábiles desde que recibe el comprobante de pago y la documentación"
+      },
+      {
+        "opcionId": "cmvvxfm1q001rvdxc541hox8c",
+        "antes": "En 24 horas hábiles",
+        "despues": "En un máximo de veinticuatro (24) horas hábiles desde que recibe el comprobante de pago"
+      },
+      {
+        "opcionId": "cmvvxfm1q001svdxcrxzqulcv",
+        "antes": "En 48 horas",
+        "despues": "En un máximo de cuarenta y ocho (48) horas desde que recibe la solicitud del interesado"
+      },
+      {
+        "opcionId": "cmvvxfm1r001tvdxcgijaxf81",
+        "antes": "En treinta días calendario",
+        "despues": "En un máximo de treinta (30) días calendario desde que recibe la solicitud del interesado"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvxfm22001vvdxcgkd9lnre",
+    "opciones": [
+      {
+        "opcionId": "cmvvxfm22001wvdxc800cj1de",
+        "antes": "Una denuncia escrita ante la FELCC y la publicación del extravío en al menos un medio escrito de circulación nacional",
+        "despues": "Una denuncia escrita ante la FELCC y la publicación del extravío en al menos un medio escrito de circulación nacional"
+      },
+      {
+        "opcionId": "cmvvxfm22001xvdxcap3zhk7s",
+        "antes": "El título original deteriorado",
+        "despues": "El título original deteriorado o, si no lo tiene, una certificación del CEA donde concluyó su formación técnica"
+      },
+      {
+        "opcionId": "cmvvxfm22001yvdxc2phxpd5u",
+        "antes": "Una resolución judicial de reposición",
+        "despues": "Una resolución judicial de reposición del título, emitida por un juez en materia civil de su domicilio"
+      },
+      {
+        "opcionId": "cmvvxfm22001zvdxc2q2s9t86",
+        "antes": "Una declaración jurada notariada, sin denuncia",
+        "despues": "Una declaración jurada notariada sobre la pérdida, sin necesidad de denuncia policial ni publicación"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvxfm2c0021vdxcrvcrtsnh",
+    "opciones": [
+      {
+        "opcionId": "cmvvxfm2c0022vdxcxd4emeqm",
+        "antes": "Ante el Ministerio de Educación y/o sus oficinas regionales en las DDE; los certificados de Básico y Auxiliar se legalizan ante la Dirección Departamental",
+        "despues": "Ante el Ministerio de Educación y/o sus oficinas regionales en las DDE; los certificados de Básico y Auxiliar se legalizan ante la Dirección Departamental"
+      },
+      {
+        "opcionId": "cmvvxfm2c0023vdxcon2ef1hn",
+        "antes": "Todos se legalizan en la Dirección Distrital",
+        "despues": "Todos, el título de Técnico Medio y los certificados de Técnico Básico y Auxiliar, se legalizan ante la Dirección Distrital Educativa"
+      },
+      {
+        "opcionId": "cmvvxfm2c0024vdxcv0sf7ph5",
+        "antes": "El título se legaliza en la DDE; los certificados, en el CEA",
+        "despues": "El título de Técnico Medio se legaliza ante la Dirección Departamental; los certificados de Básico y Auxiliar, ante el CEA que los tramitó"
+      },
+      {
+        "opcionId": "cmvvxfm2c0025vdxcza22zck7",
+        "antes": "Todos se legalizan solo en el Viceministerio, en La Paz",
+        "despues": "Todos, el título y los certificados, se legalizan solo en el Viceministerio de Educación Alternativa y Especial, en la ciudad de La Paz"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvxfm2h0027vdxc3bb1n402",
+    "opciones": [
+      {
+        "opcionId": "cmvvxfm2h0028vdxchu2i6uwm",
+        "antes": "En un máximo de veinticuatro (24) horas hábiles, equivalentes a un día",
+        "despues": "En un máximo de veinticuatro (24) horas hábiles, equivalentes a un día"
+      },
+      {
+        "opcionId": "cmvvxfm2h0029vdxcd4q5wpq2",
+        "antes": "En diez días hábiles",
+        "despues": "En un máximo de diez (10) días hábiles desde la solicitud"
+      },
+      {
+        "opcionId": "cmvvxfm2h002avdxcs0x3zuww",
+        "antes": "En 48 horas",
+        "despues": "En un máximo de cuarenta y ocho (48) horas desde la solicitud"
+      },
+      {
+        "opcionId": "cmvvxfm2h002bvdxct78fh5mz",
+        "antes": "En cinco días hábiles",
+        "despues": "En un máximo de cinco (5) días hábiles desde la solicitud"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvxfm2q002dvdxct4rwy55w",
+    "opciones": [
+      {
+        "opcionId": "cmvvxfm2q002evdxcb31kqqm2",
+        "antes": "Solo si la modificación está respaldada por una resolución judicial o por una resolución administrativa del SERECI o del SEGIP",
+        "despues": "Solo si la modificación está respaldada por una resolución judicial o por una resolución administrativa del SERECI o del SEGIP"
+      },
+      {
+        "opcionId": "cmvvxfm2q002fvdxc4z5p5c6r",
+        "antes": "Con la sola nota del director del CEA",
+        "despues": "Con la sola nota del director del CEA que confirme el error de tipeo, adjuntando la fotocopia de la cédula de identidad"
+      },
+      {
+        "opcionId": "cmvvxfm2q002gvdxcawlwl3ao",
+        "antes": "Con una declaración jurada de la interesada",
+        "despues": "Con una declaración jurada de la interesada sobre el error de tipeo, adjuntando su certificado de nacimiento"
+      },
+      {
+        "opcionId": "cmvvxfm2q002hvdxct8yakn8z",
+        "antes": "De oficio, en cualquier caso",
+        "despues": "De oficio, en cualquier caso, cuando la Dirección Departamental verifique el error en el sistema de certificación"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvxfm2z002jvdxcckovkcv7",
+    "opciones": [
+      {
+        "opcionId": "cmvvxfm2z002kvdxczkvn6mxh",
+        "antes": "Queda sujeto a procesos administrativos y legales, bajo responsabilidad directa de la DDE a través de su Unidad de Asuntos Jurídicos",
+        "despues": "Queda sujeto a procesos administrativos y legales, bajo responsabilidad directa de la DDE a través de su Unidad de Asuntos Jurídicos"
+      },
+      {
+        "opcionId": "cmvvxfm2z002lvdxc22ikh7lq",
+        "antes": "No tiene responsabilidad si el certificado ya se emitió",
+        "despues": "No tiene responsabilidad si el certificado ya se emitió, porque la verificación final corresponde a la Dirección Departamental"
+      },
+      {
+        "opcionId": "cmvvxfm2z002mvdxcxb25b0ts",
+        "antes": "Solo se anula el certificado, sin consecuencias para el director",
+        "despues": "Solo se anula el certificado del participante, sin consecuencias administrativas ni legales para el director del CEA"
+      },
+      {
+        "opcionId": "cmvvxfm2z002nvdxcknas4ils",
+        "antes": "Responde solo el técnico distrital",
+        "despues": "Responde solo el técnico distrital que revisó la carpeta, porque es quien debía verificar la carga horaria del participante"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvxfm38002pvdxcd6922riq",
+    "opciones": [
+      {
+        "opcionId": "cmvvxfm38002qvdxcufkwslwr",
+        "antes": "Se rotulan, se retienen y quedan sujetos a las medidas legales correspondientes",
+        "despues": "Se rotulan, se retienen y quedan sujetos a las medidas legales correspondientes"
+      },
+      {
+        "opcionId": "cmvvxfm38002rvdxcttiyisdk",
+        "antes": "Se regularizan de oficio",
+        "despues": "Se regularizan de oficio por la Dirección Departamental, previo informe del CEA"
+      },
+      {
+        "opcionId": "cmvvxfm38002svdxc6pq0u5ms",
+        "antes": "Se devuelven al titular con una observación",
+        "despues": "Se devuelven al titular con una observación para que inicie su regularización"
+      },
+      {
+        "opcionId": "cmvvxfm38002tvdxcmvwef218",
+        "antes": "Mantienen su validez hasta una sentencia firme",
+        "despues": "Mantienen su validez hasta que una sentencia firme declare su nulidad"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvxfm3o0031vdxcghxlfi0u",
+    "opciones": [
+      {
+        "opcionId": "cmvvxfm3o0032vdxcumtn80ct",
+        "antes": "Cinco capítulos, veintiocho artículos, cuatro disposiciones finales, cuatro disposiciones transitorias y siete anexos",
+        "despues": "Cinco capítulos, veintiocho artículos, cuatro disposiciones finales, cuatro disposiciones transitorias y siete anexos"
+      },
+      {
+        "opcionId": "cmvvxfm3o0033vdxcrmpszkwd",
+        "antes": "Cuatro capítulos, treinta artículos y cinco anexos",
+        "despues": "Cuatro capítulos, treinta artículos, cinco disposiciones finales, dos disposiciones transitorias y cinco anexos"
+      },
+      {
+        "opcionId": "cmvvxfm3o0034vdxc6p0yzsh6",
+        "antes": "Cinco capítulos, veintiocho artículos y dos disposiciones finales",
+        "despues": "Cinco capítulos, veintiocho artículos, dos disposiciones finales, cuatro disposiciones transitorias y siete anexos"
+      },
+      {
+        "opcionId": "cmvvxfm3o0035vdxc26czheoh",
+        "antes": "Seis capítulos y cuarenta artículos",
+        "despues": "Seis capítulos, cuarenta artículos, cuatro disposiciones finales, cuatro disposiciones transitorias y siete anexos"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvxfm3x0037vdxchefori0k",
+    "opciones": [
+      {
+        "opcionId": "cmvvxfm3x0038vdxcoxhuqzqt",
+        "antes": "La o el Ministro de Educación y la o el Viceministro de Educación Alternativa y Especial",
+        "despues": "La o el Ministro de Educación y la o el Viceministro de Educación Alternativa y Especial"
+      },
+      {
+        "opcionId": "cmvvxfm3x0039vdxc92z2z13s",
+        "antes": "La o el Director Departamental y la o el Director del CEA",
+        "despues": "La o el Director Departamental de Educación y la o el Director del CEA"
+      },
+      {
+        "opcionId": "cmvvxfm3x003avdxcnekcsqb3",
+        "antes": "La o el Director General de Educación Alternativa",
+        "despues": "La o el Director General de Educación Alternativa y la o el Director Departamental"
+      },
+      {
+        "opcionId": "cmvvxfm3x003bvdxcvxlzdsy8",
+        "antes": "La o el Director Distrital",
+        "despues": "La o el Director Distrital Educativo y la o el Subdirector de Educación Alternativa"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvzoziz0001vdhc8r0t1eif",
+    "opciones": [
+      {
+        "opcionId": "cmvvzoziz0002vdhccc5saqc5",
+        "antes": "A la Dirección Distrital Educativa, organizadas por carrera, en un plazo máximo de 72 horas",
+        "despues": "A la Dirección Distrital Educativa, organizadas por carrera, en un plazo máximo de 72 horas"
+      },
+      {
+        "opcionId": "cmvvzoziz0003vdhcghjq6d39",
+        "antes": "A la Dirección Departamental, en 10 días hábiles",
+        "despues": "A la Dirección Departamental de Educación, organizadas por nivel, en un plazo máximo de 10 días hábiles"
+      },
+      {
+        "opcionId": "cmvvzoziz0004vdhcks1wjjon",
+        "antes": "Al Ministerio de Educación, en 24 horas",
+        "despues": "Al Ministerio de Educación, organizadas por participante, en un plazo máximo de 24 horas"
+      },
+      {
+        "opcionId": "cmvvzoziz0005vdhcq7hxpkxw",
+        "antes": "A la Dirección Distrital, en 15 días",
+        "despues": "A la Dirección Distrital Educativa, organizadas por carrera, en un plazo máximo de 15 días"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvzozje0007vdhcawarlvmb",
+    "opciones": [
+      {
+        "opcionId": "cmvvzozje0008vdhci0l08tpi",
+        "antes": "Bs 100: Bs 30 a la cuenta de la Dirección Departamental y Bs 70 a la cuenta del Ministerio de Educación",
+        "despues": "Bs 100: Bs 30 a la cuenta de la Dirección Departamental y Bs 70 a la cuenta del Ministerio de Educación"
+      },
+      {
+        "opcionId": "cmvvzozje0009vdhcjhrv9ogz",
+        "antes": "Bs 100: Bs 70 a la Departamental y Bs 30 al Ministerio",
+        "despues": "Bs 100: Bs 70 a la cuenta de la Dirección Departamental y Bs 30 a la cuenta del Ministerio de Educación"
+      },
+      {
+        "opcionId": "cmvvzozje000avdhci67k885g",
+        "antes": "Bs 50, íntegros al Ministerio",
+        "despues": "Bs 50, depositados íntegramente en la cuenta del Ministerio de Educación por el interesado"
+      },
+      {
+        "opcionId": "cmvvzozje000bvdhcenfaw5gr",
+        "antes": "Es gratuito",
+        "despues": "Es gratuito, como todo el proceso de certificación de la Educación Técnica Tecnológica y Productiva"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvzozjh000dvdhc2ikxuaff",
+    "opciones": [
+      {
+        "opcionId": "cmvvzozjh000evdhcdp6in7hd",
+        "antes": "En un máximo de diez (10) días hábiles desde que recibe el comprobante de pago y la Resolución Administrativa",
+        "despues": "En un máximo de diez (10) días hábiles desde que recibe el comprobante de pago y la Resolución Administrativa"
+      },
+      {
+        "opcionId": "cmvvzozjh000fvdhc177miqy2",
+        "antes": "En 72 horas",
+        "despues": "En un máximo de setenta y dos (72) horas desde que recibe el comprobante de pago y la Resolución Administrativa"
+      },
+      {
+        "opcionId": "cmvvzozjh000gvdhc9xdrd2z1",
+        "antes": "En 30 días calendario",
+        "despues": "En un máximo de treinta (30) días calendario desde que recibe la solicitud de anulación del interesado"
+      },
+      {
+        "opcionId": "cmvvzozjh000hvdhctlb741kn",
+        "antes": "En 10 días calendario desde la solicitud",
+        "despues": "En un máximo de diez (10) días calendario desde que recibe la solicitud de anulación del interesado"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvzozjq000jvdhcr96zs6c9",
+    "opciones": [
+      {
+        "opcionId": "cmvvzozjq000kvdhcugchv2on",
+        "antes": "El Ministerio de Educación, a través de la Unidad de Comunicación Social, en coordinación con el VEAE",
+        "despues": "El Ministerio de Educación, a través de la Unidad de Comunicación Social, en coordinación con el VEAE"
+      },
+      {
+        "opcionId": "cmvvzozjq000lvdhcciyeo0nk",
+        "antes": "La Unidad de Gestión de Personal del SEP y Sistemas Informáticos",
+        "despues": "La Unidad de Gestión de Personal del SEP y Sistemas Informáticos, en coordinación con el VEAE"
+      },
+      {
+        "opcionId": "cmvvzozjq000mvdhcysr6h9e4",
+        "antes": "Cada Dirección Departamental",
+        "despues": "Cada Dirección Departamental de Educación, según el modelo aprobado por el Ministerio"
+      },
+      {
+        "opcionId": "cmvvzozjq000nvdhc3uklja91",
+        "antes": "Cada CEA",
+        "despues": "Cada CEA, según el formato base del sistema de certificación, con el visto bueno de la DDE"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvzozjz000pvdhcelpricpg",
+    "opciones": [
+      {
+        "opcionId": "cmvvzozjz000qvdhcc51obt5f",
+        "antes": "Ante la Dirección Departamental de Educación, por sí o mediante apoderado, con los requisitos del Art. 11",
+        "despues": "Ante la Dirección Departamental de Educación, por sí o mediante apoderado, con los requisitos del Art. 11"
+      },
+      {
+        "opcionId": "cmvvzozjz000rvdhcm5dgm03q",
+        "antes": "Ante el CEA donde estudió, exclusivamente",
+        "despues": "Ante el CEA donde estudió, exclusivamente, que tramita la regularización en el sistema de certificación"
+      },
+      {
+        "opcionId": "cmvvzozjz000svdhc9gu9ctwz",
+        "antes": "Ante la Dirección Distrital",
+        "despues": "Ante la Dirección Distrital Educativa, que verifica los requisitos y remite la solicitud a la Departamental"
+      },
+      {
+        "opcionId": "cmvvzozjz000tvdhcho4xyccs",
+        "antes": "Ante el Ministerio de Trabajo",
+        "despues": "Ante el Ministerio de Trabajo, que regulariza las certificaciones técnicas para el ejercicio laboral"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvzozk7000vvdhc8paqb9ny",
+    "opciones": [
+      {
+        "opcionId": "cmvvzozk7000wvdhcnrldt9du",
+        "antes": "En casos de extravío, hurto, robo o deterioro, a solicitud del interesado y previo cumplimiento de requisitos",
+        "despues": "En casos de extravío, hurto, robo o deterioro, a solicitud del interesado y previo cumplimiento de requisitos"
+      },
+      {
+        "opcionId": "cmvvzozk7000xvdhc9aydfshg",
+        "antes": "Solo por extravío",
+        "despues": "Solo en caso de extravío, a solicitud del interesado y previa denuncia ante la FELCC"
+      },
+      {
+        "opcionId": "cmvvzozk7000yvdhcjcaemutp",
+        "antes": "De oficio, cada cinco años",
+        "despues": "De oficio, cada cinco años, para actualizar los datos y la firma electrónica del título"
+      },
+      {
+        "opcionId": "cmvvzozk7000zvdhckq2cjily",
+        "antes": "Cuando el titular cambia de residencia",
+        "despues": "Cuando el titular cambia de residencia a otro departamento y solicita un nuevo título"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvzozkn0017vdhcmz7caa0g",
+    "opciones": [
+      {
+        "opcionId": "cmvvzozkn0018vdhc8t4hpe96",
+        "antes": "El equivalente electrónico de la firma manuscrita, por el que una persona acepta y valida un contenido electrónico a través de un medio electrónico legítimo y permitido",
+        "despues": "El equivalente electrónico de la firma manuscrita, por el que una persona acepta y valida un contenido electrónico a través de un medio legítimo y permitido"
+      },
+      {
+        "opcionId": "cmvvzozkn0019vdhcltpwv9zz",
+        "antes": "Una imagen escaneada de la firma manuscrita",
+        "despues": "Una imagen escaneada de la firma manuscrita de la autoridad, que se inserta en el documento digital para darle validez ante terceros"
+      },
+      {
+        "opcionId": "cmvvzozkn001avdhclryc2prt",
+        "antes": "Una representación gráfica del nombre como prueba de identidad",
+        "despues": "Una representación gráfica del nombre de la autoridad en el documento digital, como prueba de identidad de quien lo emite"
+      },
+      {
+        "opcionId": "cmvvzozkn001bvdhcq5fga46m",
+        "antes": "Una contraseña personal",
+        "despues": "Una contraseña personal de la autoridad, con la que accede al sistema de certificación y aprueba la emisión de los títulos"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwwq35s000pvdvoj2u7fdsr",
+    "opciones": [
+      {
+        "opcionId": "cmvwwq35s000qvdvoh3fhqb6r",
+        "antes": "Registrar la entrega en el módulo habilitado y remitir a la Distrital el Reporte de Registro de Entrega y el Formulario de Entrega y Recepción, incluidos los no entregados",
+        "despues": "Registrar la entrega en el módulo habilitado y remitir a la Distrital el Reporte de Registro de Entrega y el Formulario de Entrega y Recepción, incluidos los no entregados"
+      },
+      {
+        "opcionId": "cmvwwq35s000rvdvo97bgy4ii",
+        "antes": "Archivar los no entregados en el CEA indefinidamente",
+        "despues": "Archivar indefinidamente en el CEA los títulos no entregados, hasta que los egresados se presenten a recogerlos, y registrar solo los entregados en el módulo"
+      },
+      {
+        "opcionId": "cmvwwq35s000svdvohvflhd8z",
+        "antes": "Devolver todos a la Departamental",
+        "despues": "Devolver todos los títulos, entregados y no entregados, a la Dirección Departamental, junto con el Formulario de Entrega y Recepción firmado por los egresados"
+      },
+      {
+        "opcionId": "cmvwwq35s000tvdvog1q702wl",
+        "antes": "Nada más",
+        "despues": "Nada más: con la entrega de los títulos a los egresados concluye el trámite de certificación, sin otro registro ni reporte a la Dirección Distrital"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwwq3660011vdvochz9mnvk",
+    "opciones": [
+      {
+        "opcionId": "cmvwwq3660012vdvo1pjbquuy",
+        "antes": "La Subdirección, en un máximo de 5 días hábiles; Asuntos Jurídicos, en hasta 3 días hábiles",
+        "despues": "La Subdirección, en un máximo de 5 días hábiles; Asuntos Jurídicos, en hasta 3 días hábiles"
+      },
+      {
+        "opcionId": "cmvwwq3660013vdvo1pxgyaml",
+        "antes": "La Subdirección en 3 y Asuntos Jurídicos en 5",
+        "despues": "La Subdirección, en un máximo de 3 días hábiles; Asuntos Jurídicos, en hasta 5 días hábiles"
+      },
+      {
+        "opcionId": "cmvwwq3660014vdvol2xcx30n",
+        "antes": "Ambas en 10 días hábiles",
+        "despues": "La Subdirección y Asuntos Jurídicos, cada una en un máximo de 10 días hábiles"
+      },
+      {
+        "opcionId": "cmvwwq3660015vdvoj7q3lk6i",
+        "antes": "Ambas en 72 horas",
+        "despues": "La Subdirección y Asuntos Jurídicos, en conjunto, en un máximo de 72 horas"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwwq36a0017vdvodoa7grp0",
+    "opciones": [
+      {
+        "opcionId": "cmvwwq36a0018vdvoy5zfcubb",
+        "antes": "Una fotocopia legalizada de la Resolución Administrativa del SERECI, junto con su CI y el título original",
+        "despues": "Una fotocopia legalizada de la Resolución Administrativa del SERECI, junto con su CI y el título original"
+      },
+      {
+        "opcionId": "cmvwwq36a0019vdvovxw17ial",
+        "antes": "Solo una carta del CEA",
+        "despues": "Solo una carta del CEA donde estudió que confirme el apellido correcto, junto con su CI"
+      },
+      {
+        "opcionId": "cmvwwq36a001avdvoqk59xu5t",
+        "antes": "Dos testigos",
+        "despues": "La declaración de dos testigos sobre su identidad, junto con el título original y su CI"
+      },
+      {
+        "opcionId": "cmvwwq36a001bvdvoyev01lzy",
+        "antes": "Una publicación en la prensa",
+        "despues": "Una publicación de la rectificación en la prensa, junto con el título original y su CI"
+      }
+    ]
+  }
+]

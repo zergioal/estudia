@@ -1,0 +1,392 @@
+[
+  {
+    "preguntaId": "cmvvwt9i20001vdvk1749tntk",
+    "opciones": [
+      {
+        "opcionId": "cmvvwt9i20003vdvknolpvk6d",
+        "antes": "Un delito de acción privada, que solo la víctima puede perseguir",
+        "despues": "Un delito de acción privada, que solo la víctima puede perseguir mediante querella ante el juez de sentencia"
+      },
+      {
+        "opcionId": "cmvvwt9i20004vdvk1ys84d94",
+        "antes": "Una conducta sin sanción, porque la inscripción es una decisión administrativa del centro",
+        "despues": "Una conducta sin sanción, porque la inscripción es una decisión administrativa propia de la dirección del centro"
+      },
+      {
+        "opcionId": "cmvvwt9i20005vdvk4y16v3ne",
+        "antes": "Una falta que solo puede denunciarse ante el Ministerio de Culturas",
+        "despues": "Una falta que solo puede denunciarse ante el Ministerio de Culturas, que es el único competente para sancionarla"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvwt9ig000jvdvk6h1ops9q",
+    "opciones": [
+      {
+        "opcionId": "cmvvwt9ig000kvdvkap6ku85j",
+        "antes": "La Dirección General de Lucha contra el Racismo y toda forma de Discriminación del Viceministerio de Descolonización, del Ministerio de Culturas",
+        "despues": "La Dirección General de Lucha contra el Racismo y toda forma de Discriminación del Viceministerio de Descolonización, del Ministerio de Culturas"
+      },
+      {
+        "opcionId": "cmvvwt9ig000lvdvktjd59fw9",
+        "antes": "La Defensoría del Pueblo",
+        "despues": "La Defensoría del Pueblo, a través de su unidad de registro y seguimiento de denuncias de racismo y toda forma de discriminación"
+      },
+      {
+        "opcionId": "cmvvwt9ig000mvdvkteweaxq2",
+        "antes": "El Viceministerio de Igualdad de Oportunidades del Ministerio de Justicia",
+        "despues": "El Viceministerio de Igualdad de Oportunidades del Ministerio de Justicia, que lleva el registro nacional de casos de discriminación"
+      },
+      {
+        "opcionId": "cmvvwt9ig000nvdvk3xmy9s4h",
+        "antes": "La Contraloría General del Estado",
+        "despues": "La Contraloría General del Estado, que verifica si la institución pública procesó la denuncia y sancionó a sus servidores"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvwt9j10011vdvkhk3lopww",
+    "opciones": [
+      {
+        "opcionId": "cmvvwt9j10012vdvkjrdjjfsj",
+        "antes": "Los Gobiernos Autónomos Municipales, según reglamentación especial y verificando los extremos de la denuncia",
+        "despues": "Los Gobiernos Autónomos Municipales, según reglamentación especial y verificando los extremos de la denuncia"
+      },
+      {
+        "opcionId": "cmvvwt9j10013vdvk07zm464g",
+        "antes": "El Ministerio de Culturas, a través del Viceministerio de Descolonización",
+        "despues": "El Ministerio de Culturas, a través del Viceministerio de Descolonización, verificando los extremos de la denuncia"
+      },
+      {
+        "opcionId": "cmvvwt9j10014vdvk1ic74ulk",
+        "antes": "La Policía Boliviana, a solicitud del Ministerio Público",
+        "despues": "La Policía Boliviana, a solicitud fundamentada del Ministerio Público y con autorización del juez de instrucción"
+      },
+      {
+        "opcionId": "cmvvwt9j10015vdvkvgurcu3a",
+        "antes": "Los Gobiernos Autónomos Departamentales",
+        "despues": "Los Gobiernos Autónomos Departamentales, según reglamentación especial aprobada por su Asamblea Departamental"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvwt9j80017vdvkeynlw67d",
+    "opciones": [
+      {
+        "opcionId": "cmvvwt9j90018vdvk1vx2ppn8",
+        "antes": "A la sanción del Art. 178 del Código Penal, porque quien en ejercicio de la función pública conoce estos hechos está obligado a denunciarlos",
+        "despues": "A la sanción del Art. 178 del Código Penal, porque quien en ejercicio de la función pública conoce estos hechos está obligado a denunciarlos"
+      },
+      {
+        "opcionId": "cmvvwt9j90019vdvk15b7l37g",
+        "antes": "A la sanción del Art. 166 del Código Penal, por denuncia falsa",
+        "despues": "A la sanción del Art. 166 del Código Penal, por denuncia falsa, ya que solo la víctima o sus padres pueden denunciar el hecho discriminatorio"
+      },
+      {
+        "opcionId": "cmvvwt9j9001avdvkg2rxp7lf",
+        "antes": "A ninguna sanción, porque denunciar es facultativo para la autoridad",
+        "despues": "A ninguna sanción, porque denunciar es una facultad de la autoridad educativa, que puede resolver el conflicto dentro de la unidad educativa"
+      },
+      {
+        "opcionId": "cmvvwt9j9001bvdvkqhqg3ap5",
+        "antes": "Solo a una llamada de atención verbal de la Dirección Distrital",
+        "despues": "Solo a una llamada de atención verbal de la Dirección Distrital, porque la omisión de denunciar es una falta leve del reglamento docente"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvwt9kt002jvdvkmpnl4khm",
+    "opciones": [
+      {
+        "opcionId": "cmvvwt9kt002kvdvk4urkv69t",
+        "antes": "Los insultos y otras agresiones verbales por motivos racistas o discriminatorios",
+        "despues": "Los insultos y otras agresiones verbales por motivos racistas o discriminatorios"
+      },
+      {
+        "opcionId": "cmvvwt9kt002lvdvk1r4qaxv3",
+        "antes": "El delito de racismo del Art. 281 bis",
+        "despues": "El delito de racismo del Art. 281 bis del Código Penal, en todas sus formas"
+      },
+      {
+        "opcionId": "cmvvwt9kt002mvdvkbcal5kq9",
+        "antes": "La denegación de acceso a un servicio público",
+        "despues": "La denegación de acceso a un servicio público por motivos discriminatorios"
+      },
+      {
+        "opcionId": "cmvvwt9kt002nvdvk9k5syti1",
+        "antes": "La difusión de ideas racistas por medios de comunicación",
+        "despues": "La difusión e incitación al racismo por cualquier medio de comunicación"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvwt9lc0031vdvk27il73gp",
+    "opciones": [
+      {
+        "opcionId": "cmvvwt9lc0032vdvk94lnhsoj",
+        "antes": "Toda teoría tendente a valorar diferencias biológicas y/o culturales, reales o imaginarias, en provecho de un grupo y perjuicio de otro, para justificar una agresión y un sistema de dominación",
+        "despues": "Toda teoría tendente a valorar diferencias biológicas y/o culturales, reales o imaginarias, en provecho de un grupo y perjuicio de otro, para justificar una agresión y un sistema de dominación"
+      },
+      {
+        "opcionId": "cmvvwt9lc0033vdvk1vsb1xb7",
+        "antes": "Toda distinción, exclusión o preferencia basada en la raza, el color o el origen étnico que anule derechos",
+        "despues": "Toda distinción, exclusión, restricción o preferencia basada en la raza, el color, la ascendencia u origen nacional o étnico que tenga por objeto o resultado anular o menoscabar derechos"
+      },
+      {
+        "opcionId": "cmvvwt9lc0034vdvk6ca28g8i",
+        "antes": "Una noción construida socialmente como conjunto de prejuicios sobre diferencias humanas",
+        "despues": "Una noción construida socialmente como un conjunto de prejuicios sobre las diferencias humanas, que asigna a las personas características intelectuales, morales y culturales según su apariencia"
+      },
+      {
+        "opcionId": "cmvvwt9lc0035vdvky1qogu86",
+        "antes": "El odio y rechazo al extranjero o extranjera",
+        "despues": "El odio, rechazo y exclusión de toda persona por su condición de extranjera o extranjero, o de un grupo que se considera ajeno a la comunidad nacional o local"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvwt9ll0037vdvkdi98odpa",
+    "opciones": [
+      {
+        "opcionId": "cmvvwt9ll0038vdvkb98xkkuz",
+        "antes": "La historia y los derechos de las naciones y pueblos indígena originario campesinos y del pueblo afroboliviano",
+        "despues": "La historia y los derechos de las naciones y pueblos indígena originario campesinos y del pueblo afroboliviano"
+      },
+      {
+        "opcionId": "cmvvwt9ll0039vdvkh1296yoo",
+        "antes": "Solo la enseñanza de los idiomas oficiales del Estado",
+        "despues": "Solo la enseñanza de los idiomas oficiales del Estado y de la historia nacional en todos los niveles del sistema"
+      },
+      {
+        "opcionId": "cmvvwt9ll003avdvkoi5e5dl2",
+        "antes": "El registro de los procesos judiciales por racismo",
+        "despues": "El registro y seguimiento de los procesos judiciales por racismo y discriminación en cada unidad educativa"
+      },
+      {
+        "opcionId": "cmvvwt9ll003bvdvkgiir0muq",
+        "antes": "La capacitación de servidores públicos en procedimientos disciplinarios",
+        "despues": "La capacitación de los servidores públicos del sector en procedimientos disciplinarios contra la discriminación"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvwt9m3003pvdvk3nabh2fn",
+    "opciones": [
+      {
+        "opcionId": "cmvvwt9m4003qvdvkl81mh8k2",
+        "antes": "El Órgano Ejecutivo, en 90 días a partir de su promulgación, mediante un amplio proceso de concertación y participación social",
+        "despues": "El Órgano Ejecutivo, en 90 días a partir de su promulgación, mediante un amplio proceso de concertación y participación social"
+      },
+      {
+        "opcionId": "cmvvwt9m4003rvdvkbfsfamw5",
+        "antes": "El Ministerio de Culturas, en 60 días a partir de su publicación",
+        "despues": "El Ministerio de Culturas, en 60 días a partir de su publicación, mediante un proceso de concertación con las organizaciones sociales"
+      },
+      {
+        "opcionId": "cmvvwt9m4003svdvkhfh4qavg",
+        "antes": "La Asamblea Legislativa Plurinacional, en 120 días",
+        "despues": "La Asamblea Legislativa Plurinacional, en 120 días a partir de su promulgación, con participación de la sociedad civil organizada"
+      },
+      {
+        "opcionId": "cmvvwt9m4003tvdvkbh68xb72",
+        "antes": "El Ministerio de Justicia, mediante un texto ordenado del Código Penal en 90 días",
+        "despues": "El Ministerio de Justicia, mediante un texto ordenado del Código Penal, en 90 días a partir de su publicación en la Gaceta Oficial"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwtshzi0001vdv4zxmj4czx",
+    "opciones": [
+      {
+        "opcionId": "cmvwtshzi0002vdv4u2xd3cc3",
+        "antes": "Velar porque los reglamentos internos de personal, disciplinarios u otros de la Administración Pública no contengan disposiciones discriminatorias",
+        "despues": "Velar porque los reglamentos internos de personal, disciplinarios u otros de la Administración Pública no contengan disposiciones discriminatorias"
+      },
+      {
+        "opcionId": "cmvwtshzi0003vdv4c6h8lp0g",
+        "antes": "Sancionar penalmente al autor del reglamento",
+        "despues": "Sancionar penalmente al autor del reglamento y a la autoridad que lo aprobó, conforme al Art. 281 bis del Código Penal"
+      },
+      {
+        "opcionId": "cmvwtshzi0004vdv4f23wn2gk",
+        "antes": "Elaborar el Plan Nacional de Acción",
+        "despues": "Elaborar el Plan Nacional de Acción contra el Racismo e incluir en él la revisión de los reglamentos de cada Dirección Distrital"
+      },
+      {
+        "opcionId": "cmvwtshzi0005vdv4igs9izyr",
+        "antes": "Suspender la licencia del medio que lo difundió",
+        "despues": "Suspender la licencia de funcionamiento del medio de comunicación que difundió el reglamento con la cláusula discriminatoria"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwtsi08000dvdv4lkefsit9",
+    "opciones": [
+      {
+        "opcionId": "cmvwtsi08000evdv47vrfjgsl",
+        "antes": "Sanciones económicas y suspensión de la licencia de funcionamiento, sujetas a reglamentación",
+        "despues": "Sanciones económicas y suspensión de la licencia de funcionamiento, sujetas a reglamentación"
+      },
+      {
+        "opcionId": "cmvwtsi08000fvdv48v2600ib",
+        "antes": "Solo una amonestación escrita",
+        "despues": "Solo una amonestación escrita y la obligación de publicar una rectificación en el mismo espacio"
+      },
+      {
+        "opcionId": "cmvwtsi08000gvdv4xnafawpl",
+        "antes": "La clausura definitiva sin reglamentación",
+        "despues": "La clausura definitiva del medio, de aplicación inmediata y sin necesidad de reglamentación"
+      },
+      {
+        "opcionId": "cmvwtsi08000hvdv408ovph4c",
+        "antes": "Ninguna, por la libertad de prensa",
+        "despues": "Ninguna, por la libertad de prensa; la responsabilidad recae solo en el autor de la publicación"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwtsi0i000jvdv4acrzpkya",
+    "opciones": [
+      {
+        "opcionId": "cmvwtsi0i000kvdv4rmxz940k",
+        "antes": "Buscará, en el marco de la legalidad, la solución del conflicto penal mediante las salidas alternativas previstas por ley (Art. 26 del CPP)",
+        "despues": "Buscará, en el marco de la legalidad, la solución del conflicto penal mediante las salidas alternativas previstas por ley (Art. 26 del CPP)"
+      },
+      {
+        "opcionId": "cmvwtsi0i000lvdv48kan197n",
+        "antes": "Tiene prohibido aplicar salidas alternativas",
+        "despues": "Tiene prohibido aplicar salidas alternativas, porque el racismo y la discriminación son delitos de acción pública que deben llegar a juicio"
+      },
+      {
+        "opcionId": "cmvwtsi0i000mvdv4yhn9re3c",
+        "antes": "Debe remitir el caso a la jurisdicción indígena",
+        "despues": "Debe remitir el caso a la jurisdicción indígena originaria campesina cuando la víctima pertenezca a una nación o pueblo indígena"
+      },
+      {
+        "opcionId": "cmvwtsi0i000nvdv4bnvr7858",
+        "antes": "Debe esperar la conciliación administrativa previa",
+        "despues": "Debe esperar a que concluya la conciliación administrativa previa ante la institución donde ocurrió el hecho antes de investigar"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwtsi0r000pvdv4hlsm1t1y",
+    "opciones": [
+      {
+        "opcionId": "cmvwtsi0r000rvdv4juezjt1p",
+        "antes": "«Delitos de Racismo y Discriminación»",
+        "despues": "«Delitos de Racismo y toda forma de Discriminación contra el Ser Humano»"
+      },
+      {
+        "opcionId": "cmvwtsi0r000svdv4mxm48u52",
+        "antes": "«Delitos Contra los Derechos Humanos»",
+        "despues": "«Delitos Contra los Derechos Humanos y la Dignidad de las Personas»"
+      },
+      {
+        "opcionId": "cmvwtsi0r000tvdv4ajdsom16",
+        "antes": "«Delitos Contra la Libertad»",
+        "despues": "«Delitos Contra la Libertad, la Igualdad y la Integridad Personal»"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwtsi0z000vvdv47ev36srd",
+    "opciones": [
+      {
+        "opcionId": "cmvwtsi0z000wvdv4ckd1zvam",
+        "antes": "Medidas y políticas de acción afirmativa y/o diferenciada que valoren la diversidad",
+        "despues": "Medidas y políticas de acción afirmativa y/o diferenciada que valoren la diversidad"
+      },
+      {
+        "opcionId": "cmvwtsi0z000xvdv4kzayyspk",
+        "antes": "Un trato idéntico a todos, sin distinción alguna",
+        "despues": "Un trato idéntico a todas las personas, sin distinción ni medida diferenciada alguna"
+      },
+      {
+        "opcionId": "cmvwtsi0z000yvdv4qhztoe8v",
+        "antes": "Cuotas obligatorias en todos los cargos privados",
+        "despues": "Cuotas obligatorias en todos los cargos privados y públicos para los grupos discriminados"
+      },
+      {
+        "opcionId": "cmvwtsi0z000zvdv4ymz0vvi7",
+        "antes": "La prohibición de toda diferencia cultural",
+        "despues": "La prohibición de toda diferencia cultural en el ámbito público, para garantizar la igualdad"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwtsi190011vdv4q9jbnp6j",
+    "opciones": [
+      {
+        "opcionId": "cmvwtsi190012vdv4yz23f7du",
+        "antes": "La Comisión de Derechos Humanos de la Cámara de Diputados",
+        "despues": "La Comisión de Derechos Humanos de la Cámara de Diputados"
+      },
+      {
+        "opcionId": "cmvwtsi190013vdv4sv66cq1x",
+        "antes": "La Cámara de Senadores en pleno",
+        "despues": "La Cámara de Senadores en pleno, mediante un representante"
+      },
+      {
+        "opcionId": "cmvwtsi190014vdv4bdm7ehxc",
+        "antes": "La Comisión de Educación del Senado",
+        "despues": "La Comisión de Educación y Culturas de la Cámara de Senadores"
+      },
+      {
+        "opcionId": "cmvwtsi190015vdv49ejqvdrs",
+        "antes": "La Vicepresidencia del Estado",
+        "despues": "La Vicepresidencia del Estado, como presidencia nata del Legislativo"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwwtk8e000vvdmsd5f52uki",
+    "opciones": [
+      {
+        "opcionId": "cmvwwtk8e000wvdmsp6htgm1l",
+        "antes": "Las autoridades nacionales, departamentales, regionales, municipales e IOC, de cualquier jerarquía",
+        "despues": "Las autoridades nacionales, departamentales, regionales, municipales e IOC, de cualquier jerarquía"
+      },
+      {
+        "opcionId": "cmvwwtk8e000xvdms32f2yuz0",
+        "antes": "Solo las autoridades nacionales",
+        "despues": "Solo las autoridades del nivel central del Estado, de cualquier jerarquía, y sus servidores públicos"
+      },
+      {
+        "opcionId": "cmvwwtk8e000yvdmshmc5y34d",
+        "antes": "Solo los jueces",
+        "despues": "Solo los jueces y fiscales que conocen denuncias de racismo y toda forma de discriminación"
+      },
+      {
+        "opcionId": "cmvwwtk8e000zvdmskfvz84jn",
+        "antes": "Solo las instituciones privadas",
+        "despues": "Solo las instituciones privadas y los locales abiertos al público, porque el Estado tiene su propia ley"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwwtk8w0017vdms2o34n83b",
+    "opciones": [
+      {
+        "opcionId": "cmvwwtk8w0018vdmsi971xu54",
+        "antes": "La seguridad física y psicológica de las víctimas, testigos y denunciantes de delitos de racismo y discriminación",
+        "despues": "La seguridad física y psicológica de las víctimas, testigos y denunciantes de delitos de racismo y discriminación"
+      },
+      {
+        "opcionId": "cmvwwtk8w0019vdms4rceqdy6",
+        "antes": "Solo la reserva de su nombre",
+        "despues": "Solo la reserva de su nombre e identidad durante la investigación, sin medidas de protección física"
+      },
+      {
+        "opcionId": "cmvwwtk8w001avdmssqchjnho",
+        "antes": "Una indemnización automática",
+        "despues": "Una indemnización automática por el daño sufrido, pagada por la institución donde ocurrió el hecho"
+      },
+      {
+        "opcionId": "cmvwwtk8w001bvdmsltq5njtz",
+        "antes": "Nada, porque es un asunto escolar",
+        "despues": "Nada adicional, porque es un asunto escolar que se resuelve con el reglamento interno del CEA"
+      }
+    ]
+  }
+]

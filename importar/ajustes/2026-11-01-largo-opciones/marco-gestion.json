@@ -1,0 +1,1327 @@
+[
+  {
+    "preguntaId": "cmvvvupd60007vdc8l5vuaipc",
+    "opciones": [
+      {
+        "opcionId": "cmvvvupd60008vdc8hrfxq1uz",
+        "antes": "Promover la alineación pedagógica de los equipos dentro y entre establecimientos, y promover relaciones horizontales con espacios de reflexión pedagógica, liberando carga administrativa",
+        "despues": "Promover la alineación pedagógica de los equipos dentro y entre establecimientos, y promover relaciones horizontales con espacios de reflexión pedagógica, liberando carga administrativa"
+      },
+      {
+        "opcionId": "cmvvvupd60009vdc8gxz9mv1g",
+        "antes": "Promover la alineación pedagógica entre establecimientos y ejercer un control vertical de la planificación docente",
+        "despues": "Promover la alineación pedagógica de los equipos entre establecimientos, y ejercer un control vertical de la planificación docente para asegurar la cobertura curricular"
+      },
+      {
+        "opcionId": "cmvvvupd6000avdc8y0cd8y2o",
+        "antes": "Supervisar la cobertura curricular y aplicar evaluaciones estandarizadas de resultados",
+        "despues": "Supervisar la cobertura curricular de cada establecimiento y aplicar evaluaciones estandarizadas de resultados, para orientar la reflexión pedagógica de los equipos"
+      },
+      {
+        "opcionId": "cmvvvupd6000bvdc89m4mm3rc",
+        "antes": "Capacitar externamente al profesorado y dotar de recursos tecnológicos a los establecimientos",
+        "despues": "Capacitar externamente al profesorado mediante cursos certificados, y dotar de recursos tecnológicos a los establecimientos para liberar su carga administrativa"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvvupdb000dvdc871h5u625",
+    "opciones": [
+      {
+        "opcionId": "cmvvvupdb000evdc84th5qdte",
+        "antes": "La educativa incluye todos los aprendizajes en todos los contextos posibles, dentro y fuera del sistema oficial; la escolar se refiere a los procesos y resultados de aprendizaje que se materializan en el avance por ese camino",
+        "despues": "La educativa incluye todos los aprendizajes en todos los contextos, dentro y fuera del sistema oficial; la escolar se refiere a los procesos y resultados que se materializan en el avance por ese camino"
+      },
+      {
+        "opcionId": "cmvvvupdb000fvdc8bxun8rq1",
+        "antes": "La escolar abarca todos los contextos de aprendizaje a lo largo de la vida; la educativa se limita al sistema oficial",
+        "despues": "La escolar abarca todos los aprendizajes en todos los contextos a lo largo de la vida; la educativa se limita a los procesos y resultados de aprendizaje dentro del sistema oficial"
+      },
+      {
+        "opcionId": "cmvvvupdb000gvdc81czdnmls",
+        "antes": "La educativa corresponde a la educación regular y la escolar a la educación de jóvenes y adultos",
+        "despues": "La educativa corresponde a la educación regular de niños y jóvenes; la escolar, a la educación de jóvenes y adultos que retoman sus estudios fuera del sistema oficial"
+      },
+      {
+        "opcionId": "cmvvvupdb000hvdc88g3z86wi",
+        "antes": "Son sinónimos; el Marco solo distingue entre trayectoria esperada y trayectoria real",
+        "despues": "Son sinónimos que se refieren al avance del estudiante por el sistema oficial; el Marco solo distingue entre la trayectoria esperada y la trayectoria real"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvvupe00011vdc8hrhagos5",
+    "opciones": [
+      {
+        "opcionId": "cmvvvupe00012vdc8yy6xaimm",
+        "antes": "De la participación, las relaciones y los niveles de confianza que los agentes mantienen a lo largo del tiempo, es decir, de su capital social",
+        "despues": "De la participación, las relaciones y los niveles de confianza que los agentes mantienen a lo largo del tiempo, es decir, de su capital social"
+      },
+      {
+        "opcionId": "cmvvvupe00013vdc8bcqbhrq3",
+        "antes": "De la normativa que regula su conformación y de la jerarquía formal de sus integrantes",
+        "despues": "De la normativa que regula su conformación y de la jerarquía formal de sus integrantes dentro del sistema educativo local"
+      },
+      {
+        "opcionId": "cmvvvupe00014vdc8iniq5wd2",
+        "antes": "De los recursos económicos que el nivel intermedio asigna a cada red",
+        "despues": "De los recursos económicos que el nivel intermedio asigna a cada red y de los incentivos para que los agentes participen"
+      },
+      {
+        "opcionId": "cmvvvupe00015vdc8dn51gan6",
+        "antes": "De la homogeneidad de resultados entre los establecimientos que la integran",
+        "despues": "De la homogeneidad de resultados entre los establecimientos que la integran y de su cercanía geográfica en el territorio"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvvupe50017vdc85vjfawmf",
+    "opciones": [
+      {
+        "opcionId": "cmvvvupe50018vdc8yqedm0et",
+        "antes": "Que no se realice solo con cursos externos, sino también dentro del centro educativo y mediante redes orientadas a construir comunidades de aprendizaje",
+        "despues": "Que no se realice solo con cursos externos, sino también dentro del centro educativo y mediante redes orientadas a construir comunidades de aprendizaje"
+      },
+      {
+        "opcionId": "cmvvvupe50019vdc8suxfa9ab",
+        "antes": "Que se priorice la inscripción en cursos externos certificados, por su mayor rigor académico",
+        "despues": "Que se priorice la inscripción en cursos externos certificados por su mayor rigor académico, complementados con algunas jornadas dentro del centro"
+      },
+      {
+        "opcionId": "cmvvvupe5001avdc8otbe89ir",
+        "antes": "Que sea un programa estandarizado, igual para todos los establecimientos del territorio",
+        "despues": "Que sea un programa estandarizado, igual para todos los establecimientos del territorio, para asegurar que todos los docentes reciban la misma formación"
+      },
+      {
+        "opcionId": "cmvvvupe5001bvdc8sldi2ykq",
+        "antes": "Que quede a iniciativa individual de cada docente, para respetar su autonomía profesional",
+        "despues": "Que quede a iniciativa individual de cada docente, para respetar su autonomía profesional, y que el centro solo financie los cursos que elijan"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvvupeg001dvdc8k152wo53",
+    "opciones": [
+      {
+        "opcionId": "cmvvvupeg001evdc87rua0ntb",
+        "antes": "El Marco es específico para un nivel y sector del sistema y contempla prácticas y recursos personales; los EID abarcan lineamientos más generales y rígidos, mediante rúbricas de niveles de logro",
+        "despues": "El Marco es específico para un nivel y sector del sistema y contempla prácticas y recursos personales; los EID abarcan lineamientos más generales y rígidos, mediante rúbricas de logro"
+      },
+      {
+        "opcionId": "cmvvvupeg001fvdc8h4868s9n",
+        "antes": "El Marco establece rúbricas de niveles de logro, y los EID describen prácticas y recursos personales",
+        "despues": "El Marco establece rúbricas de niveles de logro para evaluar al nivel intermedio; los EID describen prácticas y recursos personales específicos de los equipos directivos"
+      },
+      {
+        "opcionId": "cmvvvupeg001gvdc89y7ofat2",
+        "antes": "El Marco es prescriptivo y trae instrumentos de implementación; los EID son orientaciones generales sin instrumentos",
+        "despues": "El Marco es prescriptivo y trae instrumentos de implementación para cada práctica; los EID son orientaciones generales y flexibles, sin rúbricas ni instrumentos"
+      },
+      {
+        "opcionId": "cmvvvupeg001hvdc87ok8v0jr",
+        "antes": "Ambos son rúbricas: el Marco evalúa a los docentes de aula y los EID a los equipos directivos",
+        "despues": "Ambos son rúbricas de niveles de logro: el Marco evalúa a los docentes de aula del nivel local y los EID evalúan a los equipos directivos de cada establecimiento"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvxybkm0001vdegovzmw950",
+    "opciones": [
+      {
+        "opcionId": "cmvvxybkm0002vdegxiy86vcd",
+        "antes": "Garantizar la provisión de educación pública en cada territorio, en sus diferentes ciclos, modalidades y niveles",
+        "despues": "Garantizar la provisión de educación pública en cada territorio, en sus diferentes ciclos, modalidades y niveles"
+      },
+      {
+        "opcionId": "cmvvxybkm0003vdegbq6tk51h",
+        "antes": "Evaluar y sancionar a los establecimientos con bajo desempeño",
+        "despues": "Evaluar y sancionar a los establecimientos con bajo desempeño en su territorio, en todos sus niveles y modalidades"
+      },
+      {
+        "opcionId": "cmvvxybkm0004vdegjmsdxyv8",
+        "antes": "Dictar la Estrategia Nacional de Educación Pública",
+        "despues": "Dictar la Estrategia Nacional de Educación Pública y velar por su cumplimiento en cada uno de los territorios"
+      },
+      {
+        "opcionId": "cmvvxybkm0005vdegd9sl9pkg",
+        "antes": "Reemplazar a los equipos directivos en la gestión pedagógica",
+        "despues": "Reemplazar a los equipos directivos en la gestión pedagógica de los establecimientos de su territorio"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvxybks0007vdegk06wre6m",
+    "opciones": [
+      {
+        "opcionId": "cmvvxybks0008vdegvkddwhph",
+        "antes": "Ocho años; la dicta el Ministerio de Educación a propuesta de la Dirección de Educación Pública y la aprueba el Consejo Nacional de Educación",
+        "despues": "Ocho años; la dicta el Ministerio de Educación a propuesta de la Dirección de Educación Pública y la aprueba el Consejo Nacional de Educación"
+      },
+      {
+        "opcionId": "cmvvxybks0009vdegfstbw0e6",
+        "antes": "Cuatro años; la aprueba el Congreso",
+        "despues": "Cuatro años; la dicta el Ministerio de Educación a propuesta de los SLEP y la aprueba el Congreso Nacional"
+      },
+      {
+        "opcionId": "cmvvxybks000avdegjzgxsyer",
+        "antes": "Cinco años; la aprueba cada SLEP",
+        "despues": "Cinco años; la propone la Dirección de Educación Pública y la aprueba cada SLEP para su territorio"
+      },
+      {
+        "opcionId": "cmvvxybks000bvdegs66x8l99",
+        "antes": "Diez años; la dicta la Dirección de Educación Pública sin otra intervención",
+        "despues": "Diez años; la dicta la Dirección de Educación Pública sin intervención del Ministerio ni del Consejo Nacional"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvxybkw000dvdegg1vf59tz",
+    "opciones": [
+      {
+        "opcionId": "cmvvxybkw000evdegiu25hlxt",
+        "antes": "La falta de validación por parte de las comunidades educativas sobre el proceso de instalación de los SLEP y la falta de coherencia respecto a los roles y atribuciones de cada actor",
+        "despues": "La falta de validación por las comunidades educativas del proceso de instalación de los SLEP y la falta de coherencia sobre los roles y atribuciones de cada actor"
+      },
+      {
+        "opcionId": "cmvvxybkw000fvdegtqfr4dnz",
+        "antes": "La falta de financiamiento internacional",
+        "despues": "La falta de financiamiento internacional para la instalación de los SLEP y la dependencia de los recursos municipales durante el traspaso de los establecimientos"
+      },
+      {
+        "opcionId": "cmvvxybkw000gvdegijs32133",
+        "antes": "La resistencia de los estudiantes al nuevo currículo",
+        "despues": "La resistencia de los estudiantes y sus familias al nuevo currículo nacional, y la falta de coherencia entre los programas de los distintos SLEP"
+      },
+      {
+        "opcionId": "cmvvxybkw000hvdegu3t23q3r",
+        "antes": "El exceso de autonomía de los directores escolares",
+        "despues": "El exceso de autonomía de los directores escolares frente a los SLEP, que dificultó la coherencia de los roles y atribuciones de cada actor"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvxybld000vvdegcnkhkwv9",
+    "opciones": [
+      {
+        "opcionId": "cmvvxybld000wvdegrttc9s4u",
+        "antes": "Como el derecho a un aprendizaje con sentido, pertinente y adecuado a los contextos y los tiempos",
+        "despues": "Como el derecho a un aprendizaje con sentido, pertinente y adecuado a los contextos y los tiempos"
+      },
+      {
+        "opcionId": "cmvvxybld000xvdegiz7moqop",
+        "antes": "Como el logro de altos puntajes en pruebas estandarizadas",
+        "despues": "Como el logro de altos puntajes en pruebas estandarizadas nacionales e internacionales"
+      },
+      {
+        "opcionId": "cmvvxybld000yvdegnxko1w7r",
+        "antes": "Como la cobertura universal de la matrícula",
+        "despues": "Como la cobertura universal de la matrícula en todos los niveles y modalidades"
+      },
+      {
+        "opcionId": "cmvvxybld000zvdegye2h4s97",
+        "antes": "Como la eficiencia en el uso de los recursos",
+        "despues": "Como la eficiencia en el uso de los recursos públicos destinados a la educación"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvxyblg0011vdegqo6ch1q0",
+    "opciones": [
+      {
+        "opcionId": "cmvvxyblg0012vdegg3mm5314",
+        "antes": "El resguardo del enfoque de derechos, la seguridad y protección, la promoción del buen trato y estilos de vida saludable, garantizando su integridad física, psicológica, emocional, moral y espiritual",
+        "despues": "El resguardo del enfoque de derechos, la seguridad y protección, el buen trato y los estilos de vida saludable, garantizando su integridad física, psicológica, emocional, moral y espiritual"
+      },
+      {
+        "opcionId": "cmvvxyblg0013vdego7lz6hgg",
+        "antes": "Solo la atención de salud física y la alimentación escolar",
+        "despues": "Solo la atención de salud física y la alimentación escolar de los estudiantes, que son las condiciones básicas para que puedan aprender en el establecimiento"
+      },
+      {
+        "opcionId": "cmvvxyblg0014vdegvpfpyvct",
+        "antes": "Solo el rendimiento académico y la promoción de curso",
+        "despues": "Solo el rendimiento académico y la promoción de curso, entendidos como la expresión del bienestar de los estudiantes a lo largo de su trayectoria escolar"
+      },
+      {
+        "opcionId": "cmvvxyblg0015vdeg6vmvqrpg",
+        "antes": "La disciplina y el cumplimiento del reglamento interno",
+        "despues": "La disciplina y el cumplimiento del reglamento interno, que garantizan la seguridad y protección de todos los estudiantes dentro del establecimiento"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvxyblr0017vdeg29zocm5m",
+    "opciones": [
+      {
+        "opcionId": "cmvvxyblr0018vdegmx2k02s7",
+        "antes": "Contradice el Marco, porque la distribución de recursos debe promover la autonomía de gestión de los equipos directivos",
+        "despues": "Contradice el Marco, porque la distribución de recursos debe promover la autonomía de gestión de los equipos directivos"
+      },
+      {
+        "opcionId": "cmvvxyblr0019vdegp2gyp35f",
+        "antes": "Es correcta, porque asegura la probidad",
+        "despues": "Es correcta, porque la centralización del gasto asegura la probidad y el control de los recursos públicos"
+      },
+      {
+        "opcionId": "cmvvxyblr001avdegeoddd8yk",
+        "antes": "Es correcta si se cumple el Plan Anual",
+        "despues": "Es correcta si con ella se cumplen las metas del Plan Anual del servicio y del PEI de cada unidad"
+      },
+      {
+        "opcionId": "cmvvxyblr001bvdegva5l3v5x",
+        "antes": "Es indiferente para el Marco",
+        "despues": "Es indiferente para el Marco, que no regula cómo se toman las decisiones de gasto en el territorio"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvxyblu001dvdegy9krlzal",
+    "opciones": [
+      {
+        "opcionId": "cmvvxyblu001evdeggd9nmkpe",
+        "antes": "Apoyan a las unidades educativas para que se visibilicen y desnaturalicen, promoviendo el pensamiento crítico sobre sexismo, estereotipos, habilidades y roles",
+        "despues": "Apoyan a las unidades educativas para que se visibilicen y desnaturalicen, promoviendo el pensamiento crítico sobre sexismo, estereotipos, habilidades y roles"
+      },
+      {
+        "opcionId": "cmvvxyblu001fvdeg0kqn9tbt",
+        "antes": "Sancionan a los docentes que reproduzcan estereotipos",
+        "despues": "Sancionan a los docentes que reproduzcan estereotipos de género en sus prácticas pedagógicas, mediante sumarios del servicio local"
+      },
+      {
+        "opcionId": "cmvvxyblu001gvdegetjn5d0e",
+        "antes": "Separan a los estudiantes por sexo en las actividades",
+        "despues": "Separan a los estudiantes por sexo en las actividades en las que se observan sesgos de género, para evitar comparaciones entre ellos"
+      },
+      {
+        "opcionId": "cmvvxyblu001hvdegthb4ijgx",
+        "antes": "Delegan el tema a organizaciones externas",
+        "despues": "Delegan el tema a organizaciones externas especializadas en género, que intervienen directamente en las unidades educativas"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvxyblx001jvdegv3mbv3x6",
+    "opciones": [
+      {
+        "opcionId": "cmvvxyblx001kvdeg9dmysful",
+        "antes": "Constituir redes de mejoramiento e innovación para la recepción e inducción de estudiantes inmigrantes y sus familias, promoviendo la multiculturalidad",
+        "despues": "Constituir redes de mejoramiento e innovación para la recepción e inducción de estudiantes inmigrantes y sus familias, promoviendo la multiculturalidad"
+      },
+      {
+        "opcionId": "cmvvxyblx001lvdego7gcij13",
+        "antes": "Derivarlos a escuelas especiales para extranjeros",
+        "despues": "Derivar a los estudiantes inmigrantes a escuelas especiales para extranjeros, donde reciben nivelación antes de integrarse al sistema"
+      },
+      {
+        "opcionId": "cmvvxyblx001mvdegur4f6981",
+        "antes": "Esperar a que regularicen su situación migratoria antes de matricularlos",
+        "despues": "Esperar a que las familias regularicen su situación migratoria antes de matricular a sus hijos en los establecimientos del territorio"
+      },
+      {
+        "opcionId": "cmvvxyblx001nvdeggdw4kcy9",
+        "antes": "Asignarlos al establecimiento con más vacantes, sin otro apoyo",
+        "despues": "Asignar a los estudiantes al establecimiento con más vacantes del territorio, sin otro apoyo, para no recargar a los demás centros"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvz3pqe0007vdew053y3nn4",
+    "opciones": [
+      {
+        "opcionId": "cmvvz3pqe0008vdew1appkfa8",
+        "antes": "Que el conjunto de líderes educativos de un sistema se convierten en impulsores y catalizadores colectivos del cambio y la mejora",
+        "despues": "Que el conjunto de líderes educativos de un sistema se convierten en impulsores y catalizadores colectivos del cambio y la mejora"
+      },
+      {
+        "opcionId": "cmvvz3pqe0009vdewt77w5ebc",
+        "antes": "Que el director asume una posición neutral entre docentes y familias",
+        "despues": "Que el director asume una posición neutral entre docentes y familias, mediando en los conflictos del establecimiento"
+      },
+      {
+        "opcionId": "cmvvz3pqe000avdewb0bzw89w",
+        "antes": "Que el nivel central transmite órdenes al nivel local sin mediación",
+        "despues": "Que el nivel central transmite las órdenes al nivel local sin mediación, a través de los líderes de cada establecimiento"
+      },
+      {
+        "opcionId": "cmvvz3pqe000bvdewzb7jfu0y",
+        "antes": "Que se elimina el nivel intermedio",
+        "despues": "Que se elimina el nivel intermedio y los directores coordinan directamente con el ministerio la mejora de sus centros"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvz3pqo000dvdewgygh7gx1",
+    "opciones": [
+      {
+        "opcionId": "cmvvz3pqo000evdew5t2nro3t",
+        "antes": "A través de la Dirección de Educación Pública (DEP), servicio público especializado dependiente del Ministerio",
+        "despues": "A través de la Dirección de Educación Pública (DEP), servicio público especializado dependiente del Ministerio"
+      },
+      {
+        "opcionId": "cmvvz3pqo000fvdewpsl3l4ju",
+        "antes": "A través de la Agencia de Calidad de la Educación",
+        "despues": "A través de la Agencia de Calidad de la Educación, que evalúa y orienta a los SLEP en nombre del Ministerio"
+      },
+      {
+        "opcionId": "cmvvz3pqo000gvdewzsa0j3hm",
+        "antes": "A través de los municipios",
+        "despues": "A través de los municipios, que mantienen la coordinación de los establecimientos traspasados a los SLEP"
+      },
+      {
+        "opcionId": "cmvvz3pqo000hvdewkders65v",
+        "antes": "A través de la SEREMI exclusivamente",
+        "despues": "A través de la SEREMI exclusivamente, que conduce estratégicamente a los SLEP de cada región"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvz3pqr000jvdewe2wqg5f8",
+    "opciones": [
+      {
+        "opcionId": "cmvvz3pqr000kvdewskifqble",
+        "antes": "Además de fortalecer la coordinación, es clave en los procesos de traspaso de los centros educativos desde los municipios a los SLEP",
+        "despues": "Además de fortalecer la coordinación, es clave en los procesos de traspaso de los centros educativos desde los municipios a los SLEP"
+      },
+      {
+        "opcionId": "cmvvz3pqr000lvdewei62elmx",
+        "antes": "Dirigir directamente los establecimientos",
+        "despues": "Dirigir directamente los establecimientos de su región mientras dura el traspaso desde los municipios a los SLEP"
+      },
+      {
+        "opcionId": "cmvvz3pqr000mvdewkr9w2xo6",
+        "antes": "Evaluar el desempeño docente individual",
+        "despues": "Evaluar el desempeño docente individual en los establecimientos de los SLEP y proponer su desvinculación"
+      },
+      {
+        "opcionId": "cmvvz3pqr000nvdew5e52oi24",
+        "antes": "Reemplazar a la DEP en la conducción estratégica",
+        "despues": "Reemplazar a la DEP en la conducción estratégica de los SLEP y aprobar sus planes estratégicos locales"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvz3pr5000vvdew8bsp0p6h",
+    "opciones": [
+      {
+        "opcionId": "cmvvz3pr5000wvdew7quiu4wg",
+        "antes": "De administrador y transmisor de orientaciones centrales, a mediador, intérprete e implementador de políticas en el nivel local",
+        "despues": "De administrador y transmisor de orientaciones centrales, a mediador, intérprete e implementador de políticas en el nivel local"
+      },
+      {
+        "opcionId": "cmvvz3pr5000xvdewuc6iejth",
+        "antes": "De mediador a simple ejecutor de órdenes",
+        "despues": "De mediador e intérprete de políticas en el nivel local, a simple ejecutor de las órdenes del nivel central"
+      },
+      {
+        "opcionId": "cmvvz3pr5000yvdewfyhdh3w1",
+        "antes": "De supervisor a inspector sancionador",
+        "despues": "De supervisor pedagógico de los establecimientos, a inspector sancionador del cumplimiento normativo"
+      },
+      {
+        "opcionId": "cmvvz3pr5000zvdew7110epxt",
+        "antes": "Se ha mantenido como administrador financiero",
+        "despues": "Se ha mantenido como administrador financiero y transmisor de las orientaciones del nivel central"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvz3pr80011vdewy7y34g3t",
+    "opciones": [
+      {
+        "opcionId": "cmvvz3pr80012vdewdadofiv9",
+        "antes": "El responsable último de los resultados de los establecimientos a su cargo, de su viabilidad y de generar y fortalecer alianzas y redes",
+        "despues": "El responsable último de los resultados de los establecimientos a su cargo, de su viabilidad y de generar y fortalecer alianzas y redes"
+      },
+      {
+        "opcionId": "cmvvz3pr80013vdew0ue5n5lx",
+        "antes": "El propietario del inmueble escolar",
+        "despues": "El propietario del inmueble escolar, responsable de su mantenimiento y de la viabilidad financiera de los establecimientos a su cargo"
+      },
+      {
+        "opcionId": "cmvvz3pr90014vdew5l42spj8",
+        "antes": "El director de cada establecimiento",
+        "despues": "El director de cada establecimiento, responsable último de sus resultados educativos y de fortalecer alianzas con la comunidad"
+      },
+      {
+        "opcionId": "cmvvz3pr90015vdewq43oli0g",
+        "antes": "El representante de los padres de familia",
+        "despues": "El representante de los padres de familia ante el establecimiento, responsable de generar y fortalecer alianzas y redes locales"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvz3pri0017vdew3fu3my5e",
+    "opciones": [
+      {
+        "opcionId": "cmvvz3pri0018vdewasmndwty",
+        "antes": "Organización y coherencia del sistema educativo; gobernanza local y autonomía; y participación y responsabilidad por los resultados",
+        "despues": "Organización y coherencia del sistema educativo; gobernanza local y autonomía; y participación y responsabilidad por los resultados"
+      },
+      {
+        "opcionId": "cmvvz3pri0019vdewolvwlvwo",
+        "antes": "Gobernanza, territorialidad y vinculación",
+        "despues": "Gobernanza local, territorialidad del sistema y vinculación de los establecimientos con el entorno productivo y comunitario"
+      },
+      {
+        "opcionId": "cmvvz3pri001avdewjhtr6jl2",
+        "antes": "Hacia abajo, lateralmente y hacia arriba",
+        "despues": "Liderazgo hacia abajo, con los establecimientos; lateralmente, con otros servicios; y hacia arriba, con el nivel central"
+      },
+      {
+        "opcionId": "cmvvz3pri001bvdewz23l4w7e",
+        "antes": "Visión, capacidades y convivencia",
+        "despues": "Visión estratégica compartida, desarrollo de capacidades profesionales y convivencia democrática en los establecimientos"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvz3prm001dvdewqs8o3sc1",
+    "opciones": [
+      {
+        "opcionId": "cmvvz3prm001evdewvth85cq0",
+        "antes": "Una red interconectada de espacios educativos, entre individuos y con instituciones, que ofrece experiencias de aprendizaje a lo largo de todo el ciclo de vida",
+        "despues": "Una red interconectada de espacios educativos, entre individuos y con instituciones, que ofrece experiencias de aprendizaje a lo largo de todo el ciclo de vida"
+      },
+      {
+        "opcionId": "cmvvz3prm001fvdewz2ygee7k",
+        "antes": "El conjunto de escuelas de un mismo municipio",
+        "despues": "El conjunto de escuelas y liceos de un mismo municipio o servicio local, que comparten recursos y equipos para la educación de niños y jóvenes"
+      },
+      {
+        "opcionId": "cmvvz3prm001gvdew63nrljn6",
+        "antes": "El entorno natural de la escuela",
+        "despues": "El entorno natural y comunitario de la escuela, que se aprovecha como recurso pedagógico para el aprendizaje de los estudiantes del territorio"
+      },
+      {
+        "opcionId": "cmvvz3prm001hvdewca4jttru",
+        "antes": "Una plataforma digital de aprendizaje",
+        "despues": "Una plataforma digital de aprendizaje que interconecta a estudiantes, docentes e instituciones, y ofrece cursos a lo largo de todo el ciclo de vida"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvz52g00001vd9wv5ljfqgs",
+    "opciones": [
+      {
+        "opcionId": "cmvvz52g00002vd9wyhgivapl",
+        "antes": "En el respeto, la benevolencia, la honestidad, la integridad, la apertura, la competencia y la previsibilidad",
+        "despues": "En el respeto, la benevolencia, la honestidad, la integridad, la apertura, la competencia y la previsibilidad"
+      },
+      {
+        "opcionId": "cmvvz52g00003vd9wx6iwaisl",
+        "antes": "En la jerarquía, la obediencia y el control",
+        "despues": "En la jerarquía, la obediencia a las orientaciones del servicio y el control del cumplimiento de metas"
+      },
+      {
+        "opcionId": "cmvvz52g00004vd9wr439esm1",
+        "antes": "En la evaluación estandarizada y los incentivos económicos",
+        "despues": "En la evaluación estandarizada de los directivos y en los incentivos económicos por resultados"
+      },
+      {
+        "opcionId": "cmvvz52g00005vd9wbdz7q460",
+        "antes": "En la gobernanza, la territorialidad y la vinculación",
+        "despues": "En la gobernanza, la territorialidad, la vinculación con el medio y la rendición de cuentas"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvz52gb000dvd9wqhvtv1dd",
+    "opciones": [
+      {
+        "opcionId": "cmvvz52gb000evd9w4jdyndpj",
+        "antes": "Intencionada, continua y colaborativa, con estrategias de acompañamiento acordadas en conjunto, a partir del contexto e intereses de cada establecimiento",
+        "despues": "Intencionada, continua y colaborativa, con estrategias de acompañamiento acordadas en conjunto, a partir del contexto e intereses de cada establecimiento"
+      },
+      {
+        "opcionId": "cmvvz52gb000fvd9wp51fi8vo",
+        "antes": "Uniforme y estandarizada para garantizar la equidad",
+        "despues": "Uniforme y estandarizada para todas las unidades educativas, con el mismo plan de acompañamiento, para garantizar la equidad en el territorio"
+      },
+      {
+        "opcionId": "cmvvz52gb000gvd9wb6oudnj8",
+        "antes": "Diseñada solo por el nivel central",
+        "despues": "Diseñada solo por el nivel central, que define las estrategias de acompañamiento que el nivel intermedio debe aplicar en cada establecimiento"
+      },
+      {
+        "opcionId": "cmvvz52gb000hvd9ww5jc8gfo",
+        "antes": "Opcional para los directivos",
+        "despues": "Opcional para los directivos, que pueden decidir si participan o no en las estrategias de acompañamiento que propone el nivel intermedio"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvz52gn000jvd9wc1vnk36f",
+    "opciones": [
+      {
+        "opcionId": "cmvvz52go000kvd9w3t1nd8zq",
+        "antes": "Seis; la primera es «Construyendo una visión compartida para el diseño y la implementación de una estrategia educativa territorial»",
+        "despues": "Seis; la primera es «Construyendo una visión compartida para el diseño y la implementación de una estrategia educativa territorial»"
+      },
+      {
+        "opcionId": "cmvvz52go000lvd9wmwthb7a2",
+        "antes": "Cinco; la primera es «Construyendo e implementando una visión estratégica compartida»",
+        "despues": "Cinco; la primera es «Construyendo e implementando una visión estratégica compartida para el mejoramiento de los establecimientos»"
+      },
+      {
+        "opcionId": "cmvvz52go000mvd9wncuzkap0",
+        "antes": "Seis; la primera es «Gestionando los recursos y condiciones institucionales»",
+        "despues": "Seis; la primera es «Gestionando los recursos y condiciones institucionales para el funcionamiento de los establecimientos»"
+      },
+      {
+        "opcionId": "cmvvz52go000nvd9w55rqmuai",
+        "antes": "Cuatro; la primera es «Gobernanza»",
+        "despues": "Cuatro; la primera es «Gobernanza, organización y coherencia del sistema educativo en el territorio local»"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvz52gw000vvd9w7u9m9wtg",
+    "opciones": [
+      {
+        "opcionId": "cmvvz52gw000wvd9wbf8d83zg",
+        "antes": "Integrar a quienes hayan sido excluidos del sistema en el territorio, además de favorecer las trayectorias desde la educación inicial a la superior",
+        "despues": "Integrar a quienes hayan sido excluidos del sistema en el territorio, además de favorecer las trayectorias desde la educación inicial a la superior"
+      },
+      {
+        "opcionId": "cmvvz52gw000xvd9ws0fbym1j",
+        "antes": "Los resultados de las pruebas nacionales",
+        "despues": "Considerar los resultados de las pruebas nacionales de cada establecimiento como principal insumo para priorizar los objetivos del territorio"
+      },
+      {
+        "opcionId": "cmvvz52gw000yvd9w527lv0a9",
+        "antes": "El presupuesto municipal",
+        "despues": "Incorporar el presupuesto municipal disponible en la estrategia, para asegurar el financiamiento de las acciones con los estudiantes matriculados"
+      },
+      {
+        "opcionId": "cmvvz52gw000zvd9wefq99i8s",
+        "antes": "La opinión exclusiva del nivel central",
+        "despues": "Recoger la opinión del nivel central como única fuente para definir las prioridades de la estrategia educativa del territorio"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvz52h70011vd9wif1eig6r",
+    "opciones": [
+      {
+        "opcionId": "cmvvz52h70012vd9wiboqcoo6",
+        "antes": "Estrategias de detección temprana de deserción, identificando riesgos de exclusión, nivelación y monitoreo de estudiantes con rezagos",
+        "despues": "Estrategias de detección temprana de deserción, identificando riesgos de exclusión, nivelación y monitoreo de estudiantes con rezagos"
+      },
+      {
+        "opcionId": "cmvvz52h70013vd9wjj7hjub8",
+        "antes": "Dar de baja a los participantes con inasistencias",
+        "despues": "La baja administrativa de los participantes con inasistencias reiteradas, para liberar cupos y ordenar la matrícula del semestre"
+      },
+      {
+        "opcionId": "cmvvz52h70014vd9wi2585tbm",
+        "antes": "Esperar al cierre de gestión para evaluar",
+        "despues": "Una evaluación al cierre de la gestión anual, para medir la deserción y decidir entonces las medidas para el año siguiente"
+      },
+      {
+        "opcionId": "cmvvz52h70015vd9wo367lrcd",
+        "antes": "Trasladar a los participantes a otro centro",
+        "despues": "El traslado de los participantes en riesgo a otro centro con más recursos, donde puedan recibir nivelación y monitoreo"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvz52hb0017vd9w7q3i0n9q",
+    "opciones": [
+      {
+        "opcionId": "cmvvz52hb0018vd9wmpfiabd5",
+        "antes": "Con ciclos iterativos de mejoramiento, contextualizando los modelos del sistema según las características de cada establecimiento y con foco en el desarrollo de capacidades colectivas e individuales",
+        "despues": "Con ciclos iterativos de mejoramiento, contextualizando los modelos según las características de cada establecimiento y con foco en el desarrollo de capacidades colectivas e individuales"
+      },
+      {
+        "opcionId": "cmvvz52hb0019vd9w2ef7k8z7",
+        "antes": "Como un modelo único, sin adaptaciones, para todos",
+        "despues": "Como un modelo único y estandarizado, sin adaptaciones, que se aplica por igual en todos los establecimientos para asegurar que todos reciban el mismo apoyo técnico-pedagógico"
+      },
+      {
+        "opcionId": "cmvvz52hb001avd9wyouj8qwo",
+        "antes": "Solo a partir de los resultados de las pruebas externas",
+        "despues": "Solo a partir de los resultados de las pruebas externas de cada establecimiento, que determinan el tipo y la intensidad del apoyo técnico-pedagógico que se le brinda"
+      },
+      {
+        "opcionId": "cmvvz52hb001bvd9wmwe7ntbp",
+        "antes": "Sin intervención de los equipos directivos",
+        "despues": "Sin intervención de los equipos directivos, que reciben el modelo ya diseñado por el nivel intermedio, con foco en el desarrollo de capacidades individuales de los docentes"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvz52he001dvd9wtph7s261",
+    "opciones": [
+      {
+        "opcionId": "cmvvz52hf001evd9wnap48d4q",
+        "antes": "La vinculación con los sectores productivos y con instituciones de formación terciaria, para la formación en alternancia, las prácticas profesionales y las competencias docentes",
+        "despues": "La vinculación con los sectores productivos y con instituciones de formación terciaria, para la formación en alternancia, las prácticas profesionales y las competencias docentes"
+      },
+      {
+        "opcionId": "cmvvz52hf001fvd9wfgxc0aty",
+        "antes": "Aislar la formación técnica del mercado laboral",
+        "despues": "Su separación del mercado laboral, para que la formación técnica no responda a intereses productivos y se concentre en el desarrollo integral de los participantes"
+      },
+      {
+        "opcionId": "cmvvz52hf001gvd9w054bt5n5",
+        "antes": "Eliminar las prácticas profesionales",
+        "despues": "La eliminación de las prácticas profesionales, reemplazándolas por talleres dentro del centro que simulen las condiciones de los sectores productivos"
+      },
+      {
+        "opcionId": "cmvvz52hf001hvd9wgcfxe6wy",
+        "antes": "Reducir la formación técnica a contenidos teóricos",
+        "despues": "La reducción de la formación técnica a contenidos teóricos, articulados con instituciones de formación terciaria para la continuidad de estudios"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvz52ho001jvd9wwim8qt06",
+    "opciones": [
+      {
+        "opcionId": "cmvvz52ho001kvd9w6tclbzss",
+        "antes": "Un imperativo ético, político y jurídico que se concreta en las relaciones humanas en cada territorio y establecimiento, y que es un indicador del desarrollo democrático",
+        "despues": "Un imperativo ético, político y jurídico que se concreta en las relaciones humanas en cada territorio y establecimiento, y que es un indicador del desarrollo democrático"
+      },
+      {
+        "opcionId": "cmvvz52ho001lvd9w561s3sdi",
+        "antes": "Un procedimiento disciplinario escolar",
+        "despues": "Un procedimiento disciplinario escolar que garantiza un trato justo a los estudiantes sancionados, conforme al reglamento interno de cada establecimiento del territorio"
+      },
+      {
+        "opcionId": "cmvvz52ho001mvd9w1mvrtgtt",
+        "antes": "La distribución igualitaria del presupuesto sin considerar las necesidades",
+        "despues": "La distribución igualitaria del presupuesto entre todos los establecimientos del territorio, sin considerar sus necesidades, como indicador del desarrollo democrático"
+      },
+      {
+        "opcionId": "cmvvz52ho001nvd9wgxru9ts1",
+        "antes": "Una competencia exclusiva del Poder Judicial",
+        "despues": "Una competencia exclusiva del Poder Judicial, que resuelve los conflictos de derechos educativos que surgen en los establecimientos del territorio"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvz52hs001pvd9wcw6hso4x",
+    "opciones": [
+      {
+        "opcionId": "cmvvz52hs001qvd9wu9gzyife",
+        "antes": "Los esfuerzos individuales de mejora son insuficientes si no van acompañados de acciones coordinadas que vinculen al ecosistema educativo en su conjunto",
+        "despues": "Los esfuerzos individuales de mejora son insuficientes si no van acompañados de acciones coordinadas que vinculen al ecosistema educativo en su conjunto"
+      },
+      {
+        "opcionId": "cmvvz52hs001rvd9wkifv45ed",
+        "antes": "Es lo ideal, porque garantiza la autonomía",
+        "despues": "Es lo ideal, porque garantiza la autonomía del establecimiento y evita que los esfuerzos de mejora dependan de la coordinación con otros centros"
+      },
+      {
+        "opcionId": "cmvvz52hs001svd9wppkxdkhi",
+        "antes": "Es correcto si cuenta con recursos propios",
+        "despues": "Es correcto si cuenta con recursos propios suficientes, porque la coordinación con el nivel intermedio solo es necesaria para obtener financiamiento"
+      },
+      {
+        "opcionId": "cmvvz52hs001tvd9whfeorpjr",
+        "antes": "Es irrelevante para el pensamiento sistémico",
+        "despues": "Es irrelevante para el pensamiento sistémico, que se refiere a la gestión interna del establecimiento y no a su relación con otros centros"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvz52hv001vvd9w9amw9wwp",
+    "opciones": [
+      {
+        "opcionId": "cmvvz52hv001wvd9w9lpwvsl0",
+        "antes": "La capacidad base del aprendizaje individual y colectivo: un proceso mental que estructura y reestructura una experiencia a partir de problematizar la realidad",
+        "despues": "La capacidad base del aprendizaje individual y colectivo: un proceso mental que estructura y reestructura una experiencia a partir de problematizar la realidad"
+      },
+      {
+        "opcionId": "cmvvz52hv001xvd9wfdji0i0l",
+        "antes": "La capacidad de memorizar la normativa vigente",
+        "despues": "La capacidad de memorizar y aplicar correctamente la normativa vigente, que permite al líder intermedio orientar a los directivos en cada situación"
+      },
+      {
+        "opcionId": "cmvvz52hv001yvd9wfaejhd11",
+        "antes": "La evaluación de los docentes mediante rúbricas",
+        "despues": "La evaluación de los docentes mediante rúbricas de desempeño, que permite al líder intermedio retroalimentar sus prácticas pedagógicas"
+      },
+      {
+        "opcionId": "cmvvz52hv001zvd9w6mvgogvc",
+        "antes": "La vocación de servicio público",
+        "despues": "La vocación de servicio público que orienta las decisiones del líder intermedio hacia el bien común de las comunidades del territorio"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvz6hoy0007vdy43de1p556",
+    "opciones": [
+      {
+        "opcionId": "cmvvz6hoy0008vdy4x1p0akv5",
+        "antes": "Que niñas y niños no solo accedan y cursen con éxito los niveles de enseñanza, sino que adquieran las mismas competencias en la educación y mediante ella",
+        "despues": "Que niñas y niños no solo accedan y cursen con éxito los niveles de enseñanza, sino que adquieran las mismas competencias en la educación y mediante ella"
+      },
+      {
+        "opcionId": "cmvvz6hoy0009vdy4yckwcpsc",
+        "antes": "Solo la paridad en la matrícula",
+        "despues": "Solo la paridad entre niñas y niños en la matrícula de todos los niveles de enseñanza, como primer paso hacia la igualdad de oportunidades educativas"
+      },
+      {
+        "opcionId": "cmvvz6hoy000avdy48vsqq0hy",
+        "antes": "Escuelas separadas por sexo",
+        "despues": "Escuelas separadas por sexo en los niveles de enseñanza en que se observan brechas, para que niñas y niños adquieran las mismas competencias"
+      },
+      {
+        "opcionId": "cmvvz6hoy000bvdy49lb7tdc9",
+        "antes": "Cuotas de docentes mujeres",
+        "despues": "Cuotas mínimas de docentes y directivas mujeres en todos los establecimientos, para que niñas y niños tengan modelos de referencia equivalentes"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvz6hpe000jvdy4b655yxuo",
+    "opciones": [
+      {
+        "opcionId": "cmvvz6hpe000kvdy45obdzgan",
+        "antes": "Porque integra la gestión (planificar) con el liderazgo (invitar a participar a toda la comunidad), y cuando una actividad integra ambas su contribución es superior",
+        "despues": "Porque integra la gestión (planificar) con el liderazgo (invitar a participar a toda la comunidad), y cuando una actividad integra ambas su contribución es superior"
+      },
+      {
+        "opcionId": "cmvvz6hpe000lvdy414nlka1e",
+        "antes": "Porque reduce el tiempo de planificación",
+        "despues": "Porque reduce el tiempo de planificación del director, al distribuir la elaboración del plan anual entre los docentes, los participantes y las organizaciones"
+      },
+      {
+        "opcionId": "cmvvz6hpe000mvdy4vuo910ut",
+        "antes": "Porque traslada la responsabilidad a la comunidad",
+        "despues": "Porque traslada a la comunidad la responsabilidad por los resultados del plan anual, lo que libera al director de la rendición de cuentas ante la autoridad"
+      },
+      {
+        "opcionId": "cmvvz6hpe000nvdy4ii18gji8",
+        "antes": "Porque cumple un requisito formal de la Dirección Distrital",
+        "despues": "Porque cumple un requisito formal de la Dirección Distrital, que exige actas de participación de la comunidad para aprobar el plan anual del centro"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvz6hph000pvdy4va1spcyi",
+    "opciones": [
+      {
+        "opcionId": "cmvvz6hpi000qvdy4ctbwuhjt",
+        "antes": "Como la capacidad de movilizar y articular a profesionales e instituciones en función de objetivos estratégicos y operacionales, asegurando recursos y ambientes para el buen funcionamiento de todos los establecimientos",
+        "despues": "La capacidad de movilizar y articular a profesionales e instituciones en función de objetivos estratégicos y operacionales, asegurando recursos y ambientes para el buen funcionamiento de los establecimientos"
+      },
+      {
+        "opcionId": "cmvvz6hpi000rvdy4rqenf15s",
+        "antes": "Como la administración contable de los recursos",
+        "despues": "La administración contable de los recursos financieros, humanos y materiales del servicio local, asegurando que se ejecuten conforme al presupuesto aprobado para cada establecimiento"
+      },
+      {
+        "opcionId": "cmvvz6hpi000svdy4jn81va0q",
+        "antes": "Como el control disciplinario de los directores",
+        "despues": "El control disciplinario de los directores de los establecimientos, verificando el cumplimiento de sus convenios de desempeño y aplicando las sanciones que correspondan"
+      },
+      {
+        "opcionId": "cmvvz6hpi000tvdy44uugmab2",
+        "antes": "Como la transmisión de normas del nivel central",
+        "despues": "La transmisión de las normas y orientaciones del nivel central a los establecimientos, asegurando que se apliquen de manera uniforme en todo el territorio local"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvz6hps000vvdy4495dx6ax",
+    "opciones": [
+      {
+        "opcionId": "cmvvz6hps000wvdy4rc4so5ov",
+        "antes": "Apoyar el trabajo, el desarrollo democrático y la autonomía de los centros de estudiantes y de padres para lograr una participación efectiva",
+        "despues": "Apoyar el trabajo, el desarrollo democrático y la autonomía de los centros de estudiantes y de padres para lograr una participación efectiva"
+      },
+      {
+        "opcionId": "cmvvz6hps000xvdy4mjz00uoq",
+        "antes": "Disolver el centro de estudiantes por ineficaz",
+        "despues": "Disolver el centro de estudiantes por ineficaz y convocar a nuevas elecciones con apoyo del equipo directivo del establecimiento"
+      },
+      {
+        "opcionId": "cmvvz6hps000yvdy4fp44l2ma",
+        "antes": "Designar directamente a sus dirigentes",
+        "despues": "Designar directamente a sus dirigentes entre los participantes con mejor rendimiento, para asegurar su funcionamiento"
+      },
+      {
+        "opcionId": "cmvvz6hps000zvdy4p9z2qc6p",
+        "antes": "Reemplazarlo por un comité de docentes",
+        "despues": "Reemplazarlo por un comité de docentes que represente a los participantes mientras el centro de estudiantes se reorganiza"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvz6hpw0011vdy4iu19jhrj",
+    "opciones": [
+      {
+        "opcionId": "cmvvz6hpw0012vdy49e8d8kxx",
+        "antes": "A implementar políticas que garanticen la participación, la articulación y la convivencia democrática, convocando a la comunidad a los espacios de representación legales",
+        "despues": "A implementar políticas que garanticen la participación, la articulación y la convivencia democrática, convocando a la comunidad a los espacios de representación legales"
+      },
+      {
+        "opcionId": "cmvvz6hpw0013vdy4riuz9ny1",
+        "antes": "A centralizar las decisiones en el director ejecutivo",
+        "despues": "A centralizar las decisiones en el director ejecutivo del servicio local, que convoca a la comunidad solo para informar las políticas que se implementarán"
+      },
+      {
+        "opcionId": "cmvvz6hpw0014vdy40u2on0l6",
+        "antes": "A reducir la participación para ganar eficiencia",
+        "despues": "A reducir la participación de la comunidad en las decisiones para ganar eficiencia, manteniendo solo los espacios de representación exigidos por ley"
+      },
+      {
+        "opcionId": "cmvvz6hpw0015vdy47uso2ps7",
+        "antes": "A uniformar las culturas del territorio",
+        "despues": "A uniformar las culturas de los establecimientos del territorio, para garantizar una convivencia democrática común en todos los espacios de representación"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvz6hq50017vdy4ss7rihur",
+    "opciones": [
+      {
+        "opcionId": "cmvvz6hq50018vdy4nzhzps4h",
+        "antes": "Procesos de inducción, acompañamiento y/o modelamiento en terreno, según las necesidades detectadas, para fortalecer su liderazgo",
+        "despues": "Procesos de inducción, acompañamiento y/o modelamiento en terreno, según las necesidades detectadas, para fortalecer su liderazgo"
+      },
+      {
+        "opcionId": "cmvvz6hq50019vdy4pgzfaf7d",
+        "antes": "Solo el envío de la normativa por correo",
+        "despues": "Solo el envío de la normativa y los instrumentos de gestión por correo, para que los estudie por su cuenta durante el primer año"
+      },
+      {
+        "opcionId": "cmvvz6hq5001avdy418qn2kk8",
+        "antes": "Una evaluación sancionatoria a los tres meses",
+        "despues": "Una evaluación sancionatoria a los tres meses de asumir, para verificar si cumple las metas de su convenio de desempeño"
+      },
+      {
+        "opcionId": "cmvvz6hq5001bvdy42amjcts6",
+        "antes": "Nada, hasta que cumpla un año en el cargo",
+        "despues": "Ningún apoyo específico hasta que cumpla un año en el cargo, para no interferir en su autonomía de gestión inicial"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvz6hq9001dvdy4lf0qmstu",
+    "opciones": [
+      {
+        "opcionId": "cmvvz6hq9001evdy4c3y1xik0",
+        "antes": "No solo un cambio de administración, sino conocimiento y comprensión de los desafíos organizacionales y pedagógicos de las unidades educativas",
+        "despues": "No solo un cambio de administración, sino conocimiento y comprensión de los desafíos organizacionales y pedagógicos de las unidades educativas"
+      },
+      {
+        "opcionId": "cmvvz6hq9001fvdy4k8erfju2",
+        "antes": "Únicamente el cambio de dependencia administrativa",
+        "despues": "Únicamente el cambio de dependencia administrativa de los establecimientos, que pasan del municipio al servicio local sin otras modificaciones"
+      },
+      {
+        "opcionId": "cmvvz6hq9001gvdy4yrl0w04o",
+        "antes": "La continuidad de las prácticas municipales",
+        "despues": "La continuidad de las prácticas municipales de gestión, para no alterar el funcionamiento de las unidades educativas durante el traspaso"
+      },
+      {
+        "opcionId": "cmvvz6hq9001hvdy4l8iyrkbz",
+        "antes": "La reducción del personal docente",
+        "despues": "La reducción del personal docente y administrativo, para ajustar las plantas de las unidades educativas al presupuesto del servicio local"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvz6hqc001jvdy4coaw7i1v",
+    "opciones": [
+      {
+        "opcionId": "cmvvz6hqc001kvdy45jdris9y",
+        "antes": "Acompañan, monitorean y retroalimentan el cumplimiento de sus metas para lograr los objetivos",
+        "despues": "Acompañan, monitorean y retroalimentan el cumplimiento de sus metas para lograr los objetivos"
+      },
+      {
+        "opcionId": "cmvvz6hqc001lvdy45acqzoai",
+        "antes": "Los redactan sin participación de los directores",
+        "despues": "Los redactan sin participación de los directores y les notifican las metas que deben cumplir"
+      },
+      {
+        "opcionId": "cmvvz6hqc001mvdy4r9bha9k6",
+        "antes": "Los usan solo como instrumento de despido",
+        "despues": "Los usan solo como instrumento para desvincular a los directores que no cumplen sus metas"
+      },
+      {
+        "opcionId": "cmvvz6hqc001nvdy4ybzq1dal",
+        "antes": "No intervienen en ellos",
+        "despues": "No intervienen en ellos, porque son un acuerdo exclusivo entre el director y su comunidad"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvz6hqm001pvdy44ofa4sq4",
+    "opciones": [
+      {
+        "opcionId": "cmvvz6hqm001qvdy4bktss59h",
+        "antes": "Evaluación para el aprendizaje, evaluación del aprendizaje y evaluación como aprendizaje",
+        "despues": "Evaluación para el aprendizaje, evaluación del aprendizaje y evaluación como aprendizaje"
+      },
+      {
+        "opcionId": "cmvvz6hqm001rvdy4mlft0822",
+        "antes": "Evaluación diagnóstica, formativa y sumativa únicamente",
+        "despues": "Evaluación diagnóstica, evaluación formativa y evaluación sumativa, únicamente"
+      },
+      {
+        "opcionId": "cmvvz6hqm001svdy49cc2wn8h",
+        "antes": "Evaluación interna y externa",
+        "despues": "Evaluación interna del establecimiento y evaluación externa estandarizada"
+      },
+      {
+        "opcionId": "cmvvz6hqm001tvdy4w8954a0i",
+        "antes": "Autoevaluación, coevaluación y heteroevaluación",
+        "despues": "Autoevaluación, coevaluación y heteroevaluación de los estudiantes y docentes"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvz6hqp001vvdy4wifxptt3",
+    "opciones": [
+      {
+        "opcionId": "cmvvz6hqp001wvdy402ofelty",
+        "antes": "Al desempeño de los estudiantes a lo largo de su escolaridad, año a año, observando su punto de partida, procesos y resultados",
+        "despues": "Al desempeño de los estudiantes a lo largo de su escolaridad, año a año, observando su punto de partida, procesos y resultados"
+      },
+      {
+        "opcionId": "cmvvz6hqp001xvdy42p3rbpw9",
+        "antes": "A la carrera profesional del docente",
+        "despues": "A la carrera profesional del docente a lo largo de su vida laboral, desde su formación inicial hasta su jubilación"
+      },
+      {
+        "opcionId": "cmvvz6hqp001yvdy49j8v0alz",
+        "antes": "Al historial disciplinario del estudiante",
+        "despues": "Al historial disciplinario del estudiante a lo largo de su escolaridad, con las sanciones y medidas recibidas año a año"
+      },
+      {
+        "opcionId": "cmvvz6hqp001zvdy4e1gk4a8w",
+        "antes": "A la antigüedad del establecimiento",
+        "despues": "A la antigüedad y la historia del establecimiento, desde su fundación hasta su situación actual en el territorio"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvz6hqs0021vdy4nywmvx5t",
+    "opciones": [
+      {
+        "opcionId": "cmvvz6hqs0022vdy4wkyj13lk",
+        "antes": "Una visión propia de los procesos de enseñanza-aprendizaje en los distintos niveles y realidades del territorio (ruralidad, aprendizaje de adultos, etc.)",
+        "despues": "Una visión propia de los procesos de enseñanza-aprendizaje en los distintos niveles y realidades del territorio (ruralidad, aprendizaje de adultos, etc.)"
+      },
+      {
+        "opcionId": "cmvvz6hqs0023vdy4dbuoqyio",
+        "antes": "Un único modelo pedagógico para todos",
+        "despues": "Un único modelo pedagógico para todos los establecimientos del territorio, que asegure la misma asesoría en las escuelas urbanas, rurales y el CEA"
+      },
+      {
+        "opcionId": "cmvvz6hqs0024vdy419c9e8th",
+        "antes": "Delegar la asesoría a cada director",
+        "despues": "Delegar la asesoría a cada director, que conoce mejor que el equipo técnico los procesos de aprendizaje de su propio establecimiento"
+      },
+      {
+        "opcionId": "cmvvz6hqs0025vdy4a3tezp7e",
+        "antes": "Priorizar solo la educación media",
+        "despues": "Priorizar solo la educación media y los establecimientos urbanos, donde se concentra la matrícula y el mayor impacto de la asesoría"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwtuzxw001dvd704e5ngoc0",
+    "opciones": [
+      {
+        "opcionId": "cmvwtuzxw001evd704n8mpv97",
+        "antes": "Coordinando y apoyando la obtención de recursos complementarios mediante nuevos proyectos, postulación a fondos y convenios que consoliden los objetivos del PEI",
+        "despues": "Coordinando y apoyando la obtención de recursos complementarios mediante nuevos proyectos, postulación a fondos y convenios que consoliden los objetivos del PEI"
+      },
+      {
+        "opcionId": "cmvwtuzxw001fvd70ww7hycgq",
+        "antes": "Autorizando cobros a los participantes",
+        "despues": "Autorizando cobros a los participantes del CEA para financiar el nuevo taller, siempre que los montos sean aprobados por el consejo escolar"
+      },
+      {
+        "opcionId": "cmvwtuzxw001gvd70w3jwj1bq",
+        "antes": "Reduciendo la planta docente",
+        "despues": "Reduciendo la planta docente del CEA para liberar recursos del presupuesto ordinario y destinarlos al equipamiento del nuevo taller"
+      },
+      {
+        "opcionId": "cmvwtuzxw001hvd70dtxbnp7w",
+        "antes": "Trasladando la responsabilidad a las familias",
+        "despues": "Trasladando la responsabilidad del financiamiento a las familias y organizaciones de la comunidad, mediante aportes voluntarios"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwwllor0001vdlouyeo5dv2",
+    "opciones": [
+      {
+        "opcionId": "cmvwwllor0002vdlo5wb3xjre",
+        "antes": "C Líder, Centro Asociativo para el Liderazgo Educacional; con patrocinio de la Dirección de Educación Pública (DEP)",
+        "despues": "C Líder, Centro Asociativo para el Liderazgo Educacional; con patrocinio de la Dirección de Educación Pública (DEP)"
+      },
+      {
+        "opcionId": "cmvwwllor0003vdlo33ikpam9",
+        "antes": "La OEI; con patrocinio de la UNESCO",
+        "despues": "La OEI, Organización de Estados Iberoamericanos; con patrocinio de la UNESCO y del Ministerio de Educación"
+      },
+      {
+        "opcionId": "cmvwwllor0004vdlo2fxts1nk",
+        "antes": "La OREALC/UNESCO; con patrocinio de UNICEF",
+        "despues": "La OREALC/UNESCO Santiago, Oficina Regional de Educación; con patrocinio de UNICEF"
+      },
+      {
+        "opcionId": "cmvwwllor0005vdlo22jwer75",
+        "antes": "El Ministerio de Educación de Bolivia",
+        "despues": "El Ministerio de Educación de Bolivia; con patrocinio de la Dirección de Educación Pública (DEP)"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwwllp9000dvdlo4114ojml",
+    "opciones": [
+      {
+        "opcionId": "cmvwwllp9000evdlo1domgbwg",
+        "antes": "En un cambio cultural hacia un mejoramiento educativo integral, en el que cada comunidad escolar es protagonista",
+        "despues": "En un cambio cultural hacia un mejoramiento educativo integral, en el que cada comunidad escolar es protagonista"
+      },
+      {
+        "opcionId": "cmvwwllp9000fvdlo7m2cg9qt",
+        "antes": "Solo en la aprobación de nuevas leyes",
+        "despues": "Solo en la aprobación de nuevas leyes que reorganizan la administración de la educación pública"
+      },
+      {
+        "opcionId": "cmvwwllp9000gvdlojh39yl1l",
+        "antes": "En el aumento del presupuesto",
+        "despues": "En el aumento del presupuesto para la educación pública, que permite contratar más docentes"
+      },
+      {
+        "opcionId": "cmvwwllp9000hvdlos5h0wpfi",
+        "antes": "En la privatización de la gestión",
+        "despues": "En la privatización de la gestión de los establecimientos públicos con bajo desempeño"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwwllpi000jvdlobz69mfsv",
+    "opciones": [
+      {
+        "opcionId": "cmvwwllpi000kvdlomla3151a",
+        "antes": "Ser un potenciador, diseñador e implementador de estrategias pedagógicas con pertinencia territorial",
+        "despues": "Ser un potenciador, diseñador e implementador de estrategias pedagógicas con pertinencia territorial"
+      },
+      {
+        "opcionId": "cmvwwllpi000lvdlohnonesvi",
+        "antes": "Ser un fiscalizador de normas",
+        "despues": "Ser un fiscalizador del cumplimiento de las normas del nivel central en cada establecimiento"
+      },
+      {
+        "opcionId": "cmvwwllpi000mvdlooxu2njnd",
+        "antes": "Ser un transmisor de directrices centrales",
+        "despues": "Ser un transmisor fiel de las directrices centrales hacia los establecimientos del territorio"
+      },
+      {
+        "opcionId": "cmvwwllpi000nvdloiqsmz6lx",
+        "antes": "Ser un administrador de infraestructura",
+        "despues": "Ser un administrador de la infraestructura y los recursos materiales de los establecimientos"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwwllpw000vvdlo7q1i7pko",
+    "opciones": [
+      {
+        "opcionId": "cmvwwllpw000wvdlonkjkqjoc",
+        "antes": "El Proyecto Educativo Institucional (PEI) y el Plan de Mejoramiento Educativo (PME)",
+        "despues": "El Proyecto Educativo Institucional (PEI) y el Plan de Mejoramiento Educativo (PME)"
+      },
+      {
+        "opcionId": "cmvwwllpw000xvdlo2x1mre2g",
+        "antes": "El PEL y el Plan Anual",
+        "despues": "El Plan Estratégico Local (PEL) y el Plan Anual del servicio local"
+      },
+      {
+        "opcionId": "cmvwwllpw000yvdlolrwaejhc",
+        "antes": "La ENEP",
+        "despues": "La Estrategia Nacional de Educación Pública (ENEP) y su plan de implementación"
+      },
+      {
+        "opcionId": "cmvwwllpw000zvdlo21o05y3i",
+        "antes": "El POA municipal",
+        "despues": "El Plan Operativo Anual (POA) municipal y el reglamento interno del establecimiento"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwwllpz0011vdlob5rqfqhi",
+    "opciones": [
+      {
+        "opcionId": "cmvwwllpz0012vdloev3em2i3",
+        "antes": "El compromiso real del nivel intermedio, con acciones concretas, para alinear estratégicamente los instrumentos y lograr que los actores del territorio se los apropien",
+        "despues": "El compromiso real del nivel intermedio, con acciones concretas, para alinear estratégicamente los instrumentos y lograr que los actores del territorio se los apropien"
+      },
+      {
+        "opcionId": "cmvwwllpz0013vdlou6bh4yeb",
+        "antes": "Elaborar más instrumentos de gestión",
+        "despues": "Elaborar más instrumentos de gestión en cada establecimiento, para que cada área cuente con su propio plan y los actores tengan orientaciones detalladas"
+      },
+      {
+        "opcionId": "cmvwwllpz0014vdlovcuny5jz",
+        "antes": "Que cada escuela tenga instrumentos independientes",
+        "despues": "Que cada escuela tenga instrumentos de gestión independientes de los del territorio, para resguardar su autonomía y la apropiación por su comunidad"
+      },
+      {
+        "opcionId": "cmvwwllpz0015vdloen5dl1nn",
+        "antes": "Que el ministerio elabore los PEI",
+        "despues": "Que el ministerio elabore los PEI de los establecimientos, para asegurar su alineación con la estrategia nacional y la apropiación por los actores"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwwllq80017vdlo7syzvmzd",
+    "opciones": [
+      {
+        "opcionId": "cmvwwllq80018vdlopw8pip6y",
+        "antes": "La cultura organizacional: «la cultura se come a la estrategia en el desayuno», y ninguna cultura se cambia por mandato",
+        "despues": "La cultura organizacional: «la cultura se come a la estrategia en el desayuno», y ninguna cultura se cambia por mandato"
+      },
+      {
+        "opcionId": "cmvwwllq80019vdlodbwdn26r",
+        "antes": "La falta de presupuesto",
+        "despues": "La falta de presupuesto para implementar la estrategia, que impidió capacitar a los docentes que debían aplicarla"
+      },
+      {
+        "opcionId": "cmvwwllq8001avdlo2112l4jk",
+        "antes": "La normativa nacional",
+        "despues": "La normativa nacional, que no permite al director imponer estrategias pedagógicas sin aprobación de la autoridad"
+      },
+      {
+        "opcionId": "cmvwwllq8001bvdlonaj0ko14",
+        "antes": "La necesidad de más control disciplinario",
+        "despues": "La necesidad de más control disciplinario sobre los docentes, para asegurar que apliquen la estrategia aprobada"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwwllqc001dvdlo7k7s6auu",
+    "opciones": [
+      {
+        "opcionId": "cmvwwllqc001evdlofsrozu0d",
+        "antes": "El administrador trabaja dentro de la cultura existente, muchas veces sin darse cuenta; el líder crea culturas reflexionando, monitoreando y modelando su propio aprendizaje",
+        "despues": "El administrador trabaja dentro de la cultura existente, a menudo sin darse cuenta; el líder crea culturas reflexionando, monitoreando y modelando su propio aprendizaje"
+      },
+      {
+        "opcionId": "cmvwwllqc001fvdlot7o18a5h",
+        "antes": "El líder tiene más jerarquía",
+        "despues": "El líder tiene más jerarquía y autoridad formal que el administrador, y por eso puede imponer los cambios culturales que el administrador solo propone"
+      },
+      {
+        "opcionId": "cmvwwllqc001gvdlo7jsxjko4",
+        "antes": "El administrador innova y el líder conserva",
+        "despues": "El administrador innova y transforma la cultura de la organización; el líder conserva la cultura existente y modela el aprendizaje de los demás"
+      },
+      {
+        "opcionId": "cmvwwllqc001hvdloa0smomid",
+        "antes": "No hay diferencia",
+        "despues": "No hay diferencia: ambos trabajan dentro de la cultura existente y crean culturas nuevas reflexionando y monitoreando su propio aprendizaje"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwwllqe001jvdlomhbanp5w",
+    "opciones": [
+      {
+        "opcionId": "cmvwwllqe001kvdlo0ucvv9yi",
+        "antes": "Agente de cambio, conector del sistema y potenciador de las trayectorias educativas",
+        "despues": "Agente de cambio, conector del sistema y potenciador de las trayectorias educativas"
+      },
+      {
+        "opcionId": "cmvwwllqf001lvdlolkpxuao8",
+        "antes": "Supervisor, sancionador y fiscalizador",
+        "despues": "Supervisor del cumplimiento, sancionador de faltas y fiscalizador de los recursos"
+      },
+      {
+        "opcionId": "cmvwwllqf001mvdloxmyzvcs6",
+        "antes": "Gobernanza, territorialidad y vinculación",
+        "despues": "Gobernanza local, territorialidad del sistema y vinculación con el medio"
+      },
+      {
+        "opcionId": "cmvwwllqf001nvdloa0qmvddi",
+        "antes": "Hacia abajo, lateralmente y hacia arriba",
+        "despues": "Liderazgo hacia abajo, liderazgo lateral y liderazgo hacia arriba"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwwllqo001pvdlot0w4jln9",
+    "opciones": [
+      {
+        "opcionId": "cmvwwllqo001qvdlo79hjk8wb",
+        "antes": "Un conjunto de relaciones entre agentes del sistema que establecen propósitos comunes y trabajan colaborativamente en función de ellos",
+        "despues": "Un conjunto de relaciones entre agentes del sistema que establecen propósitos comunes y trabajan colaborativamente en función de ellos"
+      },
+      {
+        "opcionId": "cmvwwllqo001rvdloiyn9hivc",
+        "antes": "Plataformas digitales de comunicación",
+        "despues": "Plataformas digitales de comunicación que conectan a los agentes del sistema y les permiten compartir recursos y experiencias"
+      },
+      {
+        "opcionId": "cmvwwllqo001svdlogot04kb0",
+        "antes": "Agrupaciones jerárquicas de escuelas bajo un director",
+        "despues": "Agrupaciones jerárquicas de escuelas bajo un director coordinador, que establece los propósitos comunes y distribuye el trabajo"
+      },
+      {
+        "opcionId": "cmvwwllqo001tvdloqnsardn0",
+        "antes": "Sindicatos docentes",
+        "despues": "Sindicatos y asociaciones docentes que establecen propósitos comunes y representan a sus miembros ante el nivel intermedio"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwwllqy001vvdlodava9f2o",
+    "opciones": [
+      {
+        "opcionId": "cmvwwllqy001wvdlodk0wy3kj",
+        "antes": "Los niveles intermedios y las unidades educativas tienen más autonomía para decidir y una mayor responsabilidad por los resultados",
+        "despues": "Los niveles intermedios y las unidades educativas tienen más autonomía para decidir y una mayor responsabilidad por los resultados"
+      },
+      {
+        "opcionId": "cmvwwllqy001xvdlopbv3bmyu",
+        "antes": "Desaparece la responsabilidad por los resultados",
+        "despues": "Los niveles intermedios y las unidades educativas tienen más autonomía para decidir, pero desaparece su responsabilidad por los resultados"
+      },
+      {
+        "opcionId": "cmvwwllqy001yvdlo857zkdg2",
+        "antes": "Las escuelas pierden autonomía",
+        "despues": "Las unidades educativas pierden autonomía frente a los niveles intermedios, que asumen la responsabilidad por los resultados"
+      },
+      {
+        "opcionId": "cmvwwllqy001zvdlob8kfg8gd",
+        "antes": "El nivel central asume todas las decisiones",
+        "despues": "El nivel central asume todas las decisiones y los niveles intermedios solo responden por la ejecución de los recursos"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwwllr10021vdlob5svn6z1",
+    "opciones": [
+      {
+        "opcionId": "cmvwwllr10022vdloo8ginmsr",
+        "antes": "Como un ejercicio permanente de construcción de acuerdos y de acciones movilizadoras para la mejora, focalizado en objetivos precisos sobre la enseñanza y el aprendizaje",
+        "despues": "Como un ejercicio permanente de construcción de acuerdos y de acciones movilizadoras para la mejora, focalizado en objetivos precisos sobre la enseñanza y el aprendizaje"
+      },
+      {
+        "opcionId": "cmvwwllr10023vdlorh3zajg7",
+        "antes": "Como la administración presupuestaria del municipio",
+        "despues": "Como la administración presupuestaria de los recursos educativos del municipio, focalizada en asegurar el funcionamiento de los establecimientos del territorio"
+      },
+      {
+        "opcionId": "cmvwwllr10024vdlowx4wbcyv",
+        "antes": "Como el control vertical del ministerio",
+        "despues": "Como el control vertical que ejerce el ministerio sobre los servicios locales, para asegurar el cumplimiento de los objetivos nacionales de aprendizaje"
+      },
+      {
+        "opcionId": "cmvwwllr10025vdloht6p6znq",
+        "antes": "Como la elección de autoridades locales",
+        "despues": "Como la elección democrática de las autoridades educativas locales por la comunidad, que luego definen los objetivos sobre la enseñanza y el aprendizaje"
+      }
+    ]
+  }
+]

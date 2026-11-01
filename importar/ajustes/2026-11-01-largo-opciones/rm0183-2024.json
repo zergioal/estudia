@@ -1,0 +1,552 @@
+[
+  {
+    "preguntaId": "cmvvxas7t0007vdssrax53dxn",
+    "opciones": [
+      {
+        "opcionId": "cmvvxas7t0008vdsssh5ybpms",
+        "antes": "No puede: la calificación mínima en cada área o módulo debe ser igual o mayor a 20 puntos",
+        "despues": "No puede: la calificación mínima en cada área o módulo debe ser igual o mayor a 20 puntos"
+      },
+      {
+        "opcionId": "cmvvxas7t0009vdssqfdw1qmj",
+        "antes": "Puede, porque refleja el desempeño real",
+        "despues": "Puede, porque la calificación debe reflejar el desempeño real del participante en el semestre"
+      },
+      {
+        "opcionId": "cmvvxas7t000avdssuevourdi",
+        "antes": "Puede, si el director lo autoriza",
+        "despues": "Puede, si el director del CEA lo autoriza con base en el registro de asistencia del facilitador"
+      },
+      {
+        "opcionId": "cmvvxas7t000bvdssi60lxjdr",
+        "antes": "Debe registrar 0 por abandono",
+        "despues": "Debe registrar 0 puntos y reportar al participante como retirado por abandono del semestre"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvxas84000dvdssqop20cng",
+    "opciones": [
+      {
+        "opcionId": "cmvvxas84000evdssh6wre2gv",
+        "antes": "Como postergada/o, por no alcanzar la calificación mínima de aprobación de 51",
+        "despues": "Como postergada/o, por no alcanzar la calificación mínima de aprobación de 51"
+      },
+      {
+        "opcionId": "cmvvxas84000fvdssjncneu5v",
+        "antes": "Como promovido, porque redondea a 51",
+        "despues": "Como promovida/o, porque la calificación de 50 se redondea a la mínima de 51"
+      },
+      {
+        "opcionId": "cmvvxas84000gvdssrxuqwatb",
+        "antes": "Como promovido con observación",
+        "despues": "Como promovida/o con observación, sujeta a evaluación extraordinaria del módulo"
+      },
+      {
+        "opcionId": "cmvvxas84000hvdssqngcegfq",
+        "antes": "Como retirado del nivel",
+        "despues": "Como retirada/o del nivel, debiendo cursar de nuevo todos los módulos del nivel"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvxas910011vdsst3bb0kk8",
+    "opciones": [
+      {
+        "opcionId": "cmvvxas910012vdsscdvhtra4",
+        "antes": "Se realiza al inicio del semestre, no se pondera cuantitativamente y es referente para la planificación",
+        "despues": "Se realiza al inicio del semestre, no se pondera cuantitativamente y es referente para la planificación"
+      },
+      {
+        "opcionId": "cmvvxas910013vdss2jf41ao1",
+        "antes": "Se realiza al final del semestre y vale el 20% de la nota",
+        "despues": "Se realiza al final del semestre y vale el 20% de la nota, como insumo para la evaluación extraordinaria"
+      },
+      {
+        "opcionId": "cmvvxas910014vdssvcerf3oq",
+        "antes": "Se pondera con cinco puntos en la dimensión Saber",
+        "despues": "Se realiza al inicio del semestre y se pondera con cinco puntos en la dimensión del Saber"
+      },
+      {
+        "opcionId": "cmvvxas910015vdss6ijrordf",
+        "antes": "Solo se aplica a los participantes nuevos",
+        "despues": "Solo se aplica a los participantes nuevos, al inscribirse, para ubicarlos en la etapa correspondiente"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvxas9b0017vdss521zzxcc",
+    "opciones": [
+      {
+        "opcionId": "cmvvxas9b0018vdssxl1g2fl1",
+        "antes": "Al concluir el semestre; la calificación se registra en las dimensiones del Ser y Decidir",
+        "despues": "Al concluir el semestre; la calificación se registra en las dimensiones del Ser y Decidir"
+      },
+      {
+        "opcionId": "cmvvxas9b0019vdssw4mmdivt",
+        "antes": "Al inicio del semestre; se registra en el Saber",
+        "despues": "Al inicio del semestre; la calificación se registra en la dimensión del Saber"
+      },
+      {
+        "opcionId": "cmvvxas9b001avdss0za70xtr",
+        "antes": "Cada mes; se registra en el Hacer",
+        "despues": "Cada mes; la calificación se registra en la dimensión del Hacer"
+      },
+      {
+        "opcionId": "cmvvxas9b001bvdss3srd6jjr",
+        "antes": "Al concluir cada módulo; se registra en las cuatro dimensiones",
+        "despues": "Al concluir cada módulo; la calificación se distribuye en las cuatro dimensiones"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvxas9k001dvdss5c2aaq68",
+    "opciones": [
+      {
+        "opcionId": "cmvvxas9k001evdssi8cdhorl",
+        "antes": "Está terminantemente prohibido: los procesos de evaluación en los CEA son gratuitos, y el cobro da lugar a acciones legales",
+        "despues": "Está terminantemente prohibido: los procesos de evaluación en los CEA son gratuitos, y el cobro da lugar a acciones legales"
+      },
+      {
+        "opcionId": "cmvvxas9k001fvdss8n8dxc35",
+        "antes": "Es válido si se destina a materiales del centro",
+        "despues": "Es válido si el monto se destina a materiales de evaluación del centro y se rinde cuentas a la Dirección del CEA"
+      },
+      {
+        "opcionId": "cmvvxas9k001gvdsssez7tak6",
+        "antes": "Es válido si lo aprueba el Consejo Educativo",
+        "despues": "Es válido si lo aprueba el Consejo Educativo del centro en asamblea, con la participación de los participantes"
+      },
+      {
+        "opcionId": "cmvvxas9k001hvdssue5s3cyv",
+        "antes": "Solo está prohibido en los centros fiscales",
+        "despues": "Solo está prohibido en los centros fiscales; en los de convenio puede cobrarse un monto por los materiales"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvxas9u001jvdssd5u8razo",
+    "opciones": [
+      {
+        "opcionId": "cmvvxas9u001kvdssi14wiw4j",
+        "antes": "Anular su certificado y/o título e iniciar el proceso correspondiente",
+        "despues": "Anular su certificado y/o título e iniciar el proceso correspondiente"
+      },
+      {
+        "opcionId": "cmvvxas9u001lvdssi6p0cntr",
+        "antes": "Permitirlo si no hay choque de horarios",
+        "despues": "Permitirlo, siempre que no exista choque de horarios con su trabajo"
+      },
+      {
+        "opcionId": "cmvvxas9u001mvdssz7mzymqi",
+        "antes": "Solo una llamada de atención verbal",
+        "despues": "Solo una llamada de atención verbal de la dirección del centro"
+      },
+      {
+        "opcionId": "cmvvxas9u001nvdssufypf94d",
+        "antes": "Trasladarla a otro turno como participante",
+        "despues": "Trasladarla a otro turno del mismo CEA para que continúe como participante"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvxasa4001pvdss3pctt6c0",
+    "opciones": [
+      {
+        "opcionId": "cmvvxasa4001qvdssox8zppc3",
+        "antes": "Solamente una vez por semestre, para quienes cumplen los parámetros de habilitación",
+        "despues": "Solamente una vez por semestre, para quienes cumplen los parámetros de habilitación"
+      },
+      {
+        "opcionId": "cmvvxasa4001rvdss7jgy2a17",
+        "antes": "Dos veces por semestre",
+        "despues": "Dos veces por semestre, al concluir cada bimestre, para quienes cumplen los parámetros"
+      },
+      {
+        "opcionId": "cmvvxasa4001svdssri9shcm1",
+        "antes": "Una vez por gestión",
+        "despues": "Una vez por gestión, al concluir el segundo semestre, para todos los postergados"
+      },
+      {
+        "opcionId": "cmvvxasa4001tvdssub173dyl",
+        "antes": "Cuantas veces lo solicite el participante",
+        "despues": "Cuantas veces lo solicite el participante postergado, dentro del mismo semestre"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvxasaf001vvdssl3b4uqa5",
+    "opciones": [
+      {
+        "opcionId": "cmvvxasaf001wvdsso5x7jjuo",
+        "antes": "No, porque aunque los dos módulos postergados están dentro del parámetro, no alcanza el mínimo de 60% de asistencia regular",
+        "despues": "No, porque aunque los dos módulos postergados están dentro del parámetro, no alcanza el mínimo de 60% de asistencia regular"
+      },
+      {
+        "opcionId": "cmvvxasaf001xvdssotqxwwph",
+        "antes": "Sí, porque solo se exige estar inscrita en el semestre",
+        "despues": "Sí, porque para habilitarse solo se exige estar inscrita en el semestre y no superar el número de módulos postergados permitido"
+      },
+      {
+        "opcionId": "cmvvxasaf001yvdss0yjjzhqn",
+        "antes": "No, porque en el área técnica solo se habilita con un módulo postergado",
+        "despues": "No, porque en el área técnica solo se habilita a quienes tienen un módulo postergado, aunque cumplan el mínimo de asistencia"
+      },
+      {
+        "opcionId": "cmvvxasaf001zvdssombzgcpk",
+        "antes": "Sí, si el director lo aprueba por excepción",
+        "despues": "Sí, si el director del CEA lo aprueba por excepción, considerando que la inasistencia se debió a razones laborales justificadas"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvxasar0027vdsscj1x8b7q",
+    "opciones": [
+      {
+        "opcionId": "cmvvxasar0028vdssy0o1mg9e",
+        "antes": "La preside la o el Director del CEA, está conformada por facilitadores de la etapa, área, nivel o carrera y se selecciona en consenso con la participación mayoritaria de los facilitadores",
+        "despues": "La preside la o el Director del CEA, la integran facilitadores de la etapa, área, nivel o carrera y se selecciona en consenso con la participación mayoritaria de los facilitadores"
+      },
+      {
+        "opcionId": "cmvvxasar0029vdssiz9r6kmq",
+        "antes": "La preside el Director Distrital y la integran técnicos distritales",
+        "despues": "La preside la o el Director Distrital de Educación, la integran técnicos distritales y facilitadores del centro, y se selecciona por sorteo entre los facilitadores de la carrera"
+      },
+      {
+        "opcionId": "cmvvxasar002avdssiznm34eo",
+        "antes": "La designa directamente el director, sin participación de los facilitadores",
+        "despues": "La designa directamente la o el Director del CEA, sin participación de los facilitadores, entre los maestros con mayor antigüedad en la etapa, área, nivel o carrera"
+      },
+      {
+        "opcionId": "cmvvxasar002bvdssvtixa4q0",
+        "antes": "La integran representantes de los participantes",
+        "despues": "La preside la o el Director del CEA y la integran representantes de los participantes y del Consejo Educativo, elegidos en asamblea al inicio del semestre"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvxasb0002dvdssdyi7vhog",
+    "opciones": [
+      {
+        "opcionId": "cmvvxasb0002evdssrmroafjn",
+        "antes": "Quince días hábiles antes de concluir el semestre; el director, dentro de las 24 horas de recibido el informe",
+        "despues": "Quince días hábiles antes de concluir el semestre; el director, dentro de las 24 horas de recibido el informe"
+      },
+      {
+        "opcionId": "cmvvxasb0002fvdssfh1d4f62",
+        "antes": "Diez días hábiles antes; el director, en 48 horas",
+        "despues": "Diez días hábiles antes de concluir el semestre; el director, dentro de las 48 horas de recibido"
+      },
+      {
+        "opcionId": "cmvvxasb0002gvdssh50iupo8",
+        "antes": "Treinta días calendario antes; el director, en 5 días",
+        "despues": "Treinta días calendario antes de concluir el semestre; el director, dentro de los 5 días hábiles"
+      },
+      {
+        "opcionId": "cmvvxasb0002hvdssrvdzh2bw",
+        "antes": "El último día del semestre; el director, en 72 horas",
+        "despues": "El último día del semestre; el director, dentro de las 72 horas de recibido el informe"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvxasbh002pvdssvzoi1x94",
+    "opciones": [
+      {
+        "opcionId": "cmvvxasbh002qvdssyrjp0t4l",
+        "antes": "Valoración, certificación y homologación, con carácter gratuito, mediante instrumentos técnicos",
+        "despues": "Valoración, certificación y homologación, con carácter gratuito, mediante instrumentos técnicos"
+      },
+      {
+        "opcionId": "cmvvxasbh002rvdss1jgr2y4f",
+        "antes": "Convalidación de estudios en el exterior",
+        "despues": "Convalidación de los estudios realizados en el exterior, con carácter gratuito, mediante instrumentos técnicos"
+      },
+      {
+        "opcionId": "cmvvxasbh002svdssu1idg6l7",
+        "antes": "Evaluación extraordinaria para participantes postergados",
+        "despues": "Evaluación extraordinaria para participantes postergados en el nivel primario, con carácter gratuito"
+      },
+      {
+        "opcionId": "cmvvxasbh002tvdssm2f4lwzg",
+        "antes": "Certificación onerosa de la experiencia laboral",
+        "despues": "Certificación de la experiencia laboral del participante, con un costo fijado por la Dirección Departamental"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvxasbq002vvdss6g4ak0o0",
+    "opciones": [
+      {
+        "opcionId": "cmvvxasbq002wvdss35vpmlbv",
+        "antes": "Se acepta la aprobación de un área de saberes independientemente de las otras, pero para aprobar el nivel deben aprobarse las cuatro áreas",
+        "despues": "Se acepta la aprobación de un área de saberes independientemente de las otras, pero para aprobar el nivel deben aprobarse las cuatro áreas"
+      },
+      {
+        "opcionId": "cmvvxasbq002xvdsspkhf3vgy",
+        "antes": "Se promedian todas las áreas del semestre, y basta con que el promedio llegue a 51",
+        "despues": "Se promedian las calificaciones de todas las áreas del semestre, y basta con que el promedio llegue a 51 para aprobar el semestre y el nivel"
+      },
+      {
+        "opcionId": "cmvvxasbq002yvdss84crdp62",
+        "antes": "Si se reprueba un área, se reprueba todo el semestre",
+        "despues": "Si se reprueba un área de saberes, se reprueba todo el semestre, y deben cursarse nuevamente las cuatro áreas en el semestre siguiente"
+      },
+      {
+        "opcionId": "cmvvxasbq002zvdssbfqb8uo1",
+        "antes": "Basta con aprobar tres de las cuatro áreas para aprobar el nivel",
+        "despues": "Se acepta la aprobación de cada área por separado, y basta con aprobar tres de las cuatro áreas de saberes para aprobar el nivel"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvxasby0031vdssygbomoqe",
+    "opciones": [
+      {
+        "opcionId": "cmvvxasby0032vdssbjuqyorz",
+        "antes": "Un cuaderno andragógico relacionado con la valoración cuantitativa",
+        "despues": "Un cuaderno andragógico relacionado con la valoración cuantitativa"
+      },
+      {
+        "opcionId": "cmvvxasby0033vdssj47g4gsb",
+        "antes": "Un registro anecdótico",
+        "despues": "Un registro anecdótico de cada participante, actualizado cada semana"
+      },
+      {
+        "opcionId": "cmvvxasby0034vdsss75ttpgh",
+        "antes": "El formulario RUDEAL",
+        "despues": "El formulario RUDEAL de inscripción de cada participante del curso"
+      },
+      {
+        "opcionId": "cmvvxasby0035vdssgcjhch2x",
+        "antes": "Una lista de cotejo",
+        "despues": "Una lista de cotejo por dimensión, validada por la dirección del centro"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvxascf003dvdssdd50rufq",
+    "opciones": [
+      {
+        "opcionId": "cmvvxascg003evdss6me6sm09",
+        "antes": "Negarse, porque el director debe mantener la confidencialidad de la información y los resultados de la evaluación",
+        "despues": "Negarse, porque el director debe mantener la confidencialidad de la información y los resultados de la evaluación"
+      },
+      {
+        "opcionId": "cmvvxascg003fvdssr39x0rzw",
+        "antes": "Entregarlas, por el principio de transparencia",
+        "despues": "Entregarlas, por el principio de transparencia de la evaluación y el derecho de las familias a la información"
+      },
+      {
+        "opcionId": "cmvvxascg003gvdssns1svy7v",
+        "antes": "Entregarlas si lo autoriza el facilitador",
+        "despues": "Entregarlas si lo autoriza por escrito el facilitador del área, que es el responsable de las calificaciones"
+      },
+      {
+        "opcionId": "cmvvxascg003hvdssxadvn0ue",
+        "antes": "Publicarlas en el mural del centro",
+        "despues": "Publicarlas en el mural del centro, para que todos los participantes y sus familias puedan compararlas"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvxasco003jvdss36ccutvx",
+    "opciones": [
+      {
+        "opcionId": "cmvvxasco003kvdssezolydy9",
+        "antes": "Por el Ministerio de Educación, previo informe técnico de la Dirección General de Educación Alternativa",
+        "despues": "Por el Ministerio de Educación, previo informe técnico de la Dirección General de Educación Alternativa"
+      },
+      {
+        "opcionId": "cmvvxasco003lvdsshzh2gqaz",
+        "antes": "Por la Comisión Andragógica del centro",
+        "despues": "Por la Comisión Andragógica del centro, previo informe del facilitador del área o módulo"
+      },
+      {
+        "opcionId": "cmvvxasco003mvdssq2hp5d7h",
+        "antes": "Por la Dirección Departamental",
+        "despues": "Por la Dirección Departamental de Educación, previo informe técnico de la Subdirección"
+      },
+      {
+        "opcionId": "cmvvxasco003nvdss01xjqgoc",
+        "antes": "Por el Viceministerio, mediante instructivos, sin informe técnico",
+        "despues": "Por el Viceministerio, mediante instructivos, sin necesidad de un informe técnico previo"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwtrmx60001vdus3phk3qxw",
+    "opciones": [
+      {
+        "opcionId": "cmvwtrmx60002vdusoy97jrb9",
+        "antes": "Puede rendirla, porque se acepta la cédula de identidad u otro documento que lo identifique",
+        "despues": "Puede rendirla, porque se acepta la cédula de identidad u otro documento que lo identifique"
+      },
+      {
+        "opcionId": "cmvwtrmx60003vdus2krzbqdd",
+        "antes": "No puede rendirla sin la cédula",
+        "despues": "No puede rendirla, porque para la evaluación extraordinaria se exige la cédula de identidad"
+      },
+      {
+        "opcionId": "cmvwtrmx60004vdushw0t9iu0",
+        "antes": "Puede rendirla solo con la autorización de la Distrital",
+        "despues": "Puede rendirla solo con autorización escrita de la Dirección Distrital de Educación"
+      },
+      {
+        "opcionId": "cmvwtrmx60005vduspzu3g2wv",
+        "antes": "Debe reprogramarse para el siguiente semestre",
+        "despues": "Debe reprogramarse su evaluación para el semestre siguiente, cuando presente la cédula"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwtrmxj0007vdus884i06pu",
+    "opciones": [
+      {
+        "opcionId": "cmvwtrmxj0008vduszra187ix",
+        "antes": "Autoridades y técnicos del Ministerio de Educación, de la Dirección Departamental y/o de las Direcciones Distritales",
+        "despues": "Autoridades y técnicos del Ministerio de Educación, de la Dirección Departamental y/o de las Direcciones Distritales"
+      },
+      {
+        "opcionId": "cmvwtrmxj0009vdusedb0xuv4",
+        "antes": "Solo la Junta Escolar",
+        "despues": "Solo la Junta Escolar o el Consejo Educativo del centro, como instancia de control social de la evaluación"
+      },
+      {
+        "opcionId": "cmvwtrmxj000avdusbgdsy6m3",
+        "antes": "Solo el director del CEA",
+        "despues": "Solo el director del CEA, que preside la Comisión Andragógica y responde por la transparencia de la evaluación"
+      },
+      {
+        "opcionId": "cmvwtrmxj000bvdusoco5ho9l",
+        "antes": "La Contraloría General del Estado",
+        "despues": "La Contraloría General del Estado y la unidad de transparencia del Ministerio de Educación"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwtrmyy000pvdus6311bmk6",
+    "opciones": [
+      {
+        "opcionId": "cmvwtrmyy000qvdusp77dk3h0",
+        "antes": "Flexible: permite emplear variedad de estrategias, técnicas e instrumentos según las características, la modalidad, el contexto y las necesidades",
+        "despues": "Flexible: permite emplear variedad de estrategias, técnicas e instrumentos según las características, la modalidad, el contexto y las necesidades"
+      },
+      {
+        "opcionId": "cmvwtrmyy000rvdusubh6m03g",
+        "antes": "Dinámica y permanente",
+        "despues": "Dinámica y permanente: se desarrolla durante todo el proceso formativo, con estrategias que cambian en cada momento del semestre"
+      },
+      {
+        "opcionId": "cmvwtrmyy000svdusjo2e0fy1",
+        "antes": "Integral y holística",
+        "despues": "Integral y holística: valora las cuatro dimensiones del participante, con estrategias distintas para el Ser, el Saber, el Hacer y el Decidir"
+      },
+      {
+        "opcionId": "cmvwtrmyy000tvdus9cf635ap",
+        "antes": "Estandarizada",
+        "despues": "Estandarizada: aplica los mismos instrumentos a todos los participantes, adaptando solo la forma de presentarlos según sus necesidades"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwtrmzl0011vdusneeegg9y",
+    "opciones": [
+      {
+        "opcionId": "cmvwtrmzl0012vduszozmeeok",
+        "antes": "Humanística: Libretas de Calificaciones Electrónicas; Técnica: Certificados de Calificaciones Electrónicas",
+        "despues": "Humanística: Libretas de Calificaciones Electrónicas; Técnica: Certificados de Calificaciones Electrónicas"
+      },
+      {
+        "opcionId": "cmvwtrmzl0013vdusd8ftcqfh",
+        "antes": "Humanística: Certificados de Calificaciones; Técnica: Libretas",
+        "despues": "Humanística: Certificados de Calificaciones Electrónicas; Técnica: Libretas de Calificaciones Electrónicas"
+      },
+      {
+        "opcionId": "cmvwtrmzl0014vdusq4jr6cko",
+        "antes": "Ambas reciben Diploma de Bachiller semestral",
+        "despues": "Ambas áreas reciben un Diploma de Bachiller semestral emitido por la Dirección Departamental"
+      },
+      {
+        "opcionId": "cmvwtrmzl0015vdustypyviln",
+        "antes": "Ambas, con boletas físicas firmadas por el director",
+        "despues": "Ambas áreas reciben boletas de calificaciones físicas firmadas por el director y el facilitador"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwtrmzu0017vduscw8wjtvu",
+    "opciones": [
+      {
+        "opcionId": "cmvwtrmzu0018vdusljxgimcz",
+        "antes": "Identificar limitaciones y dificultades, para adaptar las estrategias y brindar apoyo adicional",
+        "despues": "Identificar limitaciones y dificultades, para adaptar las estrategias y brindar apoyo adicional"
+      },
+      {
+        "opcionId": "cmvwtrmzu0019vdusfaa5prht",
+        "antes": "Identificar el nivel de logro de aprendizaje",
+        "despues": "Identificar el nivel de logro de aprendizaje alcanzado por cada participante al final del semestre"
+      },
+      {
+        "opcionId": "cmvwtrmzu001avduszp082a6p",
+        "antes": "Certificar al participante",
+        "despues": "Certificar al participante en el área, una vez superadas las dificultades detectadas"
+      },
+      {
+        "opcionId": "cmvwtrmzu001bvdusnugzhbo7",
+        "antes": "Sancionar el bajo rendimiento",
+        "despues": "Sancionar el bajo rendimiento, mediante la postergación de los participantes con dificultades"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwtrn04001dvdusx6p604uh",
+    "opciones": [
+      {
+        "opcionId": "cmvwtrn04001evdusv340tbmi",
+        "antes": "La lectura y producción de textos, acorde a la etapa, el nivel, el área y/o la carrera",
+        "despues": "La lectura y producción de textos, acorde a la etapa, el nivel, el área y/o la carrera"
+      },
+      {
+        "opcionId": "cmvwtrn04001fvdusk0w8mrqr",
+        "antes": "Solo la lectura en el área de Comunicación",
+        "despues": "Solo la lectura comprensiva en el área de Comunicación y Lenguajes, en todas las etapas"
+      },
+      {
+        "opcionId": "cmvwtrn04001gvdusxoob1cm5",
+        "antes": "La memorización de textos oficiales",
+        "despues": "La memorización de textos oficiales y normas, acorde a la etapa, el nivel y el área"
+      },
+      {
+        "opcionId": "cmvwtrn04001hvdus9gdqpqjx",
+        "antes": "Las innovaciones tecnológicas exclusivamente",
+        "despues": "Las innovaciones tecnológicas exclusivamente, acordes a la carrera técnica del participante"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwwtk80000jvdms9u86stqt",
+    "opciones": [
+      {
+        "opcionId": "cmvwwtk80000kvdmso0vk560x",
+        "antes": "Comprender con precisión el nivel inicial de conocimientos, capacidades, destrezas y habilidades de los participantes, e identificar sus fortalezas y áreas de mejora",
+        "despues": "Comprender con precisión el nivel inicial de conocimientos, capacidades, destrezas y habilidades de los participantes, e identificar sus fortalezas y áreas de mejora"
+      },
+      {
+        "opcionId": "cmvwwtk80000lvdms69936da7",
+        "antes": "Calificar el logro final",
+        "despues": "Calificar el logro final de los participantes en cada área o módulo, para determinar quiénes son promovidos y quiénes quedan postergados en el semestre"
+      },
+      {
+        "opcionId": "cmvwwtk80000mvdmspbug7u25",
+        "antes": "Certificar competencias",
+        "despues": "Certificar las competencias que los participantes adquirieron en la práctica, para homologarlas a los niveles y modalidades que correspondan"
+      },
+      {
+        "opcionId": "cmvwwtk80000nvdmsk62jidg2",
+        "antes": "Sancionar el bajo rendimiento",
+        "despues": "Sancionar el bajo rendimiento de los participantes al inicio del semestre, para que mejoren su desempeño antes de la evaluación final"
+      }
+    ]
+  }
+]

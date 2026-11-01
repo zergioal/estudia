@@ -1,0 +1,677 @@
+[
+  {
+    "preguntaId": "cmvvxpve50007vdww5o9q9cua",
+    "opciones": [
+      {
+        "opcionId": "cmvvxpve50008vdwwpxmia8jg",
+        "antes": "El amauta Avelino Siñani y el profesor Elizardo Pérez, en 1931; se desarrolló hasta 1938",
+        "despues": "El amauta Avelino Siñani y el profesor Elizardo Pérez, en 1931; se desarrolló hasta 1938"
+      },
+      {
+        "opcionId": "cmvvxpve50009vdwwjrbk8c7c",
+        "antes": "Elizardo Pérez y Franz Tamayo, en 1921; hasta 1931",
+        "despues": "El profesor Elizardo Pérez y el escritor Franz Tamayo, en 1921; se desarrolló hasta 1931"
+      },
+      {
+        "opcionId": "cmvvxpve5000avdww08mskjln",
+        "antes": "Avelino Siñani y Elizardo Pérez, en 1936; hasta 1952",
+        "despues": "El amauta Avelino Siñani y el profesor Elizardo Pérez, en 1936; se desarrolló hasta 1952"
+      },
+      {
+        "opcionId": "cmvvxpve5000bvdwwi7sl16x0",
+        "antes": "La Iglesia Católica, en 1931; hasta la Reforma de 1955",
+        "despues": "La Iglesia Católica con maestros aymaras, en 1931; se desarrolló hasta la Reforma de 1955"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvxpve9000dvdwwt37n52ks",
+    "opciones": [
+      {
+        "opcionId": "cmvvxpve9000evdwwq1w681or",
+        "antes": "El enriquecimiento del concepto y procedimiento del \"Sistema Nuclear\" Seccional y la formación de educadores de origen campesino",
+        "despues": "El enriquecimiento del concepto y procedimiento del «Sistema Nuclear» Seccional y la formación de educadores de origen campesino"
+      },
+      {
+        "opcionId": "cmvvxpve9000fvdwwt14ulpff",
+        "antes": "La capacitación radiofónica de campesinos",
+        "despues": "La capacitación radiofónica de campesinos de las comunidades potosinas y la difusión del modelo de Warisata por radio"
+      },
+      {
+        "opcionId": "cmvvxpve9000gvdww26d94emt",
+        "antes": "La creación de los Centros Integrados",
+        "despues": "La creación de los primeros Centros Integrados de educación de adultos en las comunidades campesinas de Potosí"
+      },
+      {
+        "opcionId": "cmvvxpve9000hvdww1ka3kflw",
+        "antes": "La campaña \"Yo sí puedo\"",
+        "despues": "La aplicación pionera del método de alfabetización «Yo sí puedo» en las comunidades indígenas del sur del país"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvxpveq000vvdww3i451fxm",
+    "opciones": [
+      {
+        "opcionId": "cmvvxpveq000wvdww9o2bk14s",
+        "antes": "Superar las dificultades del uso de metodologías escolarizadas en la Educación de Adultos",
+        "despues": "Superar las dificultades del uso de metodologías escolarizadas en la Educación de Adultos"
+      },
+      {
+        "opcionId": "cmvvxpveq000xvdwwqhzk18ko",
+        "antes": "Impartir capacitación radiofónica en el área rural",
+        "despues": "Impartir capacitación radiofónica a los campesinos de las comunidades del área rural"
+      },
+      {
+        "opcionId": "cmvvxpveq000yvdwwscvzr298",
+        "antes": "Otorgar el bachillerato por madurez y suficiencia",
+        "despues": "Otorgar el bachillerato por madurez y suficiencia a los adultos que trabajaban"
+      },
+      {
+        "opcionId": "cmvvxpveq000zvdww1m85xy08",
+        "antes": "Alfabetizar mediante el método \"Yo sí puedo\"",
+        "despues": "Alfabetizar a la población adulta mediante el método cubano «Yo sí puedo»"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvxpveu0011vdwwvzj4qhih",
+    "opciones": [
+      {
+        "opcionId": "cmvvxpveu0012vdwwt3juyn1p",
+        "antes": "Que la educación debía ser revolucionaria y formar parte de los cambios estructurales como instrumento de liberación",
+        "despues": "Que la educación debía ser revolucionaria y formar parte de los cambios estructurales como instrumento de liberación"
+      },
+      {
+        "opcionId": "cmvvxpveu0013vdwwikskna1g",
+        "antes": "Que la educación de adultos debía ser escolarizada y uniforme",
+        "despues": "Que la educación de adultos debía ser escolarizada y uniforme en todo el país para garantizar su calidad"
+      },
+      {
+        "opcionId": "cmvvxpveu0014vdwwi3p5z3ii",
+        "antes": "Que debía crearse la Escuela de Warisata",
+        "despues": "Que debía crearse la Escuela Ayllu de Warisata como modelo de la educación indígena en todo el país"
+      },
+      {
+        "opcionId": "cmvvxpveu0015vdwwa4sme7vx",
+        "antes": "Que debía privatizarse la educación técnica",
+        "despues": "Que debía privatizarse la educación técnica para vincularla con las necesidades de las empresas"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvxpvey0017vdwwfnqmky57",
+    "opciones": [
+      {
+        "opcionId": "cmvvxpvey0018vdwwlo7wisos",
+        "antes": "En seis grados (uno inicial, tres complementarios y dos avanzados), con una duración de tres años",
+        "despues": "En seis grados (uno inicial, tres complementarios y dos avanzados), con una duración de tres años"
+      },
+      {
+        "opcionId": "cmvvxpvey0019vdwwuhbbuu37",
+        "antes": "En cuatro grados, con una duración de dos años",
+        "despues": "En cuatro grados (uno inicial, dos complementarios y uno avanzado), con una duración de dos años"
+      },
+      {
+        "opcionId": "cmvvxpvey001avdwwfibu4uyr",
+        "antes": "En ocho grados, con una duración de cuatro años",
+        "despues": "En ocho grados (dos iniciales, cuatro complementarios y dos avanzados), con una duración de cuatro años"
+      },
+      {
+        "opcionId": "cmvvxpvey001bvdww02403cdb",
+        "antes": "En tres niveles: básico, auxiliar y medio",
+        "despues": "En tres niveles (básico, auxiliar y medio), cada uno con una duración de un año"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvxpvf7001dvdwwg1jdn6mn",
+    "opciones": [
+      {
+        "opcionId": "cmvvxpvf7001evdww5w09ybz6",
+        "antes": "Proporcionar educación primaria a los recién alfabetizados y a todas las personas mayores de 15 años que abandonaron o no tuvieron acceso a la educación",
+        "despues": "Proporcionar educación primaria a los recién alfabetizados y a todas las personas mayores de 15 años que abandonaron o no tuvieron acceso a la educación"
+      },
+      {
+        "opcionId": "cmvvxpvf7001fvdwwh9s9bxjc",
+        "antes": "Erradicar el analfabetismo, meta cumplida en 2008",
+        "despues": "Erradicar el analfabetismo en todo el país mediante el método cubano, meta que se declaró cumplida en 2008 con la población mayor de 15 años"
+      },
+      {
+        "opcionId": "cmvvxpvf7001gvdwwxcr4jdi9",
+        "antes": "Otorgar títulos de Técnico Medio a los alfabetizados",
+        "despues": "Otorgar títulos de Técnico Medio a los recién alfabetizados y a las personas mayores de 15 años que concluyeron la educación primaria"
+      },
+      {
+        "opcionId": "cmvvxpvf7001hvdwwn3vedetx",
+        "antes": "Atender a bolivianos en el exterior",
+        "despues": "Atender a las bolivianas y bolivianos en el exterior que abandonaron o no tuvieron acceso a la educación, mediante la modalidad a distancia"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvxpvfh001jvdww2nqeeiq6",
+    "opciones": [
+      {
+        "opcionId": "cmvvxpvfh001kvdwwt54k7aha",
+        "antes": "Práctica - teoría - práctica, cíclica y continua, para apropiarse conscientemente de la realidad y transformarla",
+        "despues": "Práctica - teoría - práctica, cíclica y continua, para apropiarse conscientemente de la realidad y transformarla"
+      },
+      {
+        "opcionId": "cmvvxpvfh001lvdww57dlpmuy",
+        "antes": "Teoría - práctica - evaluación, de forma lineal",
+        "despues": "Teoría - práctica - evaluación, de forma lineal, para aplicar los conocimientos aprendidos en la realidad"
+      },
+      {
+        "opcionId": "cmvvxpvfi001mvdwwfxlxtsgp",
+        "antes": "Diagnóstico - planificación - ejecución",
+        "despues": "Diagnóstico - planificación - ejecución, de forma secuencial, para resolver los problemas de la comunidad"
+      },
+      {
+        "opcionId": "cmvvxpvfi001nvdwwojzo118l",
+        "antes": "Exposición - memorización - examen",
+        "despues": "Exposición - memorización - examen, de forma continua, para asegurar la apropiación de los contenidos"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvxpvfo001vvdwwq2k3e2lt",
+    "opciones": [
+      {
+        "opcionId": "cmvvxpvfo001wvdww34e0i4j4",
+        "antes": "Que los participantes intervengan en todo el proceso (gestión, planificación, diseño, evaluación y sistematización), porque nadie educa a nadie y todos enseñan y aprenden simultáneamente",
+        "despues": "Que los participantes intervengan en todo el proceso (gestión, planificación, diseño, evaluación y sistematización), porque nadie educa a nadie y todos enseñan y aprenden simultáneamente"
+      },
+      {
+        "opcionId": "cmvvxpvfo001xvdwwj9kxi276",
+        "antes": "El principio de autoridad exclusiva del facilitador",
+        "despues": "El principio de autoridad pedagógica del facilitador, que debe planificar el curso con la Dirección del CEA y presentar el plan a los participantes al inicio del proceso"
+      },
+      {
+        "opcionId": "cmvvxpvfo001yvdww9jezbbe6",
+        "antes": "La gratuidad de los procesos formativos",
+        "despues": "La gratuidad de los procesos formativos, que exige que el facilitador planifique el curso con los recursos disponibles del centro, sin pedir aportes a los participantes"
+      },
+      {
+        "opcionId": "cmvvxpvfo001zvdwwphrj2803",
+        "antes": "La educación escolarizada con contenidos fijos",
+        "despues": "La educación escolarizada con contenidos fijos, que exige que el facilitador siga la malla curricular aprobada y no la modifique según los intereses del grupo"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvxpvfy0021vdwwfrybb0gs",
+    "opciones": [
+      {
+        "opcionId": "cmvvxpvfy0022vdwwb7aqmegg",
+        "antes": "Al eje temático: el aspecto específico sobre el que gira ordenadamente el contenido",
+        "despues": "Al eje temático: el aspecto específico sobre el que gira ordenadamente el contenido"
+      },
+      {
+        "opcionId": "cmvvxpvfy0023vdww9uoojx5u",
+        "antes": "A los objetivos",
+        "despues": "A los objetivos: lo que se quiere lograr con el proceso formativo en la comunidad"
+      },
+      {
+        "opcionId": "cmvvxpvfy0024vdwwrf8qrbqe",
+        "antes": "Al método",
+        "despues": "Al método: el camino que se sigue para desarrollar el proceso educativo"
+      },
+      {
+        "opcionId": "cmvvxpvfy0025vdwwv46ed3lz",
+        "antes": "A los resultados",
+        "despues": "A los resultados: los productos tangibles e intangibles que se esperan del proceso"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvxpvg10027vdww5xtpyjy5",
+    "opciones": [
+      {
+        "opcionId": "cmvvxpvg10028vdww1yo3cj8j",
+        "antes": "La lógica dialéctica (práctica-teoría-valoración-producción) no cambia; la lógica metodológica (técnicas, recursos, tiempos, responsables) puede ajustarse a los participantes",
+        "despues": "La lógica dialéctica (práctica-teoría-valoración-producción) no cambia; la lógica metodológica (técnicas, recursos, tiempos, responsables) puede ajustarse"
+      },
+      {
+        "opcionId": "cmvvxpvg10029vdww8st0h1rp",
+        "antes": "La lógica metodológica no cambia; la dialéctica se ajusta",
+        "despues": "La lógica metodológica (técnicas, recursos, tiempos, responsables) no cambia; la lógica dialéctica (práctica-teoría-valoración-producción) puede ajustarse"
+      },
+      {
+        "opcionId": "cmvvxpvg1002avdwwzvbnzbwo",
+        "antes": "Ambas son fijas",
+        "despues": "Ambas lógicas son fijas: el instrumento de diseño metodológico no admite ajustes una vez aprobado por la Dirección del CEA"
+      },
+      {
+        "opcionId": "cmvvxpvg1002bvdwwop6x8qqs",
+        "antes": "Ambas pueden cambiar, incluso el punto de partida",
+        "despues": "Ambas lógicas pueden cambiar según los participantes, incluso el punto de partida del proceso dialéctico de la práctica"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvxpvg9002dvdwwpdwbzhrq",
+    "opciones": [
+      {
+        "opcionId": "cmvvxpvg9002evdwwmy476088",
+        "antes": "Que no tiene contenidos curriculares predefinidos: se construye en y con la comunidad, a partir de sus necesidades, y su particularidad fundamental es la dimensión comunitaria",
+        "despues": "Que no tiene contenidos curriculares predefinidos: se construye en y con la comunidad, a partir de sus necesidades, y su particularidad es la dimensión comunitaria"
+      },
+      {
+        "opcionId": "cmvvxpvg9002fvdwwggap74br",
+        "antes": "Que sigue la misma malla curricular que la EPJA",
+        "despues": "Que sigue la misma malla curricular que la EPJA, pero con una carga horaria menor y sin evaluación cuantitativa, y su particularidad es la flexibilidad horaria"
+      },
+      {
+        "opcionId": "cmvvxpvg9002gvdwwb8slkqft",
+        "antes": "Que sus contenidos los fija cada año el Ministerio",
+        "despues": "Que sus contenidos los fija cada año el Ministerio de Educación mediante resolución, según las prioridades nacionales de formación de la población adulta"
+      },
+      {
+        "opcionId": "cmvvxpvg9002hvdwwy3lhb6w8",
+        "antes": "Que solo enseña oficios técnicos certificables",
+        "despues": "Que solo enseña oficios técnicos certificables por el SPCC, con contenidos definidos en los estándares ocupacionales de cada rubro productivo"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvxpvgc002jvdwwpnhrom71",
+    "opciones": [
+      {
+        "opcionId": "cmvvxpvgc002kvdwwbyqznajn",
+        "antes": "No la comunidad ancestral o históricamente existente, sino la comunidad como forma de lo social",
+        "despues": "No la comunidad ancestral o históricamente existente, sino la comunidad como forma de lo social"
+      },
+      {
+        "opcionId": "cmvvxpvgc002lvdww1b4sqfql",
+        "antes": "La comunidad ancestral, tal como existió antes de la colonia",
+        "despues": "La comunidad ancestral, tal como existió antes de la colonia, como modelo de la organización educativa"
+      },
+      {
+        "opcionId": "cmvvxpvgc002mvdww2akrigf3",
+        "antes": "Solo el ayllu andino",
+        "despues": "Solo el ayllu andino y sus formas de organización, como base de la educación comunitaria del país"
+      },
+      {
+        "opcionId": "cmvvxpvgc002nvdwwzs45unsb",
+        "antes": "La comunidad educativa de cada unidad escolar",
+        "despues": "La comunidad educativa de cada unidad escolar, formada por maestros, estudiantes y familias"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvxpvgf002pvdwwhww9e13z",
+    "opciones": [
+      {
+        "opcionId": "cmvvxpvgf002qvdww3c89r9zi",
+        "antes": "Los tiempos y espacios para el aprendizaje no están definidos, y la persona está en un constante proceso de aprendizaje",
+        "despues": "Los tiempos y espacios para el aprendizaje no están definidos, y la persona está en un constante proceso de aprendizaje"
+      },
+      {
+        "opcionId": "cmvvxpvgf002rvdww6b6vzvu3",
+        "antes": "El aprendizaje ocurre en etapas especiales fijadas por la edad",
+        "despues": "El aprendizaje ocurre en etapas especiales de la vida fijadas por la edad, y la Educación Permanente atiende la adultez"
+      },
+      {
+        "opcionId": "cmvvxpvgf002svdww7ebw9k1z",
+        "antes": "Solo el facilitador tiene algo que enseñar",
+        "despues": "Solo el facilitador tiene algo que enseñar, y los participantes aprenden lo que la comunidad necesita"
+      },
+      {
+        "opcionId": "cmvvxpvgf002tvdwwr9tlkvxk",
+        "antes": "Solo se reconoce la educación escolarizada formal",
+        "despues": "Solo se reconoce la educación escolarizada formal, y la Educación Permanente la complementa con cursos libres"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvzdoz30001vd0ocwlygi18",
+    "opciones": [
+      {
+        "opcionId": "cmvvzdoz30002vd0o82u8uwmv",
+        "antes": "Con 6 horas académicas (240 minutos ÷ 40 minutos por hora académica)",
+        "despues": "Con 6 horas académicas (240 minutos ÷ 40 minutos por hora académica)"
+      },
+      {
+        "opcionId": "cmvvzdoz30003vd0ornge3rk5",
+        "antes": "Con 4 horas académicas",
+        "despues": "Con 4 horas académicas (cada hora reloj equivale a una hora académica)"
+      },
+      {
+        "opcionId": "cmvvzdoz30004vd0o3pzx16er",
+        "antes": "Con 5 horas académicas (hora de 45 minutos)",
+        "despues": "Con 5 horas académicas (240 minutos ÷ 45 minutos, redondeado)"
+      },
+      {
+        "opcionId": "cmvvzdoz30005vd0oxugc2v0e",
+        "antes": "Con 8 horas académicas",
+        "despues": "Con 8 horas académicas (240 minutos ÷ 30 minutos por hora académica)"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvzdoza0007vd0ophboj9fy",
+    "opciones": [
+      {
+        "opcionId": "cmvvzdoza0008vd0ovgomv19r",
+        "antes": "El Art. 24, par. III de la Ley 070, que prevé una institución especializada dependiente del Ministerio de Educación para los procesos educativos permanentes no escolarizados",
+        "despues": "El Art. 24, par. III de la Ley 070, que prevé una institución especializada dependiente del Ministerio de Educación para los procesos educativos permanentes no escolarizados"
+      },
+      {
+        "opcionId": "cmvvzdoza0009vd0ofwuz5at5",
+        "antes": "El Art. 23 de la Ley 070, sobre la EPJA",
+        "despues": "El Art. 23 de la Ley 070, que regula la Educación de Personas Jóvenes y Adultas y prevé centros especializados para la formación de las organizaciones sociales"
+      },
+      {
+        "opcionId": "cmvvzdoza000avd0ohopqyoi0",
+        "antes": "El Art. 40 de la Ley 070, sobre la formación continua",
+        "despues": "El Art. 40 de la Ley 070, que regula la formación continua y prevé una institución especializada para la capacitación de dirigentes y organizaciones"
+      },
+      {
+        "opcionId": "cmvvzdoza000bvd0ou8a7su8e",
+        "antes": "El Art. 83 de la Ley 070, sobre el Observatorio",
+        "despues": "El Art. 83 de la Ley 070, que crea el Observatorio Plurinacional y prevé una institución especializada para evaluar los procesos no escolarizados"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvzdp0j001dvd0osuslzq4r",
+    "opciones": [
+      {
+        "opcionId": "cmvvzdp0j001evd0olcqehpud",
+        "antes": "Que se planifica con los actores (comunidades y organizaciones), y que los productores y trabajadores expertos del rubro participan en su planificación y desarrollo",
+        "despues": "Que se planifica con los actores (comunidades y organizaciones), y que los productores y trabajadores expertos del rubro participan en su planificación y desarrollo"
+      },
+      {
+        "opcionId": "cmvvzdp0j001fvd0ojifwy5kb",
+        "antes": "Que lo planifica solo el facilitador",
+        "despues": "Que lo planifica solo el facilitador del CEA, según su especialidad, y que los participantes se inscriben en él sin intervenir en su planificación ni en su desarrollo"
+      },
+      {
+        "opcionId": "cmvvzdp0j001gvd0on4sd3vcw",
+        "antes": "Que no requiere diagnóstico",
+        "despues": "Que no requiere diagnóstico previo de la comunidad, porque sus contenidos se toman de la malla curricular de la carrera técnica correspondiente de la EPJA"
+      },
+      {
+        "opcionId": "cmvvzdp0j001hvd0oynox8jl9",
+        "antes": "Que solo es teórico",
+        "despues": "Que solo es teórico y se desarrolla en el aula del CEA, mientras que el curso corto incluye prácticas en los espacios productivos de la comunidad"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvzdp0x001pvd0ov5ye0jkb",
+    "opciones": [
+      {
+        "opcionId": "cmvvzdp0x001qvd0ojm75ontb",
+        "antes": "A través de la Educación de Personas Jóvenes y Adultas (EPJA) o de la Educación Permanente (EDUPER), bajo reglamentación específica",
+        "despues": "A través de la Educación de Personas Jóvenes y Adultas (EPJA) o de la Educación Permanente (EDUPER), bajo reglamentación específica"
+      },
+      {
+        "opcionId": "cmvvzdp0x001rvd0o68our6ae",
+        "antes": "Solo a través de institutos técnicos superiores",
+        "despues": "Solo a través de institutos técnicos superiores, que continúan la formación de los niveles Técnico Básico y Auxiliar de los CEA"
+      },
+      {
+        "opcionId": "cmvvzdp0x001svd0owybp957z",
+        "antes": "Solo a través de universidades",
+        "despues": "Solo a través de universidades públicas, mediante convenios con el Ministerio para la formación técnica de jóvenes y adultos"
+      },
+      {
+        "opcionId": "cmvvzdp0x001tvd0ot4s4ruh5",
+        "antes": "A través del Subsistema de Educación Regular",
+        "despues": "A través del Subsistema de Educación Regular, en el bachillerato técnico humanístico de las unidades educativas"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvzdp18001vvd0ox7q9wgik",
+    "opciones": [
+      {
+        "opcionId": "cmvvzdp18001wvd0o7k0ze6iw",
+        "antes": "Crear las condiciones para su producción o su construcción",
+        "despues": "Crear las condiciones para su producción o su construcción"
+      },
+      {
+        "opcionId": "cmvvzdp18001xvd0ovq4kdbih",
+        "antes": "Memorizar los contenidos universales",
+        "despues": "Asegurar que los participantes memoricen los contenidos universales"
+      },
+      {
+        "opcionId": "cmvvzdp18001yvd0oowd1ejcx",
+        "antes": "Evaluar y certificar",
+        "despues": "Evaluar y certificar los aprendizajes logrados por los participantes"
+      },
+      {
+        "opcionId": "cmvvzdp18001zvd0o2p4xcmma",
+        "antes": "Transmitir la cultura occidental",
+        "despues": "Transmitir la cultura occidental como referente de los conocimientos"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvzdp1i0021vd0o3ys3csk3",
+    "opciones": [
+      {
+        "opcionId": "cmvvzdp1i0022vd0ow57swpy9",
+        "antes": "La Dirección General de Educación de Adultos del Viceministerio de Educación Alternativa y Especial",
+        "despues": "La Dirección General de Educación de Adultos del Viceministerio de Educación Alternativa y Especial"
+      },
+      {
+        "opcionId": "cmvvzdp1i0023vd0of0i56upv",
+        "antes": "La Dirección General de Educación Especial",
+        "despues": "La Dirección General de Educación Especial del Viceministerio de Educación Alternativa y Especial"
+      },
+      {
+        "opcionId": "cmvvzdp1i0024vd0ogkm28h9i",
+        "antes": "El Viceministerio de Educación Regular",
+        "despues": "El Viceministerio de Educación Regular, en coordinación con la Dirección General de Educación de Adultos"
+      },
+      {
+        "opcionId": "cmvvzdp1i0025vd0o88rv3nns",
+        "antes": "Las Direcciones Departamentales de Educación",
+        "despues": "Las Direcciones Departamentales de Educación, a través de sus Subdirecciones de Educación Alternativa"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwtuzya001jvd70oyipg5jn",
+    "opciones": [
+      {
+        "opcionId": "cmvwtuzya001kvd702ymojzrs",
+        "antes": "Cambios en contenidos, metodologías y estrategias, con una visión emancipadora y transformadora que reconozca las identidades y respete los ritmos de aprendizaje",
+        "despues": "Cambios en contenidos, metodologías y estrategias, con una visión emancipadora y transformadora que reconozca las identidades y respete los ritmos de aprendizaje"
+      },
+      {
+        "opcionId": "cmvwtuzya001lvd70u2wog36k",
+        "antes": "Solo agregar contenidos sobre discapacidad",
+        "despues": "Solo agregar contenidos sobre discapacidad en los cursos, sin modificar las metodologías ni las estrategias que se aplican con el resto de los participantes"
+      },
+      {
+        "opcionId": "cmvwtuzya001mvd700gxckegz",
+        "antes": "Separar a los participantes por su origen",
+        "despues": "Separar a los participantes por su origen cultural y su ritmo de aprendizaje, para ofrecer a cada grupo una atención diferenciada y especializada"
+      },
+      {
+        "opcionId": "cmvwtuzya001nvd70utada2gh",
+        "antes": "Uniformar los ritmos de aprendizaje",
+        "despues": "Uniformar los ritmos de aprendizaje de los participantes mediante estrategias de nivelación, para que todos avancen juntos en los contenidos del curso"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwtuzye001pvd70yb5uropv",
+    "opciones": [
+      {
+        "opcionId": "cmvwtuzye001qvd706mdj9ows",
+        "antes": "Espacios de respeto, solidaridad y complementariedad que respondan a la diversidad y reduzcan la exclusión, la discriminación y la desigualdad",
+        "despues": "Espacios de respeto, solidaridad y complementariedad que respondan a la diversidad y reduzcan la exclusión, la discriminación y la desigualdad"
+      },
+      {
+        "opcionId": "cmvwtuzye001rvd70qia7riye",
+        "antes": "Grupos separados por cultura para evitar conflictos",
+        "despues": "Grupos separados por cultura y origen de los participantes, para evitar los conflictos y las burlas entre ellos durante el proceso formativo"
+      },
+      {
+        "opcionId": "cmvwtuzye001svd70jak3u12z",
+        "antes": "Sanciones de expulsión inmediata",
+        "despues": "Sanciones de expulsión inmediata para los participantes que se burlen de otros por su origen, conforme al reglamento interno del centro"
+      },
+      {
+        "opcionId": "cmvwtuzye001tvd70nb2gf8og",
+        "antes": "Un currículo único sin referencias culturales",
+        "despues": "Un currículo único sin referencias culturales de ningún pueblo, para que ningún participante se sienta excluido por su origen"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwwp3lb0001vdk08iojrz2o",
+    "opciones": [
+      {
+        "opcionId": "cmvwwp3lb0002vdk0xnzgzo88",
+        "antes": "El Ser, entendido como la voluntad de la persona, la familia y la comunidad para realizar una acción",
+        "despues": "El Ser, entendido como la voluntad de la persona, la familia y la comunidad para realizar una acción"
+      },
+      {
+        "opcionId": "cmvwwp3lb0003vdk0z1ttds49",
+        "antes": "El Saber",
+        "despues": "El Saber, entendido como los conocimientos que la persona y la comunidad tienen sobre la acción"
+      },
+      {
+        "opcionId": "cmvwwp3lb0004vdk0jfm2rdnz",
+        "antes": "El Hacer",
+        "despues": "El Hacer, entendido como la práctica concreta que la persona y la comunidad realizan en la acción"
+      },
+      {
+        "opcionId": "cmvwwp3lb0005vdk0rftq13f2",
+        "antes": "El Decidir",
+        "despues": "El Decidir, entendido como la capacidad de la persona y la comunidad de actuar sobre la realidad"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwwp3li0007vdk05k9m3dml",
+    "opciones": [
+      {
+        "opcionId": "cmvwwp3li0008vdk0buckte6u",
+        "antes": "«No todos pueden evaluar todo»: las personas sabias y especialistas de la comunidad son sujetos clave para evaluar lo propio de su experiencia",
+        "despues": "«No todos pueden evaluar todo»: las personas sabias y especialistas de la comunidad son sujetos clave para evaluar lo propio de su experiencia"
+      },
+      {
+        "opcionId": "cmvwwp3li0009vdk04mizncfw",
+        "antes": "Solo el facilitador puede evaluar",
+        "despues": "«Solo el facilitador puede evaluar»: la tejedora puede opinar, pero la calificación de los trabajos corresponde al facilitador del curso"
+      },
+      {
+        "opcionId": "cmvwwp3li000avdk0jc0ae81g",
+        "antes": "La evaluación debe ser externa y estandarizada",
+        "despues": "«La evaluación debe ser externa»: una persona ajena al curso evalúa con criterios estandarizados para asegurar la objetividad"
+      },
+      {
+        "opcionId": "cmvwwp3li000bvdk0aydr6sqz",
+        "antes": "Los participantes se autoevalúan exclusivamente",
+        "despues": "«Cada participante se evalúa»: la autoevaluación es la única forma válida de valorar los trabajos en la Educación Permanente"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwwp3lm000dvdk0jc0y1zl7",
+    "opciones": [
+      {
+        "opcionId": "cmvwwp3ln000evdk00u330919",
+        "antes": "Como un proceso continuo, integral, holístico, práctico, comunitario, reflexivo y diverso",
+        "despues": "Como un proceso continuo, integral, holístico, práctico, comunitario, reflexivo y diverso"
+      },
+      {
+        "opcionId": "cmvwwp3ln000fvdk0hyh7gi7p",
+        "antes": "Como un examen final escrito",
+        "despues": "Como un examen final escrito que mide los conocimientos adquiridos en el curso"
+      },
+      {
+        "opcionId": "cmvwwp3ln000gvdk0yderzfh7",
+        "antes": "Como una calificación cuantitativa exclusivamente",
+        "despues": "Como una calificación cuantitativa exclusivamente, registrada en el sistema del SIE"
+      },
+      {
+        "opcionId": "cmvwwp3ln000hvdk0zrsxlp0n",
+        "antes": "Como un trámite de certificación",
+        "despues": "Como un trámite de certificación que se realiza al concluir cada curso largo o corto"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwwp3lx000jvdk0e53jotis",
+    "opciones": [
+      {
+        "opcionId": "cmvwwp3lx000kvdk0zgdye5ft",
+        "antes": "Para zonas periurbanas y rurales; combina la Educación Formal (Humanística) y la No Formal (Permanente No Escolarizada)",
+        "despues": "Para zonas periurbanas y rurales; combina la Educación Formal (Humanística) y la No Formal (Permanente No Escolarizada)"
+      },
+      {
+        "opcionId": "cmvwwp3lx000lvdk0sjn2piyz",
+        "antes": "Para las capitales; solo la Educación Técnica",
+        "despues": "Para las capitales de departamento; combina la Educación Técnica de la EPJA con la certificación de competencias del SPCC"
+      },
+      {
+        "opcionId": "cmvwwp3lx000mvdk00t4mt00k",
+        "antes": "Para el exterior; solo la educación a distancia",
+        "despues": "Para la población boliviana en el exterior; combina la educación a distancia con tutorías presenciales en los consulados"
+      },
+      {
+        "opcionId": "cmvwwp3lx000nvdk00yarqyer",
+        "antes": "Para cárceles; solo la Educación Permanente",
+        "despues": "Para los recintos penitenciarios; combina la Educación Permanente con la formación técnica para la reinserción laboral"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwwp3mg0011vdk0b4glom7z",
+    "opciones": [
+      {
+        "opcionId": "cmvwwp3mg0012vdk0w2goitdz",
+        "antes": "El Sistema de Información Educativa (SIE) del Ministerio de Educación",
+        "despues": "El Sistema de Información Educativa (SIE) del Ministerio de Educación"
+      },
+      {
+        "opcionId": "cmvwwp3mg0013vdk0aj1ntgvh",
+        "antes": "El SPCC",
+        "despues": "El Sistema Plurinacional de Certificación de Competencias (SPCC)"
+      },
+      {
+        "opcionId": "cmvwwp3mg0014vdk0dwft4l9k",
+        "antes": "La Dirección Distrital en libros físicos",
+        "despues": "La Dirección Distrital de Educación, en libros de registro físicos"
+      },
+      {
+        "opcionId": "cmvwwp3mg0015vdk07p89ld2g",
+        "antes": "El SEGIP",
+        "despues": "El Servicio General de Identificación Personal (SEGIP)"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwwp3n0001dvdk00hkslmqp",
+    "opciones": [
+      {
+        "opcionId": "cmvwwp3n0001evdk0zacgbe3j",
+        "antes": "Legitimar el dominio colonial y reconfigurar la cultura de los pueblos indígenas hacia el referente europeo, en beneficio de la corona española",
+        "despues": "Legitimar el dominio colonial y reconfigurar la cultura de los pueblos indígenas hacia el referente europeo, en beneficio de la corona española"
+      },
+      {
+        "opcionId": "cmvwwp3n0001fvdk0eurppzmi",
+        "antes": "Universalizar la educación para todos",
+        "despues": "Universalizar la educación para todos los habitantes del territorio, indígenas y criollos, para formar súbditos leales a la corona española"
+      },
+      {
+        "opcionId": "cmvwwp3n0001gvdk0xo8pl9nz",
+        "antes": "Promover la interculturalidad",
+        "despues": "Promover la interculturalidad entre los pueblos indígenas y los colonizadores, mediante la enseñanza de las lenguas originarias y el castellano"
+      },
+      {
+        "opcionId": "cmvwwp3n0001hvdk0dk6qv77n",
+        "antes": "Formar técnicos productivos indígenas",
+        "despues": "Formar técnicos productivos indígenas para las minas y las haciendas, en beneficio de la economía colonial y de la corona española"
+      }
+    ]
+  }
+]

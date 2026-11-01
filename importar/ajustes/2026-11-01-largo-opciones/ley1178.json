@@ -1,0 +1,602 @@
+[
+  {
+    "preguntaId": "cmvvw351d000vvdwgt3suuwwd",
+    "opciones": [
+      {
+        "opcionId": "cmvvw351d000wvdwgxpx0rror",
+        "antes": "Sí, porque el término comprende a toda persona que preste servicios en relación de dependencia con autoridades estatales, cualquiera sea la fuente de su remuneración",
+        "despues": "Sí, porque comprende a toda persona que preste servicios en relación de dependencia con autoridades estatales, cualquiera sea la fuente de su remuneración"
+      },
+      {
+        "opcionId": "cmvvw351d000xvdwggdoekw1t",
+        "antes": "No, porque su remuneración no proviene del Tesoro General de la Nación",
+        "despues": "No, porque su remuneración no proviene del Tesoro General de la Nación ni de recursos propios de una entidad del sector público"
+      },
+      {
+        "opcionId": "cmvvw351d000yvdwg0nj0655g",
+        "antes": "Solo si fue designada mediante concurso de méritos",
+        "despues": "Solo si fue designada mediante concurso de méritos y figura en la planilla presupuestaria de la Dirección Departamental"
+      },
+      {
+        "opcionId": "cmvvw351d000zvdwght4617gj",
+        "antes": "Solo si ejerce un cargo de autoridad o ejecutivo",
+        "despues": "Solo si ejerce un cargo de autoridad o ejecutivo; el personal de proyectos financiados por cooperación es consultor"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvw3523001jvdwgeldunq63",
+    "opciones": [
+      {
+        "opcionId": "cmvvw3523001kvdwgtj0jdet1",
+        "antes": "No solo de los objetivos a que se destinaron los recursos públicos que le fueron confiados, sino también de la forma y resultado de su aplicación",
+        "despues": "No solo de los objetivos a que se destinaron los recursos públicos que le fueron confiados, sino también de la forma y resultado de su aplicación"
+      },
+      {
+        "opcionId": "cmvvw3523001lvdwgrqzj463a",
+        "antes": "Únicamente de los objetivos a que se destinaron los recursos públicos",
+        "despues": "Únicamente de los objetivos a que se destinaron los recursos públicos, porque la forma de su aplicación es responsabilidad de la unidad financiera"
+      },
+      {
+        "opcionId": "cmvvw3523001mvdwgbu60dv5r",
+        "antes": "Solo ante la Contraloría General del Estado, al concluir su gestión",
+        "despues": "Solo ante la Contraloría General del Estado y al concluir su gestión, sobre la forma y el resultado de la aplicación de los recursos confiados"
+      },
+      {
+        "opcionId": "cmvvw3523001nvdwgt6axlnz2",
+        "antes": "Solo si ocupa un cargo jerárquico de autoridad o ejecutivo",
+        "despues": "Solo si ocupa un cargo jerárquico de autoridad o ejecutivo; el personal técnico responde ante su inmediato superior y no rinde cuenta"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvxrdiz0001vdycquqz8k17",
+    "opciones": [
+      {
+        "opcionId": "cmvvxrdiz0002vdycqlz1pj8o",
+        "antes": "Los responsables de la auditoría interna y las personas, unidades o entidades diferentes o externas a la unidad ejecutora",
+        "despues": "Los responsables de la auditoría interna y las personas, unidades o entidades diferentes o externas a la unidad ejecutora"
+      },
+      {
+        "opcionId": "cmvvxrdiz0003vdyclxd91srf",
+        "antes": "Las unidades que ejecutan las operaciones",
+        "despues": "Las unidades que ejecutan las operaciones, porque el control previo debe ejercerlo una instancia externa a ellas"
+      },
+      {
+        "opcionId": "cmvvxrdiz0004vdycq9296nbq",
+        "antes": "La máxima autoridad ejecutiva",
+        "despues": "La máxima autoridad ejecutiva, porque el control previo corresponde exclusivamente a la auditoría interna"
+      },
+      {
+        "opcionId": "cmvvxrdiz0005vdycknzafvqf",
+        "antes": "Ninguna: cualquier unidad puede ejercer control previo",
+        "despues": "Ninguna: cualquier unidad de la entidad o externa a ella puede ejercer control previo sobre sus operaciones"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvxrdjc0007vdycvjp2cmgy",
+    "opciones": [
+      {
+        "opcionId": "cmvvxrdjc0008vdycjptovdoz",
+        "antes": "Depende de la máxima autoridad ejecutiva y no participa en ninguna otra operación ni actividad administrativa, formulando su programa con total independencia",
+        "despues": "Depende de la máxima autoridad ejecutiva y no participa en ninguna otra operación ni actividad administrativa, formulando su programa con independencia"
+      },
+      {
+        "opcionId": "cmvvxrdjc0009vdyc9vj08kf5",
+        "antes": "Depende de la Contraloría y participa en los controles previos",
+        "despues": "Depende de la Contraloría General del Estado y participa en los controles previos de las operaciones, formulando su programa con independencia"
+      },
+      {
+        "opcionId": "cmvvxrdjc000avdyc2ja5shfd",
+        "antes": "Depende de la unidad financiera de la entidad",
+        "despues": "Depende de la unidad administrativa y financiera de la entidad, y participa en la elaboración de los estados financieros que luego audita"
+      },
+      {
+        "opcionId": "cmvvxrdjc000bvdycrums3z3v",
+        "antes": "Depende del ente tutor y ejecuta las operaciones administrativas",
+        "despues": "Depende del ente tutor y ejecuta las operaciones administrativas de mayor riesgo, sin participar en los controles posteriores de la entidad"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvxrdjm000dvdycaqhn8ja5",
+    "opciones": [
+      {
+        "opcionId": "cmvvxrdjm000evdyc5ghzgm83",
+        "antes": "Los instrumentos de control previo y posterior incorporados en el plan de organización, los reglamentos y los manuales de cada entidad, y la auditoría interna",
+        "despues": "Los instrumentos de control previo y posterior incorporados en el plan de organización, los reglamentos y los manuales de cada entidad, y la auditoría interna"
+      },
+      {
+        "opcionId": "cmvvxrdjm000fvdyc41qzr5tc",
+        "antes": "Solo la auditoría interna",
+        "despues": "Solo la auditoría interna, que ejerce el control previo y posterior de todas las operaciones de la entidad conforme a su programa anual de trabajo"
+      },
+      {
+        "opcionId": "cmvvxrdjm000gvdycpkpv0abb",
+        "antes": "La auditoría externa de la Contraloría",
+        "despues": "La auditoría externa posterior que ejercen la Contraloría y las firmas privadas de auditoría, conforme a las normas básicas de control gubernamental"
+      },
+      {
+        "opcionId": "cmvvxrdjm000hvdycc24011di",
+        "antes": "El control social de las organizaciones",
+        "despues": "El control social que ejercen las organizaciones de la sociedad civil sobre las operaciones de la entidad, junto con la auditoría interna"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvxrdjw000jvdyczckul4xl",
+    "opciones": [
+      {
+        "opcionId": "cmvvxrdjw000kvdycvklbxijb",
+        "antes": "Una vez discutidas y aceptadas por la entidad auditada, son de obligatorio cumplimiento",
+        "despues": "Una vez discutidas y aceptadas por la entidad auditada, son de obligatorio cumplimiento"
+      },
+      {
+        "opcionId": "cmvvxrdjw000lvdycl0yfz7a3",
+        "antes": "Son solo referenciales y la entidad decide si aplicarlas",
+        "despues": "Son solo referenciales, y la entidad auditada decide si las aplica o no en su gestión"
+      },
+      {
+        "opcionId": "cmvvxrdjw000mvdycqjzr21nw",
+        "antes": "Solo son obligatorias si las ratifica un juez",
+        "despues": "Solo son de obligatorio cumplimiento si las ratifica un juez en la vía coactiva fiscal"
+      },
+      {
+        "opcionId": "cmvvxrdjw000nvdycb8i30mxq",
+        "antes": "Deben aplicarse antes de ser discutidas con la entidad",
+        "despues": "Deben aplicarse de inmediato, antes de ser discutidas con la entidad auditada"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvxrdke000vvdycirfpli7e",
+    "opciones": [
+      {
+        "opcionId": "cmvvxrdke000wvdyczntd62r6",
+        "antes": "Los elabora cada entidad, en el marco de las normas básicas de los órganos rectores; su implantación es responsabilidad de la máxima autoridad de la entidad",
+        "despues": "Los elabora cada entidad, en el marco de las normas básicas de los órganos rectores; su implantación es responsabilidad de la máxima autoridad de la entidad"
+      },
+      {
+        "opcionId": "cmvvxrdke000xvdycrm1h2nv2",
+        "antes": "Los elabora la Contraloría; la implanta la auditoría interna",
+        "despues": "Los elabora la Contraloría General del Estado para cada entidad, conforme a las normas básicas; su implantación es responsabilidad de la auditoría interna"
+      },
+      {
+        "opcionId": "cmvvxrdke000yvdyct9xic694",
+        "antes": "Los elabora el ente tutor; la implanta la unidad financiera",
+        "despues": "Los elabora el ente tutor de la entidad, en el marco de las normas básicas; su implantación es responsabilidad de la unidad administrativa y financiera"
+      },
+      {
+        "opcionId": "cmvvxrdke000zvdycf68ttqiw",
+        "antes": "Los elabora el Ministerio de Economía; la implantan los jefes de área",
+        "despues": "Los elabora el Ministerio de Economía como órgano rector de todos los sistemas; su implantación es responsabilidad de los jefes de cada área"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvxrdko0011vdyce5bd3ii4",
+    "opciones": [
+      {
+        "opcionId": "cmvvxrdko0012vdych0h09pdg",
+        "antes": "Trasladarlos a conocimiento de la unidad legal pertinente, que solicitará medidas al juez o denunciará los hechos ante el Ministerio Público",
+        "despues": "Trasladarlos a conocimiento de la unidad legal pertinente, que solicitará medidas al juez o denunciará los hechos ante el Ministerio Público"
+      },
+      {
+        "opcionId": "cmvvxrdko0013vdycp7jwe8tg",
+        "antes": "Sancionar directamente al servidor con destitución",
+        "despues": "Sancionar directamente al servidor con destitución y remitir el informe a la Contraloría para que inicie la acción coactiva fiscal"
+      },
+      {
+        "opcionId": "cmvvxrdko0014vdycm3zj2l2i",
+        "antes": "Archivar el caso si el monto es menor",
+        "despues": "Archivar el caso si el monto es menor al establecido en la reglamentación y recomendar solo una sanción administrativa interna"
+      },
+      {
+        "opcionId": "cmvvxrdko0015vdycjz4z15ng",
+        "antes": "Informar solo a la MAE, sin otras acciones",
+        "despues": "Informar solo a la máxima autoridad ejecutiva, sin otras acciones, porque es ella quien decide si denuncia el hecho ante el juez"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvxrdkx0017vdychlkis09q",
+    "opciones": [
+      {
+        "opcionId": "cmvvxrdkx0018vdycqd63f2ts",
+        "antes": "En diez años, desde el día del hecho o desde la última actuación procesal",
+        "despues": "En diez años, desde el día del hecho o desde la última actuación procesal"
+      },
+      {
+        "opcionId": "cmvvxrdkx0019vdyc1u409dip",
+        "antes": "En cinco años desde el hecho",
+        "despues": "En cinco años, desde el día del hecho que dio lugar a la responsabilidad"
+      },
+      {
+        "opcionId": "cmvvxrdkx001avdycyvoe2fxu",
+        "antes": "En dos años desde la auditoría",
+        "despues": "En dos años, desde la fecha de emisión del informe de auditoría"
+      },
+      {
+        "opcionId": "cmvvxrdkx001bvdyc4eopg4ex",
+        "antes": "Son imprescriptibles",
+        "despues": "Nunca: son imprescriptibles por afectar el patrimonio del Estado"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvxrdl7001dvdycnej80tkm",
+    "opciones": [
+      {
+        "opcionId": "cmvvxrdl7001evdycebzzncgd",
+        "antes": "Está obligada a exhibir la documentación e información necesarias, y las autoridades actuales deben asegurarle el acceso a esa documentación",
+        "despues": "Está obligada a exhibir la documentación e información necesarias, y las autoridades actuales deben asegurarle el acceso a esa documentación"
+      },
+      {
+        "opcionId": "cmvvxrdl7001fvdyc3rvhkss8",
+        "antes": "No está obligada, porque ya no es servidora pública",
+        "despues": "No está obligada, porque ya no es servidora pública y la documentación de su gestión quedó bajo custodia de la nueva autoridad"
+      },
+      {
+        "opcionId": "cmvvxrdl7001gvdyc1ncxzgq3",
+        "antes": "Solo debe hacerlo si lo ordena un juez",
+        "despues": "Solo debe hacerlo si lo ordena un juez, porque la auditoría no puede requerir información a quienes cesaron en sus funciones"
+      },
+      {
+        "opcionId": "cmvvxrdl7001hvdycvai4pwgs",
+        "antes": "Debe pagar por las copias que le entreguen",
+        "despues": "Está obligada a presentarla, pero debe obtenerla por su cuenta y pagar las copias que le entregue la actual autoridad del centro"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvxrdlj001jvdyc1wm5hm3e",
+    "opciones": [
+      {
+        "opcionId": "cmvvxrdlj001kvdycpug65ekb",
+        "antes": "En todas las entidades del Sector Público, sin excepción, incluidas las universidades, las municipalidades y toda persona jurídica donde el Estado tenga la mayoría del patrimonio",
+        "despues": "En todas las entidades del Sector Público, sin excepción, incluidas universidades, municipalidades y toda persona jurídica donde el Estado tenga la mayoría del patrimonio"
+      },
+      {
+        "opcionId": "cmvvxrdlj001lvdycxqveotg3",
+        "antes": "Solo en los ministerios del nivel central",
+        "despues": "Solo en los ministerios y entidades descentralizadas del nivel central, porque las universidades y municipalidades tienen sus propios sistemas autónomos"
+      },
+      {
+        "opcionId": "cmvvxrdlj001mvdyc47j3jkp0",
+        "antes": "En todas, salvo las Fuerzas Armadas y la Policía",
+        "despues": "En todas las entidades del Sector Público, salvo las Fuerzas Armadas y la Policía, que se rigen por sus propias leyes orgánicas y reglamentos"
+      },
+      {
+        "opcionId": "cmvvxrdlj001nvdyc6f3k1yjv",
+        "antes": "Solo en las entidades que reciben fondos del TGN",
+        "despues": "Solo en las entidades que reciben fondos del Tesoro General, incluidas las personas jurídicas donde el Estado tenga una participación minoritaria"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvzikvq000jvdz85mils1zk",
+    "opciones": [
+      {
+        "opcionId": "cmvvzikvq000kvdz87jsqpluo",
+        "antes": "La disponibilidad de los fondos que se comprometen, o la definición de las condiciones de financiamiento",
+        "despues": "La disponibilidad de los fondos que se comprometen, o la definición de las condiciones de financiamiento"
+      },
+      {
+        "opcionId": "cmvvzikvq000lvdz8btr9t40o",
+        "antes": "La aprobación de la Contraloría",
+        "despues": "La aprobación previa de la Contraloría General del Estado sobre el proceso y el monto de la contratación"
+      },
+      {
+        "opcionId": "cmvvzikvq000mvdz8g47agawt",
+        "antes": "Tres cotizaciones notariadas",
+        "despues": "La presentación de tres cotizaciones notariadas y la aprobación de la unidad de auditoría interna"
+      },
+      {
+        "opcionId": "cmvvzikvq000nvdz83701682v",
+        "antes": "La autorización del Concejo Municipal",
+        "despues": "La autorización del Concejo Municipal o del ente tutor, según el monto de la contratación"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvzikwc000pvdz8oljag3od",
+    "opciones": [
+      {
+        "opcionId": "cmvvzikwc000qvdz8yf93twiy",
+        "antes": "Se centralizan las funciones de adoptar políticas, emitir normas y vigilar su cumplimiento; se desconcentra o descentraliza la ejecución de políticas y el manejo de los sistemas de administración",
+        "despues": "Se centralizan las funciones de adoptar políticas, emitir normas y vigilar su cumplimiento; se desconcentra o descentraliza la ejecución y el manejo de los sistemas"
+      },
+      {
+        "opcionId": "cmvvzikwc000rvdz8n3gi1vgz",
+        "antes": "Se centraliza la ejecución y se descentraliza la normativa",
+        "despues": "Se centraliza la ejecución de políticas y el manejo de los sistemas de administración; se desconcentra o descentraliza la emisión de normas y su vigilancia"
+      },
+      {
+        "opcionId": "cmvvzikwc000svdz85uesh1e7",
+        "antes": "Se centraliza todo",
+        "despues": "Se centralizan todas las funciones, incluida la ejecución de políticas y el manejo de los sistemas, para garantizar la uniformidad en todo el sector"
+      },
+      {
+        "opcionId": "cmvvzikwc000tvdz8n4kl7cg5",
+        "antes": "Se descentraliza todo",
+        "despues": "Se descentralizan todas las funciones, incluida la adopción de políticas y la emisión de normas, que corresponden a cada entidad del sector"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvzikwx000vvdz8bwa2zm8c",
+    "opciones": [
+      {
+        "opcionId": "cmvvzikwx000wvdz8pn0jwb6t",
+        "antes": "Informar a la entidad pública competente sobre el destino, forma y resultados del manejo de los recursos, y presentar estados financieros debidamente auditados",
+        "despues": "Informar a la entidad pública competente sobre el destino, forma y resultados del manejo de los recursos, y presentar estados financieros debidamente auditados"
+      },
+      {
+        "opcionId": "cmvvzikwx000xvdz8vymenwg7",
+        "antes": "Ninguna, por ser una entidad privada",
+        "despues": "Ninguna obligación de información, por ser una entidad privada; la rendición de cuentas corresponde solo al CEA que suscribió el convenio con ella"
+      },
+      {
+        "opcionId": "cmvvzikwx000yvdz8znuz67sl",
+        "antes": "Solo presentar facturas al final",
+        "despues": "Solo presentar las facturas de los gastos al final del programa, sin necesidad de informar sobre los resultados ni de presentar estados auditados"
+      },
+      {
+        "opcionId": "cmvvzikwx000zvdz8dop5o2bb",
+        "antes": "Someterse a todos los sistemas de la Ley 1178 como entidad pública",
+        "despues": "Someterse a todos los sistemas de administración y control de la Ley 1178 como si fuera una entidad pública, incluida la auditoría interna propia"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvziky00017vdz8lvqked31",
+    "opciones": [
+      {
+        "opcionId": "cmvvziky10018vdz811knfnpn",
+        "antes": "Repetir el pago contra la autoridad responsable de los actos o hechos que motivaron la sanción",
+        "despues": "Repetir el pago contra la autoridad responsable de los actos o hechos que motivaron la sanción"
+      },
+      {
+        "opcionId": "cmvvziky10019vdz8c5uchf45",
+        "antes": "Asumir el pago con su presupuesto sin otra acción",
+        "despues": "Asumir el pago con su presupuesto, sin ninguna acción posterior contra la autoridad responsable"
+      },
+      {
+        "opcionId": "cmvvziky1001avdz84h7kqgue",
+        "antes": "Pedir la condonación al Tesoro",
+        "despues": "Pedir la condonación de la deuda al Tesoro General y archivar el caso contra la autoridad"
+      },
+      {
+        "opcionId": "cmvvziky1001bvdz8nb1qbqqg",
+        "antes": "Trasladar la deuda a la gestión siguiente",
+        "despues": "Trasladar la deuda a la gestión siguiente y descontarla del presupuesto de la unidad responsable"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvzikyu001jvdz84tuy8uhy",
+    "opciones": [
+      {
+        "opcionId": "cmvvzikyu001kvdz8kex3d1kx",
+        "antes": "Las transacciones presupuestarias, financieras y patrimoniales",
+        "despues": "Las transacciones presupuestarias, financieras y patrimoniales"
+      },
+      {
+        "opcionId": "cmvvzikyu001lvdz8ytxb3vhu",
+        "antes": "Solo las transacciones de caja",
+        "despues": "Solo las transacciones de caja y bancos de la entidad, en un registro diario"
+      },
+      {
+        "opcionId": "cmvvzikyu001mvdz89lfzpqwu",
+        "antes": "Solo las presupuestarias",
+        "despues": "Solo las transacciones presupuestarias de ingresos y gastos de la entidad"
+      },
+      {
+        "opcionId": "cmvvzikyu001nvdz85dylupy4",
+        "antes": "Las transacciones de personal y de bienes",
+        "despues": "Las transacciones de personal, de bienes y de servicios de la entidad"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwwiigc0001vds86as17q4l",
+    "opciones": [
+      {
+        "opcionId": "cmvwwiigc0002vds8v6u4k244",
+        "antes": "Constituyen prueba preconstituida para la acción administrativa, ejecutiva y civil",
+        "despues": "Constituyen prueba preconstituida para la acción administrativa, ejecutiva y civil"
+      },
+      {
+        "opcionId": "cmvwwiigc0003vds8ib5hcc4j",
+        "antes": "Son sentencias ejecutoriadas",
+        "despues": "Son sentencias ejecutoriadas que se cumplen sin necesidad de un proceso judicial"
+      },
+      {
+        "opcionId": "cmvwwiigc0004vds816wpfwg2",
+        "antes": "Son meras recomendaciones sin valor probatorio",
+        "despues": "Son meras recomendaciones a la entidad, sin valor probatorio en ningún proceso"
+      },
+      {
+        "opcionId": "cmvwwiigc0005vds837yucx7y",
+        "antes": "Sustituyen el proceso penal",
+        "despues": "Sustituyen el proceso penal y constituyen prueba plena de la responsabilidad penal"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwwiigu000dvds8uicc1cu4",
+    "opciones": [
+      {
+        "opcionId": "cmvwwiigu000evds8r9r02k4z",
+        "antes": "Su presupuesto, elaborado por ella misma, se incorpora sin modificación al proyecto de Presupuesto General",
+        "despues": "Su presupuesto, elaborado por ella misma, se incorpora sin modificación al proyecto de Presupuesto General"
+      },
+      {
+        "opcionId": "cmvwwiigu000fvds887ybul2t",
+        "antes": "El Ministerio de Finanzas fija libremente su presupuesto",
+        "despues": "El Ministerio de Finanzas fija libremente su presupuesto, que la Asamblea aprueba sin modificación"
+      },
+      {
+        "opcionId": "cmvwwiigu000gvds84g9v3r2f",
+        "antes": "Se financia con las multas que impone",
+        "despues": "Se financia exclusivamente con las multas que impone y con los montos que recupera por la vía coactiva"
+      },
+      {
+        "opcionId": "cmvwwiigu000hvds8lm0mrl5y",
+        "antes": "Depende del Poder Ejecutivo",
+        "despues": "Depende del Poder Ejecutivo, que le asigna un porcentaje fijo del Presupuesto General cada gestión"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwwiih7000jvds8tkvdl8lf",
+    "opciones": [
+      {
+        "opcionId": "cmvwwiih8000kvds8oqwk3xxl",
+        "antes": "Se envía a la Contraloría inmediatamente después de concluido, en la forma que señale la reglamentación",
+        "despues": "Se envía a la Contraloría inmediatamente después de concluido, en la forma que señale la reglamentación"
+      },
+      {
+        "opcionId": "cmvwwiih8000lvds8llfvj3f3",
+        "antes": "Se archiva en la entidad",
+        "despues": "Se archiva en la entidad y se envía a la Contraloría solo cuando esta lo solicita para una auditoría externa"
+      },
+      {
+        "opcionId": "cmvwwiih8000mvds8ctutmghs",
+        "antes": "Se envía solo si encuentra indicios penales",
+        "despues": "Se envía a la Contraloría solo si encuentra indicios de responsabilidad penal; en los demás casos se archiva"
+      },
+      {
+        "opcionId": "cmvwwiih8000nvds8ldnhhywy",
+        "antes": "Se publica en la prensa",
+        "despues": "Se publica en la prensa y en la página web de la entidad, para el control social de la comunidad educativa"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwwiihi000pvds870wnq4hz",
+    "opciones": [
+      {
+        "opcionId": "cmvwwiihi000qvds8afjw54jh",
+        "antes": "Las demandas por las que se determinen responsabilidades civiles (Art. 31), derivadas de actos de servidores públicos o de privados con contratos administrativos con el Estado",
+        "despues": "Las demandas por las que se determinen responsabilidades civiles (Art. 31), derivadas de actos de servidores públicos o de privados con contratos con el Estado"
+      },
+      {
+        "opcionId": "cmvwwiihi000rvds8wq7enh5y",
+        "antes": "Los delitos de corrupción",
+        "despues": "Los delitos de corrupción cometidos por servidores públicos y por privados con contratos administrativos con el Estado, con daño económico"
+      },
+      {
+        "opcionId": "cmvwwiihi000svds83vb4racp",
+        "antes": "Las cuestiones tributarias",
+        "despues": "Las cuestiones tributarias y aduaneras derivadas de los contratos administrativos de los privados con las entidades del Estado"
+      },
+      {
+        "opcionId": "cmvwwiihi000tvds8fzac52gw",
+        "antes": "Los procesos disciplinarios administrativos",
+        "despues": "Los procesos disciplinarios administrativos contra servidores públicos por responsabilidad administrativa (Art. 29), en segunda instancia"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwwiihr000vvds86szwrm83",
+    "opciones": [
+      {
+        "opcionId": "cmvwwiihs000wvds80wxv3tr3",
+        "antes": "En procesos administrativos, coactivos fiscales, civiles y penales relacionados con daños económicos al Estado",
+        "despues": "En procesos administrativos, coactivos fiscales, civiles y penales relacionados con daños económicos al Estado"
+      },
+      {
+        "opcionId": "cmvwwiihs000xvds8s24zu3y0",
+        "antes": "Solo en procesos administrativos",
+        "despues": "Solo en procesos administrativos y disciplinarios contra los servidores públicos auditados"
+      },
+      {
+        "opcionId": "cmvwwiihs000yvds8c6ap4a34",
+        "antes": "Solo en procesos penales",
+        "despues": "Solo en procesos penales por delitos de corrupción, como parte querellante en representación del Estado"
+      },
+      {
+        "opcionId": "cmvwwiihs000zvds82civf2mo",
+        "antes": "En procesos de familia",
+        "despues": "En procesos de familia y laborales en los que una entidad pública sea parte demandada"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwwiii30011vds8h6qmp9vq",
+    "opciones": [
+      {
+        "opcionId": "cmvwwiii30012vds8l3z735cj",
+        "antes": "No modificará ese acto, y se concretará a determinar la responsabilidad de la autoridad que lo autorizó, si la hubiere",
+        "despues": "No modificará ese acto, y se concretará a determinar la responsabilidad de la autoridad que lo autorizó, si la hubiere"
+      },
+      {
+        "opcionId": "cmvwwiii30013vds81mlw3mcm",
+        "antes": "Anulará el acto de pleno derecho",
+        "despues": "Anulará el acto de pleno derecho si encuentra irregularidades, y determinará la responsabilidad de la autoridad"
+      },
+      {
+        "opcionId": "cmvwwiii30014vds8gx72kdzr",
+        "antes": "Obligará a devolver lo pagado al particular",
+        "despues": "Obligará al particular a devolver lo pagado, y se concretará a determinar la responsabilidad del servidor"
+      },
+      {
+        "opcionId": "cmvwwiii30015vds8wjxj9ajq",
+        "antes": "Suspenderá sus efectos",
+        "despues": "Suspenderá sus efectos hasta que concluya la auditoría, y determinará la responsabilidad de la autoridad"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwwiiic0017vds8xi5qyadt",
+    "opciones": [
+      {
+        "opcionId": "cmvwwiiic0018vds84cl4cro7",
+        "antes": "Es responsable, porque los servidores públicos responden por los informes y documentos que suscriben",
+        "despues": "Es responsable, porque los servidores públicos responden por los informes y documentos que suscriben"
+      },
+      {
+        "opcionId": "cmvwwiiic0019vds86yuts1og",
+        "antes": "No es responsable, porque solo firmó",
+        "despues": "No es responsable, porque solo firmó un informe con datos que elaboró otro funcionario"
+      },
+      {
+        "opcionId": "cmvwwiiic001avds86sbqlj5t",
+        "antes": "Solo responde quien elaboró los datos",
+        "despues": "Solo responde el funcionario que elaboró los datos falsos, no quien firmó el informe"
+      },
+      {
+        "opcionId": "cmvwwiiic001bvds8hav646gq",
+        "antes": "Solo responde la MAE",
+        "despues": "Solo responde la máxima autoridad ejecutiva, que aprobó la compra con base en el informe"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwwiiin001dvds8e5w1k81s",
+    "opciones": [
+      {
+        "opcionId": "cmvwwiiin001evds8mybj6eh1",
+        "antes": "No hay condena en costas: cada parte cubre los suyos",
+        "despues": "No hay condena en costas: cada parte cubre los suyos"
+      },
+      {
+        "opcionId": "cmvwwiiin001fvds8sk59xdhp",
+        "antes": "La parte perdedora",
+        "despues": "La parte perdedora, conforme al Código Procesal Civil"
+      },
+      {
+        "opcionId": "cmvwwiiin001gvds8ujuscymd",
+        "antes": "Siempre el Estado",
+        "despues": "Siempre el Estado, aunque gane el proceso judicial"
+      },
+      {
+        "opcionId": "cmvwwiiin001hvds8mbexy1ch",
+        "antes": "La Contraloría",
+        "despues": "La Contraloría, como parte que inicia la acción"
+      }
+    ]
+  }
+]

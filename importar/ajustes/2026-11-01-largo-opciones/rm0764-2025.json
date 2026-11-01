@@ -1,0 +1,652 @@
+[
+  {
+    "preguntaId": "cmvvxkiuu0001vdbokhnqbvdp",
+    "opciones": [
+      {
+        "opcionId": "cmvvxkiuu0002vdbogyfvr4tc",
+        "antes": "100 horas mensuales, en modalidad presencial",
+        "despues": "100 horas mensuales, en modalidad presencial"
+      },
+      {
+        "opcionId": "cmvvxkiuu0003vdbopzrp67pm",
+        "antes": "80 horas mensuales",
+        "despues": "80 horas mensuales, en modalidad presencial o semipresencial"
+      },
+      {
+        "opcionId": "cmvvxkiuu0004vdbojcgipycr",
+        "antes": "120 horas mensuales",
+        "despues": "120 horas mensuales, en modalidad presencial"
+      },
+      {
+        "opcionId": "cmvvxkiuu0005vdboqzb0q7dp",
+        "antes": "60 horas mensuales",
+        "despues": "60 horas mensuales, en modalidad semipresencial"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvxkiv00007vdbo4jvzfr94",
+    "opciones": [
+      {
+        "opcionId": "cmvvxkiv00008vdbo6sq2lped",
+        "antes": "La humanística es de 80 horas mensuales (presencial o semipresencial) y la técnica de 100 horas mensuales (presencial)",
+        "despues": "La humanística es de 80 horas mensuales (presencial o semipresencial) y la técnica de 100 horas mensuales (presencial)"
+      },
+      {
+        "opcionId": "cmvvxkiv00009vdboxy3tg9pr",
+        "antes": "Ambas son de 80 horas mensuales",
+        "despues": "Ambas son de 80 horas mensuales, en modalidad presencial o semipresencial, sin diferencia entre la humanística y la técnica"
+      },
+      {
+        "opcionId": "cmvvxkiv0000avdbomrpa891j",
+        "antes": "La humanística es de 100 horas y la técnica de 80",
+        "despues": "La humanística es de 100 horas mensuales (presencial) y la técnica de 80 horas mensuales (presencial o semipresencial)"
+      },
+      {
+        "opcionId": "cmvvxkiv0000bvdbout43wyyd",
+        "antes": "Ambas son de 100 horas, solo presenciales",
+        "despues": "Ambas son de 100 horas mensuales, solo en modalidad presencial, sin diferencia entre la humanística y la técnica"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvxkiv4000dvdbofonn3qfp",
+    "opciones": [
+      {
+        "opcionId": "cmvvxkiv4000evdbotktbacvz",
+        "antes": "La o el director del CEA, en coordinación con la unidad militar, asegurando la compatibilidad con las actividades del sector",
+        "despues": "La o el director del CEA, en coordinación con la unidad militar, asegurando la compatibilidad con las actividades del sector"
+      },
+      {
+        "opcionId": "cmvvxkiv4000fvdbo050ftjzc",
+        "antes": "La unidad militar, por sí sola",
+        "despues": "La unidad militar, por sí sola, según sus actividades de instrucción, y el CEA se adecua a los horarios que le asigne"
+      },
+      {
+        "opcionId": "cmvvxkiv4000gvdboprnnstqf",
+        "antes": "La Dirección Distrital, con un horario único",
+        "despues": "La Dirección Distrital de Educación, con un horario único para todos los CEA que atienden poblaciones diversas"
+      },
+      {
+        "opcionId": "cmvvxkiv4000hvdbo1kg5628j",
+        "antes": "Los facilitadores, según su disponibilidad",
+        "despues": "Los facilitadores del CEA, según su disponibilidad, con el visto bueno del comandante de la unidad militar"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvxkivd000jvdbokjdk2p8j",
+    "opciones": [
+      {
+        "opcionId": "cmvvxkivd000kvdbo8nhp0wdp",
+        "antes": "Tres años desde su emisión; la renovación debe gestionarse con al menos un semestre de anticipación",
+        "despues": "Tres años desde su emisión; la renovación debe gestionarse con al menos un semestre de anticipación"
+      },
+      {
+        "opcionId": "cmvvxkivd000lvdbobl3wpnm7",
+        "antes": "Diez años; renovación con un mes de anticipación",
+        "despues": "Diez años desde su emisión; la renovación debe gestionarse con al menos un mes de anticipación"
+      },
+      {
+        "opcionId": "cmvvxkivd000mvdboeuc73n50",
+        "antes": "Un año; renovación automática",
+        "despues": "Un año desde su emisión; la renovación es automática si el programa mantiene participantes"
+      },
+      {
+        "opcionId": "cmvvxkivd000nvdboaa9a1p8o",
+        "antes": "Tres años; renovación al día siguiente del vencimiento",
+        "despues": "Tres años desde su emisión; la renovación se gestiona al día siguiente del vencimiento"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvxkivh000pvdbo2dcxui9e",
+    "opciones": [
+      {
+        "opcionId": "cmvvxkivh000qvdbovpgpo95c",
+        "antes": "La autorización puede revocarse de manera preventiva por insuficiencia de demanda, previa evaluación y notificación formal a la dirección del CEA",
+        "despues": "La autorización puede revocarse de manera preventiva por insuficiencia de demanda, previa evaluación y notificación formal a la dirección del CEA"
+      },
+      {
+        "opcionId": "cmvvxkivh000rvdbot7jrwdy8",
+        "antes": "Nada, porque la autorización dura tres años sin excepción",
+        "despues": "Nada, porque la autorización tiene una vigencia de tres años sin excepción, y solo al vencer se evalúa si se renueva por la demanda"
+      },
+      {
+        "opcionId": "cmvvxkivh000svdbo8j2mv0jk",
+        "antes": "Se revoca automáticamente, sin notificación",
+        "despues": "La autorización se revoca automáticamente al bajar la demanda, sin necesidad de evaluación ni de notificación a la dirección del CEA"
+      },
+      {
+        "opcionId": "cmvvxkivh000tvdboxrxlbas5",
+        "antes": "El CEA debe cerrarse definitivamente",
+        "despues": "El CEA debe cerrarse definitivamente, porque la insuficiencia de participantes es causal de cierre del centro en todos los casos"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvxkivp000vvdbo6vbfq1x3",
+    "opciones": [
+      {
+        "opcionId": "cmvvxkivq000wvdbo8h12y6te",
+        "antes": "Con el Ministerio de Justicia y Transparencia Institucional",
+        "despues": "Con el Ministerio de Justicia y Transparencia Institucional"
+      },
+      {
+        "opcionId": "cmvvxkivq000xvdbo96ppcrjg",
+        "antes": "Con el Ministerio de Gobierno",
+        "despues": "Con el Ministerio de Gobierno, a través de Régimen Penitenciario"
+      },
+      {
+        "opcionId": "cmvvxkivq000yvdbogvwazpqw",
+        "antes": "Con el Ministerio de Defensa",
+        "despues": "Con el Ministerio de Defensa, a través de sus centros de formación"
+      },
+      {
+        "opcionId": "cmvvxkivq000zvdbo6gxxelae",
+        "antes": "Con el Ministerio de Trabajo",
+        "despues": "Con el Ministerio de Trabajo, Empleo y Previsión Social"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvxkiw10017vdbojlplk00t",
+    "opciones": [
+      {
+        "opcionId": "cmvvxkiw10018vdboh9f9gpp1",
+        "antes": "La autorización expresa de la dirección del centro penitenciario",
+        "despues": "La autorización expresa de la dirección del centro penitenciario"
+      },
+      {
+        "opcionId": "cmvvxkiw10019vdboe9tp3zpq",
+        "antes": "Una sentencia ejecutoriada",
+        "despues": "Una sentencia condenatoria ejecutoriada que acredite su situación"
+      },
+      {
+        "opcionId": "cmvvxkiw1001avdbozcdmfrc1",
+        "antes": "El aval de su organización comunitaria",
+        "despues": "El aval de su organización comunitaria o de su familia"
+      },
+      {
+        "opcionId": "cmvvxkiw1001bvdbojs9nojv8",
+        "antes": "La autorización de un juez de ejecución penal",
+        "despues": "La autorización de un juez de ejecución penal de su causa"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvxkiwa001dvdbo8x8lllcc",
+    "opciones": [
+      {
+        "opcionId": "cmvvxkiwa001evdbo3e09mpy5",
+        "antes": "Estar bajo medida socioeducativa en un centro de reintegración social y contar con la autorización expresa de la entidad de atención",
+        "despues": "Estar bajo medida socioeducativa en un centro de reintegración social y contar con la autorización expresa de la entidad de atención"
+      },
+      {
+        "opcionId": "cmvvxkiwa001fvdbo6h950ic2",
+        "antes": "Estar recluido en un centro penitenciario de adultos",
+        "despues": "Estar recluido en un centro penitenciario de adultos y contar con la autorización expresa de la dirección del recinto"
+      },
+      {
+        "opcionId": "cmvvxkiwa001gvdbo06jjom5x",
+        "antes": "Acreditar su condición laboral con una declaración jurada",
+        "despues": "Acreditar su condición laboral mediante declaración jurada y contar con la autorización de la Defensoría de la Niñez"
+      },
+      {
+        "opcionId": "cmvvxkiwa001hvdboah2m87li",
+        "antes": "Pertenecer a una Nación o Pueblo IOC",
+        "despues": "Pertenecer a una Nación o Pueblo IOC y contar con el aval de su organización comunitaria o autoridad originaria"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvxkiwj001jvdboeekvv8si",
+    "opciones": [
+      {
+        "opcionId": "cmvvxkiwj001kvdbolk5n8idn",
+        "antes": "Un enfoque psicoeducativo y restaurativo, que prioriza la recuperación emocional, la autoestima, las habilidades sociales, la resolución pacífica de conflictos y el proyecto de vida",
+        "despues": "Un enfoque psicoeducativo y restaurativo, que prioriza la recuperación emocional, la autoestima, las habilidades sociales, la resolución pacífica de conflictos y el proyecto de vida"
+      },
+      {
+        "opcionId": "cmvvxkiwj001lvdbomsdxacy5",
+        "antes": "Un enfoque disciplinario y punitivo, centrado en la corrección de conductas",
+        "despues": "Un enfoque disciplinario y punitivo, centrado en la corrección de conductas, el cumplimiento de normas, el orden y el respeto a la autoridad del centro de reintegración"
+      },
+      {
+        "opcionId": "cmvvxkiwj001mvdbo694rmmu1",
+        "antes": "Exclusivamente la formación técnica para el empleo inmediato",
+        "despues": "Exclusivamente la formación técnica para el empleo inmediato, que prioriza la inserción laboral de los jóvenes al cumplir la medida socioeducativa"
+      },
+      {
+        "opcionId": "cmvvxkiwj001nvdbofbyuqyby",
+        "antes": "Un enfoque castrense de formación ciudadana",
+        "despues": "Un enfoque castrense de formación ciudadana, que prioriza la disciplina, el civismo, el servicio a la patria y el cumplimiento de deberes"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvxkix0001vvdboblf8bau5",
+    "opciones": [
+      {
+        "opcionId": "cmvvxkix0001wvdboubetlkgm",
+        "antes": "La o el director del CEA, en coordinación con las organizaciones correspondientes, en las fechas de la RM 0001 de normas generales de cada gestión",
+        "despues": "La o el director del CEA, en coordinación con las organizaciones correspondientes, en las fechas de la RM 0001 de normas generales de cada gestión"
+      },
+      {
+        "opcionId": "cmvvxkix0001xvdbobm2jukay",
+        "antes": "La unidad militar o penitenciaria, en fechas propias",
+        "despues": "La unidad militar, penitenciaria o la organización correspondiente, en fechas propias acordadas con el CEA al inicio de cada semestre"
+      },
+      {
+        "opcionId": "cmvvxkix0001yvdbo0x13y63l",
+        "antes": "La Dirección Distrital, en enero",
+        "despues": "La Dirección Distrital de Educación, en el mes de enero, para todos los CEA que atienden a poblaciones diversas y vulnerables"
+      },
+      {
+        "opcionId": "cmvvxkix0001zvdbog9q90swd",
+        "antes": "Los facilitadores, en cualquier momento del semestre",
+        "despues": "Los facilitadores del CEA, en cualquier momento del semestre, según la llegada de nuevos participantes de cada población"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvxkix90021vdbo49ctqw8z",
+    "opciones": [
+      {
+        "opcionId": "cmvvxkix90022vdbobmvzs1uc",
+        "antes": "A las Direcciones Distritales y Departamentales de Educación, al concluir cada semestre",
+        "despues": "A las Direcciones Distritales y Departamentales de Educación, al concluir cada semestre"
+      },
+      {
+        "opcionId": "cmvvxkix90023vdbo534b48gv",
+        "antes": "Solo a la Dirección General de Educación Alternativa, cada año",
+        "despues": "Solo a la Dirección General de Educación Alternativa, al concluir cada gestión anual"
+      },
+      {
+        "opcionId": "cmvvxkix90024vdboburramj0",
+        "antes": "A las unidades militares y penitenciarias",
+        "despues": "A las unidades militares, autoridades penitenciarias y organizaciones atendidas"
+      },
+      {
+        "opcionId": "cmvvxkix90025vdbo9zok82ug",
+        "antes": "Al Consejo Educativo Social Comunitario",
+        "despues": "Al Consejo Educativo Social Comunitario del CEA, al concluir cada semestre"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvxkixk0027vdbogk20mqui",
+    "opciones": [
+      {
+        "opcionId": "cmvvxkixk0028vdboyntb596s",
+        "antes": "Elaborar un informe técnico con una solicitud formal dirigida a la Dirección Distrital, para gestionar la atención educativa",
+        "despues": "Elaborar un informe técnico con una solicitud formal dirigida a la Dirección Distrital, para gestionar la atención educativa"
+      },
+      {
+        "opcionId": "cmvvxkixk0029vdbo3f5pl9n3",
+        "antes": "Iniciar el programa de inmediato, sin autorización",
+        "despues": "Iniciar el programa de inmediato con los facilitadores del CEA, y regularizar después la autorización ante la Dirección Distrital"
+      },
+      {
+        "opcionId": "cmvvxkixk002avdbob0wfbhfi",
+        "antes": "Pedirle a la organización que tramite directamente ante el Ministerio",
+        "despues": "Pedirle a la organización de trabajadoras que tramite directamente la atención ante el Ministerio de Educación"
+      },
+      {
+        "opcionId": "cmvvxkixk002bvdbo1qz9af6y",
+        "antes": "Derivar el pedido al Ministerio de Trabajo",
+        "despues": "Derivar el pedido al Ministerio de Trabajo, que es el competente para atender a las trabajadoras asalariadas del hogar"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvxkixt002dvdbo60fqvng4",
+    "opciones": [
+      {
+        "opcionId": "cmvvxkixt002evdbo7896367a",
+        "antes": "Las personas de poblaciones diversas y vulnerables, incluidos los adolescentes con responsabilidad penal",
+        "despues": "Las personas de poblaciones diversas y vulnerables, incluidos los adolescentes con responsabilidad penal"
+      },
+      {
+        "opcionId": "cmvvxkixt002fvdbofzrqsvuo",
+        "antes": "Solo las personas mayores de 18 años",
+        "despues": "Solo las personas mayores de 18 años de poblaciones diversas y vulnerables, sin antecedentes"
+      },
+      {
+        "opcionId": "cmvvxkixt002gvdbobf006511",
+        "antes": "Solo quienes no tengan antecedentes penales",
+        "despues": "Solo quienes no tengan antecedentes penales ni medidas socioeducativas vigentes"
+      },
+      {
+        "opcionId": "cmvvxkixt002hvdbon1u0e0z6",
+        "antes": "Solo las personas de pueblos indígenas",
+        "despues": "Solo las personas de Naciones y Pueblos IOC y del pueblo afroboliviano"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvxkiy1002jvdbo9cbbm25o",
+    "opciones": [
+      {
+        "opcionId": "cmvvxkiy1002kvdbo3mlz7f93",
+        "antes": "Los responsables de las unidades militares, las autoridades penitenciarias y de los centros de rehabilitación, y los representantes de cada población",
+        "despues": "Los responsables de las unidades militares, las autoridades penitenciarias y de los centros de rehabilitación, y los representantes de cada población"
+      },
+      {
+        "opcionId": "cmvvxkiy1002lvdbodmquretr",
+        "antes": "Exclusivamente el Gobierno Municipal",
+        "despues": "Exclusivamente el Gobierno Autónomo Municipal, en cuya jurisdicción funcionan las unidades militares, los recintos penitenciarios y los centros"
+      },
+      {
+        "opcionId": "cmvvxkiy1002mvdbo43bbmtx7",
+        "antes": "El CEA, con sus propios recursos",
+        "despues": "El CEA, con sus propios recursos y los aportes de las organizaciones de cada población atendida, en coordinación con la Dirección Distrital"
+      },
+      {
+        "opcionId": "cmvvxkiy1002nvdboekeion1y",
+        "antes": "La Dirección Departamental",
+        "despues": "La Dirección Departamental de Educación, mediante convenios con las unidades militares, las autoridades penitenciarias y los municipios"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvxkiy9002pvdboul4gib17",
+    "opciones": [
+      {
+        "opcionId": "cmvvxkiy9002qvdboaqfxp9vt",
+        "antes": "De forma flexible y consensuada con las autoridades y organizaciones comunitarias, respetando los ciclos productivos, las prácticas culturales y las actividades ceremoniales",
+        "despues": "De forma flexible y consensuada con las autoridades y organizaciones comunitarias, respetando los ciclos productivos, las prácticas culturales y las actividades ceremoniales"
+      },
+      {
+        "opcionId": "cmvvxkiy9002rvdboucsb3owp",
+        "antes": "Con el mismo horario fijo que el resto de los participantes",
+        "despues": "Con el mismo horario fijo de lunes a viernes que el resto de los participantes del CEA, recuperando luego las sesiones perdidas por las actividades comunitarias"
+      },
+      {
+        "opcionId": "cmvvxkiy9002svdbo4ughegzs",
+        "antes": "Los fija la Dirección Distrital, sin consulta",
+        "despues": "Los fija la Dirección Distrital de Educación, sin consulta a la comunidad, para asegurar el cumplimiento de la carga horaria del semestre en curso"
+      },
+      {
+        "opcionId": "cmvvxkiy9002tvdbo2qlt1mk9",
+        "antes": "Se suspenden las clases durante toda la cosecha",
+        "despues": "Se suspenden las clases durante toda la época de cosecha y festividades, y se reanudan con el mismo horario cuando concluyen las actividades"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvxkiyg002vvdbovn8xv4n8",
+    "opciones": [
+      {
+        "opcionId": "cmvvxkiyg002wvdbol2c1umtz",
+        "antes": "Pertenecer a una Nación o Pueblo IOC o al pueblo afroboliviano y contar con el aval de su organización comunitaria o autoridad originaria",
+        "despues": "Pertenecer a una Nación o Pueblo IOC o al pueblo afroboliviano y contar con el aval de su organización comunitaria o autoridad originaria"
+      },
+      {
+        "opcionId": "cmvvxkiyg002xvdbo9p5bt12b",
+        "antes": "Presentar un certificado de dominio de la lengua originaria",
+        "despues": "Presentar un certificado de dominio de la lengua originaria de su pueblo, emitido por el Instituto Plurinacional de Estudio de Lenguas"
+      },
+      {
+        "opcionId": "cmvvxkiyg002yvdbo0wrme3g7",
+        "antes": "Contar con la autorización del Ministerio de Culturas",
+        "despues": "Contar con la autorización del Ministerio de Culturas, que acredita su pertenencia a una Nación o Pueblo IOC o al pueblo afroboliviano"
+      },
+      {
+        "opcionId": "cmvvxkiyg002zvdbo8kwbw24s",
+        "antes": "Acreditar su condición laboral",
+        "despues": "Acreditar su condición laboral en la comunidad mediante declaración jurada, con el aval de su autoridad originaria"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvxkiyo0031vdborn7to537",
+    "opciones": [
+      {
+        "opcionId": "cmvvxkiyo0032vdbolhnavjcz",
+        "antes": "Procesos educativos en lengua originaria como primera lengua, y estrategias de fortalecimiento lingüístico en contextos de desplazamiento o pérdida de la lengua",
+        "despues": "Procesos educativos en lengua originaria como primera lengua, y estrategias de fortalecimiento lingüístico en contextos de desplazamiento o pérdida de la lengua"
+      },
+      {
+        "opcionId": "cmvvxkiyo0033vdboj6r8bhph",
+        "antes": "Solo la enseñanza del castellano como lengua de instrucción",
+        "despues": "Solo la enseñanza del castellano como lengua de instrucción, para facilitar la continuidad de estudios de los participantes en otros subsistemas"
+      },
+      {
+        "opcionId": "cmvvxkiyo0034vdbokb6pcuy3",
+        "antes": "La lengua originaria solo como asignatura optativa",
+        "despues": "La lengua originaria solo como asignatura optativa, dentro de la carga horaria de la formación humanística, según la demanda de los participantes"
+      },
+      {
+        "opcionId": "cmvvxkiyo0035vdbot4lv3iom",
+        "antes": "La sustitución de la lengua originaria por una lengua extranjera",
+        "despues": "La sustitución progresiva de la lengua originaria por una lengua extranjera, para mejorar las oportunidades laborales de los participantes"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvxkiyw0037vdbog0vddgdk",
+    "opciones": [
+      {
+        "opcionId": "cmvvxkiyw0038vdbol4lta57s",
+        "antes": "En un máximo de un año desde la vigencia del reglamento; lo evaluará el VEAE con las Direcciones Departamentales y Distritales",
+        "despues": "En un máximo de un año desde la vigencia del reglamento; lo evaluará el VEAE con las Direcciones Departamentales y Distritales"
+      },
+      {
+        "opcionId": "cmvvxkiyw0039vdbowyj3jl6o",
+        "antes": "En tres años, la DGEA",
+        "despues": "En un máximo de tres años desde la vigencia del reglamento; lo evaluará la DGEA con los directores de los CEA"
+      },
+      {
+        "opcionId": "cmvvxkiyw003avdbox208yx2t",
+        "antes": "En seis meses, cada CEA",
+        "despues": "En un máximo de seis meses desde la vigencia del reglamento; lo evaluará cada CEA con sus Direcciones Distritales"
+      },
+      {
+        "opcionId": "cmvvxkiyw003bvdbonsopmbrm",
+        "antes": "Sin plazo, a pedido de las organizaciones",
+        "despues": "Sin plazo determinado, a pedido de las organizaciones de cada población; lo evaluará la Dirección Departamental"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvzlbph0001vd781ftsgyw9",
+    "opciones": [
+      {
+        "opcionId": "cmvvzlbph0002vd784sf4muax",
+        "antes": "80 horas mensuales en educación humanística y 100 horas mensuales en Educación Técnica Tecnológica y Productiva",
+        "despues": "80 horas mensuales en educación humanística y 100 horas mensuales en Educación Técnica Tecnológica y Productiva"
+      },
+      {
+        "opcionId": "cmvvzlbpi0003vd78ss7jdszr",
+        "antes": "100 horas en humanística y 80 en técnica",
+        "despues": "100 horas mensuales en educación humanística y 80 horas mensuales en Educación Técnica Tecnológica y Productiva"
+      },
+      {
+        "opcionId": "cmvvzlbpi0004vd78ghp48kjo",
+        "antes": "120 horas en ambas",
+        "despues": "120 horas mensuales, tanto en educación humanística como en Educación Técnica Tecnológica y Productiva"
+      },
+      {
+        "opcionId": "cmvvzlbpi0005vd782vouunyn",
+        "antes": "80 horas en ambas",
+        "despues": "80 horas mensuales, tanto en educación humanística como en Educación Técnica Tecnológica y Productiva"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvzlbpy000dvd78cg45jy84",
+    "opciones": [
+      {
+        "opcionId": "cmvvzlbpy000evd78avq46mnh",
+        "antes": "Adaptar contenidos, metodologías y estrategias pedagógicas/andragógicas a las características, contextos y realidades de las poblaciones destinatarias",
+        "despues": "Adaptar contenidos, metodologías y estrategias pedagógicas/andragógicas a las características, contextos y realidades de las poblaciones destinatarias"
+      },
+      {
+        "opcionId": "cmvvzlbpy000fvd78mn6hy989",
+        "antes": "Garantizar condiciones justas para superar las barreras de acceso",
+        "despues": "Garantizar condiciones justas y diferenciadas para que las poblaciones diversas y vulnerables superen las barreras de acceso a la educación"
+      },
+      {
+        "opcionId": "cmvvzlbpy000gvd78g3d82of5",
+        "antes": "Articular la formación con el ámbito laboral",
+        "despues": "Articular la formación técnica con el ámbito laboral y productivo de cada población, para facilitar su inserción y su autonomía económica"
+      },
+      {
+        "opcionId": "cmvvzlbpy000hvd78pm0lzz8e",
+        "antes": "Adecuarse a la identidad, la cultura y las lenguas",
+        "despues": "Adecuar el proceso educativo a la identidad, la cultura, las lenguas y las cosmovisiones de cada población destinataria del reglamento"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvzlbqi000pvd78vjtu6fsk",
+    "opciones": [
+      {
+        "opcionId": "cmvvzlbqi000qvd78yfibhvwd",
+        "antes": "Personas o grupos que, por factores sociales, económicos, culturales, de género, migración, discapacidad o exclusión, enfrentan limitaciones para ejercer su derecho a la educación",
+        "despues": "Personas o grupos que, por factores sociales, económicos, culturales, de género, migración, discapacidad o exclusión, enfrentan limitaciones para ejercer su derecho a la educación"
+      },
+      {
+        "opcionId": "cmvvzlbqi000rvd78co8ydqi6",
+        "antes": "Solo las personas en situación de pobreza extrema",
+        "despues": "Solo las personas en situación de pobreza extrema que no pueden costear su educación, según los registros de los programas sociales del Estado"
+      },
+      {
+        "opcionId": "cmvvzlbqi000svd78ygrtptm6",
+        "antes": "Solo las personas privadas de libertad",
+        "despues": "Solo las personas privadas de libertad y los adolescentes con responsabilidad penal, que no pueden asistir a un Centro de Educación Alternativa"
+      },
+      {
+        "opcionId": "cmvvzlbqi000tvd785nrww7a3",
+        "antes": "Toda persona mayor de 15 años",
+        "despues": "Toda persona mayor de quince años que no concluyó sus estudios en el Subsistema de Educación Regular, cualquiera sea su situación"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvzlbqr000vvd78sbuq4xb0",
+    "opciones": [
+      {
+        "opcionId": "cmvvzlbqs000wvd78aure99id",
+        "antes": "De manera flexible entre el CEA y la Dirección del Recinto Penitenciario, compatibles con las actividades institucionales",
+        "despues": "De manera flexible entre el CEA y la Dirección del Recinto Penitenciario, compatibles con las actividades institucionales"
+      },
+      {
+        "opcionId": "cmvvzlbqs000xvd788dxxbmpx",
+        "antes": "Los fija unilateralmente el director del CEA",
+        "despues": "Los fija unilateralmente el director del CEA, y la Dirección del Recinto Penitenciario debe adecuar sus actividades"
+      },
+      {
+        "opcionId": "cmvvzlbqs000yvd78hk95yo8u",
+        "antes": "Los fija la Policía",
+        "despues": "Los fija la Policía a cargo del recinto, según sus turnos de seguridad, sin coordinación con el CEA"
+      },
+      {
+        "opcionId": "cmvvzlbqs000zvd783htf5vwr",
+        "antes": "Se usa el mismo horario que en el CEA externo",
+        "despues": "Se aplica el mismo horario que en el CEA externo, para asegurar la equivalencia de la carga horaria"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvzlbre001dvd78jq5k8qz1",
+    "opciones": [
+      {
+        "opcionId": "cmvvzlbre001evd78p4lfyz1g",
+        "antes": "Mediante declaración jurada, certificado de trabajo u otro documento válido",
+        "despues": "Mediante declaración jurada, certificado de trabajo u otro documento válido"
+      },
+      {
+        "opcionId": "cmvvzlbre001fvd789oejq224",
+        "antes": "Solo con un contrato notariado",
+        "despues": "Solo con un contrato de trabajo notariado y registrado en el Ministerio de Trabajo"
+      },
+      {
+        "opcionId": "cmvvzlbre001gvd7831lg3upi",
+        "antes": "Con la firma de su empleador ante la Distrital",
+        "despues": "Con la firma de su empleador o empleadora ante la Dirección Distrital de Educación"
+      },
+      {
+        "opcionId": "cmvvzlbre001hvd78u6mj3f9t",
+        "antes": "No necesita acreditarla",
+        "despues": "No necesita acreditarla, porque basta con su declaración verbal al inscribirse"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvzlbrn001jvd780ctgb60q",
+    "opciones": [
+      {
+        "opcionId": "cmvvzlbrn001kvd78pdu56ppf",
+        "antes": "Los ciclos agrícolas, festivos y ceremoniales, y las prácticas de reciprocidad (ayni, mink'a, waki)",
+        "despues": "Los ciclos agrícolas, festivos y ceremoniales, y las prácticas de reciprocidad (ayni, mink'a, waki)"
+      },
+      {
+        "opcionId": "cmvvzlbrn001lvd78rxpc6gh5",
+        "antes": "Solo el calendario escolar urbano",
+        "despues": "Solo el calendario escolar urbano de la RM 0001, sin adaptaciones a la vida comunitaria"
+      },
+      {
+        "opcionId": "cmvvzlbrn001mvd78iuem6nny",
+        "antes": "La suspensión de clases en todas las fiestas",
+        "despues": "La suspensión de las clases en todas las fiestas y ceremonias de la comunidad durante el año"
+      },
+      {
+        "opcionId": "cmvvzlbrn001nvd78c0fotx56",
+        "antes": "La sustitución de los PSP por exámenes",
+        "despues": "La sustitución de los proyectos socioproductivos (PSP) por exámenes de los ciclos agrícolas"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwwsdb00001vd8svjrozfx9",
+    "opciones": [
+      {
+        "opcionId": "cmvwwsdb00002vd8sl4bx12i6",
+        "antes": "Elaborar un informe técnico con una solicitud formal dirigida a la Dirección Distrital de Educación",
+        "despues": "Elaborar un informe técnico con una solicitud formal dirigida a la Dirección Distrital de Educación"
+      },
+      {
+        "opcionId": "cmvwwsdb00003vd8szjjvn13p",
+        "antes": "Abrir el programa directamente",
+        "despues": "Abrir el programa directamente con los facilitadores del CEA y regularizarlo después"
+      },
+      {
+        "opcionId": "cmvwwsdb00004vd8s847q86xv",
+        "antes": "Enviar la solicitud directamente al Ministerio",
+        "despues": "Enviar la solicitud directamente al Ministerio de Educación, sin pasar por la Distrital"
+      },
+      {
+        "opcionId": "cmvwwsdb00005vd8st53tpn66",
+        "antes": "Pedir autorización a la Junta Escolar",
+        "despues": "Pedir autorización a la Junta Escolar o al consejo educativo del centro en asamblea"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwwsdbd0007vd8si46znpmb",
+    "opciones": [
+      {
+        "opcionId": "cmvwwsdbe0008vd8s8jk3e1hv",
+        "antes": "Pertenecer a una NPIOC o al pueblo afroboliviano, contar con el aval de su organización comunitaria o autoridad originaria y presentar la documentación de la RM 0001",
+        "despues": "Pertenecer a una NPIOC o al pueblo afroboliviano, contar con el aval de su organización comunitaria o autoridad originaria y presentar la documentación de la RM 0001"
+      },
+      {
+        "opcionId": "cmvwwsdbe0009vd8s19gv5f42",
+        "antes": "Solo hablar una lengua originaria",
+        "despues": "Hablar una lengua originaria como primera lengua y presentar la documentación de la RM 0001, sin necesidad del aval de su organización comunitaria"
+      },
+      {
+        "opcionId": "cmvwwsdbe000avd8stlvjieqz",
+        "antes": "Tener un certificado del SEGIP de pertenencia étnica",
+        "despues": "Tener un certificado del SEGIP que acredite su pertenencia étnica a una NPIOC o al pueblo afroboliviano y presentar la documentación de la RM 0001"
+      },
+      {
+        "opcionId": "cmvwwsdbe000bvd8sqoli29rv",
+        "antes": "Ser mayor de 25 años",
+        "despues": "Ser mayor de 25 años, pertenecer a una NPIOC o al pueblo afroboliviano y contar con el aval de la Dirección Distrital de Educación"
+      }
+    ]
+  }
+]

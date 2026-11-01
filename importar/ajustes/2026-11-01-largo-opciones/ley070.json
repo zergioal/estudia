@@ -1,0 +1,727 @@
+[
+  {
+    "preguntaId": "cmvvvs6dh0027vd08hyp9ze16",
+    "opciones": [
+      {
+        "opcionId": "cmvvvs6dh0028vd08d5ht2pqm",
+        "antes": "La participación comprende la planificación, el control, el seguimiento y la evaluación del proceso educativo, respetando las atribuciones específicas de los actores educativos.",
+        "despues": "La participación comprende la planificación, el control, el seguimiento y la evaluación del proceso educativo, respetando las atribuciones específicas de los actores."
+      },
+      {
+        "opcionId": "cmvvvs6dh0029vd08nn2auery",
+        "antes": "El Consejo puede asumir atribuciones técnico-docentes cuando lo decide por consenso de todos sus miembros.",
+        "despues": "El Consejo puede asumir atribuciones técnico-docentes, como evaluar al maestro, cuando lo decide por consenso de todos sus miembros en asamblea."
+      },
+      {
+        "opcionId": "cmvvvs6dh002avd08iepwn155",
+        "antes": "El Consejo solo puede ejercer control social sobre la transparencia administrativa, sin intervenir en la planificación.",
+        "despues": "El Consejo solo puede ejercer control social sobre la transparencia administrativa del centro, sin intervenir en la planificación ni en el seguimiento."
+      },
+      {
+        "opcionId": "cmvvvs6dh002bvd08rvquzcq5",
+        "antes": "La Participación Social Comunitaria se limita a la formulación de políticas a nivel plurinacional.",
+        "despues": "La Participación Social Comunitaria se limita a la formulación de políticas educativas a nivel plurinacional, sin intervenir en cada unidad educativa."
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvxv17c0001vd10t2f1ptg4",
+    "opciones": [
+      {
+        "opcionId": "cmvvxv17c0002vd10pq7pc8mo",
+        "antes": "Serán reconocidos y homologados a niveles y modalidades que correspondan al Subsistema de Educación Alternativa y Especial",
+        "despues": "Serán reconocidos y homologados a niveles y modalidades que correspondan al Subsistema de Educación Alternativa y Especial"
+      },
+      {
+        "opcionId": "cmvvxv17c0003vd10zdt932dn",
+        "antes": "Solo pueden certificarse en una universidad pública",
+        "despues": "Solo pueden certificarse en una universidad pública, previa evaluación de sus competencias laborales por un tribunal académico"
+      },
+      {
+        "opcionId": "cmvvxv17c0004vd10ug58obvi",
+        "antes": "Solo se reconocen si cursa la Educación Secundaria de Personas Jóvenes y Adultas completa",
+        "despues": "Solo se reconocen si antes cursa y aprueba completa la Educación Secundaria de Personas Jóvenes y Adultas en un CEA"
+      },
+      {
+        "opcionId": "cmvvxv17c0005vd1014i49a4a",
+        "antes": "Se acreditan en el Subsistema de Educación Regular",
+        "despues": "Se acreditan en el Subsistema de Educación Regular, en el nivel de Educación Secundaria Comunitaria Productiva"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvxv18e000pvd10f6r9gqp5",
+    "opciones": [
+      {
+        "opcionId": "cmvvxv18e000qvd10ose46vgu",
+        "antes": "Institución pública descentralizada, técnica, especializada, independiente en cuanto al proceso y resultados de sus evaluaciones",
+        "despues": "Institución pública descentralizada, técnica, especializada, independiente en cuanto al proceso y resultados de sus evaluaciones"
+      },
+      {
+        "opcionId": "cmvvxv18e000rvd10p8z92lg0",
+        "antes": "Unidad desconcentrada de la Dirección Departamental de Educación",
+        "despues": "Unidad desconcentrada de la Dirección Departamental de Educación, técnica y especializada, que evalúa a las unidades de su departamento"
+      },
+      {
+        "opcionId": "cmvvxv18e000svd10h078n6id",
+        "antes": "Entidad privada acreditadora con financiamiento internacional",
+        "despues": "Entidad privada acreditadora con financiamiento internacional, independiente en cuanto al proceso y los resultados de sus evaluaciones"
+      },
+      {
+        "opcionId": "cmvvxv18e000tvd10iz4u9xdk",
+        "antes": "Dirección general del Viceministerio de Educación Alternativa y Especial",
+        "despues": "Dirección general del Viceministerio de Educación Alternativa y Especial, con dependencia técnica y administrativa del Ministerio"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvzh9q20001vd38e04vcgop",
+    "opciones": [
+      {
+        "opcionId": "cmvvzh9q20002vd38utt11wdh",
+        "antes": "Con el mismo nivel de calidad, pertinencia y equiparación de condiciones que en el Subsistema Regular",
+        "despues": "Con el mismo nivel de calidad, pertinencia y equiparación de condiciones que en el Subsistema Regular"
+      },
+      {
+        "opcionId": "cmvvzh9q20003vd386kx7qtj0",
+        "antes": "Con requisitos de calidad menores que el Subsistema Regular, por su flexibilidad",
+        "despues": "Con requisitos de calidad menores que en el Subsistema Regular, en razón de su flexibilidad y de la edad"
+      },
+      {
+        "opcionId": "cmvvzh9q30004vd38ruu91t4h",
+        "antes": "Solo de forma no sistemática",
+        "despues": "Solo de forma no sistemática, mediante cursos libres que no equivalen a los del Subsistema Regular"
+      },
+      {
+        "opcionId": "cmvvzh9q30005vd381idn3ycq",
+        "antes": "Solo para mayores de 25 años",
+        "despues": "Solo cuando son mayores de 25 años y no concluyeron sus estudios en el Subsistema de Educación Regular"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvzh9qs000dvd38vcujhcid",
+    "opciones": [
+      {
+        "opcionId": "cmvvzh9qs000evd382wa57tmz",
+        "antes": "A personas con discapacidad, personas con dificultades en el aprendizaje y personas con talento extraordinario",
+        "despues": "A personas con discapacidad, personas con dificultades en el aprendizaje y personas con talento extraordinario"
+      },
+      {
+        "opcionId": "cmvvzh9qs000fvd38s9kkefp8",
+        "antes": "Solo a personas con discapacidad",
+        "despues": "Solo a personas con discapacidad física, intelectual, sensorial o múltiple, en centros especializados"
+      },
+      {
+        "opcionId": "cmvvzh9qs000gvd38lc6zkhiw",
+        "antes": "A jóvenes y adultos mayores de 15 años",
+        "despues": "A jóvenes y adultos mayores de 15 años que no concluyeron su educación en el Subsistema Regular"
+      },
+      {
+        "opcionId": "cmvvzh9qs000hvd38cndydys4",
+        "antes": "A personas privadas de libertad",
+        "despues": "A personas privadas de libertad y en situación de calle, con dificultades en el aprendizaje"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvzh9r4000jvd38h0r1czmf",
+    "opciones": [
+      {
+        "opcionId": "cmvvzh9r4000kvd38z55w4cab",
+        "antes": "Educación Inicial en Familia Comunitaria, Educación Primaria Comunitaria Vocacional y Educación Secundaria Comunitaria Productiva",
+        "despues": "Educación Inicial en Familia Comunitaria, Educación Primaria Comunitaria Vocacional y Educación Secundaria Comunitaria Productiva"
+      },
+      {
+        "opcionId": "cmvvzh9r4000lvd383k4lm4z4",
+        "antes": "Educación Inicial Vocacional, Primaria Comunitaria Productiva y Secundaria en Familia",
+        "despues": "Educación Inicial Comunitaria Vocacional, Educación Primaria Comunitaria Productiva y Educación Secundaria en Familia Comunitaria"
+      },
+      {
+        "opcionId": "cmvvzh9r4000mvd38u9ecanx4",
+        "antes": "EPJA y Educación Permanente",
+        "despues": "Educación de Personas Jóvenes y Adultas, Educación Permanente y Educación Especial en sus modalidades directa e indirecta"
+      },
+      {
+        "opcionId": "cmvvzh9r4000nvd38z7l8wt19",
+        "antes": "Formación de Maestros, Técnica y Universitaria",
+        "despues": "Formación de Maestros, Formación Técnica y Tecnológica, Formación Artística y Formación Universitaria de pregrado"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwwb5m00001vddok82tflgp",
+    "opciones": [
+      {
+        "opcionId": "cmvwwb5m00002vddomxqei5gf",
+        "antes": "Calidad, política educativa y currículo base, erradicando las diferencias entre lo fiscal y lo privado, lo urbano y lo rural",
+        "despues": "Calidad, política educativa y currículo base, erradicando las diferencias entre lo fiscal y lo privado, lo urbano y lo rural"
+      },
+      {
+        "opcionId": "cmvwwb5m00003vddosws8tt8a",
+        "antes": "Su aplicación en cada contexto geográfico, social, cultural y lingüístico",
+        "despues": "Su aplicación idéntica en cada contexto geográfico, social, cultural y lingüístico, sin currículos regionalizados"
+      },
+      {
+        "opcionId": "cmvwwb5m00004vddocxutf0xl",
+        "antes": "La lengua de enseñanza, que es solo el castellano",
+        "despues": "La lengua de enseñanza, que es solo el castellano, para erradicar las diferencias entre lo urbano y lo rural"
+      },
+      {
+        "opcionId": "cmvwwb5m00005vddo4y3c8m8i",
+        "antes": "La administración centralizada de todas las unidades educativas",
+        "despues": "La administración centralizada de todas las unidades educativas fiscales, privadas y de convenio del país"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwwb5mj0007vddok5e83y0z",
+    "opciones": [
+      {
+        "opcionId": "cmvwwb5mj0008vddo1f71yifn",
+        "antes": "Porque atiende a todos los habitantes del Estado y a los bolivianos que viven en el exterior, y se desarrolla a lo largo de toda la vida sin limitación ni condicionamiento",
+        "despues": "Porque atiende a todos los habitantes del Estado y a los bolivianos que viven en el exterior, a lo largo de toda la vida y sin limitación ni condicionamiento"
+      },
+      {
+        "opcionId": "cmvwwb5mj0009vddogdnaz38a",
+        "antes": "Porque se basa en conocimientos científicos universales",
+        "despues": "Porque se basa en los conocimientos científicos universales y los complementa con los saberes de las naciones y pueblos indígena originario campesinos"
+      },
+      {
+        "opcionId": "cmvwwb5mj000avddoq1o87g6d",
+        "antes": "Porque es gratuita en todos los niveles",
+        "despues": "Porque es gratuita en todos los niveles del Sistema Educativo Plurinacional, desde la Educación Inicial hasta la Educación Superior"
+      },
+      {
+        "opcionId": "cmvwwb5mj000bvddomqhxtr9e",
+        "antes": "Porque es obligatoria hasta el bachillerato",
+        "despues": "Porque es obligatoria hasta el bachillerato para todos los habitantes del Estado, sin limitación ni condicionamiento alguno"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwwb5mo000dvddoocxtm7f6",
+    "opciones": [
+      {
+        "opcionId": "cmvwwb5mo000evddoihxws82h",
+        "antes": "Laica, pluralista y espiritual, sin imposición dogmática y con diálogo interreligioso",
+        "despues": "Laica, pluralista y espiritual, sin imposición dogmática y con diálogo interreligioso"
+      },
+      {
+        "opcionId": "cmvwwb5mo000fvddong9zo7xl",
+        "antes": "Productiva y territorial",
+        "despues": "Productiva y territorial, orientada al trabajo y al desarrollo sostenible"
+      },
+      {
+        "opcionId": "cmvwwb5mo000gvddogbqzcpoz",
+        "antes": "Comunitaria, democrática y participativa",
+        "despues": "Comunitaria, democrática, participativa y de consensos en la toma de decisiones"
+      },
+      {
+        "opcionId": "cmvwwb5mo000hvddor9usfkpw",
+        "antes": "Unitaria e integradora",
+        "despues": "Unitaria, integradora y respetuosa de las creencias de la mayoría de la comunidad"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwwb5mr000jvddoh7vhlwfy",
+    "opciones": [
+      {
+        "opcionId": "cmvwwb5mr000kvddo5c0dbzvs",
+        "antes": "Es descolonizadora, liberadora, revolucionaria, anti-imperialista, despatriarcalizadora y transformadora de las estructuras económicas y sociales",
+        "despues": "Es descolonizadora, liberadora, revolucionaria, anti-imperialista, despatriarcalizadora y transformadora de las estructuras económicas y sociales"
+      },
+      {
+        "opcionId": "cmvwwb5mr000lvddofxjn00nx",
+        "antes": "Es universal y gratuita",
+        "despues": "Es universal, gratuita y obligatoria hasta el bachillerato, y atiende a todos los habitantes del Estado a lo largo de toda la vida"
+      },
+      {
+        "opcionId": "cmvwwb5mr000mvddo6d0w2eo9",
+        "antes": "Es intracultural, intercultural y plurilingüe",
+        "despues": "Es intracultural, intercultural y plurilingüe en todo el sistema educativo, y fortalece las culturas de las naciones y pueblos"
+      },
+      {
+        "opcionId": "cmvwwb5mr000nvddojr1fefp4",
+        "antes": "Es inclusiva",
+        "despues": "Es inclusiva, asume la diversidad de los grupos poblacionales y personas, y garantiza la igualdad de oportunidades y condiciones"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwwb5n6000vvddo0ttb5ckh",
+    "opciones": [
+      {
+        "opcionId": "cmvwwb5n6000wvddo3xiia3xg",
+        "antes": "Contribuir a la consolidación de la educación descolonizada, para garantizar un Estado Plurinacional y una sociedad del Vivir Bien con justicia social, productiva y soberana",
+        "despues": "Contribuir a la consolidación de la educación descolonizada, para garantizar un Estado Plurinacional y una sociedad del Vivir Bien con justicia social"
+      },
+      {
+        "opcionId": "cmvwwb5n6000xvddocf87szt1",
+        "antes": "Desarrollar la formación integral de las personas y la conciencia social crítica",
+        "despues": "Desarrollar la formación integral de las personas y el fortalecimiento de la conciencia social crítica, en la vida y para la vida, con justicia social"
+      },
+      {
+        "opcionId": "cmvwwb5n6000yvddo9af1fb9x",
+        "antes": "Universalizar los saberes y conocimientos propios",
+        "despues": "Universalizar los saberes y conocimientos propios, para el desarrollo de una educación desde las identidades culturales del Estado Plurinacional"
+      },
+      {
+        "opcionId": "cmvwwb5n6000zvddobx8q9on1",
+        "antes": "Garantizar el acceso y la permanencia en igualdad de condiciones",
+        "despues": "Garantizar el acceso y la permanencia en el sistema educativo en igualdad de condiciones, para una sociedad del Vivir Bien productiva y soberana"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwwb5na0011vddondtor4ch",
+    "opciones": [
+      {
+        "opcionId": "cmvwwb5na0012vddool2l0dmt",
+        "antes": "Contribuir a reafirmar el derecho irrenunciable e imprescriptible del territorio que dé acceso al Océano Pacífico y su espacio marítimo",
+        "despues": "Contribuir a reafirmar el derecho irrenunciable e imprescriptible del territorio que dé acceso al Océano Pacífico y su espacio marítimo"
+      },
+      {
+        "opcionId": "cmvwwb5na0013vddobqxytkir",
+        "antes": "Priorizar la educación en las fronteras para resguardar la soberanía",
+        "despues": "Contribuir al fortalecimiento de la seguridad y defensa del Estado, priorizando la educación en las fronteras para resguardar la soberanía"
+      },
+      {
+        "opcionId": "cmvwwb5na0014vddokv1whyyx",
+        "antes": "Implementar políticas de formación continua de maestros",
+        "despues": "Implementar políticas y programas de formación inicial y continua de maestros, para mejorar la calidad del sistema educativo plurinacional"
+      },
+      {
+        "opcionId": "cmvwwb5na0015vddormmj4xrr",
+        "antes": "Implementar programas de alfabetización y postalfabetización",
+        "despues": "Implementar políticas y programas de alfabetización y postalfabetización integral de jóvenes y adultos, hasta la educación superior"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwwb5nd0017vddonhddkjty",
+    "opciones": [
+      {
+        "opcionId": "cmvwwb5nd0018vddovm9hla2d",
+        "antes": "La equidad de género, la no diferencia de roles, la no violencia y la vigencia plena de los derechos humanos",
+        "despues": "La equidad de género, la no diferencia de roles, la no violencia y la vigencia plena de los derechos humanos"
+      },
+      {
+        "opcionId": "cmvwwb5nd0019vddos9lxu2gh",
+        "antes": "La paridad salarial exclusivamente",
+        "despues": "La paridad salarial entre hombres y mujeres, exclusivamente, en todo el ámbito del trabajo público y privado"
+      },
+      {
+        "opcionId": "cmvwwb5nd001avddonz418x79",
+        "antes": "La separación de estudiantes por sexo",
+        "despues": "La separación de estudiantes por sexo, para garantizar un trato diferenciado y libre de violencia"
+      },
+      {
+        "opcionId": "cmvwwb5nd001bvddosrgie1rj",
+        "antes": "Los valores del civismo y la disciplina",
+        "despues": "Los valores del civismo, la disciplina, el respeto a la autoridad y la vigencia de los derechos humanos"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwwb5nh001dvddogefsr73o",
+    "opciones": [
+      {
+        "opcionId": "cmvwwb5nh001evddo5f51nd61",
+        "antes": "Rector de lucha contra la pobreza, la exclusión social y la degradación del medio ambiente",
+        "despues": "Rector de lucha contra la pobreza, la exclusión social y la degradación del medio ambiente"
+      },
+      {
+        "opcionId": "cmvwwb5nh001fvddoxytit9wc",
+        "antes": "Requisito para el ingreso a la universidad",
+        "despues": "Requisito para el ingreso y la permanencia de los estudiantes en la universidad pública"
+      },
+      {
+        "opcionId": "cmvwwb5nh001gvddonvo4kwps",
+        "antes": "Exclusiva de la educación superior",
+        "despues": "Actividad exclusiva de la educación superior universitaria, con financiamiento del Estado"
+      },
+      {
+        "opcionId": "cmvwwb5nh001hvddokiymvw8x",
+        "antes": "Medio para la competitividad internacional",
+        "despues": "Medio para mejorar la competitividad internacional y atraer la inversión extranjera"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwwb5nq001jvddoxj4vzqht",
+    "opciones": [
+      {
+        "opcionId": "cmvwwb5nq001kvddo99r7yelj",
+        "antes": "Implementar, desde todos los niveles de gobierno, programas sociales para estudiantes con menos posibilidades económicas (alimentación, vestimenta, transporte, material escolar y residencias en áreas dispersas)",
+        "despues": "Implementar, desde todos los niveles de gobierno, programas sociales para estudiantes con menos posibilidades económicas (alimentación, vestimenta, transporte, material y residencias)"
+      },
+      {
+        "opcionId": "cmvwwb5nq001lvddo5j4hnpdu",
+        "antes": "Priorizar la educación en las fronteras",
+        "despues": "Contribuir al fortalecimiento de la seguridad, defensa y desarrollo del Estado, priorizando la educación en las fronteras y en las comunidades más dispersas del territorio"
+      },
+      {
+        "opcionId": "cmvwwb5nq001mvddoinwpphft",
+        "antes": "Formar una conciencia productiva y ambiental",
+        "despues": "Formar una conciencia productiva, comunitaria y ambiental en las y los estudiantes, fomentando la producción y el consumo de productos ecológicos en la comunidad"
+      },
+      {
+        "opcionId": "cmvwwb5nq001nvddodofb2vt0",
+        "antes": "Implementar la formación continua de maestros",
+        "despues": "Implementar políticas y programas de formación continua de maestros que les permitan atender a participantes de escasos recursos en comunidades dispersas"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwwb5nu001pvddofqyky1nd",
+    "opciones": [
+      {
+        "opcionId": "cmvwwb5nu001qvddo8phfvmdv",
+        "antes": "Implementar políticas de alfabetización y postalfabetización integral y de formación para jóvenes y adultos que posibiliten la continuidad de sus estudios hasta la educación superior",
+        "despues": "Implementar políticas de alfabetización y postalfabetización integral y de formación para jóvenes y adultos que posibiliten la continuidad de sus estudios hasta la educación superior"
+      },
+      {
+        "opcionId": "cmvwwb5nu001rvddokvdxswys",
+        "antes": "Establecer la secuencialidad desde la educación inicial hasta la superior",
+        "despues": "Establecer la articulación y secuencialidad de la educación desde la educación inicial hasta la superior, para que jóvenes y adultos continúen sus estudios en cualquier subsistema"
+      },
+      {
+        "opcionId": "cmvwwb5nu001svddoqg9a1n2e",
+        "antes": "Promover el acceso de personas con discapacidad",
+        "despues": "Promover el acceso y la permanencia de las personas con discapacidad, con dificultades en el aprendizaje y con talento extraordinario en el sistema educativo plurinacional"
+      },
+      {
+        "opcionId": "cmvwwb5nu001tvddobcboz1es",
+        "antes": "Priorizar la educación en las fronteras",
+        "despues": "Contribuir al fortalecimiento de la seguridad y defensa del Estado, priorizando la educación en las fronteras para jóvenes y adultos que no concluyeron sus estudios"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwwb5nx001vvddourlhhrts",
+    "opciones": [
+      {
+        "opcionId": "cmvwwb5nx001wvddo8auvcr2c",
+        "antes": "Contribuir al fortalecimiento de la seguridad, defensa y desarrollo del Estado Plurinacional, priorizando la educación en las fronteras para resguardar la soberanía",
+        "despues": "Contribuir al fortalecimiento de la seguridad, defensa y desarrollo del Estado Plurinacional, priorizando la educación en las fronteras para resguardar la soberanía"
+      },
+      {
+        "opcionId": "cmvwwb5nx001xvddo41wx35d8",
+        "antes": "Fortalecer la unidad e integridad territorial (fin 9)",
+        "despues": "Fortalecer la unidad, identidad e integridad territorial del Estado Plurinacional, priorizando la educación en las fronteras (fin 9 del Art. 4)"
+      },
+      {
+        "opcionId": "cmvwwb5nx001yvddoax54nf6l",
+        "antes": "Garantizar el acceso y la permanencia en igualdad de condiciones",
+        "despues": "Garantizar el acceso y la permanencia en igualdad de condiciones de todos los habitantes, priorizando a quienes viven en las fronteras"
+      },
+      {
+        "opcionId": "cmvwwb5nx001zvddohalxoasg",
+        "antes": "Desarrollar programas pertinentes a cada contexto",
+        "despues": "Desarrollar programas educativos pertinentes a cada contexto sociocultural y lingüístico, priorizando las regiones de frontera del país"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwwb5o10021vddop5rl21ap",
+    "opciones": [
+      {
+        "opcionId": "cmvwwb5o10022vddos0f77glx",
+        "antes": "De madres y padres, organizaciones sociales, sindicales y populares, instituciones, pueblos IOC, afrobolivianos y comunidades interculturales",
+        "despues": "De madres y padres, organizaciones sociales, sindicales y populares, instituciones, pueblos IOC, afrobolivianos y comunidades interculturales"
+      },
+      {
+        "opcionId": "cmvwwb5o10023vddoijlhn9dk",
+        "antes": "Solo del Ministerio de Educación",
+        "despues": "Solo del Ministerio de Educación y de sus Direcciones Departamentales y Distritales, como autoridades del Sistema Educativo Plurinacional"
+      },
+      {
+        "opcionId": "cmvwwb5o10024vddo3zkslguh",
+        "antes": "Solo de las juntas escolares",
+        "despues": "Solo de las juntas escolares y de los consejos educativos de cada unidad educativa, con la participación de madres y padres de familia"
+      },
+      {
+        "opcionId": "cmvwwb5o10025vddo22v90fiy",
+        "antes": "De organismos internacionales de cooperación",
+        "despues": "De los organismos internacionales de cooperación y de las organizaciones no gubernamentales que financian programas educativos en el país"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwwb5oa0027vddol5i13cam",
+    "opciones": [
+      {
+        "opcionId": "cmvwwb5oa0028vddo604yuffo",
+        "antes": "El quechua (lengua originaria) como primera lengua y el castellano como segunda",
+        "despues": "El quechua (lengua originaria) como primera lengua y el castellano como segunda"
+      },
+      {
+        "opcionId": "cmvwwb5oa0029vddo2q4out3n",
+        "antes": "El castellano como primera lengua y el quechua como segunda",
+        "despues": "El castellano como primera lengua y el quechua (lengua originaria) como segunda"
+      },
+      {
+        "opcionId": "cmvwwb5oa002avddo9hqbpplo",
+        "antes": "Solo el castellano",
+        "despues": "Solo el castellano, como lengua oficial común a todo el Estado Plurinacional"
+      },
+      {
+        "opcionId": "cmvwwb5oa002bvddoqfddpf8u",
+        "antes": "Lo decide libremente el director",
+        "despues": "Lo decide libremente el director del CEA, según la demanda de los participantes"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwwb5od002dvddo70z5i30k",
+    "opciones": [
+      {
+        "opcionId": "cmvwwb5od002evddobxhwf3vo",
+        "antes": "Los consejos comunitarios, según criterios de territorialidad y transterritorialidad",
+        "despues": "Los consejos comunitarios, según criterios de territorialidad y transterritorialidad"
+      },
+      {
+        "opcionId": "cmvwwb5od002fvddoeo1q4v6l",
+        "antes": "La Dirección Distrital",
+        "despues": "La Dirección Distrital de Educación, según criterios de territorialidad y demanda"
+      },
+      {
+        "opcionId": "cmvwwb5od002gvddo36cq44hi",
+        "antes": "El director de la unidad o centro",
+        "despues": "El director de la unidad o centro, previa consulta a la Junta Escolar y a los maestros"
+      },
+      {
+        "opcionId": "cmvwwb5od002hvddoqpo8hx63",
+        "antes": "El Instituto Plurinacional de Estudio de Lenguas y Culturas",
+        "despues": "El Instituto Plurinacional de Estudio de Lenguas y Culturas, según sus estudios lingüísticos"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwwb5oh002jvddow93oi5gu",
+    "opciones": [
+      {
+        "opcionId": "cmvwwb5oh002kvddoqyxe2rhw",
+        "antes": "Es un derecho de los estudiantes que lo requieran y forma parte de la formación plurilingüe de los maestros",
+        "despues": "Es un derecho de los estudiantes que lo requieran y forma parte de la formación plurilingüe de los maestros"
+      },
+      {
+        "opcionId": "cmvwwb5oh002lvddogef7rgnb",
+        "antes": "Es optativa y solo para centros de Educación Especial",
+        "despues": "Es optativa y solo se imparte en los centros de Educación Especial, a cargo de maestros especializados"
+      },
+      {
+        "opcionId": "cmvwwb5oh002mvddoeaxiss6s",
+        "antes": "Se enseña solo a partir de la secundaria",
+        "despues": "Se enseña solo a partir de la Educación Secundaria, como parte del área de comunicación y lenguajes"
+      },
+      {
+        "opcionId": "cmvwwb5oh002nvddoz584i349",
+        "antes": "Reemplaza a la lengua extranjera",
+        "despues": "Reemplaza a la lengua extranjera para los estudiantes que lo requieran, en todos los subsistemas"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwwb5op002pvddo7cdk8swq",
+    "opciones": [
+      {
+        "opcionId": "cmvwwb5op002qvddok0ztwmsn",
+        "antes": "Educación Regular; Educación Alternativa y Especial; y Educación Superior de Formación Profesional",
+        "despues": "Educación Regular; Educación Alternativa y Especial; y Educación Superior de Formación Profesional"
+      },
+      {
+        "opcionId": "cmvwwb5op002rvddoibduhlvm",
+        "antes": "Educación Regular, Alternativa, Especial y Superior, como cuatro subsistemas",
+        "despues": "Educación Regular, Educación Alternativa, Educación Especial y Educación Superior, como cuatro subsistemas"
+      },
+      {
+        "opcionId": "cmvwwb5op002svddolspjrjk4",
+        "antes": "Inicial, Primaria y Secundaria",
+        "despues": "Educación Inicial en Familia Comunitaria, Primaria Comunitaria Vocacional y Secundaria Comunitaria Productiva"
+      },
+      {
+        "opcionId": "cmvwwb5op002tvddo7htw71c9",
+        "antes": "Fiscal, privada y de convenio",
+        "despues": "Educación fiscal, educación privada y educación de convenio, con un currículo base común a las tres"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwwb5p70031vddod0aw6c2e",
+    "opciones": [
+      {
+        "opcionId": "cmvwwb5p70032vddopy73fcbw",
+        "antes": "Del Subsistema de Educación Alternativa y Especial; pueden ser fiscales, de convenio o privados",
+        "despues": "Del Subsistema de Educación Alternativa y Especial; pueden ser fiscales, de convenio o privados"
+      },
+      {
+        "opcionId": "cmvwwb5p70033vddoxls2uztj",
+        "antes": "Del Subsistema de Educación Superior; solo privados",
+        "despues": "Del Subsistema de Educación Superior de Formación Profesional; solo pueden ser privados"
+      },
+      {
+        "opcionId": "cmvwwb5p70034vddoldmf6ko3",
+        "antes": "Del Ministerio de Trabajo",
+        "despues": "Del Ministerio de Trabajo, Empleo y Previsión Social; pueden ser fiscales, de convenio o privados"
+      },
+      {
+        "opcionId": "cmvwwb5p70035vddo8jmubuyo",
+        "antes": "De Alternativa y Especial; solo fiscales",
+        "despues": "Del Subsistema de Educación Alternativa y Especial; solo pueden ser fiscales"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwwb5pi0037vddo7s9fcjso",
+    "opciones": [
+      {
+        "opcionId": "cmvwwb5pi0038vddo9d21943x",
+        "antes": "Es indebido: el Ministerio, a través de las Direcciones Departamentales, otorga gratuitamente el Diploma de Bachiller",
+        "despues": "Es indebido: el Ministerio, a través de las Direcciones Departamentales, otorga gratuitamente el Diploma de Bachiller"
+      },
+      {
+        "opcionId": "cmvwwb5pi0039vddoewvyg0iq",
+        "antes": "Es correcto si el monto lo aprueba la Junta",
+        "despues": "Es correcto si el monto lo aprueba la Junta o el Consejo Educativo del centro y se destina a cubrir los costos de emisión"
+      },
+      {
+        "opcionId": "cmvwwb5pj003avddofqffvsse",
+        "antes": "Es correcto solo en los CEA de convenio",
+        "despues": "Es correcto solo en los CEA de convenio y privados, porque en los fiscales el Diploma de Bachiller es gratuito"
+      },
+      {
+        "opcionId": "cmvwwb5pj003bvddohui84v8e",
+        "antes": "El diploma lo otorga la Dirección Distrital, previo pago",
+        "despues": "Es indebido que lo cobre el CEA: el diploma lo otorga la Dirección Distrital, previo pago del valor en una entidad bancaria"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwwb5pr003dvddotidz7pfn",
+    "opciones": [
+      {
+        "opcionId": "cmvwwb5pr003evddo5rtez2kp",
+        "antes": "Las competencias laborales y artísticas desarrolladas en la práctica a lo largo de la vida",
+        "despues": "Las competencias laborales y artísticas desarrolladas en la práctica a lo largo de la vida"
+      },
+      {
+        "opcionId": "cmvwwb5pr003fvddo9t1tfzds",
+        "antes": "Solo los títulos universitarios extranjeros",
+        "despues": "Solo los títulos universitarios obtenidos en el extranjero, mediante su revalidación oficial"
+      },
+      {
+        "opcionId": "cmvwwb5pr003gvddoiwpso2p4",
+        "antes": "Solo los cursos de formación continua de maestros",
+        "despues": "Solo los cursos de formación continua de maestros, para su reconocimiento en el Escalafón"
+      },
+      {
+        "opcionId": "cmvwwb5pr003hvddovxbfotgd",
+        "antes": "Las competencias académicas de bachillerato",
+        "despues": "Las competencias académicas de bachillerato adquiridas fuera del Subsistema de Educación Regular"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwwb5pz003jvddoee9dbt9v",
+    "opciones": [
+      {
+        "opcionId": "cmvwwb5q0003kvddotackgwci",
+        "antes": "A las autoridades administrativas y al personal docente del sistema educativo, de la jerarquía y la función directiva",
+        "despues": "A las autoridades administrativas y al personal docente del sistema educativo, de la jerarquía y la función directiva"
+      },
+      {
+        "opcionId": "cmvwwb5q0003lvddop73rp4c1",
+        "antes": "Solo a los estudiantes",
+        "despues": "Solo a los estudiantes y participantes del sistema educativo, mediante recursos, materiales y servicios pedagógicos"
+      },
+      {
+        "opcionId": "cmvwwb5q0003mvddobylwavpr",
+        "antes": "A las empresas privadas",
+        "despues": "A las empresas privadas que desarrollan programas de capacitación técnica para sus trabajadores y comunidades"
+      },
+      {
+        "opcionId": "cmvwwb5q0003nvddonbaniq0b",
+        "antes": "Solo al Ministerio de Educación",
+        "despues": "Solo al Ministerio de Educación y a sus viceministerios, para la formulación de políticas educativas nacionales"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwwb5qg003vvddoj22wcekv",
+    "opciones": [
+      {
+        "opcionId": "cmvwwb5qg003wvddow8nwgub1",
+        "antes": "Con recursos del Tesoro General del Estado y de las entidades territoriales autónomas, según corresponda y acorde a la Ley del Presupuesto General del Estado",
+        "despues": "Con recursos del Tesoro General del Estado y de las entidades territoriales autónomas, según corresponda y acorde a la Ley del Presupuesto"
+      },
+      {
+        "opcionId": "cmvwwb5qg003xvddo44ws3qcs",
+        "antes": "Solo con aportes de los padres de familia",
+        "despues": "Solo con aportes de los padres de familia y de las organizaciones sociales, que se administran por los consejos educativos de cada unidad"
+      },
+      {
+        "opcionId": "cmvwwb5qg003yvddokyn38mot",
+        "antes": "Solo con recursos municipales",
+        "despues": "Solo con recursos de los gobiernos autónomos municipales, que asumen el pago de ítems, la infraestructura y el equipamiento educativo"
+      },
+      {
+        "opcionId": "cmvwwb5qg003zvddo5nfyqpf6",
+        "antes": "Con cooperación internacional exclusivamente",
+        "despues": "Con recursos de cooperación internacional exclusivamente, que el Ministerio distribuye según la Ley del Presupuesto General del Estado"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwwb5qn0041vddop34mm78e",
+    "opciones": [
+      {
+        "opcionId": "cmvwwb5qn0042vddoclksyib6",
+        "antes": "Modalidad indirecta, mediante la inclusión de la persona con discapacidad en el Sistema Educativo Plurinacional",
+        "despues": "Modalidad indirecta, mediante la inclusión de la persona con discapacidad en el Sistema Educativo Plurinacional"
+      },
+      {
+        "opcionId": "cmvwwb5qo0043vddohshud8f5",
+        "antes": "Modalidad directa",
+        "despues": "Modalidad directa, mediante la atención de la persona con discapacidad en un centro de Educación Especial"
+      },
+      {
+        "opcionId": "cmvwwb5qo0044vddo8ml0omv7",
+        "antes": "Modalidad a distancia",
+        "despues": "Modalidad a distancia, mediante materiales adaptados que la participante estudia desde su hogar"
+      },
+      {
+        "opcionId": "cmvwwb5qo0045vddoq3fkyll8",
+        "antes": "Modalidad itinerante",
+        "despues": "Modalidad itinerante, mediante un maestro especializado que visita el centro una vez por semana"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwwb5qw0047vddo09c0hkjg",
+    "opciones": [
+      {
+        "opcionId": "cmvwwb5qw0048vddox5npgqsg",
+        "antes": "El Título de Maestro con grado de Licenciatura y su reconocimiento en el Escalafón",
+        "despues": "El Título de Maestro con grado de Licenciatura y su reconocimiento en el Escalafón"
+      },
+      {
+        "opcionId": "cmvwwb5qw0049vddocw6r1bq6",
+        "antes": "El Título de Técnico Superior en Educación",
+        "despues": "El Título de Técnico Superior en Educación y su incorporación directa al Escalafón"
+      },
+      {
+        "opcionId": "cmvwwb5qw004avddo87kqn3gh",
+        "antes": "El Título de Normalista sin grado académico",
+        "despues": "El Título de Normalista sin grado académico, con reconocimiento en el Escalafón"
+      },
+      {
+        "opcionId": "cmvwwb5qw004bvddorhn91200",
+        "antes": "El Título de Maestría en Educación",
+        "despues": "El Título de Maestría en Educación, con grado académico reconocido por el CEUB"
+      }
+    ]
+  }
+]

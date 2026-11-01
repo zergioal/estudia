@@ -1,0 +1,512 @@
+[
+  {
+    "preguntaId": "cmvvw62yj0001vdw0390lk4lq",
+    "opciones": [
+      {
+        "opcionId": "cmvvw62yj0002vdw04q0pary7",
+        "antes": "No participó de la evaluación, al igual que Chile, por factores del contexto socioeconómico y político que impidieron aplicar los instrumentos en 2019",
+        "despues": "No participó de la evaluación, al igual que Chile, por factores del contexto socioeconómico y político que impidieron aplicar los instrumentos"
+      },
+      {
+        "opcionId": "cmvvw62yj0003vdw0zrrw9lut",
+        "antes": "Participó en 3° y 6° grado y recibió su reporte nacional junto con los resultados regionales",
+        "despues": "Participó en 3° y 6° grado de primaria y recibió su reporte nacional junto con los resultados regionales de Lectura, Matemática y Ciencias"
+      },
+      {
+        "opcionId": "cmvvw62yj0004vdw0j6y6u1ty",
+        "antes": "Participó solo en 6° grado, en Lectura y Matemática",
+        "despues": "Participó solo en 6° grado, en Lectura y Matemática, porque el contexto político impidió aplicar los instrumentos de 3° grado"
+      },
+      {
+        "opcionId": "cmvvw62yj0005vdw0sientzkl",
+        "antes": "No participó porque no es país integrante del LLECE",
+        "despues": "No participó porque no es país integrante del LLECE, al igual que Chile, y por eso no tiene resultados en el informe regional"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvw62yr0007vdw0biyvpbyl",
+    "opciones": [
+      {
+        "opcionId": "cmvvw62yr0009vdw0pp5gq2ng",
+        "antes": "Nivel I en 3° grado y Nivel II en 6° grado",
+        "despues": "Nivel I en Lectura y Matemática de 3° grado, y Nivel II en Lectura y Matemática de 6° grado"
+      },
+      {
+        "opcionId": "cmvvw62yr000avdw0hjdh7px0",
+        "antes": "Nivel III en ambos grados",
+        "despues": "Nivel III en Lectura y Matemática, tanto en 3° grado como en 6° grado de primaria"
+      },
+      {
+        "opcionId": "cmvvw62yr000bvdw0wfqfmbk3",
+        "antes": "Nivel II en ambos grados, incluyendo Ciencias",
+        "despues": "Nivel II en Lectura, Matemática y Ciencias, tanto en 3° grado como en 6° grado"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvw62z7000vvdw0oezj3dzp",
+    "opciones": [
+      {
+        "opcionId": "cmvvw62z7000wvdw06a9g6bz0",
+        "antes": "El indicador 4.1.1, proporción de niños y jóvenes que alcanzan al menos el nivel mínimo de competencia en lectura y matemáticas",
+        "despues": "El indicador 4.1.1, proporción de niños y jóvenes que alcanzan al menos el nivel mínimo de competencia en lectura y matemáticas"
+      },
+      {
+        "opcionId": "cmvvw62z7000xvdw05c6nsgn0",
+        "antes": "El indicador 4.6.1, competencias de alfabetización funcional de jóvenes y adultos",
+        "despues": "El indicador 4.6.1, proporción de jóvenes y adultos que alcanzan un nivel de competencia funcional en alfabetización y aritmética"
+      },
+      {
+        "opcionId": "cmvvw62z7000yvdw04zcya147",
+        "antes": "El indicador 4.2.1, desarrollo infantil de menores de cinco años",
+        "despues": "El indicador 4.2.1, proporción de niños menores de cinco años cuyo desarrollo es adecuado en salud, aprendizaje y bienestar"
+      },
+      {
+        "opcionId": "cmvvw62z7000zvdw0a6ush5uh",
+        "antes": "El indicador 4.c.1, proporción de docentes calificados",
+        "despues": "El indicador 4.c.1, proporción de docentes con las calificaciones mínimas requeridas para enseñar en cada nivel educativo"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvy13mk000pvdmkhi5tg5ct",
+    "opciones": [
+      {
+        "opcionId": "cmvvy13mk000qvdmknh4hfzo9",
+        "antes": "La repetición se asocia sistemáticamente con menores logros: quienes repitieron obtienen en promedio 65 puntos menos, incluso controlando por nivel socioeconómico",
+        "despues": "La repetición se asocia con menores logros: quienes repitieron obtienen en promedio 65 puntos menos, incluso controlando por nivel socioeconómico"
+      },
+      {
+        "opcionId": "cmvvy13mk000rvdmkcpab79ta",
+        "antes": "La repetición mejora los logros a mediano plazo",
+        "despues": "La repetición mejora los logros a mediano plazo: quienes repitieron recuperan el rezago y superan el promedio en 6.º grado"
+      },
+      {
+        "opcionId": "cmvvy13mk000svdmkb8fgwhbr",
+        "antes": "La repetición no tiene efecto una vez que se controla el nivel socioeconómico",
+        "despues": "La repetición no tiene efecto sobre los logros una vez que se controla el nivel socioeconómico de los estudiantes"
+      },
+      {
+        "opcionId": "cmvvy13mk000tvdmkmjdyrpoy",
+        "antes": "Solo perjudica en los países con mayor repitencia",
+        "despues": "La repetición solo perjudica los logros en los países con mayor repitencia; en los demás, su efecto no es significativo"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvy13mo000vvdmk0emixpa4",
+    "opciones": [
+      {
+        "opcionId": "cmvvy13mo000wvdmkzzmao9b4",
+        "antes": "Indagar si todos los niños tienen las mismas oportunidades de participar en preescolar y si los programas alcanzan niveles adecuados de calidad",
+        "despues": "Indagar si todos los niños tienen las mismas oportunidades de participar en preescolar y si los programas alcanzan niveles adecuados de calidad"
+      },
+      {
+        "opcionId": "cmvvy13mo000xvdmkcugxggs4",
+        "antes": "Eliminar la educación preescolar por ineficaz",
+        "despues": "Eliminar la educación preescolar por ineficaz y destinar esos recursos a reforzar los primeros grados de la educación primaria"
+      },
+      {
+        "opcionId": "cmvvy13mo000yvdmk68ed1oeb",
+        "antes": "Hacer obligatoria la preescolar solo para las familias de altos ingresos",
+        "despues": "Hacer obligatoria la preescolar solo para las familias de altos ingresos, que son las que obtienen beneficios de ella"
+      },
+      {
+        "opcionId": "cmvvy13mo000zvdmk64uyiwbg",
+        "antes": "Sustituir la preescolar por tareas en el hogar",
+        "despues": "Sustituir la preescolar por tareas en el hogar guiadas por las familias, con materiales enviados por la escuela"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvy13n20017vdmkchf6qt4q",
+    "opciones": [
+      {
+        "opcionId": "cmvvy13n20018vdmkayvb9uin",
+        "antes": "Persisten aun controlando por diferencias socioeconómicas y se deben también a factores de oportunidades de aprendizaje, por lo que pueden reducirse con reformas focalizadas",
+        "despues": "Persisten aun controlando las diferencias socioeconómicas y se deben también a las oportunidades de aprendizaje, por lo que pueden reducirse con reformas focalizadas"
+      },
+      {
+        "opcionId": "cmvvy13n20019vdmkbjt5wpp1",
+        "antes": "Desaparecen al controlar por el nivel socioeconómico",
+        "despues": "Desaparecen al controlar por el nivel socioeconómico, por lo que se explican solo por la pobreza y no por las oportunidades de aprendizaje"
+      },
+      {
+        "opcionId": "cmvvy13n2001avdmkevb3dpa8",
+        "antes": "Se deben únicamente a la pobreza de las familias",
+        "despues": "Se deben únicamente a la pobreza de las familias, por lo que solo pueden reducirse con transferencias económicas y no con reformas escolares"
+      },
+      {
+        "opcionId": "cmvvy13n2001bvdmkn0gqcvoj",
+        "antes": "Son inmodificables por la escuela",
+        "despues": "Son inmodificables por la escuela, porque responden a diferencias lingüísticas y culturales que persisten aun con reformas focalizadas"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvy13nf001jvdmkg2mow4sg",
+    "opciones": [
+      {
+        "opcionId": "cmvvy13nf001kvdmkmpagguzr",
+        "antes": "Aminora o se vuelve no significativa, lo que sugiere que las expectativas docentes están fuertemente marcadas por el nivel socioeconómico de los estudiantes",
+        "despues": "Aminora o se vuelve no significativa, lo que sugiere que las expectativas docentes están fuertemente marcadas por el nivel socioeconómico"
+      },
+      {
+        "opcionId": "cmvvy13nf001lvdmk65ku5lxj",
+        "antes": "Se duplica",
+        "despues": "Se duplica, lo que sugiere que las expectativas docentes influyen en el logro con independencia del nivel socioeconómico"
+      },
+      {
+        "opcionId": "cmvvy13nf001mvdmki03a7uxe",
+        "antes": "Se mantiene igual en todos los países",
+        "despues": "Se mantiene igual en todos los países, lo que indica que las expectativas no dependen del nivel socioeconómico del estudiante"
+      },
+      {
+        "opcionId": "cmvvy13nf001nvdmk97pynaiw",
+        "antes": "Se vuelve negativa",
+        "despues": "Se vuelve negativa, lo que sugiere que las expectativas altas presionan y perjudican a los estudiantes de menor nivel socioeconómico"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvy13nj001pvdmk0jlt36fp",
+    "opciones": [
+      {
+        "opcionId": "cmvvy13nj001qvdmklgbwftaa",
+        "antes": "Efectos generativos; cuando ambas son negativas, los efectos son disruptivos",
+        "despues": "Efectos generativos; cuando ambas son negativas, los efectos son disruptivos"
+      },
+      {
+        "opcionId": "cmvvy13nj001rvdmkuhwylrf3",
+        "antes": "Efectos disruptivos por exceso de presión",
+        "despues": "Efectos disruptivos por exceso de presión sobre el estudiante y su familia"
+      },
+      {
+        "opcionId": "cmvvy13nj001svdmk3a5o4smc",
+        "antes": "Ningún efecto, porque se anulan entre sí",
+        "despues": "Ningún efecto adicional, porque ambas expectativas se anulan entre sí"
+      },
+      {
+        "opcionId": "cmvvy13nj001tvdmkdzrt5ohl",
+        "antes": "Solo efectos en Matemática",
+        "despues": "Efectos generativos, pero solo en Matemática y no en Lectura ni Ciencias"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvy13nm001vvdmk7oxusui3",
+    "opciones": [
+      {
+        "opcionId": "cmvvy13nm001wvdmkhmuqtuw1",
+        "antes": "El interés de los docentes por el bienestar de los estudiantes: estar atentos a sus preocupaciones, gestionar positivamente los errores y animarlos cuando las materias son difíciles",
+        "despues": "El interés de los docentes por el bienestar de los estudiantes: atender sus preocupaciones, gestionar positivamente los errores y animarlos ante materias difíciles"
+      },
+      {
+        "opcionId": "cmvvy13nm001xvdmkbfqexng2",
+        "antes": "Aumentar la repitencia para estudiantes rezagados",
+        "despues": "Aumentar la repitencia de los estudiantes rezagados, para que consoliden los aprendizajes básicos de 3.º grado antes de avanzar al siguiente grado"
+      },
+      {
+        "opcionId": "cmvvy13nm001yvdmkn5fm3snh",
+        "antes": "Bajar las expectativas para no frustrar a los estudiantes",
+        "despues": "Bajar las expectativas y la exigencia para no frustrar a los estudiantes, especialmente cuando las materias les resultan difíciles"
+      },
+      {
+        "opcionId": "cmvvy13nm001zvdmkctv59f6b",
+        "antes": "Más disciplina punitiva frente a los errores",
+        "despues": "Aplicar una disciplina más estricta frente a los errores, corrigiéndolos de inmediato y con consecuencias para que no se repitan"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvzb5z00001vd5gcw0n8ozl",
+    "opciones": [
+      {
+        "opcionId": "cmvvzb5z00002vd5g61rtgunb",
+        "antes": "El LLECE de la OREALC/UNESCO Santiago; mide logros en Matemática, Lenguaje y Ciencias en 3.º y 6.º de primaria",
+        "despues": "El LLECE de la OREALC/UNESCO Santiago; mide logros en Matemática, Lenguaje y Ciencias en 3.º y 6.º de primaria"
+      },
+      {
+        "opcionId": "cmvvzb5z00003vd5g1k0313jw",
+        "antes": "La OCDE; mide competencias de estudiantes de 15 años",
+        "despues": "La OCDE, mediante el programa PISA; mide competencias en lectura, matemáticas y ciencias de estudiantes de 15 años"
+      },
+      {
+        "opcionId": "cmvvzb5z00004vd5ghbn0p2cn",
+        "antes": "La OEI; mide el liderazgo directivo",
+        "despues": "La OEI, mediante su encuesta regional; mide el liderazgo directivo y la gestión escolar en 3.º y 6.º de primaria"
+      },
+      {
+        "opcionId": "cmvvzb5z00005vd5gpvynpky0",
+        "antes": "El LLECE; mide Lenguaje y Matemática en 4.º y 8.º grado",
+        "despues": "El LLECE de la OREALC/UNESCO Santiago; mide logros en Lenguaje y Matemática en 4.º y 8.º grado de primaria"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvzb5zo000pvd5gxeokg1ig",
+    "opciones": [
+      {
+        "opcionId": "cmvvzb5zo000rvd5gdov1ccqh",
+        "antes": "Son sinónimos",
+        "despues": "Son sinónimos: ambas indican que la diferencia es estadísticamente significativa y de magnitud importante"
+      },
+      {
+        "opcionId": "cmvvzb5zo000svd5g1mz26rks",
+        "antes": "«Significativa» es siempre de gran magnitud",
+        "despues": "«Significativa» indica siempre una diferencia de gran magnitud; «sustantiva» indica que es solo estadística"
+      },
+      {
+        "opcionId": "cmvvzb5zo000tvd5gqgumx0s7",
+        "antes": "«Sustantiva» no requiere significancia estadística",
+        "despues": "«Sustantiva» indica una magnitud importante aunque no sea estadísticamente significativa; «significativa», lo contrario"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvzb60a0017vd5gz0fga6by",
+    "opciones": [
+      {
+        "opcionId": "cmvvzb60a0018vd5g9uzmcwon",
+        "antes": "La organización de la enseñanza: tener listos los materiales, exponer los objetivos al inicio y hacer un resumen al final",
+        "despues": "La organización de la enseñanza: tener listos los materiales, exponer los objetivos al inicio y hacer un resumen al final"
+      },
+      {
+        "opcionId": "cmvvzb60a0019vd5gubegj42t",
+        "antes": "Más tareas para la casa",
+        "despues": "La asignación de más tareas para la casa, para que los participantes refuercen lo que no se trabajó en la sesión"
+      },
+      {
+        "opcionId": "cmvvzb60a001avd5geudkpngz",
+        "antes": "Más evaluaciones sumativas",
+        "despues": "La aplicación de más evaluaciones sumativas al final de cada sesión, para verificar si se cumplió el objetivo"
+      },
+      {
+        "opcionId": "cmvvzb60a001bvd5gxz8o5fhm",
+        "antes": "Reducir la duración de las clases",
+        "despues": "La reducción de la duración de las clases, para que los docentes concentren los contenidos en menos tiempo"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvzb60e001dvd5ga2vx90sk",
+    "opciones": [
+      {
+        "opcionId": "cmvvzb60e001evd5gpxi6h4jy",
+        "antes": "Una relación negativa, aun después de considerar las diferencias socioeconómicas",
+        "despues": "Una relación negativa, aun después de considerar las diferencias socioeconómicas"
+      },
+      {
+        "opcionId": "cmvvzb60e001fvd5gkp5ml6ri",
+        "antes": "Una relación positiva, porque estimulan la participación",
+        "despues": "Una relación positiva, porque estimulan la participación activa de los estudiantes"
+      },
+      {
+        "opcionId": "cmvvzb60e001gvd5g2q9ifzrx",
+        "antes": "Ninguna relación",
+        "despues": "Ninguna relación, una vez que se consideran las diferencias socioeconómicas"
+      },
+      {
+        "opcionId": "cmvvzb60e001hvd5g5r5jrfa5",
+        "antes": "Solo una relación negativa en escuelas privadas",
+        "despues": "Una relación negativa solo en las escuelas privadas, no en las públicas"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvzb60n001jvd5ggi9cectt",
+    "opciones": [
+      {
+        "opcionId": "cmvvzb60n001kvd5gw5wbq7kk",
+        "antes": "El nivel socioeconómico promedio de la escuela, más importante incluso que el nivel socioeconómico individual del estudiante",
+        "despues": "El nivel socioeconómico promedio de la escuela, más importante incluso que el nivel socioeconómico individual del estudiante"
+      },
+      {
+        "opcionId": "cmvvzb60n001lvd5gw8irx6xo",
+        "antes": "La asistencia a preescolar",
+        "despues": "La asistencia a la educación preescolar, cuyo efecto supera al del nivel socioeconómico individual y al de la escuela"
+      },
+      {
+        "opcionId": "cmvvzb60n001mvd5giws9dnur",
+        "antes": "La ubicación urbana de la escuela",
+        "despues": "La ubicación urbana de la escuela, más importante incluso que el nivel socioeconómico promedio de sus estudiantes"
+      },
+      {
+        "opcionId": "cmvvzb60n001nvd5g0tkb2a28",
+        "antes": "La administración privada",
+        "despues": "La administración privada de la escuela, cuyo efecto se mantiene aun después de controlar el nivel socioeconómico"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvzb60r001pvd5gqqxj2jhr",
+    "opciones": [
+      {
+        "opcionId": "cmvvzb60r001rvd5gw3nd2gys",
+        "antes": "Las privadas superan a las públicas en todos los países, aun controlando el nivel socioeconómico",
+        "despues": "Las privadas superan a las públicas en todos los países, aun controlando el nivel socioeconómico, por la calidad de su gestión"
+      },
+      {
+        "opcionId": "cmvvzb60r001svd5gu46xa409",
+        "antes": "Las públicas superan siempre a las privadas",
+        "despues": "Las públicas superan siempre a las privadas una vez que se controla el nivel socioeconómico del estudiantado que reciben"
+      },
+      {
+        "opcionId": "cmvvzb60r001tvd5gtr8782cm",
+        "antes": "No hay ninguna diferencia, ni siquiera sin controlar",
+        "despues": "No hay ninguna diferencia entre privadas y públicas, ni siquiera antes de controlar el nivel socioeconómico del estudiantado"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvzc4tk0007vdk4n0s12ncy",
+    "opciones": [
+      {
+        "opcionId": "cmvvzc4tk0008vdk4yexy6nzk",
+        "antes": "La mayoría de los países no presenta diferencias; cuando las hay favorecen a los niños, salvo en República Dominicana, donde las niñas aventajan",
+        "despues": "La mayoría de los países no presenta diferencias; cuando las hay favorecen a los niños, salvo en República Dominicana, donde aventajan las niñas"
+      },
+      {
+        "opcionId": "cmvvzc4tk0009vdk4890au1dl",
+        "antes": "Las niñas superan a los niños en todos los países",
+        "despues": "Las niñas superan a los niños en todos los países, con excepción de República Dominicana, donde los niños obtienen mejores resultados"
+      },
+      {
+        "opcionId": "cmvvzc4tk000avdk45m1rfie1",
+        "antes": "Los niños superan a las niñas en todos los países, con gran magnitud",
+        "despues": "Los niños superan a las niñas en todos los países y con gran magnitud, por lo que la brecha es una prioridad regional en Matemática"
+      },
+      {
+        "opcionId": "cmvvzc4tk000bvdk4phwwbcas",
+        "antes": "No hay diferencias en ningún país",
+        "despues": "No hay diferencias por sexo en ningún país en Matemática; las diferencias aparecen solo en Lectura, a favor de las niñas"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvzc4to000dvdk455whp93d",
+    "opciones": [
+      {
+        "opcionId": "cmvvzc4tp000evdk4kxd9odf1",
+        "antes": "Mejorar las oportunidades de aprendizaje en Lectura que se ofrecen a los niños (varones), ya que las niñas obtienen mejores resultados en la mayoría de los países",
+        "despues": "Mejorar las oportunidades de aprendizaje en Lectura que se ofrecen a los niños (varones), ya que las niñas obtienen mejores resultados en la mayoría de los países"
+      },
+      {
+        "opcionId": "cmvvzc4tp000fvdk49dnhmvaa",
+        "antes": "Reducir el tiempo de Lectura para las niñas",
+        "despues": "Reducir el tiempo dedicado a Lectura para las niñas, ya que obtienen mejores resultados, y destinarlo a reforzar sus aprendizajes en Matemática y Ciencias"
+      },
+      {
+        "opcionId": "cmvvzc4tp000gvdk45xac5am0",
+        "antes": "Separar a niños y niñas en Lectura",
+        "despues": "Separar a niños y niñas en las clases de Lectura, para que cada grupo reciba una enseñanza adaptada a su ritmo y a sus intereses"
+      },
+      {
+        "opcionId": "cmvvzc4tp000hvdk4gnnd5a6d",
+        "antes": "Priorizar Matemática para las niñas",
+        "despues": "Priorizar Matemática para las niñas, ya que en Lectura superan a los niños en la mayoría de los países y en Matemática siempre están por debajo"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvzc4ud000pvdk4ubvpu7zf",
+    "opciones": [
+      {
+        "opcionId": "cmvvzc4ud000qvdk43yx7ke38",
+        "antes": "Más del 40% en 3.º grado (Lectura y Matemática) y más del 60% en 6.º grado",
+        "despues": "Más del 40% en 3.º grado (Lectura y Matemática) y más del 60% en 6.º grado"
+      },
+      {
+        "opcionId": "cmvvzc4ud000rvdk4cs6ixxff",
+        "antes": "Menos del 10% en ambos grados",
+        "despues": "Menos del 10% en 3.º grado y menos del 20% en 6.º grado, en ambas áreas"
+      },
+      {
+        "opcionId": "cmvvzc4ud000svdk4ynyhljqn",
+        "antes": "Más del 60% en 3.º y más del 40% en 6.º",
+        "despues": "Más del 60% en 3.º grado y más del 40% en 6.º grado, en Lectura y Matemática"
+      },
+      {
+        "opcionId": "cmvvzc4ud000tvdk4eaafj8b4",
+        "antes": "Exactamente la mitad en ambos grados",
+        "despues": "Exactamente la mitad de los estudiantes, tanto en 3.º como en 6.º grado"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvzc4uh000vvdk43sqxvje7",
+    "opciones": [
+      {
+        "opcionId": "cmvvzc4uh000wvdk4jbecmqhk",
+        "antes": "La región no evidenció un avance significativo en ninguna de las áreas o grados evaluados",
+        "despues": "La región no evidenció un avance significativo en ninguna de las áreas o grados evaluados"
+      },
+      {
+        "opcionId": "cmvvzc4uh000xvdk4thokchim",
+        "antes": "Mejoraron significativamente en todas las áreas",
+        "despues": "Mejoraron significativamente en todas las áreas y en ambos grados evaluados"
+      },
+      {
+        "opcionId": "cmvvzc4uh000yvdk4ch26usap",
+        "antes": "Mejoraron solo en Ciencias",
+        "despues": "Mejoraron significativamente solo en Ciencias de 6.º grado, no en Lectura ni Matemática"
+      },
+      {
+        "opcionId": "cmvvzc4uh000zvdk4ca9zmwbd",
+        "antes": "Empeoraron por la pandemia",
+        "despues": "Empeoraron significativamente en todas las áreas por el cierre de escuelas en la pandemia"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvzc4ul0011vdk4agkj1lz0",
+    "opciones": [
+      {
+        "opcionId": "cmvvzc4ul0012vdk48typoiug",
+        "antes": "Fortalecer las políticas docentes, porque el interés por el bienestar, la organización de la enseñanza y el apoyo al aprendizaje se asocian consistentemente con mayores logros",
+        "despues": "Fortalecer las políticas docentes: el interés por el bienestar, la organización de la enseñanza y el apoyo al aprendizaje se asocian con mayores logros"
+      },
+      {
+        "opcionId": "cmvvzc4ul0013vdk4golshttm",
+        "antes": "Aumentar la repitencia para elevar la exigencia",
+        "despues": "Aumentar la repitencia para elevar la exigencia, porque repetir de grado se asocia con mejores logros una vez controlado el nivel socioeconómico"
+      },
+      {
+        "opcionId": "cmvvzc4ul0014vdk4m6vgoj2q",
+        "antes": "Invertir solo en infraestructura",
+        "despues": "Invertir solo en infraestructura y equipamiento, porque las condiciones físicas de la escuela son el factor de mayor peso en los aprendizajes"
+      },
+      {
+        "opcionId": "cmvvzc4ul0015vdk4lfhb5ojk",
+        "antes": "Privatizar la gestión del centro",
+        "despues": "Privatizar la gestión del centro, porque la administración privada mantiene su ventaja en los logros aun controlando el nivel socioeconómico"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvzc4uo0017vdk4z07e4387",
+    "opciones": [
+      {
+        "opcionId": "cmvvzc4uo0018vdk4jweblzuo",
+        "antes": "Puntajes sistemáticamente más bajos que sus pares no indígenas, incluso al comparar estudiantes de igual nivel socioeconómico",
+        "despues": "Puntajes sistemáticamente más bajos que sus pares no indígenas, incluso al comparar estudiantes de igual nivel socioeconómico"
+      },
+      {
+        "opcionId": "cmvvzc4uo0019vdk4wne00oaa",
+        "antes": "Puntajes más bajos que desaparecen al controlar el nivel socioeconómico",
+        "despues": "Puntajes más bajos que sus pares no indígenas, pero la diferencia desaparece al comparar estudiantes de igual nivel socioeconómico"
+      },
+      {
+        "opcionId": "cmvvzc4uo001avdk4qh4wemqy",
+        "antes": "Puntajes superiores en Lectura",
+        "despues": "Puntajes superiores a los de sus pares no indígenas en Lectura, y más bajos solo en Matemática y Ciencias de 6.º grado"
+      },
+      {
+        "opcionId": "cmvvzc4uo001bvdk42xv4xef2",
+        "antes": "Ninguna diferencia significativa",
+        "despues": "Ninguna diferencia significativa con sus pares no indígenas, una vez considerado el nivel socioeconómico de las familias"
+      }
+    ]
+  }
+]

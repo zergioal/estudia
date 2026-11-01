@@ -1,0 +1,1167 @@
+[
+  {
+    "preguntaId": "cmvvw1evl000dvd44okp77bo4",
+    "opciones": [
+      {
+        "opcionId": "cmvvw1evl000evd44q1oh51cl",
+        "antes": "Con fines de servicio social, acceso libre y sin fines de lucro, bajo la tuición de las autoridades públicas y regidas por las mismas normas, políticas, planes y programas del sistema educativo",
+        "despues": "Con fines de servicio social, acceso libre y sin fines de lucro, bajo la tuición de las autoridades públicas y con las mismas normas, políticas, planes y programas del sistema educativo"
+      },
+      {
+        "opcionId": "cmvvw1evl000fvd44b4qzs869",
+        "antes": "Con fines de servicio social, bajo la tuición exclusiva de la entidad religiosa que las administra",
+        "despues": "Con fines de servicio social y acceso libre, bajo la tuición exclusiva de la entidad religiosa o institución que las administra, con sus propias normas internas"
+      },
+      {
+        "opcionId": "cmvvw1evl000gvd442lk7x2t4",
+        "antes": "Sin fines de lucro, pero con planes y programas propios distintos de los del sistema educativo",
+        "despues": "Sin fines de lucro y bajo la tuición de las autoridades públicas, pero con planes y programas propios distintos de los del sistema educativo plurinacional"
+      },
+      {
+        "opcionId": "cmvvw1evl000hvd4466s2nyye",
+        "antes": "Con acceso condicionado a la capacidad económica de las familias, para su autosostenimiento",
+        "despues": "Con acceso condicionado a la capacidad económica de las familias, para su autosostenimiento, bajo las mismas normas y programas del sistema educativo"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvw1ewm0011vd44t6owl83t",
+    "opciones": [
+      {
+        "opcionId": "cmvvw1ewm0013vd44g34qe4my",
+        "antes": "En un sistema paralelo, con estructura y principios propios",
+        "despues": "En un sistema educativo paralelo, con estructura, principios y valores propios distintos del sistema regular"
+      },
+      {
+        "opcionId": "cmvvw1ewm0014vd44qggvxq9a",
+        "antes": "Con el mismo currículo que el resto, sin adaptaciones",
+        "despues": "Con la misma estructura y el mismo currículo que el resto de los estudiantes, sin adaptaciones curriculares"
+      },
+      {
+        "opcionId": "cmvvw1ewm0015vd44eymuc7uk",
+        "antes": "Exclusivamente en centros privados especializados, con subvención estatal",
+        "despues": "Exclusivamente en centros privados especializados, con subvención estatal y organización curricular especial"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvxsq6y0001vdrw3nmvjooc",
+    "opciones": [
+      {
+        "opcionId": "cmvvxsq6y0002vdrwws3zgw9u",
+        "antes": "Está prohibido: no se puede nombrar en la función pública a parientes hasta el cuarto grado de consanguinidad y segundo de afinidad",
+        "despues": "Está prohibido: no se puede nombrar en la función pública a parientes hasta el cuarto grado de consanguinidad y segundo de afinidad"
+      },
+      {
+        "opcionId": "cmvvxsq6y0003vdrwx04dn9kk",
+        "antes": "Está permitido, porque la prohibición llega solo hasta el tercer grado",
+        "despues": "Está permitido, porque la prohibición de nombrar parientes alcanza solo hasta el tercer grado de consanguinidad"
+      },
+      {
+        "opcionId": "cmvvxsq6y0004vdrw53eh63h2",
+        "antes": "Está permitido si ella aprueba un examen",
+        "despues": "Está permitido si ella aprueba un examen de competencia y no existe otro postulante con mejor puntaje"
+      },
+      {
+        "opcionId": "cmvvxsq6y0005vdrwaqkjj7cn",
+        "antes": "Está prohibido solo si es pariente por afinidad",
+        "despues": "Está prohibido solo si es pariente por afinidad; el parentesco por consanguinidad no está restringido"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvxsq7j000jvdrw3n0wplfw",
+    "opciones": [
+      {
+        "opcionId": "cmvvxsq7j000kvdrwij845bas",
+        "antes": "Respetar y proteger los bienes del Estado, y abstenerse de utilizarlos para fines electorales u otros ajenos a la función pública",
+        "despues": "Respetar y proteger los bienes del Estado, y abstenerse de utilizarlos para fines electorales u otros ajenos a la función pública"
+      },
+      {
+        "opcionId": "cmvvxsq7j000lvdrwe9929ny6",
+        "antes": "Prestar declaración jurada de bienes",
+        "despues": "Prestar declaración jurada de bienes y rentas antes, durante y después del ejercicio del cargo"
+      },
+      {
+        "opcionId": "cmvvxsq7j000mvdrwxji4h0bi",
+        "antes": "Rendir cuentas sobre las responsabilidades técnicas",
+        "despues": "Rendir cuentas sobre las responsabilidades económicas, políticas, técnicas y administrativas de la función"
+      },
+      {
+        "opcionId": "cmvvxsq7j000nvdrw4m0w0f53",
+        "antes": "Ninguna, si la camioneta vuelve en buen estado",
+        "despues": "Ninguna, siempre que la camioneta vuelva en buen estado y el préstamo se registre en el libro de bienes"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvxsq83000vvdrwb144ompy",
+    "opciones": [
+      {
+        "opcionId": "cmvvxsq83000wvdrw0dxv95c6",
+        "antes": "La preeminencia de sus derechos, la primacía en recibir protección y socorro, la prioridad en la atención de los servicios y el acceso a una justicia pronta con personal especializado",
+        "despues": "La preeminencia de sus derechos, la primacía en recibir protección y socorro, la prioridad en la atención de los servicios y el acceso a una justicia pronta con personal especializado"
+      },
+      {
+        "opcionId": "cmvvxsq83000xvdrwv86u02q4",
+        "antes": "Solo el derecho a una familia sustituta",
+        "despues": "El derecho a crecer en el seno de su familia de origen o adoptiva y, solo cuando ello no sea posible, a una familia sustituta"
+      },
+      {
+        "opcionId": "cmvvxsq83000yvdrwn39x7lmb",
+        "antes": "La prohibición del trabajo infantil",
+        "despues": "La prohibición de toda forma de trabajo infantil y de violencia contra niñas, niños y adolescentes, en la familia y en la sociedad"
+      },
+      {
+        "opcionId": "cmvvxsq83000zvdrwmptk6ql8",
+        "antes": "La gratuidad de la educación",
+        "despues": "La gratuidad de la educación y de la salud pública en todos los niveles, con prioridad en la asignación de recursos del Estado"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvxsq8c0011vdrw9ugyeqfq",
+    "opciones": [
+      {
+        "opcionId": "cmvvxsq8d0012vdrw28115v4v",
+        "antes": "Estarán orientadas a su formación integral como ciudadanos y tendrán una función formativa",
+        "despues": "Estarán orientadas a su formación integral como ciudadanos y tendrán una función formativa"
+      },
+      {
+        "opcionId": "cmvvxsq8d0013vdrwm39k9hom",
+        "antes": "Están prohibidas en todos los casos",
+        "despues": "Están prohibidas en todos los casos, incluidas las que se realizan en el marco familiar y comunitario"
+      },
+      {
+        "opcionId": "cmvvxsq8d0014vdrwb8cx2sxy",
+        "antes": "Se rigen por la Ley General del Trabajo como empleo formal",
+        "despues": "Se rigen por la Ley General del Trabajo como empleo formal, con contrato y seguridad social"
+      },
+      {
+        "opcionId": "cmvvxsq8d0015vdrwi6z6cbki",
+        "antes": "Deben ser remuneradas con el salario mínimo",
+        "despues": "Deben ser remuneradas con el salario mínimo y contar con autorización de la Defensoría"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvxsq8u001dvdrwron3mlpk",
+    "opciones": [
+      {
+        "opcionId": "cmvvxsq8u001evdrw8d80nc0m",
+        "antes": "Interponer la acción de repetición contra la autoridad o servidor público responsable",
+        "despues": "Interponer la acción de repetición contra la autoridad o servidor público responsable"
+      },
+      {
+        "opcionId": "cmvvxsq8u001fvdrwhp3v9az2",
+        "antes": "Asumir el pago sin acción posterior",
+        "despues": "Asumir el pago de la reparación con recursos del Tesoro, sin ninguna acción posterior contra el servidor"
+      },
+      {
+        "opcionId": "cmvvxsq8u001gvdrwig9vgevo",
+        "antes": "Solicitar la condonación a la víctima",
+        "despues": "Solicitar a la víctima la condonación de la reparación por tratarse de un acto de autoridad"
+      },
+      {
+        "opcionId": "cmvvxsq8u001hvdrwzslwx8d5",
+        "antes": "Trasladar el pago al Gobierno Municipal",
+        "despues": "Trasladar el pago al Gobierno Autónomo Municipal donde funciona la unidad o el centro afectado"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvxsq92001jvdrw12xo6r54",
+    "opciones": [
+      {
+        "opcionId": "cmvvxsq92001kvdrweo6h3en8",
+        "antes": "La violencia de género y generacional, y toda acción u omisión que degrade la condición humana o cause muerte, dolor o sufrimiento",
+        "despues": "La violencia de género y generacional, y toda acción u omisión que degrade la condición humana o cause muerte, dolor o sufrimiento"
+      },
+      {
+        "opcionId": "cmvvxsq92001lvdrwp4pv63c1",
+        "antes": "Solo la violencia física en el ámbito familiar",
+        "despues": "Solo la violencia física y psicológica que ocurre en el ámbito familiar, entre cónyuges o convivientes"
+      },
+      {
+        "opcionId": "cmvvxsq92001mvdrweqj4dzj9",
+        "antes": "Solo la violencia cometida por servidores públicos",
+        "despues": "Solo la violencia cometida por servidores públicos en el ejercicio de sus funciones, en el ámbito público"
+      },
+      {
+        "opcionId": "cmvvxsq92001nvdrwsqo6dux2",
+        "antes": "Solo la tortura en contextos de detención",
+        "despues": "Solo la tortura y los tratos crueles, inhumanos o degradantes en contextos de detención o privación de libertad"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvxsq9a001pvdrwm0z030dy",
+    "opciones": [
+      {
+        "opcionId": "cmvvxsq9a001qvdrwx8nh4o7x",
+        "antes": "Ser una colectividad humana que comparte identidad cultural, idioma, tradición histórica, instituciones, territorialidad y cosmovisión, cuya existencia es anterior a la invasión colonial española",
+        "despues": "Ser una colectividad humana que comparte identidad cultural, idioma, tradición histórica, instituciones, territorialidad y cosmovisión, anterior a la invasión colonial española"
+      },
+      {
+        "opcionId": "cmvvxsq9b001rvdrw0jspcuny",
+        "antes": "Habitar en el área rural y dedicarse a la agricultura",
+        "despues": "Habitar en el área rural, dedicarse a la agricultura o la ganadería y organizarse en sindicatos agrarios o comunidades campesinas"
+      },
+      {
+        "opcionId": "cmvvxsq9b001svdrwron0zds6",
+        "antes": "Estar inscrita en un registro estatal de comunidades",
+        "despues": "Estar inscrita en un registro estatal de comunidades, contar con personería jurídica y tener un territorio titulado colectivamente"
+      },
+      {
+        "opcionId": "cmvvxsq9b001tvdrwnox65rqa",
+        "antes": "Hablar exclusivamente una lengua originaria",
+        "despues": "Hablar exclusivamente una lengua originaria y conservar formas propias de vestimenta, música y festividades tradicionales"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvz0x070001vdfoluid7wf8",
+    "opciones": [
+      {
+        "opcionId": "cmvvz0x070003vdfomqinm54y",
+        "antes": "Federal Social de Derecho Plurinacional, libre, independiente, soberano y democrático",
+        "despues": "Federal Social de Derecho Plurinacional Comunitario, libre, independiente, soberano, democrático, intercultural y con autonomías"
+      },
+      {
+        "opcionId": "cmvvz0x070004vdfo87iom758",
+        "antes": "Unitario Social de Derecho Plurinacional Comunitario, laico, centralizado y con autonomías",
+        "despues": "Unitario Social de Derecho Plurinacional Comunitario, libre, independiente, soberano, laico, centralizado y con autonomías"
+      },
+      {
+        "opcionId": "cmvvz0x070005vdfoz0656xrc",
+        "antes": "Unitario de Derecho Republicano, democrático y representativo",
+        "despues": "Unitario de Derecho Republicano, libre, independiente, soberano, democrático, representativo y descentralizado"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvz0x0j0007vdfoi316tviy",
+    "opciones": [
+      {
+        "opcionId": "cmvvz0x0k0008vdfo5023kvhd",
+        "antes": "En el marco de la unidad del Estado, y consiste en su derecho a la autonomía, al autogobierno, a su cultura, al reconocimiento de sus instituciones y a la consolidación de sus entidades territoriales",
+        "despues": "En el marco de la unidad del Estado, y consiste en su derecho a la autonomía, al autogobierno, a su cultura, al reconocimiento de sus instituciones y a consolidar sus entidades territoriales"
+      },
+      {
+        "opcionId": "cmvvz0x0k0009vdfos06sqdf6",
+        "antes": "Como derecho a la secesión y a constituir Estados independientes",
+        "despues": "Como derecho a la secesión y a constituir Estados independientes, con sus propias instituciones, cultura y entidades territoriales"
+      },
+      {
+        "opcionId": "cmvvz0x0k000avdfou12qy6o5",
+        "antes": "Solo en materia lingüística",
+        "despues": "Solo en materia lingüística y cultural, mediante el uso oficial de su idioma en la educación y en la administración local"
+      },
+      {
+        "opcionId": "cmvvz0x0k000bvdfoyj4hu1y0",
+        "antes": "Siempre que no contradiga los estatutos departamentales",
+        "despues": "Siempre que no contradiga los estatutos departamentales, y consiste en el reconocimiento de sus autoridades ante la Gobernación"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvz0x15000jvdfokw1yat1m",
+    "opciones": [
+      {
+        "opcionId": "cmvvz0x15000kvdfov0qhcyw9",
+        "antes": "No cumple un requisito para acceder a funciones públicas: hablar al menos dos idiomas oficiales del país",
+        "despues": "No cumple un requisito para acceder a funciones públicas: hablar al menos dos idiomas oficiales del país"
+      },
+      {
+        "opcionId": "cmvvz0x16000lvdfo01ovk20f",
+        "antes": "Cumple, porque el castellano es suficiente para la función pública",
+        "despues": "Cumple, porque el castellano es idioma oficial y basta para el desempeño de la función pública"
+      },
+      {
+        "opcionId": "cmvvz0x16000mvdfoil506v3e",
+        "antes": "Cumple si se compromete a aprender un idioma originario en cinco años",
+        "despues": "Cumple si se compromete por escrito a aprender un idioma originario en un plazo de cinco años"
+      },
+      {
+        "opcionId": "cmvvz0x16000nvdfobg53o00o",
+        "antes": "Solo se exige el segundo idioma para cargos electivos",
+        "despues": "Cumple, porque el segundo idioma oficial se exige solo para cargos electivos y no para designados"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvz0x1i000vvdfoboa6n902",
+    "opciones": [
+      {
+        "opcionId": "cmvvz0x1i000xvdfokb9rmghv",
+        "antes": "Todos los servidores públicos del sector educación",
+        "despues": "Todos los servidores públicos del sector educación, porque se rigen por el escalafón docente"
+      },
+      {
+        "opcionId": "cmvvz0x1i000yvdfofw2t6uzz",
+        "antes": "Solo los servidores con menos de dos años de antigüedad",
+        "despues": "Solo los servidores con menos de dos años de antigüedad, mientras dure su período de prueba"
+      },
+      {
+        "opcionId": "cmvvz0x1i000zvdfoppbdsqv0",
+        "antes": "Los servidores públicos institucionalizados por concurso",
+        "despues": "Los servidores públicos institucionalizados por concurso de méritos y examen de competencia"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvz0x1z0017vdfo2zmqzdw8",
+    "opciones": [
+      {
+        "opcionId": "cmvvz0x1z0018vdfo6spqwno4",
+        "antes": "Prevalece la ley nacional, porque las leyes se ubican por encima de los decretos, reglamentos y demás resoluciones",
+        "despues": "Prevalece la ley nacional, porque las leyes se ubican por encima de los decretos, reglamentos y demás resoluciones"
+      },
+      {
+        "opcionId": "cmvvz0x1z0019vdfoee5de9ye",
+        "antes": "Prevalece la RM por ser más específica",
+        "despues": "Prevalece la RM, porque es la norma más específica sobre la materia educativa que regula"
+      },
+      {
+        "opcionId": "cmvvz0x1z001avdfo8406jbuo",
+        "antes": "Prevalece la RM por ser posterior",
+        "despues": "Prevalece la RM, porque es posterior a la ley y la norma posterior deroga a la anterior"
+      },
+      {
+        "opcionId": "cmvvz0x1z001bvdfog1hvakq2",
+        "antes": "Ambas tienen el mismo rango",
+        "despues": "Ambas tienen el mismo rango, y la contradicción la resuelve el Ministerio que emitió la RM"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvz0x22001dvdfo24yhlnps",
+    "opciones": [
+      {
+        "opcionId": "cmvvz0x22001evdfosntwjhkj",
+        "antes": "Los Tratados y Convenios internacionales en materia de Derechos Humanos y las normas de Derecho Comunitario, ratificados por el país",
+        "despues": "Los Tratados y Convenios internacionales en materia de Derechos Humanos y las normas de Derecho Comunitario, ratificados por el país"
+      },
+      {
+        "opcionId": "cmvvz0x22001fvdfob77syj2i",
+        "antes": "Las leyes orgánicas y los decretos supremos",
+        "despues": "Las leyes orgánicas, los decretos supremos y los tratados internacionales en materia económica ratificados por el país"
+      },
+      {
+        "opcionId": "cmvvz0x22001gvdfojxbrk2ha",
+        "antes": "Los estatutos autonómicos",
+        "despues": "Los estatutos autonómicos, las cartas orgánicas municipales y las leyes de desarrollo de las competencias autonómicas"
+      },
+      {
+        "opcionId": "cmvvz0x22001hvdfommeaotax",
+        "antes": "Todos los tratados internacionales, en cualquier materia",
+        "despues": "Todos los tratados internacionales, en cualquier materia, aunque no hayan sido ratificados por la Asamblea Legislativa"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvz0x380021vdfo1wub06rq",
+    "opciones": [
+      {
+        "opcionId": "cmvvz0x380022vdfo16nt99dk",
+        "antes": "Es indebido: para ejercer el derecho de petición no se exige más requisito que la identificación del peticionario",
+        "despues": "Es indebido: para ejercer el derecho de petición no se exige más requisito que la identificación del peticionario"
+      },
+      {
+        "opcionId": "cmvvz0x380023vdfog5m7odjy",
+        "antes": "Es correcto, para garantizar la seriedad del pedido",
+        "despues": "Es correcto, porque la carta notariada y el visto bueno garantizan la seriedad y autenticidad del pedido"
+      },
+      {
+        "opcionId": "cmvvz0x380024vdfosbfsbk34",
+        "antes": "Es correcto solo si el pedido es colectivo",
+        "despues": "Es correcto solo si el pedido es colectivo; los pedidos individuales no exigen requisito adicional"
+      },
+      {
+        "opcionId": "cmvvz0x380025vdfoj80421bf",
+        "antes": "Solo debe responder si el pedido es oral",
+        "despues": "Es indebido solo si el pedido es oral; para los pedidos escritos puede exigirse la carta notariada"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvz0x3m0027vdfoec27i8zn",
+    "opciones": [
+      {
+        "opcionId": "cmvvz0x3m0028vdfozttpvwk6",
+        "antes": "Nulo: los derechos y beneficios laborales no pueden renunciarse, y son nulas las convenciones contrarias",
+        "despues": "Nulo: los derechos y beneficios laborales no pueden renunciarse, y son nulas las convenciones contrarias"
+      },
+      {
+        "opcionId": "cmvvz0x3m0029vdfo9kovai5p",
+        "antes": "Válido, porque fue firmado libremente",
+        "despues": "Válido, porque fue firmado libremente por el trabajador y en pleno uso de sus facultades"
+      },
+      {
+        "opcionId": "cmvvz0x3m002avdfops693lif",
+        "antes": "Válido si lo homologa la Dirección Distrital",
+        "despues": "Válido siempre que lo homologue la Dirección Distrital de Educación dentro de los treinta días"
+      },
+      {
+        "opcionId": "cmvvz0x3m002bvdfovlkiokaj",
+        "antes": "Anulable solo por la vía penal",
+        "despues": "Anulable solo por la vía penal, demostrando que hubo coacción o engaño al momento de firmar"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvz0x3r002dvdfotxck2k1t",
+    "opciones": [
+      {
+        "opcionId": "cmvvz0x3r002evdfoezmo5lo5",
+        "antes": "Tienen privilegio y preferencia sobre cualquier otra acreencia, y son inembargables e imprescriptibles",
+        "despues": "Tienen privilegio y preferencia sobre cualquier otra acreencia, y son inembargables e imprescriptibles"
+      },
+      {
+        "opcionId": "cmvvz0x3r002fvdfo11cadxxb",
+        "antes": "Prescriben en dos años",
+        "despues": "Prescriben en dos años desde que fueron exigibles, salvo que el trabajador los haya reclamado antes"
+      },
+      {
+        "opcionId": "cmvvz0x3r002gvdfo4cn3g0eh",
+        "antes": "Son embargables por deudas tributarias",
+        "despues": "Son embargables por deudas tributarias del empleador, pero tienen preferencia sobre deudas privadas"
+      },
+      {
+        "opcionId": "cmvvz0x3r002hvdfon9yk490o",
+        "antes": "Se pagan después de las demás acreencias",
+        "despues": "Se pagan después de las acreencias del Estado y de los bancos, pero son imprescriptibles"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvz0x4p002pvdfoyi0srjo5",
+    "opciones": [
+      {
+        "opcionId": "cmvvz0x4p002rvdfoqpoce6gt",
+        "antes": "La disciplina, la obediencia y el patriotismo",
+        "despues": "La disciplina, la obediencia, el patriotismo y el respeto a los símbolos y autoridades del Estado"
+      },
+      {
+        "opcionId": "cmvvz0x4p002svdfo70hnfp3p",
+        "antes": "La competitividad y la meritocracia",
+        "despues": "La competitividad, la meritocracia, el emprendimiento y la excelencia académica individual"
+      },
+      {
+        "opcionId": "cmvvz0x4p002tvdfoadrs2tgh",
+        "antes": "La unidad, la igualdad y la libertad, únicamente",
+        "despues": "La unidad, la igualdad y la libertad, únicamente, como valores ético-morales de la sociedad"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvz0x54002vvdfo10fcfd4a",
+    "opciones": [
+      {
+        "opcionId": "cmvvz0x54002xvdfo4kc87rt6",
+        "antes": "La preparación para el mercado laboral exclusivamente",
+        "despues": "La preparación de las personas exclusivamente para el mercado laboral y el empleo productivo"
+      },
+      {
+        "opcionId": "cmvvz0x54002yvdfo3rrg242f",
+        "antes": "La formación de mano de obra calificada para la industria",
+        "despues": "La formación de mano de obra calificada para la industria y el fortalecimiento de la economía"
+      },
+      {
+        "opcionId": "cmvvz0x55002zvdforyk373v9",
+        "antes": "La transmisión de contenidos científicos universales",
+        "despues": "La transmisión de contenidos científicos universales y el desarrollo de la conciencia individual"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvz0x5g0031vdfogiobhyl1",
+    "opciones": [
+      {
+        "opcionId": "cmvvz0x5g0032vdfoa6hvph1a",
+        "antes": "Mediante organismos representativos en todos los niveles del Estado y en las naciones y pueblos IOC, con composición y atribuciones establecidas en la ley",
+        "despues": "Mediante organismos representativos en todos los niveles del Estado y en las naciones y pueblos IOC, con composición y atribuciones fijadas por ley"
+      },
+      {
+        "opcionId": "cmvvz0x5g0033vdfozvkry30d",
+        "antes": "Solo mediante juntas escolares a nivel de unidad educativa",
+        "despues": "Solo mediante juntas escolares a nivel de unidad educativa, sin representación en los niveles distrital, departamental o nacional"
+      },
+      {
+        "opcionId": "cmvvz0x5g0034vdfojt82qqec",
+        "antes": "Mediante la elección directa de los directores por los padres",
+        "despues": "Mediante la elección directa de los directores y docentes por los padres de familia y las organizaciones de la comunidad"
+      },
+      {
+        "opcionId": "cmvvz0x5g0035vdfog5zqldll",
+        "antes": "Mediante consulta voluntaria del Ministerio",
+        "despues": "Mediante consultas voluntarias que el Ministerio de Educación convoca cuando lo considera necesario, sin organismos permanentes"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvz0x5o0037vdfoomvoe5in",
+    "opciones": [
+      {
+        "opcionId": "cmvvz0x5o0038vdfokn7t3ch4",
+        "antes": "Acordes con la realidad cultural y lingüística de la población, como deber del Estado y de la sociedad",
+        "despues": "Acordes con la realidad cultural y lingüística de la población, como deber del Estado y de la sociedad"
+      },
+      {
+        "opcionId": "cmvvz0x5o0039vdfo3bxvct88",
+        "antes": "Uniformes en castellano para todo el país",
+        "despues": "Uniformes y en castellano para todo el país, para garantizar la igualdad de resultados"
+      },
+      {
+        "opcionId": "cmvvz0x5o003avdfo35y00rsu",
+        "antes": "Exclusivamente estatales, sin participación social",
+        "despues": "Exclusivamente estatales, sin participación de la sociedad ni de las organizaciones sociales"
+      },
+      {
+        "opcionId": "cmvvz0x5o003bvdfo4oqerasr",
+        "antes": "Dirigidos solo a menores de 15 años",
+        "despues": "Dirigidos solo a menores de 15 años, acordes con la realidad cultural de cada región"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvz0x5w003dvdfosicb7tb1",
+    "opciones": [
+      {
+        "opcionId": "cmvvz0x5w003evdfo559xjulq",
+        "antes": "Se rigen por las políticas, planes, programas y autoridades del sistema educativo, y el Estado garantiza su funcionamiento previa verificación de requisitos",
+        "despues": "Se rigen por las políticas, planes, programas y autoridades del sistema educativo, y el Estado garantiza su funcionamiento previa verificación de requisitos"
+      },
+      {
+        "opcionId": "cmvvz0x5w003fvdfokcqsnzmg",
+        "antes": "Se rigen por su propio currículo, al margen del sistema educativo",
+        "despues": "Se rigen por su propio currículo y reglamento interno, al margen del sistema educativo, y el Estado solo registra su funcionamiento"
+      },
+      {
+        "opcionId": "cmvvz0x5w003gvdfoa6lfhbh3",
+        "antes": "Solo pueden funcionar en el nivel superior",
+        "despues": "Solo pueden funcionar en el nivel superior, previa verificación de requisitos y bajo la tuición del Ministerio de Educación"
+      },
+      {
+        "opcionId": "cmvvz0x5w003hvdfozskr3jrl",
+        "antes": "Están prohibidas en la educación alternativa",
+        "despues": "Están prohibidas en la educación alternativa y especial, y en los demás subsistemas funcionan con autorización municipal"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvz0x64003jvdfomankpxto",
+    "opciones": [
+      {
+        "opcionId": "cmvvz0x64003lvdfog9qlbg3a",
+        "antes": "La interculturalidad es la base y la diversidad, el instrumento",
+        "despues": "La interculturalidad es la base esencial y la diversidad cultural es el instrumento para la cohesión y la convivencia"
+      },
+      {
+        "opcionId": "cmvvz0x64003mvdfob2v49vyc",
+        "antes": "La unidad lingüística es la base y la educación, el instrumento",
+        "despues": "La unidad lingüística es la base esencial y la educación intracultural es el instrumento para la cohesión social"
+      },
+      {
+        "opcionId": "cmvvz0x64003nvdfoumyiuzav",
+        "antes": "La descolonización es la base y la intraculturalidad, el instrumento",
+        "despues": "La descolonización es la base esencial y la intraculturalidad es el instrumento para la convivencia armónica"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvz0x6n0041vdfoeaj9ruoo",
+    "opciones": [
+      {
+        "opcionId": "cmvvz0x6n0042vdfoqnuo1hob",
+        "antes": "Rige la norma más favorable al procesado, y cualquier sanción debe fundarse en una ley anterior al hecho",
+        "despues": "Rige la norma más favorable al procesado, y cualquier sanción debe fundarse en una ley anterior al hecho"
+      },
+      {
+        "opcionId": "cmvvz0x6n0043vdfo44w0e7ez",
+        "antes": "Rige la norma más severa, para proteger a la institución",
+        "despues": "Rige la norma más severa, para proteger a la institución y a los participantes perjudicados"
+      },
+      {
+        "opcionId": "cmvvz0x6n0044vdfoykk28p9b",
+        "antes": "Rige la norma más reciente, aunque sea posterior al hecho",
+        "despues": "Rige la norma más reciente, aunque sea posterior al hecho, porque refleja la política vigente"
+      },
+      {
+        "opcionId": "cmvvz0x6n0045vdfo7c8a1324",
+        "antes": "Decide libremente la autoridad sumariante",
+        "despues": "Decide libremente la autoridad sumariante, fundando su decisión en el reglamento disciplinario"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvz0x6u0047vdfofolra9rv",
+    "opciones": [
+      {
+        "opcionId": "cmvvz0x6u0048vdfor32rxhdl",
+        "antes": "La Acción de Amparo Constitucional, contra actos u omisiones ilegales o indebidos de los servidores públicos que restrinjan derechos",
+        "despues": "La Acción de Amparo Constitucional, contra actos u omisiones ilegales o indebidos de los servidores públicos que restrinjan derechos"
+      },
+      {
+        "opcionId": "cmvvz0x6u0049vdfocf6hxq4o",
+        "antes": "La Acción de Libertad",
+        "despues": "La Acción de Libertad, porque la decisión del director distrital restringe ilegalmente un derecho fundamental del participante"
+      },
+      {
+        "opcionId": "cmvvz0x6u004avdfox62hyx4h",
+        "antes": "La Acción de Inconstitucionalidad",
+        "despues": "La Acción de Inconstitucionalidad, porque el acto del servidor público contradice el derecho a la educación de la CPE"
+      },
+      {
+        "opcionId": "cmvvz0x6u004bvdfolmw2by8g",
+        "antes": "La Acción Popular",
+        "despues": "La Acción Popular, porque el derecho a la educación es un interés colectivo de toda la comunidad del CEA afectado"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvz0x72004dvdfoswzvv35e",
+    "opciones": [
+      {
+        "opcionId": "cmvvz0x72004evdfooozpw6dt",
+        "antes": "De manera oral o escrita, por sí o por cualquiera a su nombre y sin ninguna formalidad procesal, ante cualquier juez o tribunal competente en materia penal",
+        "despues": "De manera oral o escrita, por sí o por cualquiera a su nombre y sin formalidad procesal, ante cualquier juez o tribunal competente en materia penal"
+      },
+      {
+        "opcionId": "cmvvz0x72004fvdfo7hhm816h",
+        "antes": "Solo por escrito y con patrocinio de abogado",
+        "despues": "Solo por escrito y con patrocinio de abogado, por sí o por cualquiera a su nombre, ante cualquier juez o tribunal en materia penal"
+      },
+      {
+        "opcionId": "cmvvz0x72004gvdfo0pgtxl6r",
+        "antes": "Solo ante el Tribunal Constitucional Plurinacional",
+        "despues": "Solo ante el Tribunal Constitucional Plurinacional, de manera oral o escrita y sin ninguna formalidad procesal"
+      },
+      {
+        "opcionId": "cmvvz0x72004hvdfow59xlmkp",
+        "antes": "Solo por el afectado, en persona",
+        "despues": "Solo por el afectado, en persona, de manera oral o escrita, ante cualquier juez o tribunal competente en materia civil"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvz0x7a004jvdfolk49ov68",
+    "opciones": [
+      {
+        "opcionId": "cmvvz0x7a004lvdfo72hvxnhn",
+        "antes": "Voto igual, universal, directo y voluntario, a partir de los 16 años",
+        "despues": "Voto igual, universal, directo, individual, secreto y voluntario, escrutado públicamente, a partir de los 16 años"
+      },
+      {
+        "opcionId": "cmvvz0x7a004mvdfov9tegpxi",
+        "antes": "Voto secreto, libre y obligatorio, a partir de los 21 años",
+        "despues": "Voto igual, universal, directo, secreto, libre y obligatorio, escrutado públicamente, a partir de los 21 años"
+      },
+      {
+        "opcionId": "cmvvz0x7a004nvdfo7geh4wxy",
+        "antes": "Voto público y obligatorio, desde los 18 años",
+        "despues": "Voto igual, universal, directo, público y obligatorio, escrutado en mesa, a partir de los 18 años cumplidos"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvz2jzq0001vd70x5p3nysg",
+    "opciones": [
+      {
+        "opcionId": "cmvvz2jzq0002vd70q676hfz9",
+        "antes": "Es discriminación prohibida y sancionada: el embarazo figura expresamente entre los motivos prohibidos",
+        "despues": "Es discriminación prohibida y sancionada: el embarazo figura expresamente entre los motivos prohibidos"
+      },
+      {
+        "opcionId": "cmvvz2jzq0003vd70dhtrvcmz",
+        "antes": "Es una decisión administrativa válida si se justifica por escrito",
+        "despues": "Es una decisión administrativa válida si se justifica por escrito y se le ofrece otra modalidad"
+      },
+      {
+        "opcionId": "cmvvz2jzq0004vd70tuji48kt",
+        "antes": "Es lícita en la modalidad presencial",
+        "despues": "Es lícita en la modalidad presencial, pero no en la semipresencial ni en la educación a distancia"
+      },
+      {
+        "opcionId": "cmvvz2jzq0005vd70k33g8qnd",
+        "antes": "Solo es discriminación si la participante es menor de edad",
+        "despues": "Solo es discriminación si la participante es menor de edad, porque goza de protección reforzada"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvz2k040007vd70pb8p9bvi",
+    "opciones": [
+      {
+        "opcionId": "cmvvz2k040009vd705c1cnoeq",
+        "antes": "Universal, productivo, gratuito, integral e intercultural",
+        "despues": "Universal, gratuito, integral, productivo, intercultural, participativo, con calidad y control social"
+      },
+      {
+        "opcionId": "cmvvz2k04000avd70dncxz4l7",
+        "antes": "Unitario, público, universal, democrático y descolonizador",
+        "despues": "Unitario, público, universal, democrático, descolonizador, participativo, con calidad y calidez"
+      },
+      {
+        "opcionId": "cmvvz2k05000bvd7028v4sezz",
+        "antes": "Contributivo, solidario y focalizado",
+        "despues": "Contributivo, solidario, focalizado en los más pobres, intercultural, con calidad y control social"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvz2k0h000dvd70jns9729x",
+    "opciones": [
+      {
+        "opcionId": "cmvvz2k0h000evd70be0xzc4f",
+        "antes": "Toda forma de trabajo forzoso u otro modo análogo de explotación que obligue a una persona a realizar labores sin su consentimiento y justa retribución",
+        "despues": "Toda forma de trabajo forzoso u otro modo análogo de explotación que obligue a una persona a laborar sin su consentimiento y justa retribución"
+      },
+      {
+        "opcionId": "cmvvz2k0h000fvd70tezkridi",
+        "antes": "Todo trabajo de menores de 18 años",
+        "despues": "Todo trabajo de menores de 18 años, incluso el que se realiza en el marco familiar, comunitario o con fines formativos"
+      },
+      {
+        "opcionId": "cmvvz2k0h000gvd7012ffqa5x",
+        "antes": "El trabajo por cuenta propia",
+        "despues": "El trabajo por cuenta propia que no esté registrado ni cuente con seguridad social a largo plazo"
+      },
+      {
+        "opcionId": "cmvvz2k0h000hvd70kzsoo83c",
+        "antes": "Las horas extraordinarias",
+        "despues": "Las horas extraordinarias y el trabajo nocturno, aun cuando se paguen con el recargo establecido por ley"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvz2k0r000jvd700rvafqla",
+    "opciones": [
+      {
+        "opcionId": "cmvvz2k0r000kvd702oo5xdc0",
+        "antes": "La CPE considera NNA a toda persona menor de edad; la Ley 548 distingue la niñez (hasta los 12 años) y la adolescencia (de 12 a 18)",
+        "despues": "La CPE considera NNA a toda persona menor de edad; la Ley 548 distingue la niñez (hasta los 12 años) y la adolescencia (de 12 a 18)"
+      },
+      {
+        "opcionId": "cmvvz2k0r000lvd70bqfu1e55",
+        "antes": "La CPE fija la niñez hasta los 12 años",
+        "despues": "La CPE fija la niñez hasta los 12 años y la adolescencia hasta los 18; la Ley 548 solo repite esa distinción"
+      },
+      {
+        "opcionId": "cmvvz2k0r000mvd70wlbgrb5t",
+        "antes": "La CPE considera NNA a los menores de 14 años",
+        "despues": "La CPE considera NNA a los menores de 14 años; la Ley 548 extiende la protección hasta los 18 años cumplidos"
+      },
+      {
+        "opcionId": "cmvvz2k0r000nvd70f5juodrd",
+        "antes": "La CPE no define a los NNA",
+        "despues": "La CPE no define a los NNA y remite a la ley; la Ley 548 los define como toda persona menor de 21 años"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvz2k1a000vvd70l72mpbly",
+    "opciones": [
+      {
+        "opcionId": "cmvvz2k1a000wvd702c0xbh8x",
+        "antes": "Una instancia conformada por las universidades del sistema educativo, de acuerdo con la ley",
+        "despues": "Una instancia conformada por las universidades del sistema educativo, de acuerdo con la ley"
+      },
+      {
+        "opcionId": "cmvvz2k1a000xvd703umdwpbk",
+        "antes": "El Ministerio de Educación de forma exclusiva",
+        "despues": "El Ministerio de Educación de forma exclusiva, mediante el Viceministerio de Educación Superior"
+      },
+      {
+        "opcionId": "cmvvz2k1a000yvd70pds12vdw",
+        "antes": "Cada universidad de forma independiente, sin coordinación",
+        "despues": "Cada universidad de forma independiente, sin coordinación con otras instancias del sistema"
+      },
+      {
+        "opcionId": "cmvvz2k1a000zvd70ora3hwtr",
+        "antes": "El Observatorio Plurinacional de la Calidad Educativa",
+        "despues": "El Observatorio Plurinacional de la Calidad Educativa, de acuerdo con la ley y sus reglamentos"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvz2k1s0017vd705bkbqbm2",
+    "opciones": [
+      {
+        "opcionId": "cmvvz2k1t0018vd709i8mvp1v",
+        "antes": "La Acción de Protección de Privacidad, para obtener la eliminación o rectificación de los datos registrados",
+        "despues": "La Acción de Protección de Privacidad, para obtener la eliminación o rectificación de los datos registrados"
+      },
+      {
+        "opcionId": "cmvvz2k1t0019vd70ekzkh48s",
+        "antes": "La Acción de Libertad",
+        "despues": "La Acción de Libertad, porque el registro falso de una sanción afecta su libertad y su dignidad personal"
+      },
+      {
+        "opcionId": "cmvvz2k1t001avd702pze6z8d",
+        "antes": "La Acción Popular",
+        "despues": "La Acción Popular, porque la base de datos del CEA es de interés colectivo de todos los participantes"
+      },
+      {
+        "opcionId": "cmvvz2k1t001bvd70h8ezp8t9",
+        "antes": "La Acción de Cumplimiento",
+        "despues": "La Acción de Cumplimiento, para obligar a la dirección a cumplir la norma que regula el kárdex del centro"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvz2k22001dvd70757mzqce",
+    "opciones": [
+      {
+        "opcionId": "cmvvz2k22001evd70tex4lsg6",
+        "antes": "En las 24 horas siguientes a la emisión del fallo, sin que se suspenda su ejecución",
+        "despues": "En las 24 horas siguientes a la emisión del fallo, sin que se suspenda su ejecución"
+      },
+      {
+        "opcionId": "cmvvz2k22001fvd703h7mpx28",
+        "antes": "En 72 horas, con suspensión de la ejecución",
+        "despues": "En las 72 horas siguientes a la emisión del fallo, con suspensión de su ejecución"
+      },
+      {
+        "opcionId": "cmvvz2k22001gvd706wowv8eq",
+        "antes": "En 10 días hábiles",
+        "despues": "En los 10 días hábiles siguientes a la notificación, sin que se suspenda su ejecución"
+      },
+      {
+        "opcionId": "cmvvz2k22001hvd70o7904hj7",
+        "antes": "En 24 horas, con suspensión de la ejecución hasta la revisión",
+        "despues": "En las 24 horas siguientes al fallo, con suspensión de su ejecución hasta la revisión"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvz2k2b001jvd704nnu0rwg",
+    "opciones": [
+      {
+        "opcionId": "cmvvz2k2b001kvd70am7dok7w",
+        "antes": "La Acción Popular, por vulneración de derechos e intereses colectivos como la salubridad pública y el medio ambiente",
+        "despues": "La Acción Popular, por vulneración de derechos e intereses colectivos como la salubridad pública y el medio ambiente"
+      },
+      {
+        "opcionId": "cmvvz2k2b001lvd70p2gaurd2",
+        "antes": "La Acción de Protección de Privacidad",
+        "despues": "La Acción de Protección de Privacidad, porque se afecta la vida privada de las familias que viven junto al CEA"
+      },
+      {
+        "opcionId": "cmvvz2k2b001mvd70mvnzu86h",
+        "antes": "La Acción de Libertad",
+        "despues": "La Acción de Libertad, porque la contaminación pone en peligro la vida de los participantes y de los vecinos"
+      },
+      {
+        "opcionId": "cmvvz2k2b001nvd70t9uk269t",
+        "antes": "Ninguna, solo procede la vía administrativa",
+        "despues": "Ninguna acción constitucional: solo procede la vía administrativa ante la autoridad ambiental competente"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvz2k2k001pvd70mssac8lo",
+    "opciones": [
+      {
+        "opcionId": "cmvvz2k2k001rvd70caeln8xs",
+        "antes": "Debe interponerse en un plazo de seis meses",
+        "despues": "Debe interponerse en un plazo de seis meses desde la vulneración, previo agotamiento de la vía administrativa"
+      },
+      {
+        "opcionId": "cmvvz2k2k001svd70gls95nud",
+        "antes": "Exige agotar previamente la vía administrativa",
+        "despues": "Exige agotar previamente la vía judicial o administrativa, y puede interponerse mientras subsista la vulneración"
+      },
+      {
+        "opcionId": "cmvvz2k2k001tvd70bl6yt7no",
+        "antes": "Solo puede interponerla el Defensor del Pueblo",
+        "despues": "Solo puede interponerla el Defensor del Pueblo o el Ministerio Público, en representación de la colectividad"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvz2k2t001vvd702vcjrz6m",
+    "opciones": [
+      {
+        "opcionId": "cmvvz2k2t001wvd70cij38o9j",
+        "antes": "No puede: es obligación inventariar y custodiar en las oficinas públicas los documentos de la función pública, sin sustraerlos ni destruirlos",
+        "despues": "No puede: es obligación inventariar y custodiar en las oficinas públicas los documentos de la función pública, sin sustraerlos"
+      },
+      {
+        "opcionId": "cmvvz2k2t001xvd704fvo5ynw",
+        "antes": "Puede, si deja copias en el CEA",
+        "despues": "Puede llevárselos, siempre que deje copias legalizadas en el CEA y los devuelva cuando la nueva dirección los solicite"
+      },
+      {
+        "opcionId": "cmvvz2k2t001yvd70arvficz8",
+        "antes": "Puede, con autorización de la Junta Escolar",
+        "despues": "Puede llevárselos con autorización escrita de la Junta Escolar o del Consejo Educativo del centro, como custodia temporal"
+      },
+      {
+        "opcionId": "cmvvz2k2t001zvd70pkj6wqyq",
+        "antes": "Puede destruir los que tengan más de cinco años",
+        "despues": "Puede destruir los que tengan más de cinco años, y debe inventariar y custodiar en el centro solo los más recientes"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvz2k320021vd70cyvf75p1",
+    "opciones": [
+      {
+        "opcionId": "cmvvz2k320022vd70hajkjx0v",
+        "antes": "Es incompatible con la función pública adquirir o arrendar bienes públicos a nombre del servidor o de terceras personas",
+        "despues": "Es incompatible con la función pública adquirir o arrendar bienes públicos a nombre del servidor o de terceras personas"
+      },
+      {
+        "opcionId": "cmvvz2k320023vd70v8fldnl9",
+        "antes": "Es válido porque el contrato es a nombre de la esposa, no del director",
+        "despues": "Es válido, porque el contrato se suscribe a nombre de la esposa y no a nombre del director del CEA"
+      },
+      {
+        "opcionId": "cmvvz2k320024vd70o55wpqc8",
+        "antes": "Es válido si el precio es de mercado",
+        "despues": "Es válido si el precio del arriendo es de mercado y el contrato se aprueba en la Junta Escolar"
+      },
+      {
+        "opcionId": "cmvvz2k320025vd70oej57ghf",
+        "antes": "Solo se prohíbe si el director firma el contrato",
+        "despues": "Solo está prohibido si el director firma personalmente el contrato en representación del CEA"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvz2k3d0027vd70ix924yo6",
+    "opciones": [
+      {
+        "opcionId": "cmvvz2k3d0028vd70itfsb5rh",
+        "antes": "Cuando haya transcurrido al menos la mitad del mandato, no en el último año, con al menos el 15% de votantes del padrón de la circunscripción",
+        "despues": "Cuando haya transcurrido al menos la mitad del mandato, no en el último año, con al menos el 15% de votantes del padrón"
+      },
+      {
+        "opcionId": "cmvvz2k3d0029vd70rr1yci0h",
+        "antes": "En cualquier momento, con el 10% de votantes",
+        "despues": "En cualquier momento del mandato, salvo el primer año, con al menos el 10% de votantes del padrón de la circunscripción"
+      },
+      {
+        "opcionId": "cmvvz2k3d002avd70g3vwkln6",
+        "antes": "En el último año, con el 25%",
+        "despues": "En el último año del mandato, cuando ya se puede evaluar la gestión, con al menos el 25% de votantes del padrón"
+      },
+      {
+        "opcionId": "cmvvz2k3d002bvd70gwpoo5hn",
+        "antes": "Tras un tercio del mandato, con el 15%",
+        "despues": "Cuando haya transcurrido al menos un tercio del mandato, no en el último año, con al menos el 15% de votantes"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvz2k3m002dvd70joaua3i9",
+    "opciones": [
+      {
+        "opcionId": "cmvvz2k3m002evd70apyp1hj7",
+        "antes": "Al menos tres meses antes del día de la elección",
+        "despues": "Al menos tres meses antes del día de la elección"
+      },
+      {
+        "opcionId": "cmvvz2k3m002fvd70zl0feldh",
+        "antes": "Al menos cinco años antes",
+        "despues": "Al menos cinco años antes del día de la elección"
+      },
+      {
+        "opcionId": "cmvvz2k3m002gvd70y5dej0cs",
+        "antes": "Al menos un mes antes",
+        "despues": "Al menos un mes antes del día de la elección"
+      },
+      {
+        "opcionId": "cmvvz2k3m002hvd701yfuoaxa",
+        "antes": "No necesita renunciar",
+        "despues": "No necesita renunciar, solo pedir licencia sin goce"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvvz2k3v002jvd70lhlvwuzc",
+    "opciones": [
+      {
+        "opcionId": "cmvvz2k3v002lvd704rzqo5h9",
+        "antes": "Solo los conocimientos científicos universales",
+        "despues": "Solo los conocimientos científicos universales, validados por la comunidad académica internacional"
+      },
+      {
+        "opcionId": "cmvvz2k3v002mvd7052917j6r",
+        "antes": "Solo los saberes ancestrales",
+        "despues": "Solo los saberes ancestrales y colectivos de las naciones y pueblos indígena originario campesinos"
+      },
+      {
+        "opcionId": "cmvvz2k3v002nvd70zknngcv0",
+        "antes": "Los que defina el mercado laboral",
+        "despues": "Los conocimientos que defina el mercado laboral y las necesidades productivas de cada región"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwwk5330007vdiw3vxn2tzu",
+    "opciones": [
+      {
+        "opcionId": "cmvwwk5330009vdiwpnww7hyn",
+        "antes": "Pueden delegarse a los municipios",
+        "despues": "Su legislación corresponde al nivel central, pero su reglamentación y ejecución pueden delegarse a los municipios"
+      },
+      {
+        "opcionId": "cmvwwk533000avdiwtlpa8a3o",
+        "antes": "Las legislan las ETA",
+        "despues": "Las legislan, reglamentan y ejecutan las entidades territoriales autónomas, sin intervención del nivel central"
+      },
+      {
+        "opcionId": "cmvwwk533000bvdiw2su3v7n4",
+        "antes": "Se ejercen de forma simultánea",
+        "despues": "Se ejercen de forma simultánea por el nivel central y las ETA, que comparten la reglamentación y la ejecución"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwwk538000dvdiw0xar1w5z",
+    "opciones": [
+      {
+        "opcionId": "cmvwwk538000fvdiwefelypw8",
+        "antes": "A los gobiernos departamentales",
+        "despues": "A los gobiernos autónomos departamentales, que podrán delegarla a los municipios"
+      },
+      {
+        "opcionId": "cmvwwk538000gvdiw45dd5sb0",
+        "antes": "A los municipios, por subsidiariedad",
+        "despues": "A los gobiernos municipales, por el principio de subsidiariedad y cercanía"
+      },
+      {
+        "opcionId": "cmvwwk539000hvdiw8daianxa",
+        "antes": "A las autonomías indígenas",
+        "despues": "A las autonomías indígenas, que podrán transferirla al nivel central por Ley"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwwk53v000pvdiwy2ulsh7e",
+    "opciones": [
+      {
+        "opcionId": "cmvwwk53v000qvdiwezrhrfof",
+        "antes": "Se equivoca: la gestión del sistema de salud y educación es una competencia concurrente entre el nivel central y las entidades territoriales autónomas",
+        "despues": "Se equivoca: la gestión del sistema de salud y educación es una competencia concurrente entre el nivel central y las entidades territoriales autónomas"
+      },
+      {
+        "opcionId": "cmvwwk53v000rvdiw83c9bsjz",
+        "antes": "Tiene razón: es una competencia privativa",
+        "despues": "Tiene razón: la gestión de la educación es una competencia privativa del nivel central, que no se transfiere ni delega a los municipios"
+      },
+      {
+        "opcionId": "cmvwwk53v000svdiwz11megkj",
+        "antes": "Tiene razón: es una competencia compartida sin papel municipal",
+        "despues": "Tiene razón: es una competencia compartida en la que el nivel central legisla y ejecuta, sin ningún papel para el municipio"
+      },
+      {
+        "opcionId": "cmvwwk53v000tvdiww12ggvwp",
+        "antes": "Solo la Gobernación puede intervenir",
+        "despues": "Se equivoca a medias: además del Ministerio, solo la Gobernación puede intervenir en la gestión de los servicios educativos"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwwk545000vvdiwx2h6o91w",
+    "opciones": [
+      {
+        "opcionId": "cmvwwk545000wvdiwabrucmg2",
+        "antes": "Concurrente, en el marco de la legislación del Estado",
+        "despues": "Concurrente, en el marco de la legislación del Estado"
+      },
+      {
+        "opcionId": "cmvwwk545000xvdiwvd66bdsy",
+        "antes": "Exclusiva",
+        "despues": "Exclusiva, con facultad legislativa propia de la AIOC"
+      },
+      {
+        "opcionId": "cmvwwk545000yvdiw33o1b8bt",
+        "antes": "Privativa",
+        "despues": "Privativa, reservada al nivel central del Estado"
+      },
+      {
+        "opcionId": "cmvwwk545000zvdiw9p4v388z",
+        "antes": "Compartida",
+        "despues": "Compartida, sujeta a una ley básica de la Asamblea"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwwk54f0011vdiwo3916m3g",
+    "opciones": [
+      {
+        "opcionId": "cmvwwk54f0012vdiwkf8m4qgc",
+        "antes": "No están subordinadas entre ellas y tienen igual rango constitucional",
+        "despues": "No están subordinadas entre ellas y tienen igual rango constitucional"
+      },
+      {
+        "opcionId": "cmvwwk54f0013vdiwc8bauipx",
+        "antes": "El departamento está por encima del municipio",
+        "despues": "El departamento está por encima del municipio y de las autonomías indígenas"
+      },
+      {
+        "opcionId": "cmvwwk54f0014vdiw432e2z21",
+        "antes": "El municipio depende de la región",
+        "despues": "El municipio depende de la región, y la región, del gobierno departamental"
+      },
+      {
+        "opcionId": "cmvwwk54f0015vdiwdmpf647m",
+        "antes": "Las AIOC dependen del municipio",
+        "despues": "Las autonomías indígenas dependen del municipio en el que se encuentran"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwwk54q0017vdiwilqntoac",
+    "opciones": [
+      {
+        "opcionId": "cmvwwk54q0018vdiwmvr2y6fm",
+        "antes": "La elección directa de sus autoridades, la administración de sus recursos y el ejercicio de las facultades legislativa, reglamentaria, fiscalizadora y ejecutiva",
+        "despues": "La elección directa de sus autoridades, la administración de sus recursos y el ejercicio de facultades legislativa, reglamentaria, fiscalizadora y ejecutiva"
+      },
+      {
+        "opcionId": "cmvwwk54q0019vdiwkgkmrtyb",
+        "antes": "La independencia total del Estado",
+        "despues": "La independencia total respecto del Estado, con facultad para darse su propia Constitución y desconocer las leyes del nivel central"
+      },
+      {
+        "opcionId": "cmvwwk54q001avdiwc7j0bto8",
+        "antes": "Solo la ejecución de políticas centrales",
+        "despues": "Solo la ejecución de políticas y programas del nivel central, con administración de recursos transferidos pero sin facultad legislativa"
+      },
+      {
+        "opcionId": "cmvwwk54q001bvdiwcyl9kt5j",
+        "antes": "La designación de autoridades por el nivel central",
+        "despues": "La designación de sus autoridades por el nivel central y el ejercicio de las facultades reglamentaria, fiscalizadora y ejecutiva"
+      }
+    ]
+  },
+  {
+    "preguntaId": "cmvwwk54z001dvdiwnw62zo5m",
+    "opciones": [
+      {
+        "opcionId": "cmvwwk54z001evdiw4qh8eixl",
+        "antes": "Por un Concejo Municipal con facultad deliberativa, fiscalizadora y legislativa, y un órgano ejecutivo presidido por la Alcaldesa o el Alcalde",
+        "despues": "Por un Concejo Municipal con facultad deliberativa, fiscalizadora y legislativa, y un órgano ejecutivo presidido por la Alcaldesa o el Alcalde"
+      },
+      {
+        "opcionId": "cmvwwk54z001fvdiwttxrrc53",
+        "antes": "Solo por el Alcalde",
+        "despues": "Solo por la Alcaldesa o el Alcalde, que ejerce las facultades ejecutiva, legislativa y fiscalizadora, con apoyo de sus oficiales mayores"
+      },
+      {
+        "opcionId": "cmvwwk54z001gvdiwardil4yk",
+        "antes": "Por una Asamblea Departamental",
+        "despues": "Por una Asamblea Departamental con facultad legislativa y un órgano ejecutivo presidido por la Gobernadora o el Gobernador"
+      },
+      {
+        "opcionId": "cmvwwk54z001hvdiwlituuu9u",
+        "antes": "Por un Concejo designado por la Gobernación",
+        "despues": "Por un Concejo Municipal designado por la Gobernación, con facultad fiscalizadora, y un órgano ejecutivo elegido por el Concejo"
+      }
+    ]
+  }
+]
