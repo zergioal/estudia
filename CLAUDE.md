@@ -68,9 +68,10 @@ VERDADERO_FALSO 2 opciones con 1 correcta, CASO 1 correcta, COMPLETAR ≥1 respu
 `citaTextual` debe aparecer literalmente en el fragmento fuente cuando el fragmento exista.
 
 ## Fuentes (ingesta de PDF)
-- PDFs originales en `fuentes/<carpeta>/...` (ignorados por git) con `manifiesto.json` (título, tipoFuente, clave).
+- PDFs originales en `fuentes/<carpeta>/...` con `manifiesto.json` (título, tipoFuente, clave).
   `npm run ingestar -- fuentes/<carpeta>` registra, extrae (OCR `spa` si la página no tiene texto), fragmenta y exporta.
   Opciones: `--solo <texto>`, `--reprocesar`, `--sin-ocr`. También se puede subir desde la pantalla Documentos.
+- Toda la carpeta `fuentes/` (PDFs y .md exportados) queda fuera de git: el repo es público y hay libros con derechos.
 - Exportación: `fuentes/<clave>/<ref>.md` + `fuentes/<clave>/_indice.md`. Refs: `<clave>-art05`, `-dt01` (disp.
   transitoria), `-df01`, `-pre` (preámbulo/considerandos), `-reg-art01` (reglamento anexo de una RM), `-b001` (bloque de
   libro), `-art05-2` (parte de un artículo largo). Páginas = número de página del PDF.

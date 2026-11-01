@@ -5,5 +5,6 @@ dist/
 coverage/
 storage/
 
-# Fuentes originales (pesadas / con derechos): solo se versionan los .md fragmentados
-fuentes/**/*.pdf
+# Fuentes (PDFs y su texto exportado): no se publican porque incluyen libros con derechos de autor.
+# Se regeneran con: npm run ingestar -- fuentes/<carpeta>
+fuentes/
